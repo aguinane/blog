@@ -16,6 +16,8 @@ RELATIVE_URLS = False
 FEED_ATOM = None
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 RSS_FEED_SUMMARY_ONLY = True
 
 DELETE_OUTPUT_DIRECTORY = True

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 # Default Settings
 AUTHOR = 'Alex Guinane'
-
+COPYRIGHT_NAME = AUTHOR
 SITENAME = 'Alex Guinane'
 SITETITLE = SITENAME
 SITESUBTITLE = 'The blog formerly known as [Tales From Turgi]'
@@ -45,6 +45,7 @@ SOCIAL = (
     ("twitter", 'https://twitter.com/alexguinane'),
     ("github", 'https://github.com/aguinane'),
     ("linkedin", 'https://www.linkedin.com/in/alexguinane/'),
+    ("rss", '/feeds/all.rss.xml'),
 )
 
 
