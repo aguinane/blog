@@ -8,7 +8,7 @@ Tags: Day Zero Project
 
 ![countries](/images/2016/1016-01-31-countries-visited/countries_visited.png)
 
-And one more item that was [on my list from Switzerland](101-thing-in-1001-days):
+And one more item that was [on my list from Switzerland](/posts/2016/101-thing-in-1001-days):
 
 * Travel to at least 15 different countries.
 
