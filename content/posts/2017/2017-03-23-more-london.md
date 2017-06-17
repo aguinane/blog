@@ -5,12 +5,12 @@ Title: More London
 Category: Travel
 Tags: Europe, UK, England, London
 
+![](/images/2017/2017-03-23-more-london/towerbridge.jpg "Tower Bridge")
+
 After some sleep, we headed back out to explore some more of London.
 The beautiful weather from the previous day had ended and we got some of the London weather we were expecting in the form of cold miserable light rain.
 
 First up we went to see Tower of London and Tower Bridge. We were planning to go inside but the tickets were about $50 AUD each, so we thought we'd find something a bit cheaper to do.
-
-![](/images/2017/2017-03-23-more-london/towerbridge.jpg "Tower Bridge")
 
 I really wanted to go check out Greenwich, so we tried to get a boat up the River Thames, but we didn't have enough credit on our oyster cards and you couldn't top them up at the ferry terminal. So we got a train there instead. We quickly stopped by the [Cutty Sark](https://en.wikipedia.org/wiki/Cutty_Sark) ship on the way also.
 

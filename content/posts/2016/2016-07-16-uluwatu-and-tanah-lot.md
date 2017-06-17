@@ -6,11 +6,11 @@ excerpt: None
 Category: Travel
 Tags: Bali, Panang Panang Beach, Tanah Lot, Uluwatu
 
+![IMG_20160614_101356](/images/2016/2016-07-16-uluwatu-and-tanah-lot/img_20160614_101356.jpg "Uluwatu Temple")
+
 We got our driver Gede to take Rachael and I to see Uluwatu. At the temple we saw our first monkeys and they stole the sunglasses from another girl there. The cliffs that it overlooked were cool and you could see why they would want to have built a temple there. We then went to Panang Panang Beach, was stunning but then it started to pour rain so we left. To get onto the beach you need to walk through a tight cave. There was a local woman carrying large blocks of ice up and down the stairs through the cave.
 
 ![IMG_20160614_101328](/images/2016/2016-07-16-uluwatu-and-tanah-lot/img_20160614_101328.jpg)
-
-![IMG_20160614_101356](/images/2016/2016-07-16-uluwatu-and-tanah-lot/img_20160614_101356.jpg)
 
 ![IMG_20160614_101816](/images/2016/2016-07-16-uluwatu-and-tanah-lot/img_20160614_101816.jpg)
 

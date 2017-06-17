@@ -49,6 +49,7 @@ SOCIAL = (
 
 
 # Feed generation is usually not desired when developing
+SUMMARY_MAX_LENGTH = 25
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None

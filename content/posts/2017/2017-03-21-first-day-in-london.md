@@ -6,6 +6,8 @@ Category: Travel
 Tags: Europe, UK, England, London, Museum
 Image: /images/2017/2017-03-21-first-day-in-london/laurens3.jpg
 
+![](/images/2017/2017-03-21-first-day-in-london/laurens3.jpg "View of the street")
+
 Our first stop in our Europe trip was to London to visit Rachael's sister Lauren.
 So after a Uber to the bus station, a bus to Brisbane, a long flight to Bangkok, a long boring layover and then an even longer flight to London, we arrived at Heathrow.
 
@@ -14,8 +16,6 @@ Lauren met us at arrivals and then we got our first tube ride to Hammersmith and
 ![](/images/2017/2017-03-21-first-day-in-london/laurens1.jpg "Terraced house")
 
 ![](/images/2017/2017-03-21-first-day-in-london/laurens2.jpg "Cupboard under the stairs")
-
-![](/images/2017/2017-03-21-first-day-in-london/laurens3.jpg "View of the street")
 
 After we had unpacked and had a chance to catch up, Rachael and I got the tube to Kensington to find a Three Store and get a cheap SIM so we would have data on our trip (the plan had free roaming in the other countries we were going to). From there we were headed to the museums but walked through Hyde Park on the way (looking at a map now it was technically Kensington Gardens).
 
