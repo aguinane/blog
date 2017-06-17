@@ -3,7 +3,7 @@ Date: 2017-03-23 12:00:00+00:00
 Slug: more-london
 Title: More London
 Category: Travel
-Tags: Europe, England, London
+Tags: Europe, UK, England, London
 
 After some sleep, we headed back out to explore some more of London.
 The beautiful weather from the previous day had ended and we got some of the London weather we were expecting in the form of cold miserable light rain.

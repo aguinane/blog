@@ -3,7 +3,7 @@ Date: 2017-03-21 12:00:00+00:00
 Slug: first-day-in-london
 Title: First Day in London
 Category: Travel
-Tags: Europe, England, London
+Tags: Europe, UK, England, London, Museum
 Image: /images/2017/2017-03-21-first-day-in-london/laurens3.jpg
 
 Our first stop in our Europe trip was to London to visit Rachael's sister Lauren.
