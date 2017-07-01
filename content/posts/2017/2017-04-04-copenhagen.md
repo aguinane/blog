@@ -1,9 +1,9 @@
 Author: Alex Guinane
 Date: 2017-04-04 12:00:00+00:00
 Slug: copenhagen
-Title: Copenhagen
+Title: København
 Category: Travel
-Tags: Europe, Denmark, Copenhagen
+Tags: Europe, Denmark, Copenhagen, København
 
 ![](/images/2017/2017-04-04-copenhagen/boat1.jpg "Hawila Project")
 
