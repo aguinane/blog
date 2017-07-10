@@ -4,7 +4,7 @@ Slug: oktoberfest
 Title: Oktoberfest
 excerpt: None
 Category: Travel
-Tags: Germany, Oktoberfest
+Tags: Germany, Munich, Oktoberfest
 
 ![Oktoberfest](/images/2010/2010-10-05-oktoberfest/p1040660.jpg)
 
