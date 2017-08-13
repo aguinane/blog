@@ -31,7 +31,7 @@ More driving south, this time through some lava fields called [the Burren](https
 
 ![](/images/2017/2017-04-23-northern-ireland/burren.JPG)
 
-The Cliffs of Moher were incredible. Reminded me of Jura in Switzerland but with ocean at the bottom.
+The Cliffs of Moher were incredible. Reminded me of [Jura](/posts/2010/iaeste-jura-weekend/) in Switzerland but with ocean at the bottom.
 
 ![](/images/2017/2017-04-23-northern-ireland/moher5.JPG)
 
