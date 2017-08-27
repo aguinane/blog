@@ -3,7 +3,7 @@ Date: 2017-05-03 12:00:00+00:00
 Slug: lakes-district
 Title: Lakes District
 Category: Travel
-Tags: Europe, England, Lakes District
+Tags: Europe, UK, England, Lakes District
 
 After driving along the wall, we stopped at our next accommodation which was in Penrith.
 We went to the lake in afternoon for dinner. The pubs would be nice in summer, with lots of outdoor beer gardens along the lake.
