@@ -21,12 +21,20 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
 # Theme Settings
-THEME = 'themes/Flex'
+THEME = 'themes/custom'
+RESPONSIVE_IMAGES = True
+
+# Plugin settings
+PLUGIN_PATH = 'plugins'
+PLUGINS = ["representative_image"]
 
 # Blogroll
-MAIN_MENU = False
-DISPLAY_PAGES_ON_MENU = False
-MENUITEMS = ()
+MAIN_MENU = True
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU  = True
+DISPLAY_LINKS_ON_MENU = True
+MENUITEMS = (('Archives', '/archives.html'),
+            )
 LINKS = (('Blog', '/blog.html'),
          ('Archives', '/archives.html'),
          ('Categories', '/categories.html'),
