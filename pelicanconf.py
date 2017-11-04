@@ -9,38 +9,43 @@ SITENAME = 'Alex Guinane'
 SITETITLE = SITENAME
 SITESUBTITLE = 'The blog formerly known as [Tales From Turgi]'
 SITELOGO = '/images/avatar.jpg'
-FAVICON = '/images/favicon.ico'
+FAVICON = '/favicon.ico'
 TIMEZONE = 'Australia/Brisbane'
 DEFAULT_DATE_FORMAT = ('%d %b %Y')
 DEFAULT_LANG = 'en'
 
 # Output paths
 PATH = 'content'
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
-
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
 
 # Theme Settings
 THEME = 'themes/custom'
 RESPONSIVE_IMAGES = True
 
 # Plugin settings
-PLUGIN_PATH = 'plugins'
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ["representative_image"]
 
 # Blogroll
 MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
-DISPLAY_CATEGORIES_ON_MENU  = True
+DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_LINKS_ON_MENU = True
-MENUITEMS = (('Archives', '/archives.html'),
-            )
-LINKS = (('Blog', '/blog.html'),
-         ('Archives', '/archives.html'),
-         ('Categories', '/categories.html'),
-         ('Tags', '/tags.html'),
-         )
-INDEX_SAVE_AS = "blog.html"
+MENUITEMS = (
+    ('Archives', '/archives.html'),
+)
+LINKS = (
+    ('Blog', '/blog_index.html'),
+    ('Archives', '/archives.html'),
+    ('Categories', '/categories.html'),
+    ('Tags', '/tags.html'),
+)
+
+INDEX_SAVE_AS = 'blog_index.html'
 ARTICLE_URL = 'posts/{date:%Y}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
