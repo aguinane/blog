@@ -3,20 +3,40 @@
 
 <h1>Archives for {{ SITENAME }}</h1>
 
-<div class="card-columns">
-{% for year, year_group in dates|groupby('date.year')|reverse %}
-    <div class="card">
-    <div class="card-body">
-        <h4 class="card-title">{{ year }}</h4>
-    <ul class="list-group list-group-flush">
-    {% for article in year_group %}
-    <li class="list-group-item">
-        <small><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></small>
-        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
-    </li>
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+    {% for year, year_group in dates|groupby('date.year')|reverse %}
+        <li class="nav-item">
+            <a class="nav-link" id="{{ year }}-tab" data-toggle="tab" href="#{{ year }}" role="tab" aria-controls="{{ year }}" aria-selected="false">{{ year }}</a>
+        </li>    
     {% endfor %}
-    </ul>
-    </div></div>
-{% endfor %}
-</div>
+  </ul>
+  <div class="tab-content" id="myTabContent">
+    {% for year, year_group in dates|groupby('date.year')|reverse %}
+    <div class="tab-pane fade" id="{{ year }}" role="tabpanel" aria-labelledby="{{ year }}-tab">
+        <ul class="list-group">
+        {% for article in year_group %}
+            <li class="list-group-item">
+
+                <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a></h5>
+
+                        <small class="text-muted">
+                            <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+                        </small>
+                                
+                </div>                
+            </li>
+        {% endfor %}        
+        </ul>
+    </div>
+    {% endfor %}
+  </div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  $(function () {
+    $('#myTab a:first').tab('show')
+  })
+</script>
 {% endblock %}
