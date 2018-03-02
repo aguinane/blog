@@ -28,7 +28,7 @@ RESPONSIVE_IMAGES = True
 
 # Plugin settings
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ["representative_image"]
+PLUGINS = ['advthumbnailer', 'representative_image']
 
 # Blogroll
 MAIN_MENU = True
@@ -36,6 +36,7 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_LINKS_ON_MENU = True
 MENUITEMS = (
+    ('Blog', '/blog_index.html'),    
     ('Archives', '/archives.html'),
 )
 LINKS = (
@@ -69,4 +70,4 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 12
