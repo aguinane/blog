@@ -4,7 +4,7 @@ Slug: tegenungan-waterfall-and-goa-gajah
 Title: Tegenungan Waterfall and Goa Gajah
 excerpt: None
 Category: Travel
-Tags: Bali, Goa Gajah, Indonesia, Tengenungan, Waterfall
+Tags: Bali, Indonesia, Goa Gajah, Tengenungan, Waterfall
 
 ![IMG_20160617_100924](/images/2016/2016-08-13-tegenungan-waterfall-and-goa-gajah/img_20160617_100924.jpg)
 

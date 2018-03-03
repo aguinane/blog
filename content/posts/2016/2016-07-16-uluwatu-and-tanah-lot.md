@@ -4,7 +4,7 @@ Slug: uluwatu-and-tanah-lot
 Title: Uluwatu and Tanah Lot
 excerpt: None
 Category: Travel
-Tags: Bali, Panang Panang Beach, Tanah Lot, Uluwatu
+Tags: Bali, Indonesia, Panang Panang Beach, Tanah Lot, Uluwatu
 
 ![IMG_20160614_101356](/images/2016/2016-07-16-uluwatu-and-tanah-lot/img_20160614_101356.jpg "Uluwatu Temple")
 

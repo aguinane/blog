@@ -1,34 +1,48 @@
 Author: Alex Guinane
 Date: 2016-01-31 01:17:34+00:00
+Modified: 2017-03-03 10:00:00+10:00
 Slug: countries-visited
 Title: Countries Visited
 excerpt: None
 Category: Travel
 Tags: Day Zero Project
 
+** 03 Mar 2017: ** Updated with more countries. Now more than 15.
+
 ![countries](/images/2016/1016-01-31-countries-visited/countries_visited.png)
 
-And one more item that was [on my list from Switzerland](/posts/2016/101-thing-in-1001-days):
+And one more item that was [on my 101 Things list from Switzerland](/posts/2016/101-thing-in-1001-days):
 
-* Travel to at least 15 different countries.
+* <del>Travel to at least 15 different countries</del>.
 
 I thought it was worth having it's own post to list them all.
 
-1. [New Zealand](https://alexguinane.wordpress.com/tag/new-zealand/)
-2. [Switzerland](https://alexguinane.wordpress.com/tag/switzerland/)
-3. [France](https://alexguinane.wordpress.com/tag/france/)
-4. [Germany](https://alexguinane.wordpress.com/tag/germany/)
-5. [Liechtenstein](https://alexguinane.wordpress.com/tag/liechtenstein/)
-6. [Italy](https://alexguinane.wordpress.com/tag/italy/)
-7. [Vatican City](https://alexguinane.wordpress.com/tag/vatican-city/)
-8. [Czech Republic](https://alexguinane.wordpress.com/tag/czech-republic/)
-9. [Vietnam](https://alexguinane.wordpress.com/tag/vietnam/)
-10. [Fiji](https://alexguinane.wordpress.com/tag/fiji/)
-11. [Japan](https://alexguinane.wordpress.com/tag/japan/)
+1. [New Zealand](/tag/new-zealand.html)
+2. [Switzerland](/tag/switzerland.html)
+3. [France](/tag/france.html)
+4. [Germany](/tag/germany.html)
+5. [Liechtenstein](/tag/liechtenstein.html)
+6. [Italy](/tag/italy.html)
+7. [Vatican City](/tag/vatican-city.html)
+8. [Czech Republic](/tag/czech-republic.html)
+9. [Vietnam](/tag/vietnam.html)
+10. [Fiji](/tag/fiji.html)
+11. [Japan](/tag/japan.html)
+12. [Indonesia (Bali)](/tag/indonesia.html)
+13. [United Kingdom](/tag/uk.html)
+14. [Iceland](/tag/iceland.html)
+15. [Sweden](/tag/sweden.html)
+16. [Denmark](/tag/denmark.html)
+17. [Croatia](/tag/croatia.html)
+18. [Slovenia](/tag/slovenia.html)
+19. [Austria](/tag/austria.html)
+20. [Republic of Ireland](/tag/ireland.html)
 
-If you count layovers then I have hit the 15 (but I'm not).
 
-1. Thailand (Bangkok Airport)
-2. Austria (Train Station)
-3. China (Hong Kong Airport)
-4. Singapore (Airport)
+If you count layovers <del>then I have hit the 15</del> (but I'm not).
+
+* Thailand (Bangkok Airport)
+* <del>Austria (Train Station)</del>
+* China (Hong Kong Airport)
+* Singapore (Airport)
+
