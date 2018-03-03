@@ -8,6 +8,7 @@ COPYRIGHT_NAME = AUTHOR
 SITENAME = 'Alex Guinane'
 SITETITLE = SITENAME
 SITESUBTITLE = 'The blog formerly known as [Tales From Turgi]'
+SITE_SUMMARY = 'Personal blog of Alex Guinane'
 SITELOGO = '/images/avatar.jpg'
 FAVICON = '/favicon.ico'
 TIMEZONE = 'Australia/Brisbane'
@@ -16,10 +17,11 @@ DEFAULT_LANG = 'en'
 
 # Output paths
 PATH = 'content'
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico', 'extra/robots.txt']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 
 # Theme Settings

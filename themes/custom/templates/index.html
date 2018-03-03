@@ -23,7 +23,7 @@
             <a class="text-muted" href="{{ SITEURL }}/{{article.category.url}}">{{article.category}}</a>
         </h6>
         {% if not article.featured_image %}
-        <p class="card-text">{{ article.summary }}</p>
+        <p class="card-text">{{ article.summary|striptags }}</p>
         {% endif %}
     </div><!-- /card-body -->
     {% if article.tags and not HOME_HIDE_TAGS %}

@@ -5,6 +5,14 @@
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        {% if article %}
+        <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}"/>
+        {% endif%}
+        {% if article and article.summary %}
+        <meta name="description" content="{{ article.summary|striptags }}"/>
+        {% else %}
+        <meta name="description" content="{{ SITE_SUMMARY }}"/>
+        {% endif%}  
 
         <!-- Bootstrap Imports -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">

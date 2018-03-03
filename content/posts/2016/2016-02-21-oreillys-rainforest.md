@@ -8,7 +8,7 @@ Tags: Lamington, National Park
 
 ![picnic_rock](/images/2016/2016-02-21-oreillys-rainforest/picnic_rock.jpg)
 
-Last weekend we went to Lamington National Park [again](https://alexguinane.wordpress.com/2014/04/22/lamington-national-park/), however just camped at the normal camp sites no hike-in camping.
+Last weekend we went to Lamington National Park [again](/posts/2014/2014-04-22-lamington-national-park/), however just camped at the normal camp sites no hike-in camping.
 
 We went the long way to get there so we could detour past Allora and see if the Sunflowers were in season for Bec. They weren't really but there was one field at the racecourse.
 

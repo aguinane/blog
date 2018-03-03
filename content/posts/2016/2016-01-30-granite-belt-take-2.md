@@ -8,7 +8,7 @@ Tags: Girraween, Granite Belt, Pyramids
 
 ![feature](/images/2016/2016-01-30-granite-belt-take-2/feature.jpg)
 
-Last weekend we went down to the Granite Belt area [again](https://alexguinane.wordpress.com/2014/05/17/granite-belt/), this time camping and prepared for the hike up Pyramid Rock. Last time was just before winter, we didn't prepare for it and Rachael was wearing jeans, so she didn't make it to the top.
+Last weekend we went down to the Granite Belt area [again](/posts/2014/2014-05-17-granite-belt/), this time camping and prepared for the hike up Pyramid Rock. Last time was just before winter, we didn't prepare for it and Rachael was wearing jeans, so she didn't make it to the top.
 
 There was severe weather warnings forecast for the weekend, but when we left Saturday lunch time the skies were clear and it looked like while there was some big storms closer to the coast we should just get some patchy rain.
 

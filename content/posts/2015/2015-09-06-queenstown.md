@@ -32,7 +32,7 @@ The Queenstown Gardens had a disc golf course, something I had never heard of be
 
 After skiing in Wanaka, we came back to Queenstown with Mum & Dad and went up the Gondola to do some luge. We wanted to do luge the last time I went but we didn't have time. It was pretty fun and there was an awesome backdrop. We got some videos as well which I will sort through later.
 
-[![luge](/images/2015/2015-09-06-queenstown/luge.jpg)](https://alexguinane.files.wordpress.com/2015/09/luge.jpg)
+![luge](/images/2015/2015-09-06-queenstown/luge.jpg)
 
 We saw a goat and it's 'kid' while up there and they also had some cool jelly bean art. I made sure to revisit the Fergburger and see if it lived up to the memory, and it was just as tasty as I remembered. Rachael got the Codfather but it wasn't as good as the classic Ferg.
 

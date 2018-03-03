@@ -18,4 +18,4 @@ The songs were all pretty good considering their limited subject material it is 
 
 It was an excellent concert, it was way better than I expecting. At the moment I don't have a beard so much as haven't been bothered to shave for a week. So here is a photo from the beard-off challenge we did in uni in 2009.
 
-[![](/images/2012/2012-10-06-the-beards/day54.jpg)](http://alexguinane.files.wordpress.com/2012/10/day54.jpg)
+![](/images/2012/2012-10-06-the-beards/day54.jpg)
