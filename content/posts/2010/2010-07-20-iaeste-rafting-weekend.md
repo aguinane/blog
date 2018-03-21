@@ -4,7 +4,7 @@ Slug: iaeste-rafting-weekend
 Title: IAESTE Rafting Weekend
 excerpt: None
 Category: Travel
-Tags: IAESTE, Switzerland
+Tags: IAESTE, Switzerland, Lauterbrunnen, Interlaken, Mürren
 
 ![rafting](/images/2010/2010-07-20-iaeste-rafting-weekend/dsc_1714.jpg)
 
@@ -32,10 +32,22 @@ We then went to some lobby/bar thing that I'm not really sure what it was, and t
 
 Later on we heard some loud noise and everyone stopped talking to witness some random people walk in with giant cowbells - video on Facebook. We then realised that there was a wedding going on in one of the function rooms.
 
-![](/images/2010/2010-07-20-iaeste-rafting-weekend/p1020522.jpg)
-
-The next day we got a train up into the mountains to see a waterfall. The Trümmelbach Gletscherwasserfälle was easily one of the coolest things I've seen in my life.
+The next day we got a train up into the mountains to see a waterfall. The [Trümmelbach Gletscherwasserfälle](https://en.wikipedia.org/wiki/Tr%C3%BCmmelbach_Falls) was easily one of the coolest things I've seen in my life.
 
 It is where the water comes from for the white river that joined the river we rafted, and is 2 degrees, it comes from a glacier way up above although we couldn't even see it from down the bottom. I think most of it comes from the [Jungfrau](http://en.wikipedia.org/wiki/Jungfrau).
 
-After the waterfall, we went up to Murren via cable car, and then hiked back down. It was a very cool walking track with random waterfalls the whole way down, but had very sore knees by the time I got to the bottom. It was also weird that at the bottom of the mountain it was 25 degrees, and when we hopped out of the cable car at the top it was like 17 degrees - felt like walking into air-con but outside.
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/p1020522.jpg)
+
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/cave.JPG "")
+
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/cave_outside.JPG "")
+
+After the waterfall, we went up to Mürren via cable car, and then hiked back down. It was a very cool walking track with random waterfalls the whole way down, but had very sore knees by the time I got to the bottom. It was also weird that at the bottom of the mountain it was 25 degrees, and when we hopped out of the cable car at the top it was like 17 degrees - felt like walking into air-con but outside.
+
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/jump.JPG "")
+
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/forest.JPG "")
+
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/valley.JPG "")
+
+![](/images/2010/2010-07-20-iaeste-rafting-weekend/valley2.JPG "")
