@@ -2,7 +2,38 @@ Title: Welcome
 status: hidden
 save_as: index.html
 
-This is the new home of [my blog](/category/travel.html). Some links and things might be broken or look funny while I finish migrating it.
+<div class="row">
+<div class="col-7">
 
-I originally started this blog as Tales From Turgi when I was  [living in Turgi Switzerland](/tag/switzerland.html). I have updated it since then when ever I travel, and sometimes for other things.
+<p>
+I originally started this blog as Tales From Turgi when I was <a href="/tag/switzerland.html">Living in Turgi Switzerland</a>. I have updated it since then when ever I travel, and sometimes for other things.
+</p>
+
+</div><!-- /col -->
+<aside class="col-5">
+
+<div class="p-3 mb-3 bg-light rounded">
+<p class="mb-0">Find me at other places on the web:
+</p>
+<p>
+<a target="_new" href="http://www.facebook.com/alexguinane">
+    <img width=30 height=30 alt="Facebook" src="/images/icons/facebook.png" /></a>
+<a target="_new" href="http://www.youtube.com/user/aguin01">
+    <img width=30 height=30 alt="Youtube" src="/images/icons/youtube.png" /></a>
+<a target="_new" href="http://www.goodreads.com/aguin">
+    <img width=30 height=30 alt="Goodreads"  src="/images/icons/goodreads.png" /></a>
+<a target="_new" href="http://twitter.com/alexguinane">
+    <img width=30 height=30 alt="Twitter"  src="/images/icons/twitter.png" /></a>
+<a target="_new" href="https://www.strava.com/athletes/aguinane">
+    <img width=30 height=30 alt="Strava"  src="/images/icons/strava.png" /></a>
+<a target="_new" href="https://github.com/aguinane">
+    <img width=30 height=30 alt="Github"  src="/images/icons/github.png" /></a>
+    
+
+</p>
+</div>
+</aside>
+
+</div><!-- /row -->
+
 

@@ -38,7 +38,6 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_LINKS_ON_MENU = True
 MENUITEMS = (
-    ('Blog', '/blog_index.html'),    
     ('Archives', '/archives.html'),
 )
 LINKS = (
