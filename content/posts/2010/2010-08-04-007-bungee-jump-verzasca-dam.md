@@ -43,6 +43,8 @@ Travel show filming and jump
 
 ![](/images/2010/2010-08-04-007-bungee-jump-verzasca-dam/p1030111.jpg)
 
+![](/images/2010/2010-08-04-007-bungee-jump-verzasca-dam/IMG_4568_corr.jpg)
+
 ![](/images/2010/2010-08-04-007-bungee-jump-verzasca-dam/p1030117.jpg)
 
 ![](/images/2010/2010-08-04-007-bungee-jump-verzasca-dam/p1030123.jpg)
