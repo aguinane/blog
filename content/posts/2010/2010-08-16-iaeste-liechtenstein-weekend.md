@@ -45,10 +45,7 @@ After the mass, the prince's son gave some speech about politics and stuff and t
 
 The aperitif was awesome. There was free food and beer, and we got got to explore the garden of the castle. Also we met the Princess, the Prince and the Prince's son and got photos of them all with us and the IAESTE flag. They seemed like a nice family and it was cool that they spend the morning talking to everyone. I also got to have a go of an alpine horn, which they had set up on a hill.
 
-
 ![](/images/2010/2010-08-16-iaeste-liechtenstein-weekend/P1030359.JPG "Free Bier")
-
-
 
 We then walked down the mountain to the city, where there is a festival for the national holiday. All museums and buses are free on the day. I learnt that I don't understand modern "art" as some of the stuff in the museum was just silly and anyone could do it. There was a cool quilt thing though that was a map of the world with each country shown as the national flag. But mostly it was silly things like a pile of coal, or a canvas that someone had put a stripe of black paint on with a paint roller.
 

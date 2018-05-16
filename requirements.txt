@@ -2,3 +2,5 @@ pelican==3.6.3
 markdown
 typogrify
 beautifulsoup4
+pelican-advthumbnailer
+ghp-import

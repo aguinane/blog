@@ -16,19 +16,27 @@ I originally started this blog as Tales From Turgi when I was <a href="/tag/swit
 <p class="mb-0">Find me at other places on the web:
 </p>
 <p>
+
 <a target="_new" href="http://www.facebook.com/alexguinane">
     <img width=30 height=30 alt="Facebook" src="/images/icons/facebook.png" /></a>
+
 <a target="_new" href="http://www.youtube.com/user/aguin01">
     <img width=30 height=30 alt="Youtube" src="/images/icons/youtube.png" /></a>
+
 <a target="_new" href="http://www.goodreads.com/aguin">
     <img width=30 height=30 alt="Goodreads"  src="/images/icons/goodreads.png" /></a>
+
 <a target="_new" href="http://twitter.com/alexguinane">
     <img width=30 height=30 alt="Twitter"  src="/images/icons/twitter.png" /></a>
+
 <a target="_new" href="https://www.strava.com/athletes/aguinane">
     <img width=30 height=30 alt="Strava"  src="/images/icons/strava.png" /></a>
+
+<a target="_new" href="http://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205">
+    <img width=30 height=30 alt="parkrun"  src="/images/icons/parkrun.png" /></a>
+
 <a target="_new" href="https://github.com/aguinane">
     <img width=30 height=30 alt="Github"  src="/images/icons/github.png" /></a>
-    
 
 </p>
 </div>
