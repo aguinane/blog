@@ -17,12 +17,15 @@ DEFAULT_LANG = 'en'
 
 # Output paths
 PATH = 'content'
-STATIC_PATHS = ['images', 
-                'extra/CNAME', 
-                'extra/favicon.ico', 
+ARTICLE_EXCLUDES = ['extra']
+
+STATIC_PATHS = ['images',
+                'extra/CNAME',
+                'extra/favicon.ico',
                 'extra/robots.txt',
                 'extra/google5e801b1078ff9818.html',
                 ]
+
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
@@ -36,7 +39,10 @@ RESPONSIVE_IMAGES = True
 
 # Plugin settings
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['advthumbnailer', 'representative_image']
+PLUGINS = ['representative_image',
+           #'advthumbnailer',
+           ]
+ADVTHUMB_SEARCH_IMAGES_IN_ANCHORS = False
 
 # Blogroll
 MAIN_MENU = True

@@ -3,17 +3,17 @@ status: hidden
 save_as: index.html
 
 <div class="row">
-<div class="col-7">
+<div class="col-5">
 
 <p>
 I originally started this blog as Tales From Turgi when I was <a href="/tag/switzerland.html">Living in Turgi Switzerland</a>. I have updated it since then when ever I travel, and sometimes for other things.
 </p>
 
 </div><!-- /col -->
-<aside class="col-5">
+<aside class="col-3">
 
 <div class="p-3 mb-3 bg-light rounded">
-<p class="mb-0">Find me at other places on the web:
+<p class="mb-0">Find me elsewhere on the web:
 </p>
 <p>
 

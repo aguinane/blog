@@ -10,8 +10,11 @@
 {% for article in articles_page.object_list %}
     <div class="card">
             <article>
-    {% if  article.featured_image %}
-    <a href="{{ SITEURL }}/{{ article.url }}"><img class="card-img-top img-fluid" style="max-height: 100%;" src="{{ article.featured_image | thumbnail("350x200") }}" alt="Feature Image"></a>
+    {% if article.featured_image %}
+    <a href="{{ SITEURL }}/{{ article.url }}">
+        {% set article_image = article.featured_image %} <!-- | thumbnail("350x200") -->
+        <img class="card-img-top img-fluid" style="max-height: 100%;" src="{{ article_image }}" alt="Feature Image">
+    </a>
     {% endif %}
     <div class="card-body">
         <h4 class="card-title">
