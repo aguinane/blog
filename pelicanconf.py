@@ -17,11 +17,15 @@ DEFAULT_LANG = 'en'
 
 # Output paths
 PATH = 'content'
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/favicon.ico', 'extra/robots.txt']
+STATIC_PATHS = ['images', 'extra/CNAME', 
+                'extra/favicon.ico', 'extra/robots.txt',
+                'google5e801b1078ff9818.html',
+                ]
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/google5e801b1078ff9818.html': {'path': 'google5e801b1078ff9818.html'},
 }
 
 # Theme Settings
