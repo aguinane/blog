@@ -100,9 +100,11 @@ ENV/
 # mypy
 .mypy_cache/
 
+.pytest_cache
+
 # Pelican
 public/
 output/
 *.pid
+pelican-plugins
 
-.pytest_cache
