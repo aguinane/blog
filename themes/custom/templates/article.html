@@ -42,4 +42,27 @@
     {{ article.content }}
   </div><!-- /.entry-content -->
 </section>
+
+
+{% if article.similar_posts %}
+<hr />
+<section id="related" class="body">
+    <h3>Similar Posts</h3>
+    <ul>
+    {% for similar in article.similar_posts %}
+        <li><a href="{{ SITEURL }}/{{ similar.url }}">{{ similar.title }}</a>
+          {% if similar.tags and not HOME_HIDE_TAGS %}
+          {% for tag in similar.tags %}
+              <a href="{{ SITEURL }}/{{ tag.url }}" class="badge badge-secondary badge-pill">{{ tag }}</a>
+          {% endfor %}
+          {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+
+</section>
+{% endif %}
+
+<hr />
+
 {% endblock %}

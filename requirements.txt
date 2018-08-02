@@ -4,3 +4,4 @@ typogrify
 beautifulsoup4
 pelican-advthumbnailer
 ghp-import
+gensim>=3.5.0

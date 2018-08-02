@@ -16,7 +16,7 @@ CONFIG = {
     # Local path configuration (can be absolute or relative to tasks.py)
     'deploy_path': 'output',
     # Github Pages configuration
-    'github_pages_branch': '{{github_pages_branch}}',
+    'github_pages_branch': 'gh-pages',
     # Port for `serve`
     'port': 8000,
 }

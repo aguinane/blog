@@ -38,11 +38,28 @@ THEME = 'themes/custom'
 RESPONSIVE_IMAGES = True
 
 # Plugin settings
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['pelican-plugins', 'plugins']
 PLUGINS = ['representative_image',
            #'advthumbnailer',
+           'clean_summary',
+           'sitemap',
+           'similar_posts',
            ]
 ADVTHUMB_SEARCH_IMAGES_IN_ANCHORS = False
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    },
+    'exclude': []
+}
 
 # Blogroll
 MAIN_MENU = True
