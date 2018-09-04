@@ -107,4 +107,4 @@ public/
 output/
 *.pid
 pelican-plugins
-
+plugins

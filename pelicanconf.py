@@ -40,11 +40,12 @@ RESPONSIVE_IMAGES = True
 # Plugin settings
 PLUGIN_PATHS = ['pelican-plugins', 'plugins']
 PLUGINS = ['representative_image',
-           #'advthumbnailer',
+           'advthumbnailer',
            'clean_summary',
            'sitemap',
            'similar_posts',
            ]
+IMAGE_PATH = 'images'           
 ADVTHUMB_SEARCH_IMAGES_IN_ANCHORS = False
 SITEMAP = {
     'format': 'xml',

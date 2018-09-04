@@ -12,7 +12,7 @@
             <article>
     {% if article.featured_image %}
     <a href="{{ SITEURL }}/{{ article.url }}">
-        {% set article_image = article.featured_image %} <!-- | thumbnail("350x200") -->
+        {% set article_image = article.featured_image|thumbnail("350x200") %} <!-- | thumbnail("350x200") -->
         <img class="card-img-top img-fluid" style="max-height: 100%;" src="{{ article_image }}" alt="Feature Image">
     </a>
     {% endif %}
