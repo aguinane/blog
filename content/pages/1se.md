@@ -19,7 +19,7 @@ Here are my yearly [1 Second Everyday](https://1se.co/) videos. (or watch them [
         <iframe width="560" height="315" src="https://www.youtube.com/embed/TkrMtt5qAqA" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="col-1">
-    </div>    
+    </div>  
     <div class="col-5">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/SnRo5uYOpSk" frameborder="0" allowfullscreen></iframe>
     </div>

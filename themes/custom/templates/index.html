@@ -22,7 +22,7 @@
             </h4>
         <h6 class="card-subtitle mb-2 text-muted">
             <time class="published" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }} </time>
-            in 
+            in
             <a class="text-muted" href="{{ SITEURL }}/{{article.category.url}}">{{article.category}}</a>
         </h6>
         {% if not article.featured_image %}

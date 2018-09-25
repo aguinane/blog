@@ -19,18 +19,27 @@ DEFAULT_LANG = 'en'
 PATH = 'content'
 ARTICLE_EXCLUDES = ['extra']
 
-STATIC_PATHS = ['images',
-                'extra/CNAME',
-                'extra/favicon.ico',
-                'extra/robots.txt',
-                'extra/google5e801b1078ff9818.html',
-                ]
+STATIC_PATHS = [
+    'images',
+    'extra/CNAME',
+    'extra/favicon.ico',
+    'extra/robots.txt',
+    'extra/google5e801b1078ff9818.html',
+]
 
 EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
-    'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/google5e801b1078ff9818.html': {'path': 'google5e801b1078ff9818.html'},
+    'extra/CNAME': {
+        'path': 'CNAME'
+    },
+    'extra/favicon.ico': {
+        'path': 'favicon.ico'
+    },
+    'extra/robots.txt': {
+        'path': 'robots.txt'
+    },
+    'extra/google5e801b1078ff9818.html': {
+        'path': 'google5e801b1078ff9818.html'
+    },
 }
 
 # Theme Settings
@@ -39,13 +48,14 @@ RESPONSIVE_IMAGES = True
 
 # Plugin settings
 PLUGIN_PATHS = ['pelican-plugins', 'plugins']
-PLUGINS = ['representative_image',
-           'advthumbnailer',
-           'clean_summary',
-           'sitemap',
-           'similar_posts',
-           ]
-IMAGE_PATH = 'images'           
+PLUGINS = [
+    'representative_image',
+    'advthumbnailer',
+    'clean_summary',
+    'sitemap',
+    'similar_posts',
+]
+IMAGE_PATH = 'images'
 ADVTHUMB_SEARCH_IMAGES_IN_ANCHORS = False
 SITEMAP = {
     'format': 'xml',
@@ -67,9 +77,7 @@ MAIN_MENU = True
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_LINKS_ON_MENU = True
-MENUITEMS = (
-    ('Archives', '/archives.html'),
-)
+MENUITEMS = (('Archives', '/archives.html'), )
 LINKS = (
     ('Blog', '/blog_index.html'),
     ('Archives', '/archives.html'),
@@ -92,7 +100,6 @@ SOCIAL = (
     ("linkedin", 'https://www.linkedin.com/in/alexguinane/'),
     ("rss", '/feeds/all.rss.xml'),
 )
-
 
 # Feed generation is usually not desired when developing
 SUMMARY_MAX_LENGTH = 25

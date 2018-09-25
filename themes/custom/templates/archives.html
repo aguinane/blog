@@ -7,7 +7,7 @@
     {% for year, year_group in dates|groupby('date.year')|reverse %}
         <li class="nav-item">
             <a class="nav-link" id="{{ year }}-tab" data-toggle="tab" href="#{{ year }}" role="tab" aria-controls="{{ year }}" aria-selected="false">{{ year }}</a>
-        </li>    
+        </li>
     {% endfor %}
   </ul>
   <div class="tab-content" id="myTabContent">
@@ -23,10 +23,10 @@
                         <small class="text-muted">
                             <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
                         </small>
-                                
-                </div>                
+
+                </div>
             </li>
-        {% endfor %}        
+        {% endfor %}
         </ul>
     </div>
     {% endfor %}

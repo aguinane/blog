@@ -21,6 +21,7 @@ CONFIG = {
     'port': 8000,
 }
 
+
 @task
 def clean(c):
     """Remove generated files"""
@@ -28,20 +29,24 @@ def clean(c):
         shutil.rmtree(CONFIG['deploy_path'])
         os.makedirs(CONFIG['deploy_path'])
 
+
 @task
 def build(c):
     """Build local version of site"""
     c.run('pelican -s pelicanconf.py')
+
 
 @task
 def rebuild(c):
     """`build` with the delete switch"""
     c.run('pelican -d -s pelicanconf.py')
 
+
 @task
 def regenerate(c):
     """Automatically regenerate site upon file modification"""
     c.run('pelican -r -s pelicanconf.py')
+
 
 @task
 def serve(c):
@@ -51,12 +56,12 @@ def serve(c):
     class AddressReuseTCPServer(socketserver.TCPServer):
         allow_reuse_address = True
 
-    server = AddressReuseTCPServer(
-        ('', CONFIG['port']),
-        ComplexHTTPRequestHandler)
+    server = AddressReuseTCPServer(('', CONFIG['port']),
+                                   ComplexHTTPRequestHandler)
 
     sys.stderr.write('Serving on port {port} ...\n'.format(**CONFIG))
     server.serve_forever()
+
 
 @task
 def reserve(c):
@@ -64,20 +69,21 @@ def reserve(c):
     build(c)
     serve(c)
 
+
 @task
 def preview(c):
     """Build production version of site"""
     c.run('pelican -s publishconf.py')
 
+
 @task
 def publish(c):
     """Publish to production via rsync"""
     c.run('pelican -s publishconf.py')
-    c.run(
-        'rsync --delete --exclude ".DS_Store" -pthrvz -c '
-        '{} {production}:{dest_path}'.format(
-            CONFIG['deploy_path'].rstrip('/') + '/',
-            **CONFIG))
+    c.run('rsync --delete --exclude ".DS_Store" -pthrvz -c '
+          '{} {production}:{dest_path}'.format(
+              CONFIG['deploy_path'].rstrip('/') + '/', **CONFIG))
+
 
 @task
 def gh_pages(c):

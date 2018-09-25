@@ -1,7 +1,6 @@
-pelican==3.6.3
-markdown
-typogrify
 beautifulsoup4
+gensim>=3.5.0ghp-import
+markdown
+pelican==3.6.3
 pelican-advthumbnailer
-ghp-import
-gensim>=3.5.0
+typogrify

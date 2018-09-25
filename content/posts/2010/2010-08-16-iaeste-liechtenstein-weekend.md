@@ -29,7 +29,7 @@ We then got a bus back to the city, ran back along the river to the hostel, went
 
 ![](/images/2010/2010-08-16-iaeste-liechtenstein-weekend/P1030322.JPG "Band")
 
-Sunday was Lichtenstein's national holiday, and the prince holds an aperitif in his garden that is open to the public. First there was some sort of mass on a field by [Vaduz Castle](http://en.wikipedia.org/wiki/Vaduz_Castle). It was kind of eerie at one stage when they all chanted the Lord's prayer or something in German. People all speaking in unison in a foreign language felt like we had stumbled upon some sort of cult ritual. 
+Sunday was Lichtenstein's national holiday, and the prince holds an aperitif in his garden that is open to the public. First there was some sort of mass on a field by [Vaduz Castle](http://en.wikipedia.org/wiki/Vaduz_Castle). It was kind of eerie at one stage when they all chanted the Lord's prayer or something in German. People all speaking in unison in a foreign language felt like we had stumbled upon some sort of cult ritual.
 
 ![](/images/2010/2010-08-16-iaeste-liechtenstein-weekend/P1030343.JPG "Service")
 

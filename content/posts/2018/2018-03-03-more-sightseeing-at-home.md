@@ -38,11 +38,11 @@ Putney Beach was still wrecked from the Cyclone, and Hideaway and the rental hut
 
 ![](/images/2018/2018-03-03-more-sightseeing-at-home/keppel2.jpg "")
 
-Lauren bought a cheap snorkel, so we went around to Shelving Beach to the reef. We saw a tree snake on the way but it was a nice hike. 
+Lauren bought a cheap snorkel, so we went around to Shelving Beach to the reef. We saw a tree snake on the way but it was a nice hike.
 
 ![](/images/2018/2018-03-03-more-sightseeing-at-home/keppel4.jpg "")
 
-The tide was too far in so the reef was a good distance out and a bit too deep to see properly. 
+The tide was too far in so the reef was a good distance out and a bit too deep to see properly.
 
 ![](/images/2018/2018-03-03-more-sightseeing-at-home/keppel5.jpg "")
 
