@@ -1,72 +1,75 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
+
 <head>
-        {% block head %}
-        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="referrer" content="origin-when-cross-origin">
-        {% if article %}
-        <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}"/>
-        {% endif%}
-        {% if article and article.summary %}
-        <meta name="description" content="{{ article.summary|striptags }}"/>
-        {% else %}
-        <meta name="description" content="{{ SITE_SUMMARY }}"/>
-        {% endif%}
+  {% block head %}
+  <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="referrer" content="origin-when-cross-origin">
+  {% if article %}
+  <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}" />
+  {% endif%}
+  {% if article and article.summary %}
+  <meta name="description" content="{{ article.summary|striptags }}" />
+  {% else %}
+  <meta name="description" content="{{ SITE_SUMMARY }}" />
+  {% endif%}
 
-        <!-- Bootstrap Imports -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <!-- Bootstrap Imports -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+    crossorigin="anonymous">
 
-        <!-- Custom styles for this template -->
-        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css">
-        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/sticky-footer-navbar.css">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/sticky-footer-navbar.css">
 
-        {% if FEED_ALL_ATOM %}
-        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
-        {% endif %}
-        {% if FEED_ALL_RSS %}
-        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
-        {% endif %}
-        {% if FEED_ATOM %}
-        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
-        {% endif %}
-        {% if FEED_RSS %}
-        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
-        {% endif %}
-        {% if CATEGORY_FEED_ATOM and category %}
-        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
-        {% endif %}
-        {% if CATEGORY_FEED_RSS and category %}
-        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
-        {% endif %}
-        {% if TAG_FEED_ATOM and tag %}
-        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
-        {% endif %}
-        {% if TAG_FEED_RSS and tag %}
-        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
-        {% endif %}
-        {% endblock head %}
+  {% if FEED_ALL_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+  {% endif %}
+  {% if FEED_ALL_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+  {% endif %}
+  {% if FEED_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+  {% endif %}
+  {% if FEED_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+  {% endif %}
+  {% if CATEGORY_FEED_ATOM and category %}
+  <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate"
+    title="{{ SITENAME }} Categories Atom Feed" />
+  {% endif %}
+  {% if CATEGORY_FEED_RSS and category %}
+  <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate"
+    title="{{ SITENAME }} Categories RSS Feed" />
+  {% endif %}
+  {% if TAG_FEED_ATOM and tag %}
+  <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+  {% endif %}
+  {% if TAG_FEED_RSS and tag %}
+  <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+  {% endif %}
+  {% endblock head %}
 </head>
 
 <body id="index" class="home">
 
+  <nav id="menu" class="navbar navbar-expand-md navbar-dark bg-dark">
 
+    <a class="navbar-brand" href="{{ SITEURL }}/">
+      {% if SITELOGO %}
+      <img src="{{SITELOGO}}" width="30" height="30" class="d-inline-block align-top" alt="">
+      {% endif %}
+      {{ SITENAME }}
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-        <nav id="menu" class="navbar navbar-expand-md navbar-dark bg-dark">
-
-        <a class="navbar-brand" href="{{ SITEURL }}/">
-          {% if SITELOGO %}
-          <img src="{{SITELOGO}}" width="30" height="30" class="d-inline-block align-top" alt="">
-          {% endif %}
-          {{ SITENAME }}
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
 
         {% if DISPLAY_CATEGORIES_ON_MENU %}
         {% for cat, null in categories|reverse %}
@@ -77,38 +80,38 @@
         {% endif %}
 
         {% for title, link in MENUITEMS %}
-          <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="{{ link }}">{{ title }}</a>
-          </li>
+        </li>
         {% endfor %}
 
         {% if DISPLAY_PAGES_ON_MENU %}
-          {% for p in pages %}
-            <li class="nav-item{% if p == page %} active{% endif %}">
-              <a class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-            </li>
-          {% endfor %}
+        {% for p in pages %}
+        <li class="nav-item{% if p == page %} active{% endif %}">
+          <a class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endfor %}
         {% endif %}
-        </ul>
+      </ul>
 
-        <span class="navbar-text">
-            <small>{{ SITESUBTITLE }}</small>
-        </span>
+      <span class="navbar-text">
+        <small>{{ SITESUBTITLE }}</small>
+      </span>
 
-        </div><!-- /#navbarSupportedContent -->
+    </div><!-- /#navbarSupportedContent -->
 
-        </nav><!-- /#menu -->
-        <div class="container">
-        {% block content %}
-
-
-        {% endblock %}
-      </div><!-- /container -->
-
-{% block scripts %}
+  </nav><!-- /#menu -->
+  <div class="container">
+    {% block content %}
 
 
-{% endblock %}
+    {% endblock %}
+  </div><!-- /container -->
+
+  {% block scripts %}
+
+
+  {% endblock %}
 
 </body>
 
