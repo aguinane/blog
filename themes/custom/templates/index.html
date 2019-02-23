@@ -2,48 +2,33 @@
 {% block content %}
 <section id="content">
 
-{% block content_title %}
-<h2 class="display-4">All articles</h2>
-{% endblock %}
+    {% block content_title %}
+    <h1 class="display-4">All posts</h1>
+    {% endblock %}
 
-<div class="card-columns">
-{% for article in articles_page.object_list %}
-    <div class="card">
-            <article>
-    {% if article.featured_image %}
-    <a href="{{ SITEURL }}/{{ article.url }}">
-        {% set article_image = article.featured_image|thumbnail("350x200") %} <!-- | thumbnail("350x200") -->
-        <img class="card-img-top img-fluid" style="max-height: 100%;" src="{{ article_image }}" alt="Feature Image">
-    </a>
-    {% endif %}
-    <div class="card-body">
-        <h4 class="card-title">
-            <a class="text-dark" href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-            </h4>
-        <h6 class="card-subtitle mb-2 text-muted">
-            <time class="published" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }} </time>
-            in
-            <a class="text-muted" href="{{ SITEURL }}/{{article.category.url}}">{{article.category}}</a>
-        </h6>
-        {% if not article.featured_image %}
-        <p class="card-text">{{ article.summary|striptags }}</p>
-        {% endif %}
-    </div><!-- /card-body -->
-    {% if article.tags and not HOME_HIDE_TAGS %}
-    <div class="card-footer text-muted">
-    {% for tag in article.tags %}
-        <a href="{{ SITEURL }}/{{ tag.url }}" class="badge badge-secondary badge-pill">{{ tag }}</a>
-    {% endfor %}
-    </div>
-    {% endif %}
-    </article>
-    </div><!-- /card -->
-{% endfor %}
-</div><!-- /card-columns -->
+    <ul class="list-unstyled">
 
+        {% for article in articles_page.object_list %}
+        <li class="media">
+            {% if article.featured_image %}
+            {% set article_image = article.featured_image|thumbnail("64x64") %}
+            <!-- | thumbnail("350x200") -->
+            <img class="align-self-start mr-3 img-thumbnail" style="max-height: 100%;" src="{{ article_image }}"
+                alt="Feature Image">
+            {% endif %}
+            <div class="media-body">
+                <h5 class="mt-0 mb-1"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
+                <small class="text-muted">
+                    <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+                </small>
+            </div>
 
-{% if articles_page.has_other_pages() %}
+        </li><!-- /media -->
+        {% endfor %}
+
+    </ul>
+    {% if articles_page.has_other_pages() %}
     {% include 'pagination.html' %}
-{% endif %}
+    {% endif %}
 </section><!-- /#content -->
 {% endblock content %}

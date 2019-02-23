@@ -1,0 +1,43 @@
+<nav id="menu" class="nav">
+
+    <ul class="nav flex-column">
+
+        <li class="nav-item">
+            <a class="navbar-brand" href="{{ SITEURL }}/">
+                {% if SITELOGO %}
+                <img src="{{SITELOGO}}" width="30" height="30" class="d-inline-block align-top" alt="">
+                {% endif %}
+                {{ SITENAME }}
+            </a>
+        </li>
+
+
+        <span class="navbar-text">
+            <small>{{ SITESUBTITLE }}</small>
+        </span>
+
+        {% if DISPLAY_CATEGORIES_ON_MENU %}
+        {% for cat, null in categories|reverse %}
+        <li class="nav-item">
+            <a class="nav-link{% if cat == category %} active{% endif %}"
+                href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+
+        {% for title, link in MENUITEMS %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ link }}">{{ title }}</a>
+        </li>
+        {% endfor %}
+
+        {% if DISPLAY_PAGES_ON_MENU %}
+        {% for p in pages %}
+        <li class="nav-item">
+            <a class="nav-link{% if p == page %} active{% endif %}" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endfor %}
+        {% endif %}
+    </ul>
+
+</nav><!-- /#menu -->
