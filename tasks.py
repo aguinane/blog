@@ -39,7 +39,7 @@ def build(c):
 @task
 def rebuild(c):
     """`build` with the delete switch"""
-    c.run('pelican -d -s pelicanconf.py')
+    c.run('pelican -d -s publishconf.py')
 
 
 @task
