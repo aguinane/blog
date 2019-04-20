@@ -16,27 +16,27 @@ Once we got to the island though we got to go snorkelling off the beach. We saw 
 
 ![](/images/2019/2019-03-20-port-douglas\snorkel1.JPG "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel2.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel2.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel3.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel3.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel4.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel4.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel5.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel5.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel6.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel6.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel7.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel7.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel8.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel8.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel9.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel9.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel10.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel10.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel11.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel11.jpg "")
 
-![](/images/2019/2019-03-20-port-douglas\snorkel12.JPG "")
+![](/images/2019/2019-03-20-port-douglas\snorkel12.jpg "")
 
 We did a tour of the island as well, which has a couple that live on it permanently that work for the BOM, and some housing for researchers.
 
