@@ -43,7 +43,7 @@ There was another stop to look at Barron Gorge, which was cooler from the other 
 
 ![](/images/2019/2019-03-17-cairns-kuranda\skyrail3.JPG "")
 
-There was another stop where a guide talked about some of the plants along a boardwalk.
+There was a 2nd Skyrail stop where a guide talked about some of the plants along a boardwalk, which was also really good.
 
 ![](/images/2019/2019-03-17-cairns-kuranda\skyrail4.JPG "")
 
@@ -51,7 +51,7 @@ At the bottom there was a waterskiing park, which was cool to watch from the Gon
 
 ![](/images/2019/2019-03-17-cairns-kuranda\skyrail5.JPG "")
 
-That afternoon, Rachael's uncle recommended we visit [St Monica's Cathedral](http://www.cairns.catholic.org.au/documents/peacewindows.html) to see the stained glass windows. They were by far the best stained glass windows I have seen in a church, awesome to see fish and space rather than the typical themes.
+That afternoon, Rachael's uncle recommended we visit [St Monica's Cathedral](http://www.cairns.catholic.org.au/documents/peacewindows.html) to see the stained glass windows. They were by far the best stained glass windows I have seen in a church, awesome to see fish and space rather than the typical themes and well worth a visit.
 
 ![](/images/2019/2019-03-17-cairns-kuranda\cathedral1.JPG "")
 
