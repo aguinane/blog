@@ -4,7 +4,7 @@ Slug: goomburra-state-forest
 Title: Goomburra State Forest
 excerpt: None
 Category: Travel
-Tags: Goomburra, National Park
+Tags: Goomburra, Main Range, Hiking
 
 ![feature](/images/2014/2014-10-07-goomburra-state-forest/feature3.jpg)
 
