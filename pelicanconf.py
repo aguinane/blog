@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 # Default Settings
 AUTHOR = 'Alex Guinane'
 COPYRIGHT_NAME = AUTHOR
-SITENAME = 'Alex Guinane'
+SITENAME = "Alex's Blog"
 SITETITLE = SITENAME
 #SITESUBTITLE = 'The blog formerly known as [Tales From Turgi]'
 SITE_SUMMARY = 'Personal blog of Alex Guinane'
