@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 # Default Settings
-AUTHOR = 'Alex Guinane'
+AUTHOR = 'Alex Guinman'
 COPYRIGHT_NAME = AUTHOR
 SITENAME = "Alex's Blog"
 SITETITLE = SITENAME
 #SITESUBTITLE = 'The blog formerly known as [Tales From Turgi]'
-SITE_SUMMARY = 'Personal blog of Alex Guinane'
+SITE_SUMMARY = 'Personal blog of Alex Guinman'
 SITELOGO = '/images/avatar.jpg'
 FAVICON = '/favicon.ico'
 TIMEZONE = 'Australia/Brisbane'
