@@ -6,7 +6,7 @@ excerpt: None
 Category: Travel
 Tags: IAESTE, Switzerland
 
-![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/p1040064-7171701.jpg)
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/P1040064.JPG)
 
 I have been very busy lately with assignments, German lessons and traveling, so haven't had time to update this in a while. On the weekend before last, I went to the Jura region, which is in the French-speaking part of Switzerland.
 
@@ -14,7 +14,11 @@ First up, we went to the underground mills in Le Locle. They were used in the 18
 because they then redirected the river away from the town and it dried it up. The mill was then used as an abattoir and the owners dumped all of the animal waste down into the caves (don't know how that was allowed...). Then about 30 years ago (I think) some crazy historians decided they would take all the dumped waste out and make a museum. I have already forgotten most of the facts the tour guide told us, as it was 2 weeks ago now. There is more info here -
 [http://www.lesmoulins.ch/](http://www.lesmoulins.ch/) - but it's in french. It was a fairly interesting tour though.
 
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/mill.jpg)
+
 After that, we jumped on a train to ?somewhere? and visited an Absinthe factory. Well on the itinerary it said it was a factory, but it was more like some guy that made lots of it in his basement and sells it. The house alone was pretty cool. It used to be a drug store, and upstairs all the old chemicals and stuff were still there in this really cool, old cabinet. We found things like Cyanide and Chloroform, but the bottles of those two were empty.
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/museum.jpg)
 
 Then downstairs there was boxes with the herbs he uses to make the Absinth. There was 10 herbs, and one secret one that we weren't allowed to see. I didn't realise there was an actual absinthe plant, but there is. Also there was a one plant that you could easily smell straight away that it is what they use to make liquorice.
 
@@ -22,13 +26,31 @@ The guy had been making it for 30 years or something, but it has only been legal
 
 The actual brewing itself was done in this steamer thing (I think with basically pure ethanol), and the end product is 75% alcohol. It is then diluted down to 55%, and the name of the product is Absinthe 55degrees.
 
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/boiler.jpg)
+
 We then had an apèro and got to try some. It was not what I was expecting having had it only as shots. They mix it with water, and it goes all cloudy. It then tastes a bit like liquorice and doesn't burn as much. It is still very strong, but actually tasted like a drink rather than a shot.
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/absinth.jpg)
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/cheers.JPG)
 
 Oh and we were told that the green fairy is a myth. The only difference is food colouring. The stories of hallucinations came about because the company that made the green fairy had a bad batch of really bad quality that was causing people to go a bit crazy. But not in a good way.
 
 From here we went to the hostel by the lake, and had a bit of a BBQ before dinner. The dinner wasn't all that great and the waitress seemed pretty angry that we didn't know french. The french breakfast was pretty basic too, and they have portions that are way too small.
 
-Sunday was the hike up to the Creux-du-Van which was a very steep hike, but an amazing view from the top. Photo's will do a better job of explaining it, so look on the Picasa web album. We hiked down to the other side where there was a gorge, and then walked along the creek/river for a few hours to the train station and then went home.
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/dinner.jpg)
+
+Sunday was the hike up to the Creux-du-Van which was a very steep hike, but an amazing view from the top. Photo's will do a better job of explaining it, so look on the Picasa web album.
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/IMG_5449_corr.jpg)
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/P1040033.JPG)
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/IMG_5441_corr.jpg)
+
+We hiked down to the other side where there was a gorge, and then walked along the creek/river for a few hours to the train station and then went home.
+
+![Jura](/images/2010/2010-09-14-iaeste-jura-weekend/gorge.JPG)
 
 I saw my first Swiss Person give the finger at the train station, as Michael decided to run across the tracks when there was a train coming instead of using the underpass. The train driver was not happy as you can imagine so it was undertanable. Still strange that none of us had seen anyone give the finger until now.
 
