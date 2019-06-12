@@ -12,30 +12,28 @@ The hiking weekend began with the steepest bus ride in Europe. It really was qui
 
 And then began the hiking. The first stage was about on par with the Jura weekend hike. Quite steep and energy draining but a pleasant stroll in comparison to what came later.
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/lowerhike.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/lowerhike.jpg)
 
 After about an hour hike we made it to a restaurant and [alpine cheese factory](http://en.wikipedia.org/wiki/Transhumance#The_Alps). We got to see how they made the cheese, and how it is aged. To be able to market as Alpine cheese, the cows have to live and the cheese has to be made at a certain altitude (I forget what). In the winter they move everything down into the valley though.
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/cheese.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/cheese.jpg)
 
 We got to try some. It tasted like cheese.
 
 Then the hiking continued, this was the hardest part of the weekend. It was incredibly steep and in many places slippery. Incredible views though. Eventually we all made it to the top - well as high as you could go without climbing gear - to the cottage that we were staying at. The only was to get supplies there is by helicopter (or by carting it up the massive hike). We had some beers when we got there and it reminded me so much of beers in Lake Tekapo on the NZ Ski Trip last year. For Comparison ([NZ](http://picasaweb.google.com/alexguinane/SkiTrip09#5516776164870888626) | [Schwiez](http://picasaweb.google.com/alexguinane/IAESTEHikingWeekend#5516411549420267634)) Then we went down for a bit of a walk on the glacier, which was
 fun although quickly turned into everyone throwing chunks of ice at each other. There was an Aussie guy from Adelaide on the glacier that took a group photo for us.
 
-
-
 ![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/P1040181.JPG)
 
 ![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/P1040203.JPG)
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/finalstairs.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/finalstairs.jpg)
 
 ![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/sign.JPG)
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/hut.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/hut.jpg)
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/groupshot.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/groupshot.jpg)
 
 We stayed the night in the [Blüemlisalphütte](https://plus.google.com/110740992425167130852/) alpine cottage. Our room had a top and bottom bunk, but they are all joined so it's about 20 mattresses up the top and 20 down the bottom so you all sleep close together. As such we got to hear some nice snoring through the night. It wasn't too bad though. Also you weren't allowed hiking boots inside so you had to
 wear sandals. The Swiss sure love socks and sandals. I should mention that even at work you see people wearing socks and sandals. Dinner was really nice, they do pretty well for somewhere so remote. Even the beer wasn't too expensive (6.50CHF for 5dl). That's another thing that is stange here. They don't use mL. They use cL and dL. I have no idea
@@ -57,7 +55,7 @@ The next day we started the long hike down the other side to Oeschinen Lake and 
 
 ![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/hikedown1.JPG)
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/flower1.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/flower1.jpg)
 
 ![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/flower2.JPG)
 
@@ -74,4 +72,4 @@ sheep poo.
 
 Those of us under 25 paid for a train to Bern and then walked around for a bit while we waited for the Gleis7 to kick in. Was a great weekend, but even today (2 days later) every step is difficult and walking up stairs is horrible.
 
-![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/trainhome.JPG)
+![Hiking](/images/2010/2010-09-14-iaeste-hiking-weekend/trainhome.jpg)
