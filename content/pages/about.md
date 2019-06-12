@@ -13,9 +13,6 @@ It is mostly a reference for me to document and look back at things.
 </p>
 
 <p>
-    <a target="_new" href="http://www.facebook.com/alexguinane">
-        <img width=30 height=30 alt="Facebook" src="/images/icons/facebook.png">
-    </a>
 
     <a target="_new" href="http://www.youtube.com/user/aguin01">
         <img width=30 height=30 alt="Youtube" src="/images/icons/youtube.png">
@@ -23,10 +20,6 @@ It is mostly a reference for me to document and look back at things.
 
     <a target="_new" href="http://www.goodreads.com/aguin">
         <img width=30 height=30 alt="Goodreads" src="/images/icons/goodreads.png">
-    </a>
-
-    <a target="_new" href="http://twitter.com/alexguinane">
-        <img width=30 height=30 alt="Twitter" src="/images/icons/twitter.png">
     </a>
 
     <a target="_new" href="https://www.strava.com/athletes/aguinane">
