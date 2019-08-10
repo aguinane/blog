@@ -1,6 +1,0 @@
-beautifulsoup4
-gensim>=3.5.0ghp-import
-markdown
-pelican==3.6.3
-pelican-advthumbnailer
-typogrify

@@ -1,6 +1,7 @@
-Title: 1SE
-
-#
+---
+title: 1SE
+type: page
+---
 
 Here are my yearly [1 Second Everyday](https://1se.co/) videos. (or watch them [as a playlist](https://www.youtube.com/watch?v=GMICuq_G1y8&list=PLg8-xft5PA56HRCV5b_py97nvI7DidnFV))
 

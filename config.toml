@@ -1,0 +1,44 @@
+baseURL = "http://alex.guinman.id.au/"
+languageCode = "en-gb"
+title = "Alex's Blog"
+subtitle = "Personal blog of Alex Guinman"
+theme = "solar-theme-hugo"
+paginate = 6
+
+[[menu.main]]
+    name = "Travel"
+    pre = "<i class='fa fa-folder-open'></i>"
+    weight = 1
+    identifier = "travel"
+    url = "/categories/travel/"
+
+[[menu.main]]
+    name = "Music"
+    pre = "<i class='fa fa-folder-open'></i>"
+    weight = 2
+    identifier = "music"
+    url = "/categories/music/"
+
+[[menu.main]]
+    name = "Misc"
+    pre = "<i class='fa fa-folder-open'></i>"
+    weight = 3
+    identifier = "misc"
+    url = "/categories/misc/"
+
+[[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-info-circle'></i>"
+    weight = 4
+    identifier = "about"
+    url = "/pages/about"
+
+[[menu.main]]
+    name = "1SE"
+    pre = "<i class='fa fa-info-circle'></i>"
+    weight = 5
+    identifier = "1se"
+    url = "/pages/1se"
+
+
+
