@@ -2,9 +2,37 @@ baseURL = "http://alex.guinman.id.au/"
 languageCode = "en-gb"
 title = "Alex's Blog"
 subtitle = "Personal blog of Alex Guinman"
-theme = "solar-theme-hugo"
+theme = "ananke"
 paginate = 6
 
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  featured_image = "posts/2018/upper-gorge/creek1.jpg"
+
+  # Social Links
+  parkrun = "http://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205"
+  goodreads = "http://www.goodreads.com/aguin"
+  strava = "https://www.strava.com/athletes/aguinane"
+  youtube = "https://www.youtube.com/user/aguin01"
+  github = "https://github.com/aguinane"
+  linkedin = "https://www.linkedin.com/in/alexguinane"
+  wikitree = "https://www.wikitree.com/treewidget/Guinane-16/5"
+
+
+[permalinks]
+  posts = "posts/:year/:slug/"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  
 [[menu.main]]
     name = "Travel"
     pre = "<i class='fa fa-folder-open'></i>"

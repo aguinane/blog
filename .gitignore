@@ -5,7 +5,6 @@
 # Generated files by hugo
 /public/
 /resources/_gen/
-/themes/
 
 # Executable may be added to repository
 hugo.exe
@@ -14,3 +13,4 @@ hugo.linux
 
 # End of https://www.gitignore.io/api/hugo
 
+.mypy_cache
