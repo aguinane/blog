@@ -1,5 +1,5 @@
 ---
-date: "2017-04-23 12:00:00+00:00"
+date: "2017-04-23"
 slug: northern-ireland
 title: Irish Coast
 categories: ["Travel"]

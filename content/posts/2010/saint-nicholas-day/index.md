@@ -1,5 +1,5 @@
 ---
-date: "2010-12-06 17:02:00+00:00"
+date: "2010-12-06"
 slug: saint-nicholas-day
 title: Saint Nicholas Day
 

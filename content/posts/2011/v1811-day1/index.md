@@ -1,9 +1,11 @@
 ---
-date: "2011-10-18 19:33:29+00:00"
-slug: young-endeavour-v1811-sydney-to-eden-part-1
+date: "2011-10-18"
+slug: v1811-day1
 title: V18/11 - Day 1
 categories: ["Travel"]
-tags: [Sydney, Young Endeavour]
+tags: [NSW, Sydney, Young Endeavour]
+series: ["Young Endeavour"]
+featured_image: posts/2011/v1811-day1/2011-10-19-13-07-14.jpg
 ---
 
 ![First look at the Young Endeavour](2011-10-19-13-07-14.jpg)

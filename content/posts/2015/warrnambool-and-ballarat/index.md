@@ -1,5 +1,5 @@
 ---
-date: "2015-03-16 09:54:40+00:00"
+date: "2015-03-16"
 slug: warrnambool-and-ballarat
 title: Warrnambool and Ballarat
 categories: ["Travel"]

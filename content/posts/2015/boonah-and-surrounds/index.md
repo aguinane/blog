@@ -1,5 +1,5 @@
 ---
-date: "2015-02-23 03:15:41+00:00"
+date: "2015-02-23"
 slug: boonah-and-surrounds
 title: Boonah and Surrounds
 categories: ["Travel"]

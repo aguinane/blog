@@ -1,5 +1,5 @@
 ---
-date: "2012-11-17 06:56:59+00:00"
+date: "2012-11-17"
 slug: back-of-the-uni-loop
 title: Back of the Uni Loop
 categories: ["Misc"]

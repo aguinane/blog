@@ -1,5 +1,5 @@
 ---
-date: "2014-03-08 08:36:12+00:00"
+date: "2014-03-08"
 slug: hakuba
 title: Hakuba
 categories: ["Travel"]

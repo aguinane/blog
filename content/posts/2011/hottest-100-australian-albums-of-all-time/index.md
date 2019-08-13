@@ -1,5 +1,5 @@
 ---
-date: "2011-06-25 08:41:35+00:00"
+date: "2011-06-25"
 slug: hottest-100-australian-albums-of-all-time
 title: Hottest 100 Australian Albums Of All Time
 categories: ["Music"]

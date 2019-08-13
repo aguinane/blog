@@ -1,5 +1,5 @@
 ---
-date: "2012-09-29 22:20:44+00:00"
+date: "2012-09-29"
 slug: tcof-parade
 title: TCOF Floral Parade
 post_format: Gallery

@@ -1,5 +1,5 @@
 ---
-date: "2013-03-03 03:06:29+00:00"
+date: "2013-03-03"
 slug: peak2park-fun-run
 title: Peak2Park Fun Run
 categories: ["Misc"]

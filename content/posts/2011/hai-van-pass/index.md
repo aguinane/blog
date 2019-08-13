@@ -1,5 +1,5 @@
 ---
-date: "2011-07-27 00:25:45+00:00"
+date: "2011-07-27"
 slug: hai-van-pass
 title: Hai Van Pass
 categories: ["Travel"]

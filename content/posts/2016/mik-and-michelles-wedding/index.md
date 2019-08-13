@@ -1,5 +1,5 @@
 ---
-date: "2016-12-26 04:22:32+00:00"
+date: "2016-12-26"
 slug: mik-and-michelles-wedding
 title: Mik and Michelle's Wedding
 categories: ["Travel"]

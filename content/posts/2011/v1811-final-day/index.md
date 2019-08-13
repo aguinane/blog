@@ -1,9 +1,10 @@
 ---
-date: "2011-10-29 06:32:52+00:00"
+date: "2011-10-29"
 slug: v1811-final-day
 title: V18/11 - Final Day
 categories: ["Travel"]
-tags: [Eden, Young Endeavour]
+tags: [NSW, Eden, Young Endeavour]
+series: ["Young Endeavour"]
 ---
 
 ![YE_Groupshot](ye_groupshot.jpg)
@@ -16,4 +17,4 @@ That afternoon was the Eden Whale Festival, which was not as exciting as I was e
 
 As they say, it really was an experience of a lifetime and I had a phenomenal time. I had high expectations going in but I did not to expect it to be as rewarding or enjoyable as it was. The staff were infectiously happy and I got to see a whole new part of Australia and gain a small appreciation for life on the sea. I highly recommend that everyone who has an opportunity to apply do so.
 
-The captain put up [a daily log](http://www.youngendeavour.gov.au/whats_happening/captains_log_days.php?optvoyage=533) as well, and I found a blog post by another youth crew, [Jess](http://jesscooper.net/2011/11/06/young-endeavour/).
+The captain put up [a daily log](https://www.youngendeavour.gov.au/captains-log/sydney) as well, and I found a blog post by another youth crew, [Jess](http://jesscooper.net/2011/11/06/young-endeavour/).

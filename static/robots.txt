@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: *.jpg
+
+User-agent: Googlebot-Image
+Disallow: / 
+
+Sitemap: https://alex.guinman.id.au/sitemap.xml

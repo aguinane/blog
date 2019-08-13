@@ -1,5 +1,5 @@
 ---
-date: "2016-08-13 12:06:56+00:00"
+date: "2016-08-13"
 slug: tegenungan-waterfall-and-goa-gajah
 title: Tegenungan Waterfall and Goa Gajah
 categories: ["Travel"]

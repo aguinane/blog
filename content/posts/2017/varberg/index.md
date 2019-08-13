@@ -1,5 +1,5 @@
 ---
-date: "2017-04-03 12:00:00+00:00"
+date: "2017-04-03"
 slug: vargberg
 title: Varberg
 categories: ["Travel"]

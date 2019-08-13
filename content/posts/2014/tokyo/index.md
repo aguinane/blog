@@ -1,5 +1,5 @@
 ---
-date: "2014-03-02 11:14:18+00:00"
+date: "2014-03-02"
 slug: tokyo
 title: Tokyo
 categories: ["Travel"]

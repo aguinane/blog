@@ -1,5 +1,5 @@
 ---
-date: "2010-09-14 14:03:00+00:00"
+date: "2010-09-14"
 slug: iaeste-jura-weekend
 title: IAESTE Jura Weekend
 categories: ["Travel"]

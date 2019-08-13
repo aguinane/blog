@@ -1,5 +1,5 @@
 ---
-date: "2011-02-20 11:22:30+00:00"
+date: "2011-02-20"
 slug: return-to-oz
 title: Return to Oz
 categories: ["Travel"]

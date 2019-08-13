@@ -1,5 +1,5 @@
 ---
-date: "2017-03-27 12:00:00+00:00"
+date: "2017-03-27"
 slug: iceland-silfra
 title: Iceland Silfra and Northern Lights
 categories: ["Travel"]

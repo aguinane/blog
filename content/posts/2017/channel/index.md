@@ -1,5 +1,5 @@
 ---
-date: "2017-04-26 12:00:00+00:00"
+date: "2017-04-26"
 slug: channel
 title: Last Day in Ireland
 categories: ["Travel"]

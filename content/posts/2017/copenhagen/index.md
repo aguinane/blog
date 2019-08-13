@@ -1,5 +1,5 @@
 ---
-date: "2017-04-04 12:00:00+00:00"
+date: "2017-04-04"
 slug: copenhagen
 title: København
 categories: ["Travel"]

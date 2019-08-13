@@ -1,9 +1,9 @@
 ---
-date: "2012-06-19 05:55:01+00:00"
+date: "2012-06-19"
 slug: tangalooma-island-resort
 title: Tangalooma Island Resort
 categories: ["Travel"]
-tags: [brisbane river, Dolphin, Moreton Island, sand boarding, Sandboarding]
+tags: [Queensland, Brisbane, Dolphin, Moreton Island, Sandboarding]
 ---
 
 ![Dolphin Feeding](feeding.jpg)

@@ -1,5 +1,5 @@
 ---
-date: "2017-04-09 12:00:00+00:00"
+date: "2017-04-09"
 slug: berlin
 title: Berlin
 categories: ["Travel"]

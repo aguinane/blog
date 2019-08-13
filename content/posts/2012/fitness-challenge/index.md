@@ -1,5 +1,5 @@
 ---
-date: "2012-09-21 22:28:16+00:00"
+date: "2012-09-21"
 slug: fitness-challenge
 title: Fitness Challenge
 

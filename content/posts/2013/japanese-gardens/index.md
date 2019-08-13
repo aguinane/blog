@@ -1,5 +1,5 @@
 ---
-date: "2013-05-24 22:00:47+00:00"
+date: "2013-05-24"
 slug: japanese-gardens
 title: Japanese Gardens
 categories: ["Misc"]

@@ -1,5 +1,5 @@
 ---
-date: "2016-01-30 10:42:52+00:00"
+date: "2016-01-30"
 slug: granite-belt-take-2
 title: Granite Belt - Take 2
 categories: ["Travel"]

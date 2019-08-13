@@ -1,5 +1,5 @@
 ---
-date: "2013-07-13 10:15:45+00:00"
+date: "2013-07-13"
 slug: jubilee-park-mtn-biking
 title: Jubilee Park Mtn Biking
 categories: ["Misc"]

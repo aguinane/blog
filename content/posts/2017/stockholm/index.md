@@ -1,5 +1,5 @@
 ---
-date: "2017-03-31 12:00:00+00:00"
+date: "2017-03-31"
 slug: stockholm
 title: Stockholm
 categories: ["Travel"]

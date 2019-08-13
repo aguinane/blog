@@ -1,5 +1,5 @@
 ---
-date: "2011-08-02 09:54:07+00:00"
+date: "2011-08-02"
 slug: halong-bay
 title: Halong Bay
 categories: ["Travel"]

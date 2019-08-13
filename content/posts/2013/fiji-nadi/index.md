@@ -1,5 +1,5 @@
 ---
-date: "2013-02-26 09:58:00+00:00"
+date: "2013-02-26"
 slug: fiji-nadi
 title: Fiji - Nadi
 

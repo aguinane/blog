@@ -1,5 +1,5 @@
 ---
-date: "2017-04-11 12:00:00+00:00"
+date: "2017-04-11"
 slug: ljubljana
 title: Ljubljana
 categories: ["Travel"]

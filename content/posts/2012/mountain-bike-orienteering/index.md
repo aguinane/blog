@@ -1,5 +1,5 @@
 ---
-date: "2012-06-21 10:20:13+00:00"
+date: "2012-06-21"
 slug: mountain-bike-orienteering
 title: Mountain Bike Orienteering
 categories: ["Misc"]

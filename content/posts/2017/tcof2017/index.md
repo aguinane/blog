@@ -1,5 +1,5 @@
 ---
-date: "2017-09-24 12:00:00+00:00"
+date: "2017-09-24"
 slug: tcof2017
 title: Toowoomba Carnival of Flowers 2017
 categories: ["Misc"]

@@ -1,5 +1,5 @@
 ---
-date: "2016-08-14 12:18:08+00:00"
+date: "2016-08-14"
 slug: keramas
 title: Keramas
 categories: ["Travel"]

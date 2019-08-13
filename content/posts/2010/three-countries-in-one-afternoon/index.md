@@ -1,5 +1,5 @@
 ---
-date: "2010-08-29 17:48:00+00:00"
+date: "2010-08-29"
 slug: three-countries-in-one-afternoon
 title: Three Countries Corner
 categories: ["Travel"]

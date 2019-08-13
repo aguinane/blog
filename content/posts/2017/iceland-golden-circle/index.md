@@ -1,5 +1,5 @@
 ---
-date: "2017-03-26 12:00:00+00:00"
+date: "2017-03-26"
 slug: iceland-golden-circle
 title: Iceland Golden Circle
 categories: ["Travel"]

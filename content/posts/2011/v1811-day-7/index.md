@@ -1,9 +1,10 @@
 ---
-date: "2011-10-25 09:41:55+00:00"
+date: "2011-10-24"
 slug: v1811-day-7
 title: V18/11 - Day 7
 categories: ["Travel"]
-tags: [Eden, Young Endeavour]
+tags: [NSW, Eden, Young Endeavour]
+series: ["Young Endeavour"]
 ---
 
 ![YE Fell In](ye_fellin.jpg)

@@ -1,5 +1,5 @@
 ---
-date: "2017-04-20 12:00:00+00:00"
+date: "2017-04-20"
 slug: paris
 title: Paris
 categories: ["Travel"]

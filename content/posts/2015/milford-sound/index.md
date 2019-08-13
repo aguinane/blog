@@ -1,5 +1,5 @@
 ---
-date: "2015-09-06 06:03:34+00:00"
+date: "2015-09-06"
 slug: milford-sound
 title: Milford Sound
 categories: ["Travel"]

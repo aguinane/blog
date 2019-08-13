@@ -1,5 +1,5 @@
 ---
-date: "2010-11-26 16:00:00+00:00"
+date: "2010-11-26"
 slug: zurich-2
 title: Zürich Christmas Markets
 categories: ["Travel"]

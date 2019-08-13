@@ -1,5 +1,5 @@
 ---
-date: "2013-11-01 08:53:27+00:00"
+date: "2013-11-01"
 slug: toowoomba-sunset
 title: Toowoomba Sunset
 categories: ["Misc"]

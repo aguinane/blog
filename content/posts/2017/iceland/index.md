@@ -1,5 +1,5 @@
 ---
-date: "2017-03-29 12:00:00+00:00"
+date: "2017-03-29"
 slug: iceland
 title: Final day in Iceland
 categories: ["Travel"]

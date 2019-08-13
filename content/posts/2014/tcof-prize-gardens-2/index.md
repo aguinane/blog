@@ -1,5 +1,5 @@
 ---
-date: "2014-10-07 03:08:53+00:00"
+date: "2014-10-07"
 slug: tcof-prize-gardens-2
 title: TCOF Prize Gardens
 categories: ["Misc"]

@@ -1,5 +1,5 @@
 ---
-date: "2010-11-12 18:05:00+00:00"
+date: "2010-11-12"
 slug: euro-trip-praha
 title: Praha
 categories: ["Travel"]

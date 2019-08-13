@@ -1,5 +1,5 @@
 ---
-date: "2014-10-07 08:59:49+00:00"
+date: "2014-10-07"
 slug: goomburra-state-forest
 title: Goomburra State Forest
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2010-07-06 18:06:00+00:00"
+date: "2010-07-06"
 slug: bern
 title: Bern
 categories: ["Travel"]

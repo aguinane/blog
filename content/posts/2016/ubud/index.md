@@ -1,5 +1,5 @@
 ---
-date: "2016-07-25 06:26:23+00:00"
+date: "2016-07-25"
 slug: ubud
 title: Ubud
 categories: ["Travel"]

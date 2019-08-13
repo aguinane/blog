@@ -1,5 +1,5 @@
 ---
-date: "2010-07-20 16:59:00+00:00"
+date: "2010-07-20"
 slug: iaeste-rafting-weekend
 title: IAESTE Rafting Weekend
 categories: ["Travel"]

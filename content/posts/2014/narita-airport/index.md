@@ -1,5 +1,5 @@
 ---
-date: "2014-03-01 01:26:26+00:00"
+date: "2014-03-01"
 slug: narita-airport
 title: Narita Airport
 categories: ["Travel"]

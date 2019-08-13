@@ -1,5 +1,5 @@
 ---
-date: "2010-07-01 04:27:00+00:00"
+date: "2010-07-01"
 slug: the-flight
 title: The Flight
 categories: ["Travel"]

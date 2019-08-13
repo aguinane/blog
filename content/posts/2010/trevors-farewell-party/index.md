@@ -1,5 +1,5 @@
 ---
-date: "2010-07-11 08:26:00+00:00"
+date: "2010-07-11"
 slug: trevors-farewell-party
 title: Trevor's Farewell Party
 categories: ["Travel"]

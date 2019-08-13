@@ -1,5 +1,5 @@
 ---
-date: "2010-07-01 04:45:00+00:00"
+date: "2010-07-01"
 slug: the-apartment
 title: The Apartment
 categories: ["Travel"]

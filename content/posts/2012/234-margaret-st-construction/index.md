@@ -1,8 +1,7 @@
 ---
-date: "2012-11-18 05:07:36+00:00"
+date: "2012-11-18"
 slug: 234-margaret-st-construction
 title: 234 Margaret St Construction
-
 categories: ["Misc"]
 tags: [Construction, Flood, Skyscraper]
 ---

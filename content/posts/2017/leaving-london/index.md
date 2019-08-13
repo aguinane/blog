@@ -1,5 +1,5 @@
 ---
-date: "2017-03-25 12:00:00+00:00"
+date: "2017-03-25"
 slug: leaving-london
 title: Leaving London
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2011-07-23 02:02:58+00:00"
+date: "2011-07-23"
 slug: ho-chi-minh-city-saigon
 title: Ho Chi Minh City (Saigon)
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2013-01-13 06:32:51+00:00"
+date: "2013-01-13"
 slug: sunrise-on-christmas-day
 title: Sunrise on Christmas Day
 categories: ["Misc"]

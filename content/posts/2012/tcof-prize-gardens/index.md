@@ -1,8 +1,7 @@
 ---
-date: "2012-09-30 00:26:32+00:00"
+date: "2012-09-30"
 slug: tcof-prize-gardens
 title: TCOF Prize Gardens
-
 post_format: Gallery
 categories: ["Misc"]
 tags: [Flowers, Gardens, TCOF, Toowoomba]

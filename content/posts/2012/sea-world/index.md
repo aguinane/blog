@@ -1,5 +1,5 @@
 ---
-date: "2012-07-08 09:01:51+00:00"
+date: "2012-07-08"
 slug: sea-world
 title: Sea World
 categories: ["Misc"]

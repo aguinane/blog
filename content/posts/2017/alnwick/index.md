@@ -1,5 +1,5 @@
 ---
-date: "2017-05-02 12:00:00+00:00"
+date: "2017-05-02"
 slug: alnwick
 title: Alnwick and The Wall
 categories: ["Travel"]

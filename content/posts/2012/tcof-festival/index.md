@@ -1,5 +1,5 @@
 ---
-date: "2012-09-29 21:46:30+00:00"
+date: "2012-09-29"
 slug: tcof-festival
 title: Ergon Energy Flower Food and Wine Festival
 categories: ["Misc"]

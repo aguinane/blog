@@ -1,9 +1,10 @@
 ---
-date: "2011-10-23 22:13:12+00:00"
-slug: young-endeavour-v1811-sydney-to-eden-part-3
+date: "2011-10-23"
+slug: v1811-day6
 title: V18/11 - Day 6
 categories: ["Travel"]
-tags: [Eden, Young Endeavour]
+tags: [NSW, Eden, Young Endeavour]
+series: ["Young Endeavour"]
 ---
 
 ![Storm Cloud Rolling In](p1080981.jpg)

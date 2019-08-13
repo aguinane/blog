@@ -1,5 +1,5 @@
 ---
-date: "2012-08-11 08:53:47+00:00"
+date: "2012-08-11"
 slug: dave-kylies-wedding
 title: Dave & Kylie's Wedding
 categories: ["Misc"]

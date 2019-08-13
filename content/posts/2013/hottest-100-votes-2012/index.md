@@ -1,5 +1,5 @@
 ---
-date: "2013-01-16 07:45:15+00:00"
+date: "2013-01-16"
 slug: hottest-100-votes-2012
 title: Hottest 100 Votes 2012
 categories: ["Music"]

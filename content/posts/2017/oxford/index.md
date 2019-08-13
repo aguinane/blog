@@ -1,5 +1,5 @@
 ---
-date: "2017-05-07 12:00:00+00:00"
+date: "2017-05-07"
 slug: oxford
 title: Oxford
 categories: ["Travel"]

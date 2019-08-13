@@ -1,5 +1,5 @@
 ---
-date: "2014-03-08 23:18:16+00:00"
+date: "2014-03-08"
 slug: jigokudani-monkey-park
 title: Jigokudani Monkey Park
 categories: ["Travel"]

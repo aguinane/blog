@@ -1,5 +1,5 @@
 ---
-date: "2016-07-11 03:15:38+00:00"
+date: "2016-07-11"
 slug: seminyak
 title: Seminyak
 categories: ["Travel"]

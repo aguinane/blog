@@ -1,5 +1,5 @@
 ---
-date: "2014-10-15 08:51:16+00:00"
+date: "2014-10-15"
 slug: technical-tour-of-mrh-simulator-at-oakey-army-aviation-base
 title: Technical Tour of MRH Simulator at Oakey Army Aviation Base
 categories: ["Misc"]

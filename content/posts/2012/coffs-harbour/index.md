@@ -1,5 +1,5 @@
 ---
-date: "2012-09-13 09:31:05+00:00"
+date: "2012-09-13"
 slug: coffs-harbour
 title: Coffs Harbour
 

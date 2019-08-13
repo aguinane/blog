@@ -1,5 +1,5 @@
 ---
-date: "2014-03-08 23:20:20+00:00"
+date: "2014-03-08"
 slug: japanese-serow
 title: Japanese Serow
 categories: ["Travel"]

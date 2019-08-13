@@ -1,5 +1,5 @@
 ---
-date: "2010-11-13 13:22:00+00:00"
+date: "2010-11-13"
 slug: euro-trip-schloss-neuschwanstein
 title: Schloss Neuschwanstein
 categories: ["Travel"]

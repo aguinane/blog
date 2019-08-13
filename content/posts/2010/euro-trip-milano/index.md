@@ -1,5 +1,5 @@
 ---
-date: "2010-11-06 09:53:00+00:00"
+date: "2010-11-06"
 slug: euro-trip-milano
 title: Milano
 categories: ["Travel"]

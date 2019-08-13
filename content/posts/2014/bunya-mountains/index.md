@@ -1,5 +1,5 @@
 ---
-date: "2014-03-24 01:54:05+00:00"
+date: "2014-03-24"
 slug: bunya-mountains
 title: Bunya Mountains
 categories: ["Travel"]

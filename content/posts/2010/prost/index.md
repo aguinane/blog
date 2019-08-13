@@ -1,5 +1,5 @@
 ---
-date: "2010-09-16 09:45:00+00:00"
+date: "2010-09-16"
 slug: prost
 title: Prost
 categories: ["Travel"]

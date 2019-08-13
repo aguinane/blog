@@ -1,5 +1,5 @@
 ---
-date: "2017-04-22 12:00:00+00:00"
+date: "2017-04-22"
 slug: belfast
 title: Belfast
 categories: ["Travel"]

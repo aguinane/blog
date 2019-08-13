@@ -1,5 +1,5 @@
 ---
-date: "2010-12-31 10:38:00+00:00"
+date: "2010-12-31"
 slug: alpamare
 title: Alpamare
 

@@ -1,5 +1,5 @@
 ---
-date: "2017-05-05 12:00:00+00:00"
+date: "2017-05-05"
 slug: snowdonia
 title: Snowdonia
 categories: ["Travel"]

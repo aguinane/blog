@@ -1,5 +1,5 @@
 ---
-date: "2010-11-10 19:36:00+00:00"
+date: "2010-11-10"
 slug: ice-skating-in-zurich
 title: Ice Skating in Zürich
 categories: ["Travel"]

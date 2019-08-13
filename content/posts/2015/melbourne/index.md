@@ -1,5 +1,5 @@
 ---
-date: "2015-03-13 03:35:59+00:00"
+date: "2015-03-13"
 slug: melbourne
 title: Melbourne
 categories: ["Travel"]

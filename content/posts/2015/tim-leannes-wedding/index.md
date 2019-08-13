@@ -1,5 +1,5 @@
 ---
-date: "2015-02-24 08:36:42+00:00"
+date: "2015-02-24"
 slug: tim-leannes-wedding
 title: Tim & Leanne's Wedding
 categories: ["Misc"]

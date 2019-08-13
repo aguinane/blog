@@ -1,5 +1,5 @@
 ---
-date: "2010-07-11 08:30:00+00:00"
+date: "2010-07-11"
 slug: radio-clocks
 title: Radio Clocks
 categories: ["Travel"]

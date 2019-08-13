@@ -1,9 +1,10 @@
 ---
-date: "2011-10-20 12:49:34+00:00"
+date: "2011-10-19"
 slug: v1811-day-2
 title: V18/11 - Day 2
 categories: ["Travel"]
-tags: [Sydney, Young Endeavour]
+tags: [NSW, Sydney, Young Endeavour]
+series: ["Young Endeavour"]
 ---
 
 ![YE_sydneyship](ye_sydneyship.jpg)

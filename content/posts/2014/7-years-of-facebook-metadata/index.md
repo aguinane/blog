@@ -1,5 +1,5 @@
 ---
-date: "2014-08-30 01:19:39+00:00"
+date: "2014-08-30"
 slug: 7-years-of-facebook-metadata
 title: 7 Years Of Facebook Metadata
 categories: ["Misc"]

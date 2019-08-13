@@ -1,5 +1,5 @@
 ---
-date: "2010-07-03 10:42:00+00:00"
+date: "2010-07-03"
 slug: baden
 title: Baden
 categories: ["Travel"]

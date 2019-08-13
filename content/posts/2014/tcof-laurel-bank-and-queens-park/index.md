@@ -1,5 +1,5 @@
 ---
-date: "2014-10-07 08:24:32+00:00"
+date: "2014-10-07"
 slug: tcof-laurel-bank-and-queens-park
 title: TCOF Laurel Bank And Queens Park
 categories: ["Misc"]

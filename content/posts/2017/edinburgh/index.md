@@ -1,5 +1,5 @@
 ---
-date: "2017-04-29 12:00:00+00:00"
+date: "2017-04-29"
 slug: edinburgh
 title: Edinburgh
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2013-10-19 08:21:46+00:00"
+date: "2013-10-19"
 slug: townsville
 title: Townsville
 categories: ["Travel"]

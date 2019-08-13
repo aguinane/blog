@@ -1,5 +1,5 @@
 ---
-date: "2010-12-01 17:56:00+00:00"
+date: "2010-12-01"
 slug: more-snow
 title: More Snow!
 

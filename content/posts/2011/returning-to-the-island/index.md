@@ -1,5 +1,5 @@
 ---
-date: "2011-02-21 02:32:55+00:00"
+date: "2011-02-21"
 slug: returning-to-the-island
 title: Returning to the Island
 categories: ["Travel"]

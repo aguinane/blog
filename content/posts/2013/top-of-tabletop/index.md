@@ -1,5 +1,5 @@
 ---
-date: "2013-05-31 23:00:51+00:00"
+date: "2013-05-31"
 slug: top-of-tabletop
 title: Top of Tabletop
 categories: ["Misc"]

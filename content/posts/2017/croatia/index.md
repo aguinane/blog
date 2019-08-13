@@ -1,5 +1,5 @@
 ---
-date: "2017-04-10 12:00:00+00:00"
+date: "2017-04-10"
 slug: croatia
 title: Plitvička Jezera
 categories: ["Travel"]

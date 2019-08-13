@@ -1,5 +1,5 @@
 ---
-date: "2011-07-27 23:39:06+00:00"
+date: "2011-07-27"
 slug: hue
 title: Hue
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2010-07-14 17:28:00+00:00"
+date: "2010-07-14"
 slug: ruine-stein
 title: Ruine Stein
 categories: ["Travel"]

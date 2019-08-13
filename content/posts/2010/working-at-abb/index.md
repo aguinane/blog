@@ -1,5 +1,5 @@
 ---
-date: "2010-07-07 16:39:00+00:00"
+date: "2010-07-07"
 slug: working-at-abb
 title: Working at ABB
 categories: ["Travel"]

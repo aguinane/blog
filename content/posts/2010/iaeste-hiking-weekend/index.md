@@ -1,5 +1,5 @@
 ---
-date: "2010-09-14 14:06:00+00:00"
+date: "2010-09-14"
 slug: iaeste-hiking-weekend
 title: IAESTE Hiking Weekend
 categories: ["Travel"]

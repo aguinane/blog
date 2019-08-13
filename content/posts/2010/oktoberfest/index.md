@@ -1,5 +1,5 @@
 ---
-date: "2010-10-05 18:22:00+00:00"
+date: "2010-10-05"
 slug: oktoberfest
 title: Oktoberfest
 categories: ["Travel"]
@@ -8,10 +8,7 @@ tags: [Germany, Munich, Oktoberfest]
 
 ![Oktoberfest](p1040660.jpg)
 
-
-
 ## FRIDAY
-
 
 So the trip to Oktoberfest started with a long train ride from Zürich to München. It went fairly quickly but, as someone brought cards, so we played a Canadian variation of Presidents and Assholes.
 

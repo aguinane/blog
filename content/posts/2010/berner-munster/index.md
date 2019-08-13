@@ -1,5 +1,5 @@
 ---
-date: "2010-07-06 18:50:00+00:00"
+date: "2010-07-06"
 slug: berner-munster
 title: Berner Münster
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2012-03-30 01:58:17+00:00"
+date: "2012-03-30"
 slug: sightseeing-at-home
 title: Sightseeing at Home
 categories: ["Travel"]

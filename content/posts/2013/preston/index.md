@@ -1,5 +1,5 @@
 ---
-date: "2013-12-08 09:18:45+00:00"
+date: "2013-12-08"
 slug: preston
 title: Preston
 categories: ["Misc"]

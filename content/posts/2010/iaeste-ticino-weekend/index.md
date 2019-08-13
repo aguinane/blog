@@ -1,5 +1,5 @@
 ---
-date: "2010-08-04 16:41:00+00:00"
+date: "2010-08-04"
 slug: iaeste-ticino-weekend
 title: IAESTE Ticino Weekend
 categories: ["Travel"]

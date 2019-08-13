@@ -1,5 +1,5 @@
 ---
-date: "2013-06-10 00:00:43+00:00"
+date: "2013-06-10"
 slug: crows-nest-national-park
 title: Crows Nest National Park
 categories: ["Travel"]

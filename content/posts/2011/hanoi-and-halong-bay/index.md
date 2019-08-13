@@ -1,5 +1,5 @@
 ---
-date: "2011-07-31 00:20:01+00:00"
+date: "2011-07-31"
 slug: hanoi-and-halong-bay
 title: Hanoi
 categories: ["Travel"]

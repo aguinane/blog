@@ -1,5 +1,5 @@
 ---
-date: "2015-09-06 06:03:29+00:00"
+date: "2015-09-06"
 slug: wanaka-and-the-snowfields
 title: Wanaka and the Snowfields
 categories: ["Travel"]

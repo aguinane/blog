@@ -1,5 +1,5 @@
 ---
-date: "2015-06-01 00:37:49+00:00"
+date: "2015-06-01"
 slug: the-bunyas
 title: The Bunyas
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2017-09-20 12:00:00+00:00"
+date: "2017-09-20"
 slug: dna-health
 title: DNA Health Care
 categories: ["Misc"]

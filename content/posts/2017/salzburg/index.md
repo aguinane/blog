@@ -1,5 +1,5 @@
 ---
-date: "2017-04-16 12:00:00+00:00"
+date: "2017-04-16"
 slug: salzburg
 title: Salzburg
 categories: ["Travel"]

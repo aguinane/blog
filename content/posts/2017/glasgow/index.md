@@ -1,5 +1,5 @@
 ---
-date: "2017-05-01 12:00:00+00:00"
+date: "2017-05-01"
 slug: glasgow
 title: Glasgow
 categories: ["Travel"]

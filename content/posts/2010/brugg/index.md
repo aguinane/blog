@@ -1,5 +1,5 @@
 ---
-date: "2010-07-06 16:59:00+00:00"
+date: "2010-07-06"
 slug: brugg
 title: Brugg
 categories: ["Travel"]

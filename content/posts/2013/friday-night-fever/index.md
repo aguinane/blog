@@ -1,5 +1,5 @@
 ---
-date: "2013-12-08 09:11:51+00:00"
+date: "2013-12-08"
 slug: friday-night-fever
 title: Friday Night Fever
 categories: ["Misc"]

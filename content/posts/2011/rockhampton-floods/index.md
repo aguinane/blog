@@ -1,5 +1,5 @@
 ---
-date: "2011-02-21 05:21:46+00:00"
+date: "2011-02-21"
 slug: rockhampton-floods
 title: Rockhampton Floods
 

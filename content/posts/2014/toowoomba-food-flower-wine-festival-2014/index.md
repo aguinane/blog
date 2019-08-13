@@ -1,5 +1,5 @@
 ---
-date: "2014-10-07 02:54:18+00:00"
+date: "2014-10-07"
 slug: toowoomba-food-flower-wine-festival-2014
 title: Toowoomba Food, Flower & Wine Festival 2014
 categories: ["Misc"]

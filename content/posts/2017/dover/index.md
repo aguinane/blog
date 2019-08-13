@@ -1,5 +1,5 @@
 ---
-date: "2017-03-24 12:00:00+00:00"
+date: "2017-03-24"
 slug: dover
 title: Dover
 categories: ["Travel"]

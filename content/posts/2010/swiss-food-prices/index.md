@@ -1,5 +1,5 @@
 ---
-date: "2010-12-19 09:04:00+00:00"
+date: "2010-12-19"
 slug: swiss-food-prices
 title: Swiss Food Prices
 

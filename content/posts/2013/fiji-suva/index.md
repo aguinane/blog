@@ -1,5 +1,5 @@
 ---
-date: "2013-03-03 01:22:03+00:00"
+date: "2013-03-03"
 slug: fiji-suva
 title: Fiji - Suva
 categories: ["Travel"]

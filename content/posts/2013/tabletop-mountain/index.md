@@ -1,5 +1,5 @@
 ---
-date: "2013-03-24 03:18:16+00:00"
+date: "2013-03-24"
 slug: tabletop-mountain
 title: Tabletop Mountain
 categories: ["Misc"]

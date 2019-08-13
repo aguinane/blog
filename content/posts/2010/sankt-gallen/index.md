@@ -1,5 +1,5 @@
 ---
-date: "2010-12-28 19:49:00+00:00"
+date: "2010-12-28"
 slug: sankt-gallen
 title: Sankt Gallen
 

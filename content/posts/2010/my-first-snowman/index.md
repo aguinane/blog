@@ -1,5 +1,5 @@
 ---
-date: "2010-12-29 19:28:00+00:00"
+date: "2010-12-29"
 slug: my-first-snowman
 title: My First Snowman
 

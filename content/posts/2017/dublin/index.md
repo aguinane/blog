@@ -1,5 +1,5 @@
 ---
-date: "2017-04-25 12:00:00+00:00"
+date: "2017-04-25"
 slug: dublin
 title: Dublin
 categories: ["Travel"]

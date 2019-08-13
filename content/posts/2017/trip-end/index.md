@@ -1,5 +1,5 @@
 ---
-date: "2017-05-10 12:00:00+00:00"
+date: "2017-05-10"
 slug: trip-end
 title: Trip End
 categories: ["Travel"]

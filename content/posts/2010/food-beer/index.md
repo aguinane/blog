@@ -1,5 +1,5 @@
 ---
-date: "2010-08-29 18:00:00+00:00"
+date: "2010-08-29"
 slug: food-beer
 title: Shopping in Germany for Food & Beer
 categories: ["Travel"]

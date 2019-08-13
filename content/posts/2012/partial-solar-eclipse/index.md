@@ -1,5 +1,5 @@
 ---
-date: "2012-11-17 07:16:35+00:00"
+date: "2012-11-17"
 slug: partial-solar-eclipse
 title: (Partial) Solar Eclipse
 categories: ["Misc"]

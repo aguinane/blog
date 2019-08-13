@@ -1,5 +1,5 @@
 ---
-date: "2015-09-19 08:15:54+00:00"
+date: "2015-09-19"
 slug: tekapo-and-christchurch
 title: Tekapo and Christchurch
 categories: ["Travel"]

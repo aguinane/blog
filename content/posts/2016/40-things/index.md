@@ -1,5 +1,5 @@
 ---
-date: "2016-01-31 01:08:07+00:00"
+date: "2016-01-31"
 Modified: 2019-02-23"
 slug: 40-things
 title: 40 Things

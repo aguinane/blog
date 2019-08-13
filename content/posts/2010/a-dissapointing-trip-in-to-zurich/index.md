@@ -1,5 +1,5 @@
 ---
-date: "2010-09-25 19:36:00+00:00"
+date: "2010-09-25"
 slug: a-dissapointing-trip-in-to-zurich
 title: A dissapointing trip in to Zürich
 categories: ["Travel"]

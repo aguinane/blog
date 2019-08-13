@@ -1,5 +1,5 @@
 ---
-date: "2017-09-21 12:00:00+00:00"
+date: "2017-09-21"
 slug: dna-family-tree
 title: DNA Genealogy
 categories: ["Misc"]

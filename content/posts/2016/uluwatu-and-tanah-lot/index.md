@@ -1,5 +1,5 @@
 ---
-date: "2016-07-16 04:24:48+00:00"
+date: "2016-07-16"
 slug: uluwatu-and-tanah-lot
 title: Uluwatu and Tanah Lot
 categories: ["Travel"]

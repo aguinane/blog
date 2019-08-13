@@ -1,5 +1,5 @@
 ---
-date: "2010-07-06 18:33:00+00:00"
+date: "2010-07-06"
 slug: naturhistorisches-museum-der-burgergemeinde-bern
 title: Naturhistorisches Museum der Burgergemeinde Bern
 categories: ["Travel"]

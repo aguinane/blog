@@ -1,5 +1,5 @@
 ---
-date: "2015-03-16 09:34:24+00:00"
+date: "2015-03-16"
 slug: great-ocean-road
 title: Great Ocean Road
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2010-07-01 15:56:00+00:00"
+date: "2010-07-01"
 slug: buildings-and-stuff
 title: Flower Obsessed
 categories: ["Travel"]

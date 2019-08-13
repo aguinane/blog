@@ -1,5 +1,5 @@
 ---
-date: "2010-07-11 09:04:00+00:00"
+date: "2010-07-11"
 slug: wanderweg
 title: Wanderweg
 categories: ["Travel"]

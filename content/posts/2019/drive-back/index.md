@@ -5,6 +5,7 @@ title: Drive Back South
 categories: ["Travel"]
 tags: ["Queensland", "Airlie", "Mackay"]
 series: ["Cairns Roadtrip"]
+featured_image: posts/2019/drive-back/horseshoebay2.jpg
 ---
 
 We tried to drive south as quickly as possible to get away from the rain.

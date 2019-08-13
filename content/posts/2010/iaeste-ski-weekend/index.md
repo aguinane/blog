@@ -1,5 +1,5 @@
 ---
-date: "2010-12-14 18:59:00+00:00"
+date: "2010-12-14"
 slug: iaeste-ski-weekend
 title: IAESTE Ski Weekend
 categories: ["Travel"]

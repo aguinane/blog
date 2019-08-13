@@ -1,5 +1,5 @@
 ---
-date: "2015-02-23 02:41:34+00:00"
+date: "2015-02-23"
 slug: housewarming-party
 title: Housewarming Party
 categories: ["Misc"]

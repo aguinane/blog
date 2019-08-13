@@ -1,5 +1,5 @@
 ---
-date: "2013-03-03 02:39:35+00:00"
+date: "2013-03-03"
 slug: fiji-rafting-upper-navua-river
 title: Fiji - Rafting Upper Navua River
 categories: ["Travel"]

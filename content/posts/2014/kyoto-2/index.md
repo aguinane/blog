@@ -1,5 +1,5 @@
 ---
-date: "2014-03-08 23:45:20+00:00"
+date: "2014-03-08"
 slug: kyoto-2
 title: Kyoto
 categories: ["Travel"]

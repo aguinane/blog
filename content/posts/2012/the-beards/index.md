@@ -1,5 +1,5 @@
 ---
-date: "2012-10-06 12:17:18+00:00"
+date: "2012-10-06"
 slug: the-beards
 title: The Beards
 categories: ["Music"]

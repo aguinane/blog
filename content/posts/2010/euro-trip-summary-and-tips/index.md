@@ -1,5 +1,5 @@
 ---
-date: "2010-11-13 13:46:00+00:00"
+date: "2010-11-13"
 slug: euro-trip-summary-and-tips
 title: Europe - Summary and Tips
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2016-07-28 09:24:48+00:00"
+date: "2016-07-28"
 slug: mt-batur
 title: Mt Batur
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2017-03-23 12:00:00+00:00"
+date: "2017-03-23"
 slug: more-london
 title: More London
 categories: ["Travel"]

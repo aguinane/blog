@@ -1,5 +1,5 @@
 ---
-date: "2010-07-01 15:42:00+00:00"
+date: "2010-07-01"
 slug: the-limmat-river
 title: The Limmat River
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2010-11-08 20:58:00+00:00"
+date: "2010-11-08"
 slug: euro-trip-venezia
 title: Venezia
 categories: ["Travel"]

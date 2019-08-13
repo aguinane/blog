@@ -1,5 +1,5 @@
 ---
-date: "2016-01-31 01:17:34+00:00"
+date: "2016-01-31"
 Modified: 2017-03-03 10:00:00+10:00"
 slug: countries-visited
 title: Countries Visited

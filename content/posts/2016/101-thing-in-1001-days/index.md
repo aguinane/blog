@@ -1,5 +1,5 @@
 ---
-date: "2016-01-30 11:16:33+00:00"
+date: "2016-01-30"
 slug: 101-thing-in-1001-days
 title: 101 Things in 1001 Days
 categories: ["Misc"]

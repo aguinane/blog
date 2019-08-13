@@ -1,5 +1,5 @@
 ---
-date: "2014-03-14 22:06:16+00:00"
+date: "2014-03-14"
 slug: osaka
 title: Osaka
 categories: ["Travel"]

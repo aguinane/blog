@@ -1,5 +1,5 @@
 ---
-date: "2010-07-03 11:20:00+00:00"
+date: "2010-07-03"
 slug: zurifascht-2010
 title: Zürifäscht 2010
 categories: ["Travel"]

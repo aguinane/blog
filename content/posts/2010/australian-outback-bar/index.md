@@ -1,5 +1,5 @@
 ---
-date: "2010-09-16 21:53:00+00:00"
+date: "2010-09-16"
 slug: australian-outback-bar
 title: Australian Outback Bar
 categories: ["Travel"]

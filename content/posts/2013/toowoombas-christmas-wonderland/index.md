@@ -1,5 +1,5 @@
 ---
-date: "2013-12-16 00:54:04+00:00"
+date: "2013-12-16"
 slug: toowoombas-christmas-wonderland
 title: Toowoomba's Christmas Wonderland
 categories: ["Misc"]

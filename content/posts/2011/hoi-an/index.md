@@ -1,5 +1,5 @@
 ---
-date: "2011-07-25 17:09:00+00:00"
+date: "2011-07-25"
 slug: hoi-an
 title: Hoi An
 categories: ["Travel"]

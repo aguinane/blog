@@ -1,5 +1,5 @@
 ---
-date: "2016-02-21 00:22:56+00:00"
+date: "2016-02-21"
 slug: oreillys-rainforest
 title: O'Reilly's Rainforest
 categories: ["Travel"]

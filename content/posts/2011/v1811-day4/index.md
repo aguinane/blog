@@ -1,9 +1,10 @@
 ---
-date: "2011-10-21 21:51:02+00:00"
-slug: young-endeavour-v1811-sydney-to-eden-part-2
+date: "2011-10-21"
+slug: v1811-day4
 title: V18/11 - Day 4
 categories: ["Travel"]
-tags: [Jervis Bay, Young Endeavour]
+tags: [NSW, Jervis Bay, Young Endeavour]
+series: ["Young Endeavour"]
 ---
 
 ![Jervis Bay](p1080943.jpg)

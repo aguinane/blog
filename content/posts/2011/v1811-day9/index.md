@@ -1,9 +1,10 @@
 ---
-date: "2011-10-26 17:32:50+00:00"
-slug: young-endeavour-v1811-sydney-to-eden-part-4
+date: "2011-10-26"
+slug: v1811-day9
 title: V18/11 - Day 9
 categories: ["Travel"]
-tags: [Eden, Young Endeavour]
+tags: [NSW, Eden, Young Endeavour]
+series: ["Young Endeavour"]
 ---
 
 ![Young Endeavour](pa270812.jpg)

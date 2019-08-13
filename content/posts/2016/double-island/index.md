@@ -1,5 +1,5 @@
 ---
-date: "2016-05-29 00:33:28+00:00"
+date: "2016-05-29"
 slug: double-island
 title: Double Island
 categories: ["Travel"]

@@ -1,5 +1,5 @@
 ---
-date: "2010-12-05 09:06:00+00:00"
+date: "2010-12-05"
 slug: neuhausen-am-rheinfall
 title: Neuhausen am Rheinfall
 categories: ["Travel"]

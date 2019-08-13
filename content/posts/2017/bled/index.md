@@ -1,5 +1,5 @@
 ---
-date: "2017-04-14 12:00:00+00:00"
+date: "2017-04-14"
 slug: bled
 title: Bled
 categories: ["Travel"]

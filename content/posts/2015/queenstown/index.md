@@ -1,5 +1,5 @@
 ---
-date: "2015-09-06 06:03:07+00:00"
+date: "2015-09-06"
 slug: queenstown
 title: Queenstown
 categories: ["Travel"]

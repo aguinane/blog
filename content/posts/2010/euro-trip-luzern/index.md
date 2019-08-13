@@ -1,5 +1,5 @@
 ---
-date: "2010-11-14 14:30:00+00:00"
+date: "2010-11-14"
 slug: euro-trip-luzern
 title: Luzern
 categories: ["Travel"]

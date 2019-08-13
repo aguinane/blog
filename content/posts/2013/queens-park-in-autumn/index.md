@@ -1,5 +1,5 @@
 ---
-date: "2013-05-25 07:11:50+00:00"
+date: "2013-05-25"
 slug: queens-park-in-autumn
 title: Queens Park in Autumn
 categories: ["Misc"]

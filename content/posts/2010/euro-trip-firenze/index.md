@@ -1,5 +1,5 @@
 ---
-date: "2010-11-07 20:20:00+00:00"
+date: "2010-11-07"
 slug: euro-trip-firenze
 title: Firenze
 categories: ["Travel"]

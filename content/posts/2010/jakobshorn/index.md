@@ -1,5 +1,5 @@
 ---
-date: "2010-11-30 19:56:00+00:00"
+date: "2010-11-30"
 slug: jakobshorn
 title: Jakobshorn
 categories: ["Travel"]

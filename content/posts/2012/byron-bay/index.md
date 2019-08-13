@@ -1,5 +1,5 @@
 ---
-date: "2012-09-13 08:49:39+00:00"
+date: "2012-09-13"
 slug: byron-bay
 title: Byron Bay
 

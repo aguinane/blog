@@ -1,5 +1,5 @@
 ---
-date: "2013-03-03 00:57:04+00:00"
+date: "2013-03-03"
 slug: fiji-pacific-harbour
 title: Fiji - Pacific Harbour
 categories: ["Travel"]

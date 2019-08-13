@@ -1,5 +1,5 @@
 ---
-date: "2014-05-17 01:06:20+00:00"
+date: "2014-05-17"
 slug: granite-belt
 title: Granite Belt
 categories: ["Travel"]

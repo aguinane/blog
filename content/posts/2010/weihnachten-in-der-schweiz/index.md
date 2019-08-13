@@ -1,5 +1,5 @@
 ---
-date: "2010-12-27 15:01:00+00:00"
+date: "2010-12-27"
 slug: weihnachten-in-der-schweiz
 title: Weihnachten in der Schweiz
 categories: ["Travel"]

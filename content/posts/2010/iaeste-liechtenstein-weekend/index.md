@@ -1,5 +1,5 @@
 ---
-date: "2010-08-16 14:48:00+00:00"
+date: "2010-08-16"
 slug: iaeste-liechtenstein-weekend
 title: IAESTE Liechtenstein Weekend
 categories: ["Travel"]

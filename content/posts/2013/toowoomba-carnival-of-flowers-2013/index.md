@@ -1,5 +1,5 @@
 ---
-date: "2013-09-23 07:59:11+00:00"
+date: "2013-09-23"
 slug: toowoomba-carnival-of-flowers-2013
 title: Toowoomba Carnival of Flowers 2013
 categories: ["Misc"]
