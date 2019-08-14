@@ -1,6 +1,6 @@
 ---
 categories:
-- Music
+- Misc
 date: '2016-01-03'
 featured_image: posts/2016/hottest-100-votes-for-2015/h100-15-640.jpg
 slug: hottest-100-votes-for-2015

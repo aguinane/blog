@@ -1,6 +1,6 @@
 ---
 categories:
-- Music
+- Misc
 date: '2014-01-16'
 featured_image: posts/2014/hottest-100-votes-for-2013/01.jpg
 slug: hottest-100-votes-for-2013

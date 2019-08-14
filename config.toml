@@ -31,13 +31,6 @@ paginate = 9
     url = "/categories/travel/"
 
 [[menu.main]]
-    name = "Music"
-    pre = "<i class='fa fa-folder-open'></i>"
-    weight = 2
-    identifier = "music"
-    url = "/categories/music/"
-
-[[menu.main]]
     name = "Misc"
     pre = "<i class='fa fa-folder-open'></i>"
     weight = 3

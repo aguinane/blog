@@ -1,6 +1,6 @@
 ---
 categories:
-- Music
+- Misc
 date: '2019-01-20'
 featured_image: posts/2019/hot-100-votes-2018/hot-100-2018.jpg
 slug: hot-100-votes-2018

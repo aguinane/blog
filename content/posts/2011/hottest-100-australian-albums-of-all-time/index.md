@@ -1,6 +1,6 @@
 ---
 categories:
-- Music
+- Misc
 date: '2011-06-25'
 featured_image: posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg
 slug: hottest-100-australian-albums-of-all-time
