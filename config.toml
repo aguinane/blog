@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Alex's Blog"
 subtitle = "Personal blog of Alex Guinman"
 theme = "ananke"
-paginate = 6
+paginate = 9
 
 [params]
   favicon = ""

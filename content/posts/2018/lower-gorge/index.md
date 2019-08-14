@@ -12,6 +12,8 @@ tags:
 - Art Gallery
 - Ward's Canyon
 title: Carnarvon Gorge - Lower Gorge
+series:
+- Carnarvon
 ---
 
 The actual hikes are all a single path that follows the creek, with a bunch of side paths.

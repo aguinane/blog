@@ -12,6 +12,8 @@ tags:
 - Mickey Creek
 - Bullimba Bluff
 title: Carnarvon Gorge - Takarakka
+series:
+- Carnarvon
 ---
 
 I'd always wanted to go to Carnarvon Gorge when I lived in Rocky, but never quite got there because it's a fair way inland.

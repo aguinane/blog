@@ -11,6 +11,8 @@ tags:
 - Big Bend
 - Cathedral Cave
 title: Carnarvon Gorge - Upper Gorge
+series:
+- Carnarvon
 ---
 
 On our last day we set straight out to the end of the walking track to Big Bend.
