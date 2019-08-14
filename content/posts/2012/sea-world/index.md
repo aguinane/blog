@@ -1,9 +1,12 @@
 ---
-date: "2012-07-08"
+categories:
+- Misc
+date: '2012-07-08'
+featured_image: posts/2012/sea-world/penguins.jpg
 slug: sea-world
+tags:
+- Sea World
 title: Sea World
-categories: ["Misc"]
-tags: [Sea World]
 ---
 
 ![SAMSUNG](penguins.jpg)

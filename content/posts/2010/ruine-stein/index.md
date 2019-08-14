@@ -1,9 +1,13 @@
 ---
-date: "2010-07-14"
+categories:
+- Travel
+date: '2010-07-14'
+featured_image: posts/2010/ruine-stein/p1020439-7646211.jpg
 slug: ruine-stein
+tags:
+- Baden
+- Switzerland
 title: Ruine Stein
-categories: ["Travel"]
-tags: [Baden, Switzerland]
 ---
 
 ![p1020439-764621](p1020439-7646211.jpg)

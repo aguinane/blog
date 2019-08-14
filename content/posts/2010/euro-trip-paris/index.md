@@ -1,9 +1,15 @@
 ---
-date: "2010-11-11"
+categories:
+- Travel
+date: '2010-11-11'
+featured_image: posts/2010/euro-trip-paris/p1040979.jpg
 slug: euro-trip-paris
+tags:
+- Europe
+- France
+- Louvre
+- Paris
 title: Paris
-categories: ["Travel"]
-tags: [Europe, France, Louvre, Paris]
 ---
 
 ![P1040979](p1040979.jpg)

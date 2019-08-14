@@ -1,9 +1,13 @@
 ---
-date: "2013-05-24"
+categories:
+- Misc
+date: '2013-05-24'
+featured_image: posts/2013/japanese-gardens/japanese-gardens.jpg
 slug: japanese-gardens
+tags:
+- Japanese Gardens
+- Toowoomba
 title: Japanese Gardens
-categories: ["Misc"]
-tags: [Japanese Gardens, Toowoomba]
 ---
 
 ![Japanese Gardens](japanese-gardens.jpg)

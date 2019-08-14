@@ -1,9 +1,16 @@
 ---
-date: "2010-07-20"
+categories:
+- Travel
+date: '2010-07-20'
+featured_image: posts/2010/iaeste-rafting-weekend/dsc_1714.jpg
 slug: iaeste-rafting-weekend
+tags:
+- IAESTE
+- Switzerland
+- Lauterbrunnen
+- Interlaken
+- Mürren
 title: IAESTE Rafting Weekend
-categories: ["Travel"]
-tags: [IAESTE, Switzerland, Lauterbrunnen, Interlaken, Mürren]
 ---
 
 ![rafting](dsc_1714.jpg)

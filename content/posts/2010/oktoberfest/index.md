@@ -1,9 +1,14 @@
 ---
-date: "2010-10-05"
+categories:
+- Travel
+date: '2010-10-05'
+featured_image: posts/2010/oktoberfest/p1040660.jpg
 slug: oktoberfest
+tags:
+- Germany
+- Munich
+- Oktoberfest
 title: Oktoberfest
-categories: ["Travel"]
-tags: [Germany, Munich, Oktoberfest]
 ---
 
 ![Oktoberfest](p1040660.jpg)

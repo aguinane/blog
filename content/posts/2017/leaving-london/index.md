@@ -1,9 +1,17 @@
 ---
-date: "2017-03-25"
+categories:
+- Travel
+date: '2017-03-25'
+featured_image: posts/2017/leaving-london/lake.jpg
 slug: leaving-london
+tags:
+- Europe
+- UK
+- England
+- London
+- Richmond Park
+- Flight
 title: Leaving London
-categories: ["Travel"]
-tags: [Europe, UK, England, London, Richmond Park, Flight]
 ---
 
 ![](lake.jpg "Pen Ponds")

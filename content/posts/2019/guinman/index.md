@@ -1,9 +1,10 @@
 ---
-date: "2019-05-04"
+categories:
+- Misc
+date: '2019-05-04'
+featured_image: posts/2019/guinman/newspaper-guaine.jpg
 slug: guinman
 title: The Guinman's
-categories: ["Misc"]
-featured_image: posts/2019/guinman/newspaper-guaine.jpg
 ---
 
 Part of thinking of names for a child is deciding on which surname to use. There are lots of different ways of choosing surnames other than the modern English way of taking the paternal one. The [wiki page on surnames](https://en.wikipedia.org/wiki/Surname) is supringly detailed.

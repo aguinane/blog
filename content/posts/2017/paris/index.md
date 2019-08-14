@@ -1,9 +1,14 @@
 ---
-date: "2017-04-20"
+categories:
+- Travel
+date: '2017-04-20'
+featured_image: posts/2017/paris/melting_house.jpg
 slug: paris
+tags:
+- Europe
+- France
+- Paris
 title: Paris
-categories: ["Travel"]
-tags: [Europe, France, Paris]
 ---
 
 After very little sleep on the bus, and leaving over an hour late, it meant we arrived late in Paris and so hit peak hour traffic, making us later still and stuck in traffic at a crawl. The bus actually went near our hostel and then we spent probably an hour in traffic after that getting to the bus stop on the other side of the city.

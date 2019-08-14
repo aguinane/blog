@@ -1,10 +1,16 @@
 ---
-date: "2012-09-30"
-slug: tcof-prize-gardens
-title: TCOF Prize Gardens
+categories:
+- Misc
+date: '2012-09-30'
+featured_image: posts/2012/tcof-prize-gardens/p1110044.jpg
 post_format: Gallery
-categories: ["Misc"]
-tags: [Flowers, Gardens, TCOF, Toowoomba]
+slug: tcof-prize-gardens
+tags:
+- Flowers
+- Gardens
+- TCOF
+- Toowoomba
+title: TCOF Prize Gardens
 ---
 
 While Mum and Dad were down, we went for a drive to check out the prize garden winners. It was a bit like looking at Christmas lights. The Reserve Grand Champion was by far the best garden, with a massive house and garden overlooking the range - they must be quite rich.

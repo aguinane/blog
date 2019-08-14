@@ -1,12 +1,17 @@
 ---
-date: "2017-09-24"
-slug: tcof2017
-title: Toowoomba Carnival of Flowers 2017
-categories: ["Misc"]
-tags: [TCOF, Flowers, Laurel Bank, Toowoomba, Wine]
+categories:
+- Misc
+date: '2017-09-24'
 featured_image: posts/2017/tcof2017/lb1.jpg
+slug: tcof2017
+tags:
+- TCOF
+- Flowers
+- Laurel Bank
+- Toowoomba
+- Wine
+title: Toowoomba Carnival of Flowers 2017
 ---
-
 
 Laurel Bank Park always has the best flowers, and this year was pretty good also although harder to make out the shapes then previous years (besides the Australia outline).
 

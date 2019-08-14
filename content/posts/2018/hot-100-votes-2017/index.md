@@ -1,9 +1,13 @@
 ---
-date: "2018-01-20 19:48:00+10:00"
+categories:
+- Music
+date: '2018-01-20 19:48:00+10:00'
+featured_image: posts/2018/hot-100-votes-2017/hot100-2017.png
 slug: hot-100-votes-2017
+tags:
+- Hottest 100
+- Triple J
 title: Hottest 100 Votes for 2017
-categories: ["Music"]
-tags: [Hottest 100, Triple J]
 ---
 
 ![hot100](hot100-2017.png)

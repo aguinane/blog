@@ -1,10 +1,13 @@
 ---
-date: "2010-07-03"
+categories:
+- Travel
+date: '2010-07-03'
+featured_image: posts/2010/baden/clocktower.jpg
 slug: baden
+tags:
+- Baden
+- Switzerland
 title: Baden
-categories: ["Travel"]
-tags: [Baden, Switzerland]
-featured_image: clocktower.jpg
 ---
 
 So after work on Friday I thought I would see what the closest town (Baden) is like.
@@ -22,4 +25,3 @@ The river passes through here as well, and there was three guys jumping into it 
 ![Swimming](swimming.jpg)
 
 ![Me](P1010854.jpg)
-

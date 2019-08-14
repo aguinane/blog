@@ -1,10 +1,14 @@
 ---
-date: "2019-04-13"
-slug: mt-cordeaux
-title: Mt Cordeaux and Bare Rock Hike
-categories: ["Travel"]
-tags: [Queensland, Main Range, Hiking]
+categories:
+- Travel
+date: '2019-04-13'
 featured_image: posts/2019/mt-cordeaux/bare-rock.jpg
+slug: mt-cordeaux
+tags:
+- Queensland
+- Main Range
+- Hiking
+title: Mt Cordeaux and Bare Rock Hike
 ---
 
 ![](bare-rock.jpg)

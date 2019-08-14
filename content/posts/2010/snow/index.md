@@ -1,10 +1,14 @@
 ---
-date: "2010-11-24"
+categories:
+- Travel
+date: '2010-11-24'
+featured_image: posts/2010/snow/ Once the clouds cleared a bit you could see the trees
+  on the very top of the hill were snow-capped, but about 15 minutes later that was
+  gone too.
 slug: snow
+tags:
+- Switzerland
 title: Snow!
-
-categories: ["Travel"]
-tags: [Switzerland]
 ---
 
 It snowed today! For about 5 minutes anyway. The weather had predicted snow for today, but when I woke up in the morning I was disappointed to see that there was none. Then at work I looked out the window at one stage in the morning, and noticed IT WAS SNOWING! After a few minutes when it stopped there was no indication that it had snowed at all :( Once the clouds cleared a bit you could see the trees on the very top of the hill were snow-capped, but about 15 minutes later that was gone too.

@@ -1,9 +1,14 @@
 ---
-date: "2010-11-08"
+categories:
+- Travel
+date: '2010-11-08'
+featured_image: posts/2010/euro-trip-venezia/p1040894.jpg
 slug: euro-trip-venezia
+tags:
+- Europe
+- Italy
+- Venezia
 title: Venezia
-categories: ["Travel"]
-tags: [Europe, Italy, Venezia]
 ---
 
 ![Me in Venice](p1040894.jpg)

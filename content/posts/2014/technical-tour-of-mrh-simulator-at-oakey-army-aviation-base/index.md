@@ -1,9 +1,13 @@
 ---
-date: "2014-10-15"
+categories:
+- Misc
+date: '2014-10-15'
+featured_image: posts/2014/technical-tour-of-mrh-simulator-at-oakey-army-aviation-base/controlscreen.jpg
 slug: technical-tour-of-mrh-simulator-at-oakey-army-aviation-base
+tags:
+- Simulator
+- VR
 title: Technical Tour of MRH Simulator at Oakey Army Aviation Base
-categories: ["Misc"]
-tags: [Simulator, VR]
 ---
 
 ![controlscreen](controlscreen.jpg)

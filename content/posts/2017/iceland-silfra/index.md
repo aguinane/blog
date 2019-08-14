@@ -1,9 +1,18 @@
 ---
-date: "2017-03-27"
+categories:
+- Travel
+date: '2017-03-27'
+featured_image: posts/2017/iceland-silfra/https://youtu.be/5adC3nc0MHI?t=2m36s) when
+  we were planning our trip and since then snorkeling at [Silfra](https://en.wikipedia.org/wiki/Silfra)
+  was what she was most looking forward to.
 slug: iceland-silfra
+tags:
+- Europe
+- Iceland
+- Silfra
+- Lava
+- Aurora
 title: Iceland Silfra and Northern Lights
-categories: ["Travel"]
-tags: [Europe, Iceland, Silfra, Lava, Aurora]
 ---
 
 Monday we had much nicer weather, and it was the day Rachael was most looking forward to. I showed her this [Smarter Everyday Video](https://youtu.be/5adC3nc0MHI?t=2m36s) when we were planning our trip and since then snorkeling at [Silfra](https://en.wikipedia.org/wiki/Silfra) was what she was most looking forward to.

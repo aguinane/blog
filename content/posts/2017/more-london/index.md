@@ -1,9 +1,15 @@
 ---
-date: "2017-03-23"
+categories:
+- Travel
+date: '2017-03-23'
+featured_image: posts/2017/more-london/towerbridge.jpg "Tower Bridg
 slug: more-london
+tags:
+- Europe
+- UK
+- England
+- London
 title: More London
-categories: ["Travel"]
-tags: [Europe, UK, England, London]
 ---
 
 ![](towerbridge.jpg "Tower Bridge")

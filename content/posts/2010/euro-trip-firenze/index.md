@@ -1,9 +1,14 @@
 ---
-date: "2010-11-07"
+categories:
+- Travel
+date: '2010-11-07'
+featured_image: posts/2010/euro-trip-firenze/p1040846.jpg
 slug: euro-trip-firenze
+tags:
+- Europe
+- Firenze
+- Italy
 title: Firenze
-categories: ["Travel"]
-tags: [Europe, Firenze, Italy]
 ---
 
 ![Florence](p1040846.jpg)

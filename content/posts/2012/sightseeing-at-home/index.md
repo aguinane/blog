@@ -1,9 +1,16 @@
 ---
-date: "2012-03-30"
+categories:
+- Travel
+date: '2012-03-30'
+featured_image: posts/2012/sightseeing-at-home/crocfarm2.jpg
 slug: sightseeing-at-home
+tags:
+- Queensland
+- Byfield
+- Crocodile
+- Koorana
+- Rockhampton
 title: Sightseeing at Home
-categories: ["Travel"]
-tags: [Queensland, Byfield, Crocodile, Koorana, Rockhampton]
 ---
 
 ![Me at the croc farm.](crocfarm2.jpg)

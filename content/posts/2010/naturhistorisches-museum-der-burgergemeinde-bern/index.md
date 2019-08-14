@@ -1,9 +1,13 @@
 ---
-date: "2010-07-06"
+categories:
+- Travel
+date: '2010-07-06'
+featured_image: posts/2010/naturhistorisches-museum-der-burgergemeinde-bern/P1020029.jpg
 slug: naturhistorisches-museum-der-burgergemeinde-bern
+tags:
+- Bern
+- Switzerland
 title: Naturhistorisches Museum der Burgergemeinde Bern
-categories: ["Travel"]
-tags: [Bern, Switzerland]
 ---
 
 ![p1020029-707529](P1020029.jpg)

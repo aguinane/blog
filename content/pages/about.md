@@ -1,7 +1,6 @@
 ---
 title: About
 type: page
-featured_image: ''
 ---
 
 I originally started this blog as "Tales From Turgi" when I was living in

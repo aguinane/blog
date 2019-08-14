@@ -1,9 +1,15 @@
 ---
-date: "2017-05-03"
+categories:
+- Travel
+date: '2017-05-03'
+featured_image: posts/2017/lakes-district/lake.jpg
 slug: lakes-district
+tags:
+- Europe
+- UK
+- England
+- Lakes District
 title: Lakes District
-categories: ["Travel"]
-tags: [Europe, UK, England, Lakes District]
 ---
 
 After driving along the wall, we stopped at our next accommodation which was in Penrith.

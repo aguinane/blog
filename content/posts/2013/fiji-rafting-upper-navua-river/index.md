@@ -1,9 +1,13 @@
 ---
-date: "2013-03-03"
+categories:
+- Travel
+date: '2013-03-03'
+featured_image: posts/2013/fiji-rafting-upper-navua-river/imgp8896.jpg
 slug: fiji-rafting-upper-navua-river
+tags:
+- Fiji
+- Rafting
 title: Fiji - Rafting Upper Navua River
-categories: ["Travel"]
-tags: [Fiji, Rafting]
 ---
 
 ![Fiji Rafting](imgp8896.jpg)

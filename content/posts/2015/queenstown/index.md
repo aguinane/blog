@@ -1,9 +1,14 @@
 ---
-date: "2015-09-06"
+categories:
+- Travel
+date: '2015-09-06'
+featured_image: posts/2015/queenstown/pano_20150825_160743.jpg
 slug: queenstown
+tags:
+- Luge
+- new zealand
+- Queenstown
 title: Queenstown
-categories: ["Travel"]
-tags: [Luge, new zealand, Queenstown]
 ---
 
 ![PANO_20150825_160743](pano_20150825_160743.jpg)

@@ -1,9 +1,15 @@
 ---
-date: "2017-04-25"
+categories:
+- Travel
+date: '2017-04-25'
+featured_image: posts/2017/dublin/https://en.wikipedia.org/wiki/Dublin_Castle) and
+  the The Dubhlinn (Black pool) Gardens.
 slug: dublin
+tags:
+- Europe
+- Ireland
+- Dublin
 title: Dublin
-categories: ["Travel"]
-tags: [Europe, Ireland, Dublin]
 ---
 
 We got in from our drive in the afternoon, and parked at our airBnB which was hosted by a really lovely guy that made us a cuppa, gave us a map and helped us plan out what we wanted to see the next day. It was a bit of a dodgy suburb but lots of good student food places nearby, and we had some amazing Moroccan wraps.

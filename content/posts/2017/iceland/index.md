@@ -1,9 +1,14 @@
 ---
-date: "2017-03-29"
+categories:
+- Travel
+date: '2017-03-29'
+featured_image: posts/2017/iceland/bluelagoon1.jpg "Blue Lag
 slug: iceland
+tags:
+- Europe
+- Iceland
+- Blue Lagoon
 title: Final day in Iceland
-categories: ["Travel"]
-tags: [Europe, Iceland, Blue Lagoon]
 ---
 
 For our last day in Iceland we went to the Blue Lagoon Geothermal Spa. It stinks of sulphur as you come in but you get used to it after a bit. I wasn't expecting to like it that much as it's more Rachael's thing, but was pretty fun.

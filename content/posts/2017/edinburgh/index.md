@@ -1,9 +1,15 @@
 ---
-date: "2017-04-29"
+categories:
+- Travel
+date: '2017-04-29'
+featured_image: posts/2017/edinburgh/http://www.edinburghexpert.com/blog/arthurs-seat-and-edinburghs-volcanoes).
 slug: edinburgh
+tags:
+- Europe
+- UK
+- Scotland
+- Edinburgh
 title: Edinburgh
-categories: ["Travel"]
-tags: [Europe, UK, Scotland, Edinburgh]
 ---
 
 After getting off the ferry we had a nice coastal drive on the bus to Edinburgh, briefly stopping at Glasgow on the way.

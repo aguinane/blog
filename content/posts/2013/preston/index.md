@@ -1,9 +1,12 @@
 ---
-date: "2013-12-08"
+categories:
+- Misc
+date: '2013-12-08'
+featured_image: posts/2013/preston/img_20131130_170939.jpg
 slug: preston
+tags:
+- Toowoomba
 title: Preston
-categories: ["Misc"]
-tags: [Toowoomba]
 ---
 
 ![Preston](img_20131130_170939.jpg)

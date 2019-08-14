@@ -1,9 +1,13 @@
 ---
-date: "2015-01-12"
+categories:
+- Music
+date: '2015-01-12'
+featured_image: posts/2015/hottest-100-votes-2014/meta.png
 slug: hottest-100-votes-2014
+tags:
+- Hottest 100
+- Triple J
 title: Hottest 100 Votes 2014
-categories: ["Music"]
-tags: [Hottest 100, Triple J]
 ---
 
 ![meta](meta.png)

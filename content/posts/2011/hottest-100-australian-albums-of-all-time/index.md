@@ -1,9 +1,13 @@
 ---
-date: "2011-06-25"
+categories:
+- Music
+date: '2011-06-25'
+featured_image: posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg
 slug: hottest-100-australian-albums-of-all-time
+tags:
+- Hottest 100
+- Triple J
 title: Hottest 100 Australian Albums Of All Time
-categories: ["Music"]
-tags: [Hottest 100, Triple J]
 ---
 
 ![Hot100Albums](hot100albums.jpg)

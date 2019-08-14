@@ -1,11 +1,16 @@
 ---
-date: "2019-03-21"
-slug: drive-back
-title: Drive Back South
-categories: ["Travel"]
-tags: ["Queensland", "Airlie", "Mackay"]
-series: ["Cairns Roadtrip"]
+categories:
+- Travel
+date: '2019-03-21'
 featured_image: posts/2019/drive-back/horseshoebay2.jpg
+series:
+- Cairns Roadtrip
+slug: drive-back
+tags:
+- Queensland
+- Airlie
+- Mackay
+title: Drive Back South
 ---
 
 We tried to drive south as quickly as possible to get away from the rain.

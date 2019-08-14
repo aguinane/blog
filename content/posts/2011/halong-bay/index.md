@@ -1,10 +1,15 @@
 ---
-date: "2011-08-02"
+categories:
+- Travel
+date: '2011-08-02'
+featured_image: posts/2011/halong-bay/P1080367.jpg
 slug: halong-bay
+tags:
+- Halong Bay
+- Vietnam
 title: Halong Bay
-categories: ["Travel"]
-tags: [Halong Bay, Vietnam]
 ---
+
 images: 2011-08-02-halong-bay/P1080464.jpg
 
 We got a bus from Hanoi to Halong, and were joined by some other travellers, most of which were from Australia except for 3 people from New Zealand. Our guide Viet informed us that if we were lucky we might still be able to stay the night on the bay, and that they were making some calls, but that it was up to the government as they had closed the bay to all boats as a safety precaution.

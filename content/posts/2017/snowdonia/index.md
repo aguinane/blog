@@ -1,9 +1,16 @@
 ---
-date: "2017-05-05"
+categories:
+- Travel
+date: '2017-05-05'
+featured_image: posts/2017/snowdonia/http://www.eryri-npa.gov.uk/visiting/walking/mountain-walks/crimpiau-capel-curig)
+  one instead. There was a free car park at the start next to a waterfall.
 slug: snowdonia
+tags:
+- Europe
+- UK
+- Wales
+- Snowdonia
 title: Snowdonia
-categories: ["Travel"]
-tags: [Europe, UK, Wales, Snowdonia]
 ---
 
 We booked a farmhouse on AirBnB which was really hard to find and Rachael was a bit freaked out when we got there because it was in the middle of nowhere and there wasn't anybody home. But the owners showed up a bit later and were really nice, and put on an amazing breakfast.

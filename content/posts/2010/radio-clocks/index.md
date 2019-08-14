@@ -1,9 +1,13 @@
 ---
-date: "2010-07-11"
+categories:
+- Travel
+date: '2010-07-11'
+featured_image: posts/2010/radio-clocks/swiss_clock.png
 slug: radio-clocks
+tags:
+- clock
+- Switzerland
 title: Radio Clocks
-categories: ["Travel"]
-tags: [clock, Switzerland]
 ---
 
 ![swiss_clock](swiss_clock.png)

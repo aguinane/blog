@@ -1,10 +1,12 @@
 ---
-date: "2010-07-25"
-slug: procrastinating-like-a-boss
-title: Procrastinating Like A Boss
-categories: ["Travel"]
-tags: [Switzerland]
+categories:
+- Travel
+date: '2010-07-25'
 featured_image: P1020706.jpg
+slug: procrastinating-like-a-boss
+tags:
+- Switzerland
+title: Procrastinating Like A Boss
 ---
 
 ![Bridge](P1020706.jpg "")

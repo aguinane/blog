@@ -1,10 +1,13 @@
 ---
-date: "2016-01-31"
 Modified: 2017-03-03 10:00:00+10:00"
+categories:
+- Travel
+date: '2016-01-31'
+featured_image: posts/2016/countries-visited/countries_visited.png
 slug: countries-visited
+tags:
+- Day Zero Project
 title: Countries Visited
-categories: ["Travel"]
-tags: [Day Zero Project]
 ---
 
 ** 03 Mar 2017: ** Updated with more countries. Now more than 15.
@@ -45,4 +48,3 @@ If you count layovers <del>then I have hit the 15</del> (but I'm not).
 * <del>Austria (Train Station)</del>
 * China (Hong Kong Airport)
 * Singapore (Airport)
-

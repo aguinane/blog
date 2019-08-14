@@ -1,9 +1,15 @@
 ---
-date: "2018-04-22 00:00:00+10:00"
+categories:
+- Travel
+date: '2018-04-22 00:00:00+10:00'
+featured_image: posts/2018/mount-glorious/D'Aguilar National Park).
 slug: mount-glorious
+tags:
+- Queensland
+- Mt Glorious
+- Wivenhoe
+- Dam
 title: Mt Glorious
-categories: ["Travel"]
-tags: [Queensland, Mt Glorious, Wivenhoe, Dam]
 ---
 
 We decided to drive home a different way from Brisbane and come back through Mt Glorious (D'Aguilar National Park).

@@ -1,9 +1,14 @@
 ---
-date: "2010-11-12"
+categories:
+- Travel
+date: '2010-11-12'
+featured_image: posts/2010/euro-trip-praha/p1050108.jpg
 slug: euro-trip-praha
+tags:
+- Europe
+- Czech Republic
+- Praha
 title: Praha
-categories: ["Travel"]
-tags: [Europe, Czech Republic, Praha]
 ---
 
 ![Praha](p1050108.jpg)

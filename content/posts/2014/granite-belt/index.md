@@ -1,9 +1,18 @@
 ---
-date: "2014-05-17"
+categories:
+- Travel
+date: '2014-05-17'
+featured_image: posts/2014/granite-belt/stanthorpe.jpg
 slug: granite-belt
+tags:
+- Queensland
+- Girraween
+- Granite Belt
+- Killarney
+- Pyramids
+- Stanthorpe
+- Storm King Dam
 title: Granite Belt
-categories: ["Travel"]
-tags: [Queensland, Girraween, Granite Belt, Killarney, Pyramids, Stanthorpe, Storm King Dam]
 ---
 
 ![Stanthorpe](stanthorpe.jpg)
@@ -87,4 +96,3 @@ From here we drove along the border through back roads to Killarney, which is an
 ![2014-05-11 12.38.52](2014-05-11-12-38-52.jpg "Accacia Plataue")
 
 ![2014-05-11 12.26.23](2014-05-11-12-26-23.jpg)
-

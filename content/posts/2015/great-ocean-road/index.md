@@ -1,9 +1,15 @@
 ---
-date: "2015-03-16"
+categories:
+- Travel
+date: '2015-03-16'
+featured_image: posts/2015/great-ocean-road/bellsbeach-resized.jpg
 slug: great-ocean-road
+tags:
+- 12 Apostles
+- Bells Beach
+- Great Ocean Road
+- Victoria
 title: Great Ocean Road
-categories: ["Travel"]
-tags: [12 Apostles, Bells Beach, Great Ocean Road, Victoria]
 ---
 
 ![bellsbeach.resized](bellsbeach-resized.jpg)

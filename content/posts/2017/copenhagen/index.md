@@ -1,9 +1,15 @@
 ---
-date: "2017-04-04"
+categories:
+- Travel
+date: '2017-04-04'
+featured_image: posts/2017/copenhagen/boat1.jpg "Hawila Proj
 slug: copenhagen
+tags:
+- Europe
+- Denmark
+- Copenhagen
+- København
 title: København
-categories: ["Travel"]
-tags: [Europe, Denmark, Copenhagen, København]
 ---
 
 ![](boat1.jpg "Hawila Project")

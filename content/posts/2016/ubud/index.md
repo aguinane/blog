@@ -1,9 +1,14 @@
 ---
-date: "2016-07-25"
+categories:
+- Travel
+date: '2016-07-25'
+featured_image: posts/2016/ubud/img_20160615_135433.jpg
 slug: ubud
+tags:
+- Bali
+- Indonesia
+- Ubud
 title: Ubud
-categories: ["Travel"]
-tags: [Bali, Indonesia, Ubud]
 ---
 
 ![IMG_20160615_135433](img_20160615_135433.jpg "Ubud Monkey Forest")

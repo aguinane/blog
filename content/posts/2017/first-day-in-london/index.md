@@ -1,12 +1,17 @@
 ---
-date: "2017-03-21"
-slug: first-day-in-london
-title: First Day in London
-categories: ["Travel"]
-tags: [Europe, UK, England, London, Museum]
+categories:
+- Travel
+date: '2017-03-21'
 featured_image: laurens3.jpg
+slug: first-day-in-london
+tags:
+- Europe
+- UK
+- England
+- London
+- Museum
+title: First Day in London
 ---
-
 
 ![street](laurens3.jpg "View of the street")
 

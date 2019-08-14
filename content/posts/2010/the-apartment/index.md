@@ -1,11 +1,14 @@
 ---
-date: "2010-07-01"
+categories:
+- Travel
+date: '2010-07-01'
+featured_image: posts/2010/the-apartment/https://goo.gl/map
 slug: the-apartment
+tags:
+- Switzerland
+- Turgi
 title: The Apartment
-categories: ["Travel"]
-tags: ["Switzerland", "Turgi"]
 ---
-
 
 I'm staying at a 4 bedroom apartment at: [Spinnereistrasse 4, CH-5300 Turgi](https://goo.gl/maps/dyhCfB9MG2F2)
 

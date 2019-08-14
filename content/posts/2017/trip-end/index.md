@@ -1,9 +1,15 @@
 ---
-date: "2017-05-10"
+categories:
+- Travel
+date: '2017-05-10'
+featured_image: posts/2017/trip-end/newmans.jpg
 slug: trip-end
+tags:
+- Europe
+- UK
+- England
+- London
 title: Trip End
-categories: ["Travel"]
-tags: [Europe, UK, England, London]
 ---
 
 We dropped the rental car of at Heathrow then got the train back into the city to Lauren's.

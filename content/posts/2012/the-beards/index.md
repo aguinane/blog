@@ -1,9 +1,12 @@
 ---
-date: "2012-10-06"
+categories:
+- Music
+date: '2012-10-06'
+featured_image: posts/2012/the-beards/2012-10-04-23-39-34-resized.jpg
 slug: the-beards
+tags:
+- Beard
 title: The Beards
-categories: ["Music"]
-tags: [Beard]
 ---
 
 ![2012-10-04 23.39.34.resized](2012-10-04-23-39-34-resized.jpg)

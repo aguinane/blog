@@ -1,9 +1,14 @@
 ---
-date: "2011-02-20"
+categories:
+- Travel
+date: '2011-02-20'
+featured_image: posts/2011/return-to-oz/p1060411.jpg
 slug: return-to-oz
+tags:
+- Hong Kong
+- Snowman
+- Switzerland
 title: Return to Oz
-categories: ["Travel"]
-tags: [Hong Kong, Snowman, Switzerland]
 ---
 
 ![Melted Snowman](p1060411.jpg)

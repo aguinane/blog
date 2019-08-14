@@ -1,9 +1,12 @@
 ---
-date: "2010-07-11"
+categories:
+- Travel
+date: '2010-07-11'
+featured_image: posts/2010/wanderweg/p1020293-7743501.jpg
 slug: wanderweg
+tags:
+- Switzerland
 title: Wanderweg
-categories: ["Travel"]
-tags: [Switzerland]
 ---
 
 ![p1020293-774350](p1020293-7743501.jpg)

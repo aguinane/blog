@@ -1,9 +1,14 @@
 ---
-date: "2016-07-11"
+categories:
+- Travel
+date: '2016-07-11'
+featured_image: posts/2016/seminyak/img_20160613_124037.jpg
 slug: seminyak
+tags:
+- Bali
+- Indonesia
+- Seminyak
 title: Seminyak
-categories: ["Travel"]
-tags: [Bali, Indonesia, Seminyak]
 ---
 
 Our flight to Bali was interesting because I think it's my first flight over mainland Australia in daytime. Just hours and hours of nothing.

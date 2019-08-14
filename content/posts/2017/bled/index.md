@@ -1,9 +1,14 @@
 ---
-date: "2017-04-14"
+categories:
+- Travel
+date: '2017-04-14'
+featured_image: posts/2017/bled/lakeside1.jpg
 slug: bled
+tags:
+- Europe
+- Slovenia
+- Bled
 title: Bled
-categories: ["Travel"]
-tags: [Europe, Slovenia, Bled]
 ---
 
 We got a train from Ljubljana to Lesce-Bled to a cool hostel that used to be a monastery.
@@ -72,5 +77,3 @@ We then spent most of the rest of the day relaxing and planning where we were go
 While waiting for our train to Austria the next day, we saw a train go past with carriage after carriage of brand new Mercedes.
 
 ![](car-train.jpg "New cars")
-
-

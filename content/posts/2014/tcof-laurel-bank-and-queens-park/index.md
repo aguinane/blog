@@ -1,9 +1,15 @@
 ---
-date: "2014-10-07"
+categories:
+- Misc
+date: '2014-10-07'
+featured_image: posts/2014/tcof-laurel-bank-and-queens-park/queens-park.jpg
 slug: tcof-laurel-bank-and-queens-park
+tags:
+- Flowers
+- Laurel Bank
+- TCOF
+- Toowoomba
 title: TCOF Laurel Bank And Queens Park
-categories: ["Misc"]
-tags: [Flowers, Laurel Bank, TCOF, Toowoomba]
 ---
 
 ![queens park](queens-park.jpg)

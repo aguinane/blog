@@ -1,9 +1,16 @@
 ---
-date: "2017-04-23"
+categories:
+- Travel
+date: '2017-04-23'
+featured_image: posts/2017/northern-ireland/https://www.discovernorthernireland.com/The-Dark-Hedges-Armoy-Ballymoney-P27502)
+  but saw some cool roads like it in the area.
 slug: northern-ireland
+tags:
+- Europe
+- UK
+- Ireland
+- Northern Ireland
 title: Irish Coast
-categories: ["Travel"]
-tags: [Europe, UK, Ireland, Northern Ireland]
 ---
 
 So we picked up a car and headed north to drive along the coast, which was great.

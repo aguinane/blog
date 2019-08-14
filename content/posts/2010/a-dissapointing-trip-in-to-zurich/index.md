@@ -1,9 +1,13 @@
 ---
-date: "2010-09-25"
+categories:
+- Travel
+date: '2010-09-25'
+featured_image: posts/2010/a-dissapointing-trip-in-to-zurich/church-gems.jpg
 slug: a-dissapointing-trip-in-to-zurich
+tags:
+- Switzerland
+- Zürich
 title: A dissapointing trip in to Zürich
-categories: ["Travel"]
-tags: [Switzerland, Zürich]
 ---
 
 ![church gems](church-gems.jpg)

@@ -1,9 +1,14 @@
 ---
-date: "2015-06-01"
+categories:
+- Travel
+date: '2015-06-01'
+featured_image: posts/2015/the-bunyas/feature.jpg
 slug: the-bunyas
+tags:
+- Queensland
+- Bunya Mountains
+- Rainforest
 title: The Bunyas
-categories: ["Travel"]
-tags: [Queensland, Bunya Mountains, Rainforest]
 ---
 
 ![feature](feature.jpg)

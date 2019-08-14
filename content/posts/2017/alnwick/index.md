@@ -1,9 +1,18 @@
 ---
-date: "2017-05-02"
+categories:
+- Travel
+date: '2017-05-02'
+featured_image: posts/2017/alnwick/http://vikings.wikia.com/wiki/Raid_of_Lindisfarne)
+  of the Vikings TV show which I had only just watched before leaving Australia. We
+  drove to a beach a bit further south and tried to see Lindisfarne Castle from there,
+  and could make it out but the weather was still really foggy so not very good views.
 slug: alnwick
+tags:
+- Europe
+- UK
+- England
+- Alnwick
 title: Alnwick and The Wall
-categories: ["Travel"]
-tags: [Europe, UK, England, Alnwick]
 ---
 
 On our drive south we wanted to go to the beach. Rachael was navigating so took us to what looked like a sandy beach on the map but was actually Lindisfarne causeway, which was a massive salt pan at low tide. After looking it up we thought about driving across to Lindisfarne Castle but it was really foggy and we didn't really know how fast the tides are so thought it was best not to in a rental car.

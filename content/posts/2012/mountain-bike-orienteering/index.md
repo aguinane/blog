@@ -1,9 +1,14 @@
 ---
-date: "2012-06-21"
+categories:
+- Misc
+date: '2012-06-21'
+featured_image: posts/2012/mountain-bike-orienteering/mtbo.jpg) After the race.[/cap
 slug: mountain-bike-orienteering
+tags:
+- Beerburrum
+- Mountain Bike
+- Orienteering
 title: Mountain Bike Orienteering
-categories: ["Misc"]
-tags: [Beerburrum, Mountain Bike, Orienteering]
 ---
 
 [caption id="attachment_1099" align="alignnone" width="788"]![After the race.](mtbo.jpg) After the race.[/caption]

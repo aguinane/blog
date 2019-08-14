@@ -1,9 +1,13 @@
 ---
-date: "2011-07-27"
+categories:
+- Travel
+date: '2011-07-27'
+featured_image: posts/2011/hue/p1080207.jpg
 slug: hue
+tags:
+- Hue
+- Vietnam
 title: Hue
-categories: ["Travel"]
-tags: [Hue, Vietnam]
 ---
 
 ![Imperial City](p1080207.jpg)

@@ -1,9 +1,14 @@
 ---
-date: "2014-10-07"
+categories:
+- Misc
+date: '2014-10-07'
+featured_image: posts/2014/tcof-prize-gardens-2/feature1.jpg
 slug: tcof-prize-gardens-2
+tags:
+- Toowoomba
+- garden
+- TCOF
 title: TCOF Prize Gardens
-categories: ["Misc"]
-tags: [Toowoomba, garden, TCOF]
 ---
 
 ![feature](feature1.jpg)

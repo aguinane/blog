@@ -1,9 +1,15 @@
 ---
-date: "2013-01-13"
+categories:
+- Misc
+date: '2013-01-13'
+featured_image: posts/2013/sunrise-on-christmas-day/p1110129-resized.jpg
 slug: sunrise-on-christmas-day
+tags:
+- Rockhampton
+- Christmas
+- Sunrise
+- Surf
 title: Sunrise on Christmas Day
-categories: ["Misc"]
-tags: [Rockhampton, Christmas, Sunrise, Surf]
 ---
 
 ![Sunrise on Christmas Day](p1110129-resized.jpg)

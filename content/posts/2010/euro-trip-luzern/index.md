@@ -1,9 +1,14 @@
 ---
-date: "2010-11-14"
+categories:
+- Travel
+date: '2010-11-14'
+featured_image: posts/2010/euro-trip-luzern/p1050200.jpg
 slug: euro-trip-luzern
+tags:
+- Europe
+- Luzern
+- Switzerland
 title: Luzern
-categories: ["Travel"]
-tags: [Europe, Luzern, Switzerland]
 ---
 
 ![Luzern](p1050200.jpg)

@@ -1,10 +1,16 @@
 ---
-date: "2019-03-16"
+categories:
+- Travel
+date: '2019-03-16'
+featured_image: posts/2019/cassowary-coast/parkrun2.jpg
+series:
+- Cairns Roadtrip
 slug: cassowary-coast
+tags:
+- Queensland
+- Cardwell
+- Paronella Park
 title: Cassowary Coast
-categories: ["Travel"]
-tags: [Queensland, Cardwell, Paronella Park]
-series: ["Cairns Roadtrip"]
 ---
 
 We stayed the night at Cardwell, was a nice little beach town with views of Hinchinbrook Island.

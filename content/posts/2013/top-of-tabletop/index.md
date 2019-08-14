@@ -1,9 +1,14 @@
 ---
-date: "2013-05-31"
+categories:
+- Misc
+date: '2013-05-31'
+featured_image: posts/2013/top-of-tabletop/tabletop.jpg
 slug: top-of-tabletop
+tags:
+- Photosphere
+- Tabletop
+- Toowoomba
 title: Top of Tabletop
-categories: ["Misc"]
-tags: [Photosphere, Tabletop, Toowoomba]
 ---
 
 ![Top of Tabletop](tabletop.jpg)

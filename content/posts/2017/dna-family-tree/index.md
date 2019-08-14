@@ -1,9 +1,12 @@
 ---
-date: "2017-09-21"
+categories:
+- Misc
+date: '2017-09-21'
+featured_image: posts/2017/dna-family-tree/ancestry.png
 slug: dna-family-tree
+tags:
+- DNA
 title: DNA Genealogy
-categories: ["Misc"]
-tags: [DNA]
 ---
 
 While we were mostly interested in the health aspect, the main selling point on ads for DNA tests is seeing your ancestry.

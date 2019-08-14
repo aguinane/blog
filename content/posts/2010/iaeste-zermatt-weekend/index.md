@@ -1,9 +1,13 @@
 ---
-date: "2010-08-23"
+categories:
+- Travel
+date: '2010-08-23'
+featured_image: posts/2010/iaeste-zermatt-weekend/p1030625.jpg
 slug: iaeste-zermatt-weekend
+tags:
+- IAESTE
+- Switzerland
 title: IAESTE Zermatt Weekend
-categories: ["Travel"]
-tags: [IAESTE, Switzerland]
 ---
 
 ![Glacier](p1030625.jpg)

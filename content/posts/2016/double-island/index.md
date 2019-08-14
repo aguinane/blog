@@ -1,9 +1,16 @@
 ---
-date: "2016-05-29"
+categories:
+- Travel
+date: '2016-05-29'
+featured_image: posts/2016/double-island/featurerainbowbeach.jpg
 slug: double-island
+tags:
+- Queensland
+- Beach
+- Camping
+- Cooloola
+- Sunshine Coast
 title: Double Island
-categories: ["Travel"]
-tags: [Queensland, Beach, Camping, Cooloola, Sunshine Coast]
 ---
 
 ![featureRainbowBeach](featurerainbowbeach.jpg)
@@ -47,5 +54,3 @@ Eventually everyone was out and back up above the high tide mark. Rachael had a 
 The next day we went to see the Freshwater Lake for which the camp site got it's name, which was nice but not super exciting. Rachael had a go driving back and had a great (if sometimes terrified) time driving in the soft sand and getting off the beach. After getting the ferry back to Noosa we went through the automatic car wash twice and there was still sand pouring out of the car. The car's still shedding sand a week later.
 
 It was a pretty spectacular part of the world, reminds me of five rocks but with lots more people. And at least the extra people mean you get fancy camp grounds. Oh and at night we saw a huge centipede, which was really cool because I've never seen on before.
-
-

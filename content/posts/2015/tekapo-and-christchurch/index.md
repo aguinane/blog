@@ -1,9 +1,14 @@
 ---
-date: "2015-09-19"
+categories:
+- Travel
+date: '2015-09-19'
+featured_image: posts/2015/tekapo-and-christchurch/feature.jpg
 slug: tekapo-and-christchurch
+tags:
+- Christchurch
+- new zealand
+- Tekapo
 title: Tekapo and Christchurch
-categories: ["Travel"]
-tags: [Christchurch, new zealand, Tekapo]
 ---
 
 ![feature](feature.jpg)

@@ -1,10 +1,17 @@
 ---
-date: "2019-03-14"
+categories:
+- Travel
+date: '2019-03-14'
+featured_image: posts/2019/cape-hillsborough/curlews.jpg
+series:
+- Cairns Roadtrip
 slug: cape-hillsborough
+tags:
+- Queensland
+- Seaforth
+- Cape Hillborough
+- Bowen
 title: Cape Hillborough
-categories: ["Travel"]
-tags: [Queensland, Seaforth, Cape Hillborough, Bowen]
-series: ["Cairns Roadtrip"]
 ---
 
 After Eungella, we stayed the night at Seaforth. There wasn't a whole lot there.

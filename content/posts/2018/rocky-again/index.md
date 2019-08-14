@@ -1,10 +1,17 @@
 ---
-date: "2018-06-10"
+categories:
+- Travel
+date: '2018-06-10'
+featured_image: posts/2018/rocky-again/for the 4th time this year), this time for
+  my cousin Kate's wedding.
 slug: rocky-again
+tags:
+- Queensland
+- Rockhampton
+- Mt Archer
+- Emu Park
+- Yeppoon
 title: Rocky (again)
-
-categories: ["Travel"]
-tags: [Queensland, Rockhampton, Mt Archer, Emu Park, Yeppoon]
 ---
 
 We were up in Rocky again (for the 4th time this year), this time for my cousin Kate's wedding.

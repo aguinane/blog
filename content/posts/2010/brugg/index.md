@@ -1,9 +1,13 @@
 ---
-date: "2010-07-06"
+categories:
+- Travel
+date: '2010-07-06'
+featured_image: posts/2010/brugg/P1010938.jpg
 slug: brugg
+tags:
+- Brugg
+- Switzerland
 title: Brugg
-categories: ["Travel"]
-tags: [Brugg, Switzerland]
 ---
 
 Time to update this blog.

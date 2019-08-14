@@ -1,9 +1,13 @@
 ---
-date: "2011-07-31"
+categories:
+- Travel
+date: '2011-07-31'
+featured_image: posts/2011/hanoi-and-halong-bay/p1080297.jpg
 slug: hanoi-and-halong-bay
+tags:
+- Hanoi
+- Vietnam
 title: Hanoi
-categories: ["Travel"]
-tags: [Hanoi, Vietnam]
 ---
 
 ![Hanoi Street](p1080297.jpg)

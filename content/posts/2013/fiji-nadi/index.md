@@ -1,10 +1,13 @@
 ---
-date: "2013-02-26"
+categories:
+- Travel
+date: '2013-02-26'
+featured_image: posts/2013/fiji-nadi/p1110188.jpg
 slug: fiji-nadi
+tags:
+- Fiji
+- Nandi
 title: Fiji - Nadi
-
-categories: ["Travel"]
-tags: [Fiji, Nandi]
 ---
 
 ![Nadi Rainbow](p1110188.jpg)
@@ -28,9 +31,3 @@ The next day we waited for the Coral Sun bus to Pacific Harbour, and had our fir
 ![Nadi Beach](p1110707.jpg)
 
 When we came back from Pacific Harbour at the end of the trip, I had a chance to download offline maps of Nadi on my phone and we realised the beach wasn't far at all. Upon going for a walk to check it out, we probably could have done without as it was covered in rubbish and not that appealing. We did have lunch at a cool Japanese restaurant the day before we left though, which _was_ worth the very short walk.
-
-
-
-
-
-

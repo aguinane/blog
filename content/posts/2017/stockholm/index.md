@@ -1,9 +1,14 @@
 ---
-date: "2017-03-31"
+categories:
+- Travel
+date: '2017-03-31'
+featured_image: posts/2017/stockholm/stockholm.jpg
 slug: stockholm
+tags:
+- Europe
+- Sweden
+- Stockholm
 title: Stockholm
-categories: ["Travel"]
-tags: [Europe, Sweden, Stockholm]
 ---
 
 ![](stockholm.jpg "Stockholm")

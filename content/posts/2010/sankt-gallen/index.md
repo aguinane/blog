@@ -1,10 +1,12 @@
 ---
-date: "2010-12-28"
+categories:
+- Travel
+date: '2010-12-28'
+featured_image: posts/2010/sankt-gallen/p1060279.jpg
 slug: sankt-gallen
+tags:
+- Switzerland
 title: Sankt Gallen
-
-categories: ["Travel"]
-tags: [Switzerland]
 ---
 
 ![Sankt Gallen](p1060279.jpg)

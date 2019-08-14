@@ -1,9 +1,13 @@
 ---
-date: "2010-11-30"
+categories:
+- Travel
+date: '2010-11-30'
+featured_image: posts/2010/technorama/technorama.jpg
 slug: technorama
+tags:
+- IAESTE
+- Switzerland
 title: Technorama
-categories: ["Travel"]
-tags: [IAESTE, Switzerland]
 ---
 
 ![technorama](technorama.jpg)

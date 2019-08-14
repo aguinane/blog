@@ -1,9 +1,15 @@
 ---
-date: "2014-08-30"
+categories:
+- Misc
+date: '2014-08-30'
+featured_image: posts/2014/7-years-of-facebook-metadata/http://www.slate.com/articles/technology/future_tense/2014/01/facebook_cleansing_how_to_delete_all_of_your_account_activity.html)
+  that do do it aren't working at the moment. Not that this means Facebook actually
+  deletes it anyway, but it would have been a good start.
 slug: 7-years-of-facebook-metadata
+tags:
+- facebook
+- friends
 title: 7 Years Of Facebook Metadata
-categories: ["Misc"]
-tags: [facebook, friends]
 ---
 
 So amid yet more news about metadata collection by government, I decided that Facebook probably doesn't need all my old data either and it might be a good time to try and clean it up. Looking at the activity log for my account, the first bit of data is from Sep 4th 2007, which is just shy of 7 years ago.
@@ -24,5 +30,3 @@ Then looking at the breakup by demographics is pretty interesting also. Nearly t
 
 Finally I thought it was interesting that Rachael was so low down in the list of mutual friend counts.
 ![mutual_friends2](mutual_friends2.png)
-
-

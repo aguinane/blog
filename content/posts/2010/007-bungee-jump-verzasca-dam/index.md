@@ -1,10 +1,13 @@
 ---
-date: "2010-08-04"
-slug: 007-bungee-jump-verzasca-dam
-title: 007 Bungee Jump - Verzasca Dam
-categories: ["Travel"]
-tags: [IAESTE, Switzerland]
+categories:
+- Travel
+date: '2010-08-04'
 featured_image: p10301091.jpg
+slug: 007-bungee-jump-verzasca-dam
+tags:
+- IAESTE
+- Switzerland
+title: 007 Bungee Jump - Verzasca Dam
 ---
 
 ![p1030109](p10301091.jpg)

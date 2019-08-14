@@ -1,9 +1,14 @@
 ---
-date: "2013-06-10"
+categories:
+- Travel
+date: '2013-06-10'
+featured_image: posts/2013/crows-nest-national-park/pano_20130609_152124.jpg
 slug: crows-nest-national-park
+tags:
+- Queensland
+- Crows Nest
+- Valley of Diamonds
 title: Crows Nest National Park
-categories: ["Travel"]
-tags: [Queensland, Crows Nest, Valley of Diamonds]
 ---
 
 ![Crows Nest](pano_20130609_152124.jpg)
@@ -19,7 +24,3 @@ Heading back the other way,we went a different track and this one actually follo
 ![water_hole](water_hole.jpg)
 
 We will definitely be keen to come back in summer, after a bit of rain it would be a really cool swimming area.
-
-
-
-

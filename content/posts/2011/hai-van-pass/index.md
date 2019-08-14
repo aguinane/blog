@@ -1,9 +1,13 @@
 ---
-date: "2011-07-27"
+categories:
+- Travel
+date: '2011-07-27'
+featured_image: posts/2011/hai-van-pass/img_1921.jpg
 slug: hai-van-pass
+tags:
+- Hai Van Pass
+- Vietnam
 title: Hai Van Pass
-categories: ["Travel"]
-tags: [Hai Van Pass, Vietnam]
 ---
 
 ![Marble Mountains](img_1921.jpg)

@@ -1,9 +1,14 @@
 ---
-date: "2017-04-17"
+categories:
+- Travel
+date: '2017-04-17'
+featured_image: posts/2017/munich/Schweinshaxe.jpg
 slug: munich
+tags:
+- Europe
+- Germany
+- Munich
 title: München
-categories: ["Travel"]
-tags: [Europe, Germany, Munich]
 ---
 
 We arrived and it was raining, so we quickly dropped out bags at the hostel and went to get lunch. We went to Augustine Keller and got pork knuckle since I had it last time I was in Munich and thought it was great. It was super fatty and wasn't as nice as last time, which I expect was mostly because I wasn't massively hungover from Oktoberfest. Rachael loved the building though and her spinach and mountain cheese soup.

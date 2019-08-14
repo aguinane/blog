@@ -1,9 +1,14 @@
 ---
-date: "2014-03-24"
+categories:
+- Travel
+date: '2014-03-24'
+featured_image: posts/2014/bunya-mountains/feature.jpg
 slug: bunya-mountains
+tags:
+- Bunya
+- Camping
+- Queensland
 title: Bunya Mountains
-categories: ["Travel"]
-tags: [Bunya, Camping, Queensland]
 ---
 
 ![feature](feature.jpg)

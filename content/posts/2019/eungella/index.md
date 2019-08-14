@@ -1,10 +1,17 @@
 ---
-date: "2019-03-13"
+categories:
+- Travel
+date: '2019-03-13'
+featured_image: posts/2019/eungella/https://parks.des.qld.gov.au/parks/great-walks-mackay-highlands/pdf/mackaygw-shortwalks-map.pdf)
+  was a nice walk, and there was a cafe at the top but not much to see in the middle
+  of the day.
+series:
+- Cairns Roadtrip
 slug: eungella
+tags:
+- Queensland
+- Mackay
 title: Eungella and Finch Hatton
-categories: ["Travel"]
-tags: [Queensland, Mackay]
-series: ["Cairns Roadtrip"]
 ---
 
 We wanted to go snorkelling at Port Douglas, so decided to make a road trip of it so

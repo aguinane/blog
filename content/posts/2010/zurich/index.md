@@ -1,10 +1,13 @@
 ---
-date: "2010-07-24"
-slug: zurich
-title: Zürich
-categories: ["Travel"]
-tags: [Switzerland, Zürich]
+categories:
+- Travel
+date: '2010-07-24'
 featured_image: p1020663-7232401.jpg
+slug: zurich
+tags:
+- Switzerland
+- Zürich
+title: Zürich
 ---
 
 ![Lightbulbs](p1020663-7232401.jpg)

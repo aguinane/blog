@@ -1,12 +1,16 @@
 ---
-date: "2017-05-07"
-slug: oxford
-title: Oxford
-categories: ["Travel"]
-tags: [Europe, UK, England, Oxford]
+categories:
+- Travel
+date: '2017-05-07'
 featured_image: museum.jpg
+slug: oxford
+tags:
+- Europe
+- UK
+- England
+- Oxford
+title: Oxford
 ---
-
 
 On way to Oxford we stopped at Stratford-upon-Avon and saw the church with Shakespeare's grave while we stopped for lunch.
 There was a nice canal but that's about it.

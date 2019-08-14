@@ -1,9 +1,11 @@
 ---
-date: "2016-01-30"
+categories:
+- Misc
+date: '2016-01-30'
 slug: 101-thing-in-1001-days
+tags:
+- Day Zero Project
 title: 101 Things in 1001 Days
-categories: ["Misc"]
-tags: [Day Zero Project]
 ---
 
 While I was living in Switzerland I attempted to put together a list of [101 Things in 1001 Days](https://dayzeroproject.com/about/). The goal was to publish it on the Tales from Turgi blog and cross them off in blog posts, but I never finalised my list of 101 things. Since I was travelling lots I kept on thinking of new better ideas, and was crossing off old ones. I actually tried to make one earlier then that for the 1001 day period of 07 Jul 2009 to 24 Dec 2011, but couldn't think of 101 things I thought were worthy. When I was Europe it was the opposite and I had way more then 101 and couldn't cut it down.

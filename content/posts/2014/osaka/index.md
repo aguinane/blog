@@ -1,9 +1,14 @@
 ---
-date: "2014-03-14"
+categories:
+- Travel
+date: '2014-03-14'
+featured_image: posts/2014/osaka/osake-castle-moat.jpg
 slug: osaka
+tags:
+- Japan
+- Kaiyukan
+- Osaka
 title: Osaka
-categories: ["Travel"]
-tags: [Japan, Kaiyukan, Osaka]
 ---
 
 ![osake castle moat](osake-castle-moat.jpg)

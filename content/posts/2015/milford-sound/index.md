@@ -1,9 +1,13 @@
 ---
-date: "2015-09-06"
+categories:
+- Travel
+date: '2015-09-06'
+featured_image: posts/2015/milford-sound/cover.jpg
 slug: milford-sound
+tags:
+- milford sound
+- new zealand
 title: Milford Sound
-categories: ["Travel"]
-tags: [milford sound, new zealand]
 ---
 
 ![milford sound cover](cover.jpg)

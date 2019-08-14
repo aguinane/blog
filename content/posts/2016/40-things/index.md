@@ -1,10 +1,12 @@
 ---
-date: "2016-01-31"
 Modified: 2019-02-23"
+categories:
+- Misc
+date: '2016-01-31'
 slug: 40-things
+tags:
+- Day Zero Project
 title: 40 Things
-categories: ["Misc"]
-tags: [Day Zero Project]
 ---
 
 Following on from [the last post](/posts/2016/101-thing-in-1001-days), here are the things that were on my old list that I hadn't achieved, plus a few more to make it up to an even 40. I don't expect to achieve all of them in the next year, but would like to try and hit around 15. I certainly don't plan on going to Egypt in the current political climate for example.

@@ -1,9 +1,14 @@
 ---
-date: "2016-02-21"
+categories:
+- Travel
+date: '2016-02-21'
+featured_image: posts/2016/oreillys-rainforest/picnic_rock.jpg
 slug: oreillys-rainforest
+tags:
+- Queensland
+- Lamington
+- National Park
 title: O'Reilly's Rainforest
-categories: ["Travel"]
-tags: [Queensland, Lamington, National Park]
 ---
 
 ![picnic_rock](picnic_rock.jpg)

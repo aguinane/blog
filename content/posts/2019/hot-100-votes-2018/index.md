@@ -1,9 +1,13 @@
 ---
-date: "2019-01-20"
+categories:
+- Music
+date: '2019-01-20'
+featured_image: posts/2019/hot-100-votes-2018/hot-100-2018.jpg
 slug: hot-100-votes-2018
+tags:
+- Hottest 100
+- Triple J
 title: Hottest 100 Votes for 2018
-categories: ["Music"]
-tags: [Hottest 100, Triple J]
 ---
 
 ![hot100](hot-100-2018.jpg)

@@ -1,9 +1,10 @@
 ---
-date: "2019-07-11"
+categories:
+- Misc
+date: '2019-07-11'
+featured_image: posts/2019/security-cameras/mia-box.jpg
 slug: security-cameras
 title: Security Cameras
-categories: ["Misc"]
-featured_image: posts/2019/security-cameras/mia-box.jpg
 type: post
 ---
 

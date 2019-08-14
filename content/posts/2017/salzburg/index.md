@@ -1,9 +1,14 @@
 ---
-date: "2017-04-16"
+categories:
+- Travel
+date: '2017-04-16'
+featured_image: posts/2017/salzburg/river.jpg
 slug: salzburg
+tags:
+- Europe
+- Austria
+- Salzburg
 title: Salzburg
-categories: ["Travel"]
-tags: [Europe, Austria, Salzburg]
 ---
 
 ![](river.jpg "River")

@@ -1,9 +1,16 @@
 ---
-date: "2012-06-19"
+categories:
+- Travel
+date: '2012-06-19'
+featured_image: posts/2012/tangalooma-island-resort/feeding.jpg
 slug: tangalooma-island-resort
+tags:
+- Queensland
+- Brisbane
+- Dolphin
+- Moreton Island
+- Sandboarding
 title: Tangalooma Island Resort
-categories: ["Travel"]
-tags: [Queensland, Brisbane, Dolphin, Moreton Island, Sandboarding]
 ---
 
 ![Dolphin Feeding](feeding.jpg)

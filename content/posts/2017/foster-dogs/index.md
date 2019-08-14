@@ -1,12 +1,15 @@
 ---
-date: "2017-01-24 19:05:00+10:00"
-slug: foster-dogs
-title: Foster Dogs
-categories: ["Misc"]
-tags: [RSPCA, Dogs, Puppies]
+categories:
+- Misc
+date: '2017-01-24 19:05:00+10:00'
 featured_image: kel2.jpg
+slug: foster-dogs
+tags:
+- RSPCA
+- Dogs
+- Puppies
+title: Foster Dogs
 ---
-
 
 ![Kel2](kel2.jpg "Kel the Kelpie")
 

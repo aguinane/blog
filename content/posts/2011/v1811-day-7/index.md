@@ -1,10 +1,16 @@
 ---
-date: "2011-10-24"
+categories:
+- Travel
+date: '2011-10-24'
+featured_image: posts/2011/v1811-day-7/ye_fellin.jpg
+series:
+- Young Endeavour
 slug: v1811-day-7
+tags:
+- NSW
+- Eden
+- Young Endeavour
 title: V18/11 - Day 7
-categories: ["Travel"]
-tags: [NSW, Eden, Young Endeavour]
-series: ["Young Endeavour"]
 ---
 
 ![YE Fell In](ye_fellin.jpg)

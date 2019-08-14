@@ -1,11 +1,16 @@
 ---
-date: "2019-03-17"
-slug: cairns-kuranda
-title: Cairns and Kuranda
-categories: ["Travel"]
-tags: [Queensland, Cairns, Kuranda]
-series: ["Cairns Roadtrip"]
+categories:
+- Travel
+date: '2019-03-17'
 featured_image: posts/2019/cairns-kuranda/train2.jpg
+series:
+- Cairns Roadtrip
+slug: cairns-kuranda
+tags:
+- Queensland
+- Cairns
+- Kuranda
+title: Cairns and Kuranda
 ---
 
 On the Sunday we got the Kuranda Scenic Railway up to visit our friend Jaimee in Kuranda.

@@ -1,10 +1,17 @@
 ---
-date: "2018-03-03 10:20:00+10:00"
-slug: more-sightseeing-at-home
-title: More Sightseeing at Home
-categories: ["Travel"]
-tags: [Queensland, Rockhampton, Great Keppel Island, Stony Creek, Capricorn Caves, Zoo]
+categories:
+- Travel
+date: '2018-03-03 10:20:00+10:00'
 featured_image: posts/2018/more-sightseeing-at-home/keppel4.jpg
+slug: more-sightseeing-at-home
+tags:
+- Queensland
+- Rockhampton
+- Great Keppel Island
+- Stony Creek
+- Capricorn Caves
+- Zoo
+title: More Sightseeing at Home
 ---
 
 In 2012 my friend Jan visited from Switzerland and I did a post

@@ -1,9 +1,16 @@
 ---
-date: "2012-09-29"
+categories:
+- Misc
+date: '2012-09-29'
+featured_image: posts/2012/tcof-festival/grounds.jpg
 slug: tcof-festival
+tags:
+- Flowers
+- Food
+- TCOF
+- Toowoomba
+- Wine
 title: Ergon Energy Flower Food and Wine Festival
-categories: ["Misc"]
-tags: [Flowers, Food, TCOF, Toowoomba, Wine]
 ---
 
 ![TCOF grounds](grounds.jpg)

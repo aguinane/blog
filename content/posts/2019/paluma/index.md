@@ -1,11 +1,16 @@
 ---
-date: "2019-03-15"
-slug: paluma
-title: Paluma and Wallaman Falls
-categories: ["Travel"]
-tags: [Queensland, Paluma, Wallaman]
-series: ["Cairns Roadtrip"]
+categories:
+- Travel
+date: '2019-03-15'
 featured_image: posts/2019/paluma/littlecrystalcreek.jpg
+series:
+- Cairns Roadtrip
+slug: paluma
+tags:
+- Queensland
+- Paluma
+- Wallaman
+title: Paluma and Wallaman Falls
 ---
 
 Last time we were in Townsville, we had some friends recommend Crystal Creek but didn't have time to go up there. So we made sure we stopped in on our way past this time. Everything was super green - not surprising after the floods.

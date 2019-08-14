@@ -1,9 +1,13 @@
 ---
-date: "2010-12-27"
+categories:
+- Music
+date: '2010-12-27'
+featured_image: posts/2010/hottest-100-votes-2010/hottest100-2010.g
 slug: hottest-100-votes-2010
+tags:
+- Hottest 100
+- Triple J
 title: Hottest 100 Votes 2010
-categories: ["Music"]
-tags: [Hottest 100, Triple J]
 ---
 
 ![Hottest 100](hottest100-2010.gif)

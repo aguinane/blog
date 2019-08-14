@@ -1,9 +1,14 @@
 ---
-date: "2014-03-02"
+categories:
+- Travel
+date: '2014-03-02'
+featured_image: posts/2014/tokyo/img_20140209_204541.jpg
 slug: tokyo
+tags:
+- Japan
+- Shinjuku
+- Tokyo
 title: Tokyo
-categories: ["Travel"]
-tags: [Japan, Shinjuku, Tokyo]
 ---
 
 ![IMG_20140209_204541](img_20140209_204541.jpg)

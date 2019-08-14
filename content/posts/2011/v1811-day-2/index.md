@@ -1,10 +1,16 @@
 ---
-date: "2011-10-19"
+categories:
+- Travel
+date: '2011-10-19'
+featured_image: posts/2011/v1811-day-2/ye_sydneyship.jpg
+series:
+- Young Endeavour
 slug: v1811-day-2
+tags:
+- NSW
+- Sydney
+- Young Endeavour
 title: V18/11 - Day 2
-categories: ["Travel"]
-tags: [NSW, Sydney, Young Endeavour]
-series: ["Young Endeavour"]
 ---
 
 ![YE_sydneyship](ye_sydneyship.jpg)

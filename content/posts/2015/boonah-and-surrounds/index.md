@@ -1,9 +1,14 @@
 ---
-date: "2015-02-23"
+categories:
+- Travel
+date: '2015-02-23'
+featured_image: posts/2015/boonah-and-surrounds/2015-02-01-16-07-05-lake.jpg
 slug: boonah-and-surrounds
+tags:
+- Queensland
+- Boonah
+- Lake Moogerah
 title: Boonah and Surrounds
-categories: ["Travel"]
-tags: [Queensland, Boonah, Lake Moogerah]
 ---
 
 ![2015-02-01 16.07.05 lake](2015-02-01-16-07-05-lake.jpg)

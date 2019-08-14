@@ -1,9 +1,15 @@
 ---
-date: "2013-12-16"
+categories:
+- Misc
+date: '2013-12-16'
+featured_image: posts/2013/toowoombas-christmas-wonderland/pano_20131215_203056.jpg
 slug: toowoombas-christmas-wonderland
+tags:
+- Christmas
+- Lights
+- Queens Park
+- Toowoomba
 title: Toowoomba's Christmas Wonderland
-categories: ["Misc"]
-tags: [Christmas, Lights, Queens Park, Toowoomba]
 ---
 
 ![Christmas Wonderland](pano_20131215_203056.jpg)

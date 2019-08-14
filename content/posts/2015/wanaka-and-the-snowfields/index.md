@@ -1,9 +1,17 @@
 ---
-date: "2015-09-06"
+categories:
+- Travel
+date: '2015-09-06'
+featured_image: posts/2015/wanaka-and-the-snowfields/pano_20150822_122003.jpg
 slug: wanaka-and-the-snowfields
+tags:
+- Cadrona
+- Skiing
+- Snowboarding
+- Treble Cone
+- Wanaka
+- new zealand
 title: Wanaka and the Snowfields
-categories: ["Travel"]
-tags: [Cadrona, Skiing, Snowboarding, Treble Cone, Wanaka, new zealand]
 ---
 
 ![PANO_20150822_122003](pano_20150822_122003.jpg)

@@ -1,10 +1,15 @@
 ---
-date: "2012-09-13"
+categories:
+- Travel
+date: '2012-09-13'
+featured_image: posts/2012/byron-bay/p1100787.jpg
 slug: byron-bay
+tags:
+- NSW
+- Byron Bay
+- Lying Down Game
+- Whales
 title: Byron Bay
-
-categories: ["Travel"]
-tags: [NSW, Byron Bay, Lying Down Game, Whales]
 ---
 
 ![Byron Lying Down Game](p1100787.jpg)

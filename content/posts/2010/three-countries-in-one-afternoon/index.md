@@ -1,9 +1,13 @@
 ---
-date: "2010-08-29"
+categories:
+- Travel
+date: '2010-08-29'
+featured_image: posts/2010/three-countries-in-one-afternoon/p1030813.jpg
 slug: three-countries-in-one-afternoon
+tags:
+- Basel
+- Switzerland
 title: Three Countries Corner
-categories: ["Travel"]
-tags: [Basel, Switzerland]
 ---
 
 ![Basel Border](p1030813.jpg)

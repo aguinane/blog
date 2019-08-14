@@ -1,9 +1,15 @@
 ---
-date: "2010-11-13"
+categories:
+- Travel
+date: '2010-11-13'
+featured_image: posts/2010/euro-trip-schloss-neuschwanstein/p1050160.jpg
 slug: euro-trip-schloss-neuschwanstein
+tags:
+- Europe
+- Castle
+- Germany
+- Neuschwanstein
 title: Schloss Neuschwanstein
-categories: ["Travel"]
-tags: [Europe, Castle, Germany, Neuschwanstein]
 ---
 
 ![Germany](p1050160.jpg)
