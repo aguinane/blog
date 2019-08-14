@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2010-07-03'
-featured_image: p1010928.jpg
+featured_image: posts/2010/zurifascht-2010/p1010928.jpg
 slug: zurifascht-2010
 tags:
 - Switzerland

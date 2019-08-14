@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2018-10-17'
-featured_image: posts/2018/upper-gorge/https://www.strava.
+featured_image: posts/2018/upper-gorge/creek1.jpg
 slug: upper-gorge
 tags:
 - Queensland

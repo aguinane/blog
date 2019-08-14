@@ -2,9 +2,7 @@
 categories:
 - Misc
 date: '2014-08-30'
-featured_image: posts/2014/7-years-of-facebook-metadata/http://www.slate.com/articles/technology/future_tense/2014/01/facebook_cleansing_how_to_delete_all_of_your_account_activity.html)
-  that do do it aren't working at the moment. Not that this means Facebook actually
-  deletes it anyway, but it would have been a good start.
+featured_image: posts/2014/7-years-of-facebook-metadata/friends.png
 slug: 7-years-of-facebook-metadata
 tags:
 - facebook

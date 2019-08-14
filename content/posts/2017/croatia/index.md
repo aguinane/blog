@@ -2,13 +2,7 @@
 categories:
 - Travel
 date: '2017-04-10'
-featured_image: posts/2017/croatia/https://en.wikipedia.org/wiki/Plitvice_Lakes_National_Park)
-  but after looking at transport options decided a rental car was our only option
-  and we wouldn't have time to go visit any of the beaches in Croatia. Because multiple
-  drivers costs lots more, we got it in Rachael's name and then she she had a bit
-  of a mild panic attack because you drive on the other side of the road and the gears
-  were reversed. Once we got off the highway the roads were terrible and everyone
-  was speeding, and we thought maybe we had made a terrible decision.
+featured_image: posts/2017/croatia/lake1.jpg
 slug: croatia
 tags:
 - Europe

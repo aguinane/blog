@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2019-03-14'
-featured_image: posts/2019/cape-hillsborough/curlews.jpg
+featured_image: posts/2019/cape-hillsborough/sunrise0.jpg
 series:
 - Cairns Roadtrip
 slug: cape-hillsborough

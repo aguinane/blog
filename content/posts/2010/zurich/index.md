@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2010-07-24'
-featured_image: p1020663-7232401.jpg
+featured_image: posts/2010/zurich/p1020663-7232401.jpg
 slug: zurich
 tags:
 - Switzerland

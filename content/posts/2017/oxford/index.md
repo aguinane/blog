@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2017-05-07'
-featured_image: museum.jpg
+featured_image: posts/2017/oxford/museum.jpg
 slug: oxford
 tags:
 - Europe

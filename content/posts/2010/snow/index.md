@@ -2,9 +2,6 @@
 categories:
 - Travel
 date: '2010-11-24'
-featured_image: posts/2010/snow/ Once the clouds cleared a bit you could see the trees
-  on the very top of the hill were snow-capped, but about 15 minutes later that was
-  gone too.
 slug: snow
 tags:
 - Switzerland

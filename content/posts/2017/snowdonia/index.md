@@ -2,8 +2,7 @@
 categories:
 - Travel
 date: '2017-05-05'
-featured_image: posts/2017/snowdonia/http://www.eryri-npa.gov.uk/visiting/walking/mountain-walks/crimpiau-capel-curig)
-  one instead. There was a free car park at the start next to a waterfall.
+featured_image: posts/2017/snowdonia/walk7.jpg
 slug: snowdonia
 tags:
 - Europe

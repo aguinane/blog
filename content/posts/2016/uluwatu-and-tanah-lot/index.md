@@ -2,8 +2,7 @@
 categories:
 - Travel
 date: '2016-07-16'
-featured_image: posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg "Uluwatu
-  Temp
+featured_image: posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg
 slug: uluwatu-and-tanah-lot
 tags:
 - Bali

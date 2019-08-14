@@ -2,11 +2,7 @@
 categories:
 - Travel
 date: '2017-03-26'
-featured_image: posts/2017/iceland-golden-circle/there is a domestic one), but Keflavik
-  International Airport is actually about an hour bus trip from the city. The bus
-  trip was pretty unreal, it was just a dead straight well-maintained highway with
-  no trees and barely any other cars. Once you get closer to Reykjavík there starts
-  to be buildings and trees, but the first part is just the middle of nowhere.
+featured_image: posts/2017/iceland-golden-circle/Pingvellir2.jpg
 slug: iceland-golden-circle
 tags:
 - Europe

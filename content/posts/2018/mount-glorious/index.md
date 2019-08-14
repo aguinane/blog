@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2018-04-22 00:00:00+10:00'
-featured_image: posts/2018/mount-glorious/D'Aguilar National Park).
+featured_image: posts/2018/mount-glorious/walk1.jpg
 slug: mount-glorious
 tags:
 - Queensland

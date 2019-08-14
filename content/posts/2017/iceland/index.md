@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2017-03-29'
-featured_image: posts/2017/iceland/bluelagoon1.jpg "Blue Lag
+featured_image: posts/2017/iceland/bluelagoon1.jpg
 slug: iceland
 tags:
 - Europe

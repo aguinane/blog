@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2018-10-14'
-featured_image: posts/2018/takarakka/2.5hrs or so) from Toowoomba.
+featured_image: posts/2018/takarakka/platapus.jpg
 slug: takarakka
 tags:
 - Queensland
@@ -54,9 +54,11 @@ Mickey Creek Gorge was awesome and probably one of the highlights.
 The 'formed' path stops well before the gorge itself, but it gets better the further you keep going.
 
 ![](mickeyck1.jpg "")
+
 ![](mickeyck2.jpg "")
 
 ![](mickeyck3.jpg "")
+
 ![](mickeyck4.jpg "")
 
 ![](mickeyck5.jpg "")

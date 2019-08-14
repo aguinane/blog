@@ -2,7 +2,7 @@
 categories:
 - Misc
 date: '2012-06-21'
-featured_image: posts/2012/mountain-bike-orienteering/mtbo.jpg) After the race.[/cap
+featured_image: posts/2012/mountain-bike-orienteering/mtbo.jpg
 slug: mountain-bike-orienteering
 tags:
 - Beerburrum
@@ -11,7 +11,7 @@ tags:
 title: Mountain Bike Orienteering
 ---
 
-[caption id="attachment_1099" align="alignnone" width="788"]![After the race.](mtbo.jpg) After the race.[/caption]
+![After the race.](mtbo.jpg) After the race.
 
 So on Sunday I joined Bully, Tom and Tim on a free Mountain Bike Orienteering Come and Try event. The other three boys have been really into the mountain biking of late and have done a couple of adventure races.
 

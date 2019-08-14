@@ -2,8 +2,7 @@
 categories:
 - Travel
 date: '2017-04-03'
-featured_image: posts/2017/vargberg/https://en.wikipedia.org/wiki/Systembolaget),
-  where we bought some really nice Swedish wheat beer.
+featured_image: posts/2017/vargberg/sunset.jpg
 slug: vargberg
 tags:
 - Europe

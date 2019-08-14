@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2017-03-21'
-featured_image: laurens3.jpg
+featured_image: posts/2017/first-day-in-london/laurens3.jpg
 slug: first-day-in-london
 tags:
 - Europe

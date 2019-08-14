@@ -2,10 +2,7 @@
 categories:
 - Travel
 date: '2017-04-22'
-featured_image: posts/2017/belfast/http://www.vagabondsbelfast.com/). We found an
-  awesome burrito place for lunch that was a cross between subway and GyG. It was
-  good being back in an English speaking country again, although Rachael still really
-  struggled to understand what we were ordering with the accent which was pretty funny.
+featured_image: posts/2017/belfast/alley.jpg
 slug: belfast
 tags:
 - Europe

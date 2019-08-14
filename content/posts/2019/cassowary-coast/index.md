@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2019-03-16'
-featured_image: posts/2019/cassowary-coast/parkrun2.jpg
+featured_image: posts/2019/cassowary-coast/paronella1.jpg
 series:
 - Cairns Roadtrip
 slug: cassowary-coast

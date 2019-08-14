@@ -2,9 +2,7 @@
 categories:
 - Travel
 date: '2019-03-13'
-featured_image: posts/2019/eungella/https://parks.des.qld.gov.au/parks/great-walks-mackay-highlands/pdf/mackaygw-shortwalks-map.pdf)
-  was a nice walk, and there was a cafe at the top but not much to see in the middle
-  of the day.
+featured_image: posts/2019/eungella/fh-wheel-of-fire1.jpg
 series:
 - Cairns Roadtrip
 slug: eungella

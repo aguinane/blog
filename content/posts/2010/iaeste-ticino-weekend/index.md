@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2010-08-04'
-featured_image: 2010-08-04-iaeste-ticino-weekend/monte1.jpg
+featured_image: posts/2010/iaeste-ticino-weekend/monte1.jpg
 slug: iaeste-ticino-weekend
 tags:
 - IAESTE

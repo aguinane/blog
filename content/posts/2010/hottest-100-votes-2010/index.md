@@ -2,7 +2,7 @@
 categories:
 - Music
 date: '2010-12-27'
-featured_image: posts/2010/hottest-100-votes-2010/hottest100-2010.g
+featured_image: posts/2010/hottest-100-votes-2010/hottest100-2010.gif
 slug: hottest-100-votes-2010
 tags:
 - Hottest 100

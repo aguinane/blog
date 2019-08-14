@@ -2,10 +2,7 @@
 categories:
 - Travel
 date: '2017-05-02'
-featured_image: posts/2017/alnwick/http://vikings.wikia.com/wiki/Raid_of_Lindisfarne)
-  of the Vikings TV show which I had only just watched before leaving Australia. We
-  drove to a beach a bit further south and tried to see Lindisfarne Castle from there,
-  and could make it out but the weather was still really foggy so not very good views.
+featured_image: posts/2017/alnwick/beach2.jpg
 slug: alnwick
 tags:
 - Europe

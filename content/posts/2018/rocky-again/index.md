@@ -2,8 +2,7 @@
 categories:
 - Travel
 date: '2018-06-10'
-featured_image: posts/2018/rocky-again/for the 4th time this year), this time for
-  my cousin Kate's wedding.
+featured_image: posts/2018/rocky-again/mtarcher1.jpg
 slug: rocky-again
 tags:
 - Queensland

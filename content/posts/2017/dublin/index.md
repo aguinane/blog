@@ -2,8 +2,7 @@
 categories:
 - Travel
 date: '2017-04-25'
-featured_image: posts/2017/dublin/https://en.wikipedia.org/wiki/Dublin_Castle) and
-  the The Dubhlinn (Black pool) Gardens.
+featured_image: posts/2017/dublin/castle1.jpg
 slug: dublin
 tags:
 - Europe

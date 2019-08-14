@@ -2,11 +2,6 @@
 categories:
 - Travel
 date: '2011-10-22'
-featured_image: posts/2011/v1811-day-5/or "wanker" as the staff called it, much like
-  they shorten topsail to "tpsol" but funnier) and set sail back out to sea. This
-  time the seasickness barely effected me at all, although not everyone was as lucky
-  and there was still a few people that started throwing up again. Mostly though everyone
-  had finally got their "sea legs".
 series:
 - Young Endeavour
 slug: v1811-day-5

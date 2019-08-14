@@ -2,11 +2,8 @@
 categories:
 - Misc
 date: '2012-11-18'
-featured_image: posts/2012/234-margaret-st-construction/https://maps.google.com.au/maps?q=234+Margaret+St,+Brisbane&hl=en&ll=-27.471862,153.029106&spn=0.002589,0.005005&sll=-27.471772,153.028736&sspn=0.010357,0.02002&t=h&gl=au&hnear=234+Margaret+St,+Queensland+4000&z=18)
-  was being constructed, but was full of water as a result of the flood at the start
-  of the year. Was pretty cool to see, there was even boats that I am assuming the
-  construction guys use.
-slug: 234-margaret-st-construction
+featured_image: posts/2012/margaret-st-construction/2011-11-22-17-33-46.jpg
+slug: margaret-st-construction
 tags:
 - Construction
 - Flood

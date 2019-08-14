@@ -2,8 +2,7 @@
 categories:
 - Travel
 date: '2017-04-23'
-featured_image: posts/2017/northern-ireland/https://www.discovernorthernireland.com/The-Dark-Hedges-Armoy-Ballymoney-P27502)
-  but saw some cool roads like it in the area.
+featured_image: posts/2017/northern-ireland/bridge1.jpg
 slug: northern-ireland
 tags:
 - Europe

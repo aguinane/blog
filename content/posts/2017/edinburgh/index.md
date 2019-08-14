@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2017-04-29'
-featured_image: posts/2017/edinburgh/http://www.edinburghexpert.com/blog/arthurs-seat-and-edinburghs-volcanoes).
+featured_image: posts/2017/edinburgh/cemetery.jpg
 slug: edinburgh
 tags:
 - Europe

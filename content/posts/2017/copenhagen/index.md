@@ -2,7 +2,7 @@
 categories:
 - Travel
 date: '2017-04-04'
-featured_image: posts/2017/copenhagen/boat1.jpg "Hawila Proj
+featured_image: posts/2017/copenhagen/boat1.jpg
 slug: copenhagen
 tags:
 - Europe
