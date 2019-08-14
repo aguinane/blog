@@ -10,16 +10,6 @@ paginate = 9
   description = "Personal blog of Alex Guinman"
   featured_image = "posts/2018/upper-gorge/creek1.jpg"
 
-  # Social Links
-  #parkrun = "http://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205"
-  #goodreads = "http://www.goodreads.com/aguin"
-  #strava = "https://www.strava.com/athletes/aguinane"
-  #youtube = "https://www.youtube.com/user/aguin01"
-  #github = "https://github.com/aguinane"
-  #linkedin = "https://www.linkedin.com/in/alexguinane"
-  #wikitree = "https://www.wikitree.com/treewidget/Guinane-16/5"
-
-
 [permalinks]
   posts = "posts/:year/:slug/"
 
