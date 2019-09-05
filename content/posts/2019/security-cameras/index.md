@@ -18,7 +18,7 @@ We also know of a few people that have been broken into recently, so thought it 
 
 It's also good to be able to check up on Mia - but Rachael finds it a bit depressing because she generally just waits for us at the back door and sooks until we get home. We did catch her opening a box to get her toys out - pretty clever.
 
-!["Mia up to ["Misc"]hief"](mia-box.jpg "Mia up to ["Misc"]hief")
+!["Mia up to mischief"](mia-box.jpg "Mia up to mischief")
 
 I ended up doing a bit of research because the requirements I had actually made it pretty hard to find cameras that did everything I wanted.
 
