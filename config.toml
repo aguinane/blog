@@ -5,6 +5,9 @@ subtitle = "Personal blog of Alex Guinman"
 theme = "ananke"
 paginate = 9
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   favicon = ""
   description = "Personal blog of Alex Guinman"
@@ -25,29 +28,21 @@ paginate = 9
   
 [[menu.main]]
     name = "Travel"
-    pre = "<i class='fa fa-folder-open'></i>"
-    weight = 1
     identifier = "travel"
     url = "/categories/travel/"
 
 [[menu.main]]
     name = "Misc"
-    pre = "<i class='fa fa-folder-open'></i>"
-    weight = 3
     identifier = "misc"
     url = "/categories/misc/"
 
 [[menu.main]]
     name = "About"
-    pre = "<i class='fa fa-info-circle'></i>"
-    weight = 4
     identifier = "about"
     url = "/pages/about"
 
 [[menu.main]]
     name = "1SE"
-    pre = "<i class='fa fa-info-circle'></i>"
-    weight = 5
     identifier = "1se"
     url = "/pages/1se"
 
