@@ -2,7 +2,7 @@ baseURL = "https://alex.guinman.id.au/"
 languageCode = "en-gb"
 title = "Alex's Blog"
 subtitle = "Personal blog of Alex Guinman"
-theme = "ananke"
+theme = "hyde"
 paginate = 9
 
 [outputs]
@@ -12,6 +12,8 @@ paginate = 9
   favicon = ""
   description = "Personal blog of Alex Guinman"
   featured_image = "posts/2018/upper-gorge/creek1.jpg"
+  themeColor = "theme-base-08"
+  layoutReverse = true
 
 [permalinks]
   posts = "posts/:year/:slug/"
