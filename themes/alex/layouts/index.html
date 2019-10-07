@@ -1,0 +1,16 @@
+{{ define "main" -}}
+
+{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+
+
+<h1>Recent Posts</h1>
+{{ range (first 20 $section) -}}
+
+<li>
+        {{- partial "post-list-item.html" . -}}
+</li>
+
+{{- end }}
+
+{{- end }}

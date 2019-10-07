@@ -1,0 +1,10 @@
+{{ define "main" -}}
+<h1>{{ .Title }}</h1>
+<ul class="posts">
+  {{ range .Data.Pages -}}
+  <li>
+    {{- partial "post-list-item.html" . -}}
+  </li>
+  {{- end }}
+</ul>
+{{- end }}

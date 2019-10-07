@@ -1,0 +1,32 @@
+{{ define "main" -}}
+<article>
+    <h1>{{ .Title }}</h1>
+
+
+    <p class="lead">
+        <small class="text-muted"><time
+                datetime={{ .Date.Format "2006-01-02T15:04:05Z0700" }}>{{ .Date.Format "2 Jan 2006" }}</time></small>
+    </p>
+    {{ .Content }}
+
+</article>
+
+
+{{ if .Params.tags }}
+<h2>Tags</h2>
+
+<ul class="pa0">
+    {{ range .Params.tags }}
+    <li class="list">
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"
+            class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
+            {{- . -}}
+        </a>
+    </li>
+    {{ end }}
+</ul>
+
+{{ end }}
+
+
+{{- end }}

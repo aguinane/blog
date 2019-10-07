@@ -2,11 +2,11 @@ baseURL = "https://alex.guinman.id.au/"
 languageCode = "en-gb"
 title = "Alex's Blog"
 subtitle = "Personal blog of Alex Guinman"
-theme = "hyde"
+theme = "alex"
 paginate = 9
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
 
 [params]
   favicon = ""
