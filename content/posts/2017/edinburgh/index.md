@@ -23,49 +23,49 @@ We learnt about how the church taught people to read the bible and learning to r
 
 We visited [Greyfriars Kirkyard](https://en.wikipedia.org/wiki/Greyfriars_Kirkyard) which is a cemetery behind the cafe where J.K. Some of the people buried there include Thomas Riddle, a McGonagall and a Pettigrew.
 
-![](cemetery.jpg "Greyfriars Kirkyard")
+![""](cemetery.jpg "Greyfriars Kirkyard")
 
 There was also a grave for Gregyfriars Bobby, which was a dog that guarded the grave of its owner for 14 years after he died, which reminded me of the Futurama episode Jurrasic Bark.
 
-![](jurassic-bark.jpg "Gregyfriars Bobby")
+![""](jurassic-bark.jpg "Gregyfriars Bobby")
 
 After our tour we doubled back to St Giles' Cathedral and the [Thistle Chapel](https://en.wikipedia.org/wiki/St_Giles%27_Cathedral#Thistle_Chapel), which is inside the cathedral but not part of it, and is where the Scottish knights meet once a year and was pretty interesting to learn about.
 
-![](knights.jpg "")
+![""](knights.jpg "")
 
 We then did a tour of Edinburgh Castle which had great views of the city, lots of cool rooms, and the crown jewels.
 
-![](castle1.jpg "")
+![""](castle1.jpg "")
 
-![](castle2.jpg "")
+![""](castle2.jpg "")
 
-![](castle3.jpg "")
+![""](castle3.jpg "")
 
-![](castle4.jpg "")
+![""](castle4.jpg "")
 
 We also saw the hall where the actual red wedding took place.
 
-![](red-wedding.jpg "Red wedding")
+![""](red-wedding.jpg "Red wedding")
 
 The next day we went to the National Museum of Scotland, which was pretty good.
 
-![](museum.jpg "")
+![""](museum.jpg "")
 
 They had a display on all the extinct animals which was interesting because they were all mostly from Australia or New Zealand. I guess they killed off everything in Europe before they had a chance to name all the species.
 They also had a cool exhibit on communication history (telegraph, ocean internet cables) and a pretty good power and energy display. And they had Dolly the Sheep.
 
-![](dolly.jpg "Dolly the sheep")
+![""](dolly.jpg "Dolly the sheep")
 
 In the afternoon we walked up to see the Athens of the North.
 
-![](athens.jpg "Calton Hill")
+![""](athens.jpg "Calton Hill")
 
-![](arthurs-seat1.jpg "")
+![""](arthurs-seat1.jpg "")
 
 And then we climbed Arthur's seat, which had spectacular views and was a great little hike. We also saw our first pheasant.
 
-![](arthurs-seat2.jpg "")
+![""](arthurs-seat2.jpg "")
 
-![](arthurs-seat4.jpg "")
+![""](arthurs-seat4.jpg "")
 
-![](arthurs-seat.jpg "")
+![""](arthurs-seat.jpg "")

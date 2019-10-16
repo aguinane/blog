@@ -43,18 +43,18 @@ The next day we got a train up into the mountains to see a waterfall. The [Trüm
 
 It is where the water comes from for the white river that joined the river we rafted, and is 2 degrees, it comes from a glacier way up above although we couldn't even see it from down the bottom. I think most of it comes from the [Jungfrau](http://en.wikipedia.org/wiki/Jungfrau).
 
-![](p1020522.jpg)
+![""](p1020522.jpg)
 
-![](cave.jpg "")
+![""](cave.jpg "")
 
-![](cave_outside.jpg "")
+![""](cave_outside.jpg "")
 
 After the waterfall, we went up to Mürren via cable car, and then hiked back down. It was a very cool walking track with random waterfalls the whole way down, but had very sore knees by the time I got to the bottom. It was also weird that at the bottom of the mountain it was 25 degrees, and when we hopped out of the cable car at the top it was like 17 degrees - felt like walking into air-con but outside.
 
-![](jump.jpg "")
+![""](jump.jpg "")
 
-![](forest.jpg "")
+![""](forest.jpg "")
 
-![](valley.jpg "")
+![""](valley.jpg "")
 
-![](valley2.jpg "")
+![""](valley2.jpg "")

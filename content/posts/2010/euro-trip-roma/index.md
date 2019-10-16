@@ -23,7 +23,7 @@ With our luggage no longer in the way, we set out to explore the city. Around ea
 
 We stumbled into some [amazing church](http://en.wikipedia.org/wiki/Santa_Maria_in_Aracoeli) that was basically all gold (maybe not but it blinded you with extravagance). I wish I could have filmed Rachael's face as her jaw just dropped and stayed dropped for about 5mins. Then we got an elevator up to the top of the "[Giant White Monstrosity](http://en.wikipedia.org/wiki/Monument_to_Vittorio_Emanuele_II)" which was next door.
 
-![](church.jpg)
+![""](church.jpg)
 
 More walking around the city, we found somewhere to have lunch. 2 shitty overpriced pizzas later and we continued on our journey, this time walking to the [Trevi Fountain](http://en.wikipedia.org/wiki/Trevi_Fountain), which was a pretty rad fountain that I had never heard of, much to Rachael's dismay. Apparently it's in "a million different movies" but I imagine they are mostly all chick-flicks. The area itself was packed with other tourists, and so we left as soon as possible.
 
@@ -33,17 +33,17 @@ We then went back to our semi-dodgy hostel for some sleep. The room itself was n
 
 DAY 2 in Rome, we went on a "Hop-on Hop-off Tour" which is a open top bus that drives you around the city. We also took a boat up the river as part of the deal, but it was a pretty boring river really. After getting a glimpse of the front of the Vatican, which still had posters and stuff up from the canonization the day before, we headed back on the bus to visit the Colosseum.
 
-![](bus.jpg)
+![""](bus.jpg)
 
 At the Colosseum, some lady offered us a skip-the-line tour which we paid for and went on. Our guide was really good and told us all kinds of facts about the games, and related it back to modern times. The actual Colosseum itself is much smaller than I expected, but was still a pretty cool building and must have been incredible back when it was built.
 
 As part of our tour we also got to see the forum, this time with a different guide, who was also good. We learnt that after the Roman Empire fell, the city dropped back to a tiny population and most of the ancient city was used as a dump and buried. When Napoleon came along a few hundred years ago, he saw the top of an arc of triumph that had [a door cut into it](http://en.wikipedia.org/wiki/File:Roman.forum.%26.arch.of.septimius.rome.arp.jpg) and a guy doing haircuts inside. He thought that it was disgusting that the former greatest city in the world had been turned into a dump, and after that they started digging up the city, and what we saw was only 2% of the original city. Most of it is still underground but because they have built on top of it they aren't allowed to boot people out of their homes on the off chance there is some epic statue underneath it. There was also a church with a floating door that you couldn't enter, because they built the church on top of an older building and when they dug everything back to the original height and uncovered the building below the door of the church is way higher.
 
-![](forum.jpg)
+![""](forum.jpg)
 
 At the end the guide told us about a night tour that he was doing, but when we went to the meeting point later he never showed up. So then we just went home. On the way we had another go and trying to get some authentic Italian cuisine and found a nicer looking restaurant where we got some Angry Spaghetti and Quattro Fromage Pizza. Unlike the day before, these tasted pretty amazing.
 
-![](map.jpg)
+![""](map.jpg)
 
 We also got the bus past some sort of movie premier for an Italian movie that we had seen lots of posters for, but we didn't know any of the actors so we didn't really care.
 
@@ -51,6 +51,6 @@ DAY 3 saw us leaving Italy for the morning and entering the Vatican City, which 
 
 A special type of [purple marble](http://en.wikipedia.org/wiki/Porphyry_%28geology%29) was used for a tonne of Statues, and our guide told us that the Vatican owns something like 90% of of this marble in existence. By far my favourite part of the museum was the Raphael Rooms and in particular, [this painting](http://en.wikipedia.org/wiki/The_School_of_Athens).
 
-![](vatican.jpg)
+![""](vatican.jpg)
 
 By DAY 4 we were ready to leave Rome behind, and so after checking out of the Hostel we basically just waited at the train station for 2 hours for our train to Florence...

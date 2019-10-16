@@ -20,10 +20,10 @@ I went for a walk up the mountain on the opposite side of Turgi this time.
 The photo of me standing over a sheer cliff below looks a bit lame
 when you can't see the cliff...
 
-![](P1020803.jpg "")
+![""](P1020803.jpg "")
 
-![](P1020822.jpg "")
+![""](P1020822.jpg "")
 
-![](P1020858.jpg "")
+![""](P1020858.jpg "")
 
-![](P1020889.jpg "")
+![""](P1020889.jpg "")

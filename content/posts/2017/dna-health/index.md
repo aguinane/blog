@@ -19,12 +19,12 @@ It sounded interesting, so I was going to order the $99USD test but they charged
 So once we sent our saliva over to the US and waited for a few weeks, we got our raw results and then the health ones.
 Not surprisingly I have the gene for red hair.
 
-![](red-hair.png "")
+![""](red-hair.png "")
 
 The other results were also pretty expected, some increased risks of cancers which we already had family history of. Neither of us are likely to be lactose intolerant (we aren't), although Rachael apparently carries a gene that makes her more likely to be allergic to peanuts (she isn't).
 
 Most of it is to do with drug resistances and effectiveness, which was the whole point made in the podcast in favour of DNA testing for health. If doctors are aware of your results they can make more informed drug prescriptions.
 
-![](drugs.png "")
+![""](drugs.png "")
 
 I hadn't heard of most of them but Rachael had, might prove useful information to know if we ever get sick in the future.

@@ -27,4 +27,4 @@ For the last run of the day I accidentally led us on to a ski run, which was inc
 
 I took some videos which I will put up probably once I have gotten back to Australia. All in all, it was a very different Christmas.
 
-![](P1060221.jpg)
+![""](P1060221.jpg)

@@ -19,21 +19,21 @@ When we arrived in Florence, we immediately agreed that the city was much nicer.
 
 We walked around the city for a bit, and found ourselves at the massive [Boboli Gardens](http://en.wikipedia.org/wiki/Boboli_Gardens). After Rachael eventually convinced me to part with 10 euro to get into the gardens we had a wonderful time exploring the absolutely massive grounds filled with random statues and trees that we had never seen before. There was some that looked like gum trees (but weren't obviously), and we even found olive trees and a tree that had dropped walnuts.
 
-![](gardens.jpg)
+![""](gardens.jpg)
 
 For DAY 2 we had a walking tour booked, which was okay but nothing special. In the morning there was an absolutely freezing wind and so a lot of the tour was spent trying to find a spot in the sun along the way. We saw everything we had seen the day before again, but learnt a little bit of history about them this time. After seeing the replica of the Statue of David for the 2nd time on the tour, we didn't see the need to pay to go inside and see the original when it finished, so we instead decided to pay to climb to the dome of [the Duomo](http://en.wikipedia.org/wiki/Florence_Cathedral).
 
-![](statue.jpg)
+![""](statue.jpg)
 
-![](bridge.jpg)
+![""](bridge.jpg)
 
 The painting on the inside of the Dome was amazing, and it was incredible how much detail went into a painting so high off the floor. The parts of the painting in heaven was pretty boring but the drawings of what happened to people in hell was intense and pretty funny.
 
-![](dome.jpg)
+![""](dome.jpg)
 
 I think Rachael may have some sort of heart condition, because she was basically dead by the time we got to the top (to be fair it was 463 stairs), but once she had recovered we got to take in the magnificent view of the city. The railing/fence appeared to be a fairly new addition, so whoever built the cathedral was clearly crazy and had a death wish, as it is a long way up. Who knows how many people must have died to build it.
 
-![](view.jpg)
+![""](view.jpg)
 
 Looking back, there wasn't anything particularly exciting in Florence, but it had a nice atmosphere and cool buildings and we found it to be much more enjoyable than Rome.
 

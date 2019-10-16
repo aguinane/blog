@@ -29,7 +29,7 @@ Our lesson for today was "rules of the road" and Dion went into some more detail
 
 In the afternoon we anchored on the other side of the bay, and the crew declared "the pool was open", which meant we were able to use the boat's rope swing and go swimming. Red Watch Leader Guv demonstrated how to do a back-flip off the rope, and I had a failed attempt that was photographed below.
 
-![](PA230384.jpg)
+![""](PA230384.jpg)
 
 We were told it was much easier to do a normal back-flip just off a flat platform, so I had a go off the bowsprit and nailed it first go after some more pointers from Guv. The trick we were told is to tilt your head back, like you are looking into the sky and continue looking back, which will cause your body to flip automatically as you go. Mick had a go later on where he looked over his shoulder instead, which resulted in a sort of back-flip with a twist, but didn't really work so well.
 

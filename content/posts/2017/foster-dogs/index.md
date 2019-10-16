@@ -41,26 +41,26 @@ We had them during the heat wave, on New Years Day it got to 40°C. I put a fan 
 
 They are just getting big enough now to run around and becoming super playful.
 
-![](p1.jpg)
+![""](p1.jpg)
 
-![](p2.jpg)
+![""](p2.jpg)
 
-![](p3.jpg)
+![""](p3.jpg)
 
-![](p4.jpg)
+![""](p4.jpg)
 
-![](p5.jpg)
+![""](p5.jpg)
 
-![](p6.jpg)
+![""](p6.jpg)
 
-![](p7.jpg)
+![""](p7.jpg)
 
-![](p8.jpg)
+![""](p8.jpg)
 
-![](p9.jpg)
+![""](p9.jpg)
 
-![](p10.jpg)
+![""](p10.jpg)
 
-![](p11.jpg)
+![""](p11.jpg)
 
 They are going back next week for adoption, which will be good for our patio which gets constantly covered in poo. So much poo.

@@ -24,7 +24,7 @@ We had to get a bus from the town up to the gondola, and then headed up to the g
 
 Before lunch we had stayed close to the restaraunt. There was only one really short red (blue) run and to use another run you had to walk (or get lots of speed to get past the flat part) over to the T-bars. After lunch we walked across, but I did two more runs and decided that it wasn't me that sucked and that it was definitely the bindings. So then I had to hike back again to the restaraunt and was able to find a table where they had tools and tighten my bindings. It was instantly better, and so I was pretty annoyed that the rental company was such a failure and didn't tighten them properly.
 
-![](P1050977.jpg)
+![""](P1050977.jpg)
 
 I went back over to the t-bar section again and did a long blue run which was insanely fun. The resort was fairly small and was basically all blue (green) runs because the black runs were closed. But even so, I found it much better than Davos as the snow was softer and the runs more interesting. There was a bank of fresh snow on the sides of this run which allowed you to get air and land in fresh powder. I landed some of my attempts at jumps and failed hard on others but only got to do one run before it was basically time to head back up to catch the Gondola.
 
@@ -48,6 +48,6 @@ Then later still, I did another epic stack. I hit the biggest jump with tonnes o
 
 We went back to the nice soft runs after that and tried doing Indie grabs. All and all it was an epic day, and was a much better ski resort than Davos. The one problem that I had was that the T-bars were so long and steep that it was really quite painful by the time you go to the top of them.
 
-![](P1050981.jpg)
+![""](P1050981.jpg)
 
 At the end of the day we went back to the chalet for some hot soup and then started the long train journey home.
