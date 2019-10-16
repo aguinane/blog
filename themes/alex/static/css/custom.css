@@ -4,12 +4,3 @@ img {
   border-radius: 5px;
   max-width: 100%;
 }
-
-
-.container {
-  max-width: 38rem !important;
-  padding-left:  1rem;
-  padding-right: 1rem;
-  margin-left:  auto;
-  margin-right: auto;
-}

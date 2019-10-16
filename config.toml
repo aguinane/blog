@@ -14,6 +14,7 @@ paginate = 9
   featured_image = "posts/2018/upper-gorge/creek1.jpg"
   themeColor = "theme-base-08"
   layoutReverse = true
+  relatedPosts = true
 
 [permalinks]
   posts = "posts/:year/:slug/"
@@ -27,7 +28,7 @@ paginate = 9
   category = "categories"
   series = "series"
   tag = "tags"
-  
+
 [[menu.main]]
     name = "Travel"
     identifier = "travel"
@@ -47,6 +48,3 @@ paginate = 9
     name = "1SE"
     identifier = "1se"
     url = "/pages/1se"
-
-
-

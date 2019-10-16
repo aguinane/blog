@@ -2,6 +2,6 @@ User-agent: *
 Disallow: *.jpg
 
 User-agent: Googlebot-Image
-Disallow: / 
+Disallow: /
 
 Sitemap: https://alex.guinman.id.au/sitemap.xml

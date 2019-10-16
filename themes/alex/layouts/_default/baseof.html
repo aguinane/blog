@@ -1,13 +1,27 @@
 <!DOCTYPE html>
-<html>
-{{- partial "head.html" . -}}
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+
+<head>
+    {{- partial "head.html" . -}}
+</head>
 
 <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
     {{- partial "header.html" . -}}
-    {{- partial "sidebar.html" . -}}
-    <main class="content container">
-        {{- block "main" . }}{{- end }}
-    </main>
+
+    <div class="container-fluid">
+        <div class="row">
+            <aside class="sidebar">
+                {{- partial "sidebar.html" . -}}
+            </aside>
+
+            <main role="main" class="content">
+                {{- block "main" . }}{{- end }}
+            </main>
+
+        </div><!-- /row-->
+    </div><!-- /container-fluid-->
+
+
     {{- partial "footer.html" . -}}
 </body>
 
