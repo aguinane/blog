@@ -18,7 +18,7 @@ The next day I caught the tilt train, which was full of people I knew trying to 
 
 I had to stay the night in Gladstone, this time thanks to Elise for letting me stay. More waiting around at the Marina, the ferry left around lunch time for Rockhampton. I was surprised at just how many people had taken advantage of the service, it was packed. The trip itself was kind of interesting, we passed through the Narrows and it is easy to see how it got it's name.
 
-[vimeo 20188010 w=400 h=300]
+{{< vimeo 20188010 >}}
 
 Once we had passed through the narrows and got to the ocean you could see how much flooding there was by looking at the seawater. It was brown and full of all kinds of logs, weeds and other things washed out by the flood water. It was interesting seeing some of the tiny little islands of Emu Park that you can't see from the mainland. As well as out ferry, there were also 2 more that came from Gladstone with bread trucks on them bringing in supplies that arrived at the same time.
 

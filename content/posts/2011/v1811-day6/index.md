@@ -19,7 +19,7 @@ We had a pretty chilled morning sailing on the sea, with a descent speed and goo
 
 Turns out awesome looking clouds like that mean there is a storm coming and we got smashed by some pretty intense weather and had to bring a lot of our sails down.
 
-http://www.vimeo.com/31721183
+{{< vimeo 31721183 >}}
 
 After that taking that video I got to climb to the topgallant yard to tie the gaskets (fold up the square sails), and while up there saw what was either a sun fish or manta ray come up next to the ship. It was huge but you wouldn't have been able to see it on deck. Climbing during the storm was not as scary as I originally thought it would be, and if fact was a lot of fun. Despite being the highest, the topgallant is actually a fairly small sail so Matt and I had no trouble doing the sea furl, but the guys working on the topsail really struggled and took ages to get it tied up.
 

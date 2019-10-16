@@ -42,7 +42,7 @@ After our french cafe experience, Rachael and I left and went to see the Eiffel 
 
 After that we rode around on the bus a bit, went inside the Cathedral Notre Dame de Paris and watched some street dancers outside. We then got the bus to the Champs-Élysées in order to climb to the top of the Arc de Triomph. There was more street dancers there as well.
 
-[vimeo http://www.vimeo.com/16563098 w=400&h=300]
+{{< vimeo 16563098 >}}
 
 The view from the top at night was spectacular and I reccomend it to everyone. I'm sure it is great in the day but at night the lights of the city were spectacular.
 

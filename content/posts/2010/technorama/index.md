@@ -14,7 +14,7 @@ title: Technorama
 
 This Saturday I went to [Technorama](http://www.technorama.ch) in [Winterthur](https://plus.google.com/105054703111621531697/) on an IAESTE event. It was sort of like the Swiss version of Questacon. Check out the video below for some of the random things that I filmed.
 
-[vimeo http://www.vimeo.com/17339544 w=400&h=300]
+{{< vimeo 17339544 >}}
 
 The Lightning display was a fairly big let-down for the most part (it went for about 30mins but the only cool bits were in that video). But the Tesla coils were definitely worth the wait. After Ode to Joy they also played Smoke on the Water - the frequency is changed by increasing how many times it arcs in a second.
 

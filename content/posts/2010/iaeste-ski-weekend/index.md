@@ -44,7 +44,7 @@ I decided to have a go at the grind rail, and got about half way along before ju
 
 Then later still, I did another epic stack. I hit the biggest jump with tonnes of speed and without meaning to attempted to do a backflip - or at least that's what I was told it looked like by Pete. I basically landed on my back so it I landed pretty hard and got the wind knocked out of me a bit. After a short breather I was okay, see the video below for footage that I took directly after (in the middle of the video somewhere). I had planned on doing the rail again but didn't want to try it with the camera in my hand. We went back one more time though and I successfully made it to the end of the grind rail again, again landing the jump off the end.
 
-[vimeo http://www.vimeo.com/17814190 w=400&h=300]
+{{< vimeo 17814190 >}}
 
 We went back to the nice soft runs after that and tried doing Indie grabs. All and all it was an epic day, and was a much better ski resort than Davos. The one problem that I had was that the T-bars were so long and steep that it was really quite painful by the time you go to the top of them.
 

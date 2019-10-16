@@ -45,13 +45,13 @@ The gondola ride at the end of our tour was great, it started off boring as we w
 
 ![""](gondola.jpg)
 
-[vimeo http://www.vimeo.com/16560337 w=400&h=300]
+{{< vimeo 16560337 >}}
 
 On DAY 3 we had to walk to the Square yet again to go on a Boat trip to 3 of the surrounding islands. While we were waiting they were setting up for the Venice marathon.
 
 The first island we went to was Murano, where we got to see how glass was made. It was incredible to watch and I had no idea how much skill would be needed to do it. Check out the video of the guy making a horse sculpture.
 
-[vimeo http://www.vimeo.com/16560205 w=400&h=300]
+{{< vimeo 16560205 >}}
 
 Next stop was to Burano, which is famous for lace making. Unlike glass making, lace is really boring. The island itself was still pretty cool though as all the houses were painted different bright colours. We saw a church tower that was leaning, and discovered that in the absence of having cars, the young hooligans put the fully sick sub-woofers in their boats. It was strange situation in which we heard the doof doof of a Kate Perry song as some young guy drove past in his tinny.
 
