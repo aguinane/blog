@@ -24,4 +24,3 @@ Other places you can find me on the net:
 ### Disclaimers
 
 _This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to the blog owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity, unless explicitly stated._
-
