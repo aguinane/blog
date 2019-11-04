@@ -6,7 +6,7 @@ type: page
 I originally started this blog as "Tales From Turgi" when I was living in
 [Switzerland](/tags/switzerland) in 2010.
 
-After moving back to Australia, I have tried to update it when ever I travel, and sometimes for other things.
+After moving back to Australia, I have tried to update it when ever I [travel](/categories/travel), and sometimes for [other things](/categories/misc).
 
 It is mostly a reference for me to document and look back at things.
 
@@ -19,8 +19,3 @@ Other places you can find me on the net:
 * [parkrun](http://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205)
 * [goodreads](http://www.goodreads.com/aguin)
 * [wikitree](https://www.wikitree.com/treewidget/Guinane-16/5)
-
-
-### Disclaimers
-
-_This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to the blog owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity, unless explicitly stated._

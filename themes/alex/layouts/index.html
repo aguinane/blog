@@ -3,12 +3,29 @@
 {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
 {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 
+<h2>Recent Posts</h2>
+<div class="card-columns">
+    {{ range (first 3 $section) -}}
+    <div class="card">
+        <img class="card-img-top img-fluid" src="{{.Params.featured_image}}" alt="" style="max-height: 20em;">
+        <div class="card-body">
+            <a class="card-title" href="{{ .Permalink }}">{{ .Title }}</a>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+                content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted"><time class="pull-right post-list"
+                        datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">{{ .Date.Format "Jan 02, 2006" }}</time></small>
+            </p>
+        </div>
+    </div>
+    {{- end }}
+</div>
 
-<h1>Recent Posts</h1>
-{{ range (first 20 $section) -}}
 
-{{- partial "post-list-item.html" . -}}
+<h1>{{.Title}}</h1>
 
-{{- end }}
+<div class="homepage-content">
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+    {{.Content}}
+</div>
 
 {{- end }}

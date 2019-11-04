@@ -1,6 +1,6 @@
 baseURL = "https://alex.guinman.id.au/"
 languageCode = "en-gb"
-title = "Alex's Blog"
+title = "Alex Guinman"
 subtitle = "Personal blog of Alex Guinman"
 theme = "alex"
 paginate = 9
@@ -38,13 +38,3 @@ paginate = 9
     name = "Misc"
     identifier = "misc"
     url = "/categories/misc/"
-
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/pages/about"
-
-[[menu.main]]
-    name = "1SE"
-    identifier = "1se"
-    url = "/pages/1se"
