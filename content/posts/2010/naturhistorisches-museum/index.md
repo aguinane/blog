@@ -2,8 +2,8 @@
 categories:
 - Travel
 date: '2010-07-06'
-featured_image: posts/2010/naturhistorisches-museum-der-burgergemeinde-bern/P1020029.jpg
-slug: naturhistorisches-museum-der-burgergemeinde-bern
+featured_image: posts/2010/naturhistorisches-museum/P1020029.jpg
+slug: naturhistorisches-museum
 tags:
 - Bern
 - Switzerland

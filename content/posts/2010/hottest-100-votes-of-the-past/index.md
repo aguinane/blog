@@ -16,8 +16,7 @@ As it comes once again to Hottest 100 voting time, this year I think I am unqual
 
 So I am going to try and find copies of my lists from past years, although this could prove an impossible task. I posted my votes somewhere each year, but 6 years ago was before Facebook and the posts from my Myspace account are long since deleted. I will update this post then with my past votes as I find them (if I find them).
 
-
-# 2009
+## 2009
 
 - Doves - Kingdom Of Rust
 - Flight Of The Conchords - Hurt Feelings
@@ -30,8 +29,7 @@ So I am going to try and find copies of my lists from past years, although this 
 - Temper Trap, The - Fader
 - Washington - How To Tame Lions
 
-
-# 2009 - All Time
+## 2009 - All Time
 
 This is the 10 songs that I voted for in the Hottest 100 of all time.
 It's a fairly modern list, and not necessarily the greatest songs of time, but the one's that I felt deserved my vote at the time.
@@ -70,8 +68,7 @@ Also, here are just some of the MANY songs that didn't quite make the 10:
 - Don't You Think It's Time - Bob Evans
 - The Zephyr Song - Red Hot Chili Peppers
 
-
-# 2007
+## 2007
 
 - Powderfinger - Black Tears
 - Dead Letter Circus - Disconnect And Apply
@@ -84,8 +81,7 @@ Also, here are just some of the MANY songs that didn't quite make the 10:
 - Josh Pyke - Vibrations In Air
 - Missy Higgins - Warm Whispers
 
-
-# 2006
+## 2006
 
 - 'Til The End - The Living End
 	Have to vote for Living End of course. They have had a song in the countdown since 1997. They were awesome live! Chose this song over Long Live The Weekend and Wake Up, also good songs.
