@@ -19,7 +19,7 @@ Other places you can find me on the net:
 
 {{< social alt="github" link="https://github.com/aguinane" src="icons/github.png" >}}
 {{< social alt="linkedin" link="https://www.linkedin.com/in/alexguinane" src="icons/linkedin.png" >}}
-{{< social alt="strava" link="https://www.linkedin.com/in/alexguinane" src="icons/strava.png" >}}
+{{< social alt="strava" link="https://www.strava.com/athletes/681775" src="icons/strava.png" >}}
 {{< social alt="youtube" link="https://www.youtube.com/user/aguin01" src="icons/youtube.png" >}}
 {{< social alt="parkrun" link="https://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205" src="icons/parkrun.png" >}}
 {{< social alt="goodreads" link="https://www.goodreads.com/aguin" src="icons/goodreads.png" >}}
