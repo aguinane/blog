@@ -10,9 +10,7 @@ title: Europe - Summary and Tips
 
 This final Euro Trip post (before we get back to Switzerland) is to sum up my impressions of each city. In particular it is dedicated to Tim and Kate who might be coming over next year, or anyone else that plans on travelling to Europe in the future. Hopefully these tips/comments will be able to make your trip even more enjoyable than ours.
 
-
 ## Places
-
 
 **Rome** - Rome as a place to visit is a must. There is so much history and places to see that it's somewhere everywhere should go once. Having been once, I don't think I will go back but a one time visit is essential. The two highlights were the Colosseum/Forum Tour and the Vatican Museum.
 
@@ -28,9 +26,7 @@ We found Rome to be a fairly dirty/unfriendly/busy city. People I talked to (bot
 
 **Neuschwanstein Castle** - This castle screams "massive waste of money" in every single way, but it has turned out pretty well in the long-term, as once the king died they opened it up to tourists and now make 0.25mil euro a day. Well worth a visit at least once just to see how stupidly extravagant it is. The view from the castle is great as well, with lots of lakes and the Austrian alps surrounding it.
 
-
 ## Tours
-
 
 The best tours in Europe are by far the [NewEurope](http://www.neweuropetours.eu/) tours. In fact I reckon that you could probably book a holiday of Europe just around these tours and it would be epic, I will probably do this if I come back, try to go on each one. They also have paid tours and pub crawls as well, which we didn't have time for.
 
@@ -40,14 +36,10 @@ Skip-the-line tours are great, the Vatican would have sucked without it because 
 
 Most of the paid walking tours that we did were horrible and I would recommend against them. The one in Venice was an exception because of the Gondola tour, but the tour itself wasn't too bad either.
 
-
 ## Language
-
 
 Try to learn some basic words in the language, especially for Paris. I've always heard about how rude people are there, but as long as you open with "Bonjour, Parlez vous Anglais?" the seemed to be nice enough. That goes for all the places, you don't need to speak the language, but at least learn Hello and Thankyou. This was pretty easy for everywhere but Prague, because they have some russian looking letters and we had no idea how to pronounce it. But we asked someone and "Ahoy" is the informal way to say both hello and goodbye, so just pretend that you are a pirate and they might understand you. Most people speak at least some basic English in Europe so we had no problems.
 
-
 ## Other
-
 
 Bring your student ID card. Rachael didn't for some reason so she had to pay full price at some places. They might not recognise Oz ID's everywhere, but so far I haven't had any problems.
