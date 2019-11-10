@@ -8,7 +8,7 @@ tags:
 - Europe
 - France
 - Paris
-title: Paris
+title: Paris and Versailles
 ---
 
 After very little sleep on the bus, and leaving over an hour late, it meant we arrived late in Paris and so hit peak hour traffic, making us later still and stuck in traffic at a crawl. The bus actually went near our hostel and then we spent probably an hour in traffic after that getting to the bus stop on the other side of the city.
