@@ -32,7 +32,6 @@ Watching the emus squat under this barbe wire fence to get a way from us was a s
 The caravan park was pretty good, can recommend staying at Takarakka.
 They had good camp kitchen and facilities, and there was heaps of wildlife.
 
-
 ![""](campsite.jpg "")
 
 We also did the roast dinner that they put on one night which was pretty good.
@@ -41,11 +40,11 @@ We also did the roast dinner that they put on one night which was pretty good.
 
 They have 2 resident platapus and we saw a bunch of echidna's and a Bettong (kangaroo-rat).
 
-![""](platapus.jpg "")
+![""](platapus.jpg "platapus")
 
-![""](bettong.jpg "Bettong (kangaroo-rat)")
+![""](bettong.jpg "Bettong")
 
-![""](echidna.jpg "")
+![""](echidna.jpg "echidna")
 
 On the first day, we did some of the easier walks.
 Baloon cave was a short walk and had some aboriginal rock art (although not really a cave).
