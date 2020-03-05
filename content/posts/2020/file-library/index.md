@@ -1,9 +1,10 @@
 ---
 categories:
 - Misc
-date: '2020-03-05'
+date: '2020-03-04'
 slug: file-library
 title: Sorting Files
+featured_image: posts/2020/file-library/library.jpg
 ---
 
 Last year I read an interesting article about [the death of the computer file](https://onezero.medium.com/the-death-of-the-computer-file-doc-43cb028c0506).
