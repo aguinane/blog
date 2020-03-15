@@ -21,6 +21,11 @@ def lowercase_jpg(c):
 
 
 @task
+def remove_metadata(c):
+    c.run("exiftool -r -overwrite_original -P -all= content -ext jpg -ext jpeg")
+
+
+@task
 def gh_pages(c):
     """Publish to GitHub Pages"""
     c.run("hugo")
