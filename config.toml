@@ -9,8 +9,8 @@ paginate = 9
   home = ["HTML", "RSS"]
 
 [params]
-  AuthorName = "Alex Guinman"
-  Subtitle = "Personal blog of Alex Guinman"
+  author = "Alex Guinman"
+  description = "Personal blog of Alex Guinman"
   favicon = ""
   themeColor = "theme-base-08"
   layoutReverse = true

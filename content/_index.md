@@ -11,12 +11,7 @@ Since then, I have tried to update it when ever I [travel](/categories/travel), 
 It is mostly a reference for me to document and look back at things.
 
 Other places you can find me on the net:
-<style type="text/css">
-.social img {margin:2px; padding: 1px; float: left;border:0px}
-</style>
-
 <div class="social">
-
 {{< social alt="github" link="https://github.com/aguinane" src="icons/github.png" >}}
 {{< social alt="linkedin" link="https://www.linkedin.com/in/alexguinane" src="icons/linkedin.png" >}}
 {{< social alt="strava" link="https://www.strava.com/athletes/681775" src="icons/strava.png" >}}
@@ -24,5 +19,4 @@ Other places you can find me on the net:
 {{< social alt="parkrun" link="https://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205" src="icons/parkrun.png" >}}
 {{< social alt="goodreads" link="https://www.goodreads.com/aguin" src="icons/goodreads.png" >}}
 {{< social alt="wikitree" link="https://www.wikitree.com/treewidget/Guinane-16/5" src="icons/wikitree.png" >}}
-
 </div>

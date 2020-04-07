@@ -4,3 +4,12 @@ img {
   border-radius: 5px;
   max-width: 100%;
 }
+
+.social-icon {
+  margin:2px !important;
+  padding: 1px;
+  float: left;
+  border:0px;
+  max-height:30px !important;
+  max-width:30px !important;
+}
