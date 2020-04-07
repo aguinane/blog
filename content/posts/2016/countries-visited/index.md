@@ -3,6 +3,7 @@ Modified: 2017-03-03 10:00:00+10:00"
 categories:
 - Travel
 date: '2016-01-31'
+lastmod: '2017-03-03'
 featured_image: posts/2016/countries-visited/countries_visited.png
 slug: countries-visited
 tags:
@@ -10,7 +11,7 @@ tags:
 title: Countries Visited
 ---
 
-** 03 Mar 2017: ** Updated with more countries. Now more than 15.
+**Update:** New countries added (now more than 15).
 
 ![countries](countries_visited.png)
 
