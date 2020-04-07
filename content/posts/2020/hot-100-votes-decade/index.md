@@ -52,6 +52,7 @@ Once I hear this song it gets stuck in my head for ages.
 I didn't vote for this in the yearly poll but it has grown on me since.
 
 Some other songs that were on the short-list but not mentioned above:
+
 * Adele - Someone Like You (2011)
 * Busby Marou - Five Rocks (2010) or Underlying Message (2010)
 * Childish Gambino - 3005 (2013) or Redbone (2016)
