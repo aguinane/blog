@@ -8,6 +8,9 @@ paginate = 9
 [outputs]
   home = ["HTML", "RSS"]
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   author = "Alex Guinman"
   description = "Personal blog of Alex Guinman"

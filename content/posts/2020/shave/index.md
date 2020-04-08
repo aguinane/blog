@@ -8,7 +8,7 @@ featured_image: posts/2020/shave/after.jpg
 ---
 
 On the weekend I took part in the World's Greatest Shave.
-Thanks to everyone that donated, we were able to raise $1,790  for the Leukaemia Foundation.
+Thanks to everyone that donated, we were able to raise $1,847 for the Leukaemia Foundation.
 
 !["Before shot"](before.jpg)
 
