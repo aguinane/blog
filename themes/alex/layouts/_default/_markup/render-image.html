@@ -1,0 +1,4 @@
+<figure class="figure">
+<img style="max-height:450px;" class="figure-img img-fluid" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+{{ with .Title}}<figcaption class="figure-caption text-right">{{ . }}</figcaption>{{ end }}   
+</figure>
