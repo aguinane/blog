@@ -1,8 +1,8 @@
 ---
-Modified: 2019-02-23"
 categories:
 - Misc
 date: '2016-01-31'
+lastmod: '2019-02-23'
 slug: 40-things
 tags:
 - Day Zero Project

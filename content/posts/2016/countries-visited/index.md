@@ -1,5 +1,4 @@
 ---
-Modified: 2017-03-03 10:00:00+10:00"
 categories:
 - Travel
 date: '2016-01-31'

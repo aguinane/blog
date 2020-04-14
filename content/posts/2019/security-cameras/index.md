@@ -2,11 +2,14 @@
 categories:
 - Misc
 date: '2019-07-11'
+lastmod: '2019-04-14'
 featured_image: posts/2019/security-cameras/mia-box.jpg
 slug: security-cameras
 title: Security Cameras
 type: post
 ---
+
+**Update:**  The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be the basically same, but cheaper. I'd probably get them instead.
 
 Recently I ended up installing some IP security cameras at our place, and since a few people have asked about them I thought I'd do a quick summary on here.
 
