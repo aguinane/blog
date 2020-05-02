@@ -45,7 +45,7 @@ After the mass, the prince's son gave some speech about politics and stuff and t
 
 ![""](royals.jpg "")
 
-![With the royal band.](royal_band.jpg)
+![""](royal_band.jpg "With the royal band")
 
 The aperitif was awesome. There was free food and beer, and we got got to explore the garden of the castle. Also we met the Princess, the Prince and the Prince's son and got photos of them all with us and the IAESTE flag. They seemed like a nice family and it was cool that they spend the morning talking to everyone. I also got to have a go of an alpine horn, which they had set up on a hill.
 
@@ -59,6 +59,6 @@ We then walked down the mountain to the city, where there is a festival for the 
 
 The bands and entertainment didn't start until like 6.30, and about 5.30 it started to rain and got very miserable so we decided just to head home, as nothing particularly exciting was happening.
 
-![""](P1030387.jpg "Foosball")
+![""](P1030387.jpg "Fußball")
 
 All in all it was a fun weekend, and it's not every day you get to meet royalty.

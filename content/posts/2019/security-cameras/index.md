@@ -2,11 +2,13 @@
 categories:
 - Misc
 date: '2019-07-11'
-lastmod: '2019-04-14'
+lastmod: '2020-04-14'
 featured_image: posts/2019/security-cameras/mia-box.jpg
 slug: security-cameras
 title: Security Cameras
 type: post
+tags:
+- Home Automation
 ---
 
 **Update:**  The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be the basically same, but cheaper. I'd probably get them instead.

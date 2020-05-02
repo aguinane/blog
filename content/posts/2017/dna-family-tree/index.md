@@ -6,6 +6,7 @@ featured_image: posts/2017/dna-family-tree/ancestry.png
 slug: dna-family-tree
 tags:
 - DNA
+- Genealogy
 title: DNA Genealogy
 ---
 
