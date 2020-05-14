@@ -7,6 +7,9 @@ title: Aphantasia
 featured_image: posts/2020/aphantasia/aphantasia.jpg
 ---
 
+
+[!["apples"](apples.jpg)](https://twitter.com/premium__heart/status/1225610677177520130)
+
 Last year I came across this [reddit post](https://www.reddit.com/r/tifu/comments/c4i94n/tifu_by_explaining_my_synesthesia_to_my_boyfriend/) (just before going to bed) which completely blew my mind (like the boyfriend in the post). So many sayings and things from movies (flashback scenes) finally made sense, but I still thought I must be understanding something and that the minds-eye visualisation described was exaggerated. I was eventually able to get to sleep but first thing in the morning I made Rachael watch [this video](https://www.youtube.com/watch?v=ewsGmhAjjjI).
 
 So turns out that Rachael can visalise things, but I can't. Which made perfect sense and explained so many things at the same time as completely blowing both our minds.
