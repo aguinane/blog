@@ -9,9 +9,10 @@ tags:
 - Home Automation
 ---
 
-When I first started playing with [Home Assistant](https://www.home-assistant.io) the first thing I thought to automate was our air-conditioner. When we bought the air con for our living room it cost way more for the "smart" ones that you could control with your phone and we didn't think we would use it anyway, so we just got a [dumb one](https://www.kelvinator.com.au/air-conditioning/split-system/ksv70hrd). But since it can take up to five minutes or so before the heater works, it's definitely good to have it automatically turn on on cold mornings, or turn it on from your phone in bed. 
+When I first started playing with [Home Assistant](https://www.home-assistant.io) the first thing I thought to automate was our air-conditioner. When we bought the air con for our living room it cost way more for the "smart" ones that you could control with your phone and we didn't think we would use it anyway, so we just got a [dumb one](https://www.kelvinator.com.au/air-conditioning/split-system/ksv70hrd). But since it can take up to five minutes or so before the heater works, it's definitely good to have it automatically turn on on cold mornings, or turn it on from your phone in bed.
 
-Luckily, since you turn it on with a remote, all you have to do is buy a universal remote with WiFi. I got the Broadlink RM2 Pro from eBay for about $40. The [Logitech](https://secure.logitech.com/en-au/product/harmony-hub) ones are probably much better, but cost way more. 
+Luckily, since you turn it on with a remote, all you have to do is buy a universal remote with WiFi. I got the Broadlink RM2 Pro from eBay for about $40. The [Logitech](https://secure.logitech.com/en-au/product/harmony-hub) ones are probably much better, but cost way more.
+There are also products like [Sensibo](https://sensibo.com) that are designed just for air cons but are also way more expensive.
 
 !["Air Con"](aircon.jpg "Wifi Remote on bookshelf")
 
