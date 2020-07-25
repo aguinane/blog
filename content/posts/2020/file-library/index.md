@@ -2,6 +2,7 @@
 categories:
 - Misc
 date: '2020-03-04'
+lastmod: '2020-06-28'
 slug: file-library
 title: Sorting Files
 featured_image: posts/2020/file-library/library.jpg
@@ -47,6 +48,16 @@ exiftool -d %Y/%m-%b "-directory<filemodifydate" "-directory<createdate" "-direc
 
 ## Music
 
+**Update:** I've found using [MusicBrainz Picard](https://www.reddit.com/r/musichoarder/comments/b67fxa/psa_fast_tagging_using_musicbrainz_picard_a_primer) has been easier then beets. Below is my naming script for it.
+
+```
+$set(_artiststr,$if($and($eq(%compilation%,1),$eq($lower(%albumartist%),various
+artists)),!Various Artists,%albumartist%))
+$set(_albumstr,$if(%date%,$left(%date%,4) -) %album%)
+$set(_trackstr,$if($gt(%totaldiscs%,1),%discnumber%-,)$if($and(%albumartist%,%tracknumber%),$num(%tracknumber%,2) ,)%artist% - %title%)
+%_artiststr% / %_albumstr% / %_trackstr%
+```
+
 I found the best way to rename music is to use [beets](http://beets.io).
 Although I remember that it was a bit of a pain to setup and to get the config to my liking.
 
@@ -56,3 +67,5 @@ default: $format/$albumartist/$year - $album%aunique{}/$disc-$track $artist - $t
 singleton: $format/Non-Album/$artist/$artist - $title
 comp: $format/Compilations/$year - $album%aunique{}/$disc-$track $artist - $title
 ```
+
+
