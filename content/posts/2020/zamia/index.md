@@ -5,6 +5,9 @@ date: '2020-07-07'
 slug: zamia
 title: Zamia Walk
 featured_image: posts/2020/zamia/trailhead.jpg
+tags:
+- Queensland
+- Hiking
 ---
 
 !["Trailhead"](trailhead.jpg)
