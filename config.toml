@@ -4,7 +4,6 @@ title = "Alex Guinman"
 subtitle = "Personal blog of Alex Guinman"
 theme = "alex"
 paginate = 9
-googleAnalytics = "UA-163360018-1"
 
 [outputs]
   home = ["HTML", "RSS"]
