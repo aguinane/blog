@@ -34,8 +34,8 @@ def resize_images(c, pre=[lowercase_jpg, remove_metadata]):
         if filesize > 300000:
             im = Image.open(f)
             width, height = im.size
-            if width > 2024 or height > 2024:
-                cmd = f"mogrify -verbose -resize 2024\>x2024\> {str(f)}"
+            if width > 1600 or height > 1600:
+                cmd = f"mogrify -verbose -resize 1600\>x1600\> {str(f)}"
                 c.run(cmd)
 
 
