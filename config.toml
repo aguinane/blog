@@ -41,3 +41,8 @@ paginate = 9
     name = "Misc"
     identifier = "misc"
     url = "/categories/misc/"
+    
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/pages/about/"    
