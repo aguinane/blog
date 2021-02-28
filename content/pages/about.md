@@ -26,11 +26,11 @@ Other places you can find me on the net:
 
 This site is generated with [Hugo](https://gohugo.io/) and hosted with [Github](https://github.com/aguinane/blog) and [Netfliy](https://www.netlify.com/).
 
-It originally was on [Blogger](https://www.blogger.com), then I changed to [Wordpress](https://wordpress.com/) and then [Pelican](https://blog.getpelican.com/) as well as changing the URL several times.
+It originally was on [Blogger](http://talesfromturgi.blogspot.com/), then I changed to [Wordpress](http://alexguinane.wordpress.com). I then changed again to building a static site with [Pelican](https://blog.getpelican.com/).
 
 ## More Misc
 
 Here are some extra misc pages that don't really have a post date.
 * [1 Second Everyday videos](/pages/1se/)
 * [Sorting Files](/pages/sorting-files/)
-
+* [Linux Cheatsheat](/pages/linux/)
