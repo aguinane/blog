@@ -11,7 +11,7 @@ tags:
 - Home Automation
 ---
 
-**Update:**  Ubiquiti have discontinued UniFi Video. The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be basically the same, but cheaper. I'd probably get them instead.
+**Update:**  Ubiquiti have discontinued UniFi Video. The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be basically the same, but cheaper. I'd probably get them instead. Very annoyed that they made it end-of-life just after I bought the NVR.
 
 Recently I ended up installing some IP security cameras at our place, and since a few people have asked about them I thought I'd do a quick summary on here.
 
