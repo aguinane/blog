@@ -25,7 +25,7 @@ Jan flew in Friday and chilled at the gardens before I picked him up after work.
 
 For Australia Day we went to my friend's backyard Hottest 100 party, and considering it was stinking hot, it wouldn't have been complete without a slip-and-slide.
 
-![Slip and Slide](ozday1.PNG "Australia Day Split-n-Slide")
+![Slip and Slide](ozday1.png "Australia Day Split-n-Slide")
 
 When the water wasn't running the tarp heated up to an crazy temperature, but despite Adrian's attempt it wasn't quite hot enough to cook an egg on it.
 

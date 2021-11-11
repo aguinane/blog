@@ -19,6 +19,12 @@ def lowercase_jpg(c):
         old_path = str(f)
         new_path = str(f).replace(".JPG", ".jpg")
         os.rename(old_path, new_path)
+    files = list(Path("content").rglob("*.PNG"))
+    for f in files:
+        old_path = str(f)
+        new_path = str(f).replace(".PNG", ".png")
+        os.rename(old_path, new_path)
+        
 
 
 @task

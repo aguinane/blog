@@ -26,8 +26,6 @@ We stopped at a really nice beach that Tom and I had been to earlier in the year
 
 We spent the first night camping at Byron Bay and froze our butts off. We didn't get a chance to check much out the afternoon before because it was hard to get parks, so we went up in the early morning to the lighthouse and most easterly point of the Australian mainland. Since I want to go to the cape at some stage anyway, it would be pretty cool to tick off the other 2 points one day as well.
 
-![""](AustraliaMap_Extremities.PNG)
-
 ![""](p1100771.jpg)
 
 ![""](p1100778.jpg)
