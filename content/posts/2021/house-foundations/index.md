@@ -1,4 +1,5 @@
 ---
+type: post
 categories:
 - Misc
 date: '2021-02-03'
