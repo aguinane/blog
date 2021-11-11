@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2020-11-04'
 slug: cania-gorge
 title: Cania Gorge

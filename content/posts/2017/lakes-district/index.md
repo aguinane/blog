@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-05-03'
 featured_image: posts/2017/lakes-district/lake.jpg
 slug: lakes-district

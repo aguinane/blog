@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-02-21'
 featured_image: posts/2011/returning-to-the-island/curtisferry.jpg
 slug: returning-to-the-island

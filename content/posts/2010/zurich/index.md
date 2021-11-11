@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-24'
 featured_image: posts/2010/zurich/p1020663-7232401.jpg
 slug: zurich

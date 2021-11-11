@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2013-05-31'
 featured_image: posts/2013/top-of-tabletop/tabletop.jpg
 slug: top-of-tabletop

@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2017-09-21'
 featured_image: posts/2017/dna-family-tree/ancestry.png
 slug: dna-family-tree

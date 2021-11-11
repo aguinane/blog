@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-03'
 featured_image: posts/2010/zurifascht-2010/p1010928.jpg
 slug: zurifascht-2010

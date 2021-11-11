@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2020-07-07'
 slug: zamia
 title: Zamia Walk

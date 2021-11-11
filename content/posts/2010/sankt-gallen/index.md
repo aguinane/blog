@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-12-28'
 featured_image: posts/2010/sankt-gallen/p1060279.jpg
 slug: sankt-gallen

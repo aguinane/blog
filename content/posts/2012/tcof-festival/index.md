@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-09-29'
 featured_image: posts/2012/tcof-festival/grounds.jpg
 slug: tcof-festival

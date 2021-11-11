@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-03-25'
 featured_image: posts/2017/leaving-london/lake.jpg
 slug: leaving-london

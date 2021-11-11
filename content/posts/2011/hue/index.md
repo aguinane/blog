@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-07-27'
 featured_image: posts/2011/hue/p1080207.jpg
 slug: hue

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-10-05'
 featured_image: posts/2010/oktoberfest/p1040660.jpg
 slug: oktoberfest

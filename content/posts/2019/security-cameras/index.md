@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2019-07-11'
 lastmod: '2020-04-14'
 featured_image: posts/2019/security-cameras/mia-box.jpg
@@ -11,7 +12,8 @@ tags:
 - Home Automation
 ---
 
-**Update:**  Ubiquiti have discontinued UniFi Video. The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be basically the same, but cheaper. I'd probably get them instead. Very annoyed that they made it end-of-life just after I bought the NVR.
+**Uptype: post
+date:**  Ubiquiti have discontinued UniFi Video. The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be basically the same, but cheaper. I'd probably get them instead. Very annoyed that they made it end-of-life just after I bought the NVR.
 
 Recently I ended up installing some IP security cameras at our place, and since a few people have asked about them I thought I'd do a quick summary on here.
 
@@ -35,7 +37,8 @@ I didn't want to be locked in to that though - you can also use something like Z
 
 I originally was running the free NVR software on my NAS, but it was a bit underspecced and made the NAS run slow and filled up the HDD. When the power went out the NAS wants you to check the disk before it starts it up again which also helpful for a security camera when you are away. So I ended up buying their [hardware NVR](https://www.umart.com.au/Ubiquiti-UniFi-NVR-2TB-Network-Video-Recorder_44608G.html) to use instead.
 
-**Update:** Annoyingly, they discontinued the NVR and replaced it [with this](https://www.ubnt.com.au/unifi-cloud-key-gen2-plus) a few months after I bought it.
+**Uptype: post
+date:** Annoyingly, they discontinued the NVR and replaced it [with this](https://www.ubnt.com.au/unifi-cloud-key-gen2-plus) a few months after I bought it.
 
 Another requirement was that I preferrably wanted to use Power over Ethernet (PoE) which means you don't have to have a power point it just has an ethernet cable that powers it and does data transfer. But it meant I had to buy a new [network switch that supports PoE](https://www.umart.com.au/Ubiquiti-UniFi-8-Port-60W-with-4-Ports-POE-OEM_39604G.html) as well and they are also expensive. You can just buy a standalone [PoE injector](https://www.umart.com.au/Ubiquiti-POE-Injector--24VDC--12W_38532G.html) for each camera ($10 each) but that makes things a bit messy as you would have a bunch of them and need a switch anyway if you don't have enough ethernet ports.
 

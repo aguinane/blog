@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-03-16'
 featured_image: posts/2015/great-ocean-road/bellsbeach-resized.jpg
 slug: great-ocean-road

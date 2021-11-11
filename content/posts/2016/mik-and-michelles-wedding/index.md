@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-12-26'
 featured_image: posts/2016/mik-and-michelles-wedding/img_20160618_170423.jpg
 slug: mik-and-michelles-wedding

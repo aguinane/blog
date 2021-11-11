@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-07'
 featured_image: posts/2010/euro-trip-firenze/p1040846.jpg
 slug: euro-trip-firenze

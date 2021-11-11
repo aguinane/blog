@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-01-08'
 featured_image: posts/2012/hottest-100-votes-2011/mobile_header.jpg
 slug: hottest-100-votes-2011

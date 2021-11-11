@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2012-03-30'
 featured_image: posts/2012/sightseeing-at-home/crocfarm2.jpg
 slug: sightseeing-at-home

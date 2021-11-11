@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-09-14'
 featured_image: posts/2010/iaeste-hiking-weekend/P1040232.jpg
 slug: iaeste-hiking-weekend

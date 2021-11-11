@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2013-05-24'
 featured_image: posts/2013/japanese-gardens/japanese-gardens.jpg
 slug: japanese-gardens

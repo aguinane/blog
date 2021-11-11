@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-03-13'
 featured_image: posts/2019/eungella/fh-wheel-of-fire1.jpg
 series:

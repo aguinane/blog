@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-08-04'
 featured_image: posts/2010/007-bungee-jump-verzasca-dam/p10301091.jpg
 slug: 007-bungee-jump-verzasca-dam

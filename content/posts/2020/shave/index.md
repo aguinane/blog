@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-03-15'
 slug: shave
 title: World's Greatest Shave

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-01-30'
 featured_image: posts/2016/granite-belt-take-2/feature.jpg
 slug: granite-belt-take-2

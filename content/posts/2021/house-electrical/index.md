@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2021-04-16'
 slug: house-electrical
 title: House Electrical

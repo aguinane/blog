@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2013-03-03'
 featured_image: posts/2013/fiji-pacific-harbour/p1110509.jpg
 slug: fiji-pacific-harbour

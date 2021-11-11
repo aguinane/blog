@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-03-15'
 featured_image: posts/2019/paluma/littlecrystalcreek.jpg
 series:

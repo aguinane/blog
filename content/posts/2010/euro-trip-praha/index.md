@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-12'
 featured_image: posts/2010/euro-trip-praha/absintherie.jpg
 slug: euro-trip-praha

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-17'
 featured_image: posts/2017/munich/Schweinshaxe.jpg
 slug: munich

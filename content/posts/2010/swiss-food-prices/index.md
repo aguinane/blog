@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-12-19'
 featured_image: posts/2010/swiss-food-prices/p1030269.jpg
 slug: swiss-food-prices

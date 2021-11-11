@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2017-09-24'
 featured_image: posts/2017/tcof2017/lb1.jpg
 slug: tcof2017

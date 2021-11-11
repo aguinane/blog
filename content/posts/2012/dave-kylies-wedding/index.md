@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-08-11'
 featured_image: posts/2012/dave-kylies-wedding/wedding1.jpg
 slug: dave-kylies-wedding

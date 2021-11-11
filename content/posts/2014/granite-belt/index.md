@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2014-05-17'
 featured_image: posts/2014/granite-belt/stanthorpe.jpg
 slug: granite-belt

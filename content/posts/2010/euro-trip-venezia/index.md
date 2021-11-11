@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-08'
 featured_image: posts/2010/euro-trip-venezia/p1040894.jpg
 slug: euro-trip-venezia

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-03-17'
 featured_image: posts/2019/cairns-kuranda/train2.jpg
 series:

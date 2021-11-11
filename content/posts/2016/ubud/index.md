@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-07-25'
 featured_image: posts/2016/ubud/img_20160615_135433.jpg
 slug: ubud

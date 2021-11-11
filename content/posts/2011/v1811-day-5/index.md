@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-10-22'
 series:
 - Young Endeavour

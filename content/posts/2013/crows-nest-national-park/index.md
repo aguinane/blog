@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2013-06-10'
 featured_image: posts/2013/crows-nest-national-park/pano_20130609_152124.jpg
 slug: crows-nest-national-park

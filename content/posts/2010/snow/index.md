@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-24'
 slug: snow
 tags:

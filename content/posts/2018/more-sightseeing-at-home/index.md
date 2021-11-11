@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2018-03-03 10:20:00+10:00'
 featured_image: posts/2018/more-sightseeing-at-home/keppel4.jpg
 slug: more-sightseeing-at-home

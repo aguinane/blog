@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-12-09'
 slug: house-design
 title: House Design

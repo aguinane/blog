@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2014-10-07'
 featured_image: posts/2014/tcof-prize-gardens-2/feature1.jpg
 slug: tcof-prize-gardens-2

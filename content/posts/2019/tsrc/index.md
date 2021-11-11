@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2019-09-08'
 featured_image: posts/2019/tsrc/before.jpg
 slug: tsrc

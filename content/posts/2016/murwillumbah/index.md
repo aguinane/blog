@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-01-30'
 featured_image: posts/2016/murwillumbah/tweed-river.jpg
 slug: murwillumbah

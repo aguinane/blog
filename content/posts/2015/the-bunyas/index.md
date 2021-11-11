@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-06-01'
 featured_image: posts/2015/the-bunyas/feature.jpg
 slug: the-bunyas

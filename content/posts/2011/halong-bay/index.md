@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-08-02'
 featured_image: posts/2011/halong-bay/P1080367.jpg
 slug: halong-bay

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2018-10-17'
 featured_image: posts/2018/upper-gorge/creek1.jpg
 slug: upper-gorge

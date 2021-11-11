@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-13'
 slug: euro-trip-summary-and-tips
 tags:

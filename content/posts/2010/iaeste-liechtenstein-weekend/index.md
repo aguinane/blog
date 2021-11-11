@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-08-16'
 featured_image: posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg
 slug: iaeste-liechtenstein-weekend

@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2016-01-30'
 slug: 101-thing-in-1001-days
 tags:

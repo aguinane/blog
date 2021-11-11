@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-11'
 featured_image: posts/2017/ljubljana/castle_night.jpg
 slug: ljubljana

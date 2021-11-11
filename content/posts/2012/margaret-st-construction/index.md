@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-11-18'
 featured_image: posts/2012/margaret-st-construction/2011-11-22-17-33-46.jpg
 slug: margaret-st-construction

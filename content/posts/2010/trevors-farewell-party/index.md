@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-11'
 slug: trevors-farewell-party
 tags:

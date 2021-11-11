@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-05-02'
 featured_image: posts/2017/alnwick/beach2.jpg
 slug: alnwick

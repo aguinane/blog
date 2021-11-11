@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-07-16'
 featured_image: posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg
 slug: uluwatu-and-tanah-lot

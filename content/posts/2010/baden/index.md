@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-03'
 featured_image: posts/2010/baden/clocktower.jpg
 slug: baden

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-03-31'
 featured_image: posts/2017/stockholm/stockholm.jpg
 slug: stockholm

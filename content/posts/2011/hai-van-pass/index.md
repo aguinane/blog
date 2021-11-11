@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-07-27'
 featured_image: posts/2011/hai-van-pass/img_1921.jpg
 slug: hai-van-pass

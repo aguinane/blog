@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-07-23'
 featured_image: posts/2011/ho-chi-minh-city-saigon/p1070481.jpg
 slug: ho-chi-minh-city-saigon

@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2015-02-23'
 featured_image: posts/2015/housewarming-party/pano_20150124_111727.jpg
 slug: housewarming-party

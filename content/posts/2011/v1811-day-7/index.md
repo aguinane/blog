@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-10-24'
 featured_image: posts/2011/v1811-day-7/ye_fellin.jpg
 series:

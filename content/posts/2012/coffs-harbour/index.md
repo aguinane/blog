@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2012-09-13'
 featured_image: posts/2012/coffs-harbour/p1100861.jpg
 slug: coffs-harbour

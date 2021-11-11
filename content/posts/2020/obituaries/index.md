@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-11-20'
 slug: obituaries
 title: Obituaries

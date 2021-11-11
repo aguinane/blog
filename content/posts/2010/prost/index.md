@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-09-16'
 featured_image: posts/2010/prost/p1040438.jpg
 slug: prost

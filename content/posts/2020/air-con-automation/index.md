@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-05-02'
 slug: air-con-automation
 title: Air Con Automation

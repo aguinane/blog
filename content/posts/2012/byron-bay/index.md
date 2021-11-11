@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2012-09-13'
 featured_image: posts/2012/byron-bay/p1100787.jpg
 slug: byron-bay

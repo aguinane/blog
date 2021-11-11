@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-10'
 featured_image: posts/2017/croatia/lake1.jpg
 slug: croatia

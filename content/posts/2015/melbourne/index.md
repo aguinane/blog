@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-03-13'
 featured_image: posts/2015/melbourne/pano_20150306_214726.jpg
 slug: melbourne

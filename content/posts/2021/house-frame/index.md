@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2021-04-14'
 slug: house-frame
 title: House Frame

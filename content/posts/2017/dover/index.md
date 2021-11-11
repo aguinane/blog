@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-03-24'
 featured_image: posts/2017/dover/IMG_0852.jpg
 slug: dover

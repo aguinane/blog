@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-03-05'
 slug: aphantasia
 title: Aphantasia

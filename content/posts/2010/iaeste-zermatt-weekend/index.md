@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-08-23'
 featured_image: posts/2010/iaeste-zermatt-weekend/glacier.jpg
 slug: iaeste-zermatt-weekend

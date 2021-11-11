@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-25'
 featured_image: posts/2017/dublin/castle1.jpg
 slug: dublin

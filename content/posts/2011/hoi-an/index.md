@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-07-25'
 featured_image: posts/2011/hoi-an/p1070814.jpg
 slug: hoi-an

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-07-11'
 featured_image: posts/2016/seminyak/img_20160613_124037.jpg
 slug: seminyak

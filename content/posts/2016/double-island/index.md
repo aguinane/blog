@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-05-29'
 featured_image: posts/2016/double-island/featurerainbowbeach.jpg
 slug: double-island

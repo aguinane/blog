@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2018-10-14'
 featured_image: posts/2018/takarakka/platapus.jpg
 slug: takarakka

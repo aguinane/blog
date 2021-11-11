@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-02-21'
 featured_image: posts/2016/oreillys-rainforest/picnic_rock.jpg
 slug: oreillys-rainforest

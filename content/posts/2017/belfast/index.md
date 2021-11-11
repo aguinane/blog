@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-22'
 featured_image: posts/2017/belfast/alley.jpg
 slug: belfast

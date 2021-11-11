@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2013-02-26'
 featured_image: posts/2013/fiji-nadi/p1110188.jpg
 slug: fiji-nadi

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-09-14'
 featured_image: posts/2010/iaeste-jura-weekend/P1040064.jpg
 slug: iaeste-jura-weekend

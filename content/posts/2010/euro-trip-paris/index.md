@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-11'
 featured_image: posts/2010/euro-trip-paris/louvre1.jpg
 slug: euro-trip-paris

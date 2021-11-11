@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-08-14'
 featured_image: posts/2016/keramas/img_20160618_092004857_hdr.jpg
 slug: keramas

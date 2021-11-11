@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2018-01-20 19:48:00+10:00'
 featured_image: posts/2018/hot-100-votes-2017/hot100-2017.png
 slug: hot-100-votes-2017

@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2013-01-13'
 featured_image: posts/2013/sunrise-on-christmas-day/p1110129-resized.jpg
 slug: sunrise-on-christmas-day

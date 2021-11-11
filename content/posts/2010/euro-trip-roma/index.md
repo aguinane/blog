@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-06'
 featured_image: posts/2010/euro-trip-roma/p1040803.jpg
 slug: euro-trip-roma

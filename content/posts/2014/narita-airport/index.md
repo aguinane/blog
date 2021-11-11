@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2014-03-01'
 featured_image: posts/2014/narita-airport/narita-board.jpg
 slug: narita-airport

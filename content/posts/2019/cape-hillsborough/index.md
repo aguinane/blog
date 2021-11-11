@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-03-14'
 featured_image: posts/2019/cape-hillsborough/sunrise0.jpg
 series:

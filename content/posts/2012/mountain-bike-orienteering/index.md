@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-06-21'
 featured_image: posts/2012/mountain-bike-orienteering/mtbo.jpg
 slug: mountain-bike-orienteering

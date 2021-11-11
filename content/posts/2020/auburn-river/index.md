@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2020-11-02'
 slug: auburn-river
 title: Auburn River

@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2014-10-15'
 featured_image: posts/2014/mrh-simulator/controlscreen.jpg
 slug: mrh-simulator

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-23'
 featured_image: posts/2017/northern-ireland/bridge1.jpg
 slug: northern-ireland

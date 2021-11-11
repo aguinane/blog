@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-10-26'
 featured_image: posts/2011/v1811-day9/pa270812.jpg
 series:

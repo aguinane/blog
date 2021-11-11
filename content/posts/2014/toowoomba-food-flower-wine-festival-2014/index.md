@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2014-10-07'
 featured_image: posts/2014/toowoomba-food-flower-wine-festival-2014/feature.jpg
 slug: toowoomba-food-flower-wine-festival-2014

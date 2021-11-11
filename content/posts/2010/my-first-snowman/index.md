@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-12-29'
 featured_image: posts/2010/my-first-snowman/p1060354.jpg
 slug: my-first-snowman

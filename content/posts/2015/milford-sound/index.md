@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-09-06'
 featured_image: posts/2015/milford-sound/cover.jpg
 slug: milford-sound

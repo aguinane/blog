@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-03-16'
 featured_image: posts/2019/cassowary-coast/paronella1.jpg
 series:

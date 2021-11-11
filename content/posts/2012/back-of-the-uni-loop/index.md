@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-11-17'
 featured_image: posts/2012/back-of-the-uni-loop/p1110101-resized.jpg
 slug: back-of-the-uni-loop

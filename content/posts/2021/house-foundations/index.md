@@ -2,6 +2,7 @@
 type: post
 categories:
 - Misc
+type: post
 date: '2021-02-03'
 slug: house-foundations
 title: House Foundations

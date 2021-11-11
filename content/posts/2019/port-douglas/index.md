@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-03-20'
 featured_image: posts/2019/port-douglas/snorkel2.jpg
 series:

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-11-10'
 featured_image: posts/2010/ice-skating-in-zurich/p1050253.jpg
 slug: ice-skating-in-zurich

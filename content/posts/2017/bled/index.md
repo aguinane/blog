@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-14'
 featured_image: posts/2017/bled/lakeside1.jpg
 slug: bled

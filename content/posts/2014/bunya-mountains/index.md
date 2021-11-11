@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2014-03-24'
 featured_image: posts/2014/bunya-mountains/feature.jpg
 slug: bunya-mountains

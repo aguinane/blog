@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-06'
 featured_image: posts/2010/berner-munster/p1020108-7504553.jpg
 slug: berner-munster

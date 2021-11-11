@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2017-01-24 19:05:00+10:00'
 featured_image: posts/2017/foster-dogs/kel2.jpg
 slug: foster-dogs

@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2014-08-30'
 featured_image: posts/2014/7-years-of-facebook-metadata/friends.png
 slug: 7-years-of-facebook-metadata

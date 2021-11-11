@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-02-24'
 featured_image: posts/2020/hot-100-votes-decade/hot100.jpg
 slug: hot-100-votes-decade

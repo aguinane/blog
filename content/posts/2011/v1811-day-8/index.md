@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-10-25'
 featured_image: posts/2011/v1811-day-8/ye_dinner.jpg
 series:

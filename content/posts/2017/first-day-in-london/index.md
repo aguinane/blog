@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-03-21'
 featured_image: posts/2017/first-day-in-london/laurens3.jpg
 slug: first-day-in-london

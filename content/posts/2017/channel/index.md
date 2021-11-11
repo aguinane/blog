@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-26'
 featured_image: posts/2017/channel/slane-hill.jpg
 slug: channel

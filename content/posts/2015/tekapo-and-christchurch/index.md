@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-09-19'
 featured_image: posts/2015/tekapo-and-christchurch/feature.jpg
 slug: tekapo-and-christchurch

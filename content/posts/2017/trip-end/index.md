@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-05-10'
 featured_image: posts/2017/trip-end/newmans.jpg
 slug: trip-end

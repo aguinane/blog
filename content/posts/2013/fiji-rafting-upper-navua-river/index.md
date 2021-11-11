@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2013-03-03'
 featured_image: posts/2013/fiji-rafting-upper-navua-river/imgp8896.jpg
 slug: fiji-rafting-upper-navua-river

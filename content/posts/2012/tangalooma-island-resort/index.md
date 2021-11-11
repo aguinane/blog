@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2012-06-19'
 featured_image: posts/2012/tangalooma-island-resort/feeding.jpg
 slug: tangalooma-island-resort

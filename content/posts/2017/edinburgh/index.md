@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-29'
 featured_image: posts/2017/edinburgh/cemetery.jpg
 slug: edinburgh

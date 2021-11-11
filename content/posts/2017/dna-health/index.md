@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2017-09-20'
 featured_image: posts/2017/dna-health/drugs.png
 slug: dna-health

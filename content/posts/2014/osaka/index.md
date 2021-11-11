@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2014-03-14'
 featured_image: posts/2014/osaka/osake-castle-moat.jpg
 slug: osaka

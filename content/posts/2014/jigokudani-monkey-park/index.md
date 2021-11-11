@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2014-03-08'
 featured_image: posts/2014/jigokudani-monkey-park/snow-monkey-sign.jpg
 slug: jigokudani-monkey-park

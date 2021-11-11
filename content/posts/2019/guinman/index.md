@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2019-05-04'
 featured_image: posts/2019/guinman/newspaper-guaine.jpg
 slug: guinman

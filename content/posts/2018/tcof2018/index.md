@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2018-09-29'
 featured_image: posts/2018/tcof2018/tcof1.jpg
 slug: tcof2018

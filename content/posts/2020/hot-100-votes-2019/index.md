@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2020-01-16'
 featured_image: posts/2020/hot-100-votes-2019/hot-100-2019.jpg
 slug: hot-100-votes-2019

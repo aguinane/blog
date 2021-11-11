@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2013-10-19'
 featured_image: posts/2013/townsville/pano_20131009_061310.jpg
 slug: townsville

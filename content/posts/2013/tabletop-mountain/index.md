@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2013-03-24'
 featured_image: posts/2013/tabletop-mountain/2013-03-24-07-22-33.jpg
 slug: tabletop-mountain

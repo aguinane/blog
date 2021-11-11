@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-09-06'
 featured_image: posts/2015/wanaka-and-the-snowfields/pano_20150822_122003.jpg
 slug: wanaka-and-the-snowfields

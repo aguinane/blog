@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2019-09-28'
 featured_image: posts/2019/tcof-2019/queen2.jpg
 slug: tcof-2019
@@ -9,7 +10,6 @@ tags:
 - TCOF
 - Flowers
 - Toowoomba
-type: post
 ---
 
 This was the first year since we moved to Toowoomba where we haven't been to the wine festival, but we were still able to enjoy the gardens.

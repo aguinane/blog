@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-03-16'
 featured_image: posts/2015/warrnambool-and-ballarat/cover.jpg
 slug: warrnambool-and-ballarat

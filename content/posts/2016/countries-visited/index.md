@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2016-01-31'
 lastmod: '2017-03-03'
 featured_image: posts/2016/countries-visited/countries_visited.png
@@ -39,7 +40,8 @@ If you count layovers <del>then I have hit the 15</del> (but I'm not).
 * China (Hong Kong Airport)
 * Singapore (Airport)
 
-**Update:** New countries added (now more than 15).
+**Uptype: post
+date:** New countries added (now more than 15).
 
 12. [Indonesia (Bali)](/tag/indonesia.html)
 13. [United Kingdom](/tag/uk.html)

@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-03-23'
 featured_image: posts/2017/more-london/towerbridge.jpg
 slug: more-london

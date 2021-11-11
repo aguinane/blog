@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2012-09-30'
 featured_image: posts/2012/toowoomba-parks/p1100940.jpg
 post_format: Gallery

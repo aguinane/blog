@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-03-26'
 featured_image: posts/2017/iceland-golden-circle/Pingvellir2.jpg
 slug: iceland-golden-circle

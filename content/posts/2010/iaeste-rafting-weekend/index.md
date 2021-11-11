@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-20'
 featured_image: posts/2010/iaeste-rafting-weekend/dsc_1714.jpg
 slug: iaeste-rafting-weekend

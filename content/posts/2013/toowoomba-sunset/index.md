@@ -1,6 +1,7 @@
 ---
 categories:
 - Misc
+type: post
 date: '2013-11-01'
 featured_image: posts/2013/toowoomba-sunset/img_20131024_181256.jpg
 slug: toowoomba-sunset

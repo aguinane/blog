@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2019-04-13'
 featured_image: posts/2019/mt-cordeaux/bare-rock.jpg
 slug: mt-cordeaux

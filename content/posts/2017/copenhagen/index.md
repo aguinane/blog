@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-04-04'
 featured_image: posts/2017/copenhagen/boat1.jpg
 slug: copenhagen

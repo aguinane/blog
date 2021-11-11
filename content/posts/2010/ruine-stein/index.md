@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2010-07-14'
 featured_image: posts/2010/ruine-stein/p1020439-7646211.jpg
 slug: ruine-stein

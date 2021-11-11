@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2017-05-05'
 featured_image: posts/2017/snowdonia/walk7.jpg
 slug: snowdonia

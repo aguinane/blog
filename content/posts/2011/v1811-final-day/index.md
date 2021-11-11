@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2011-10-29'
 featured_image: posts/2011/v1811-final-day/ye_groupshot.jpg
 series:

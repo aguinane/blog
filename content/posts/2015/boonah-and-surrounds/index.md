@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2015-02-23'
 featured_image: posts/2015/boonah-and-surrounds/2015-02-01-16-07-05-lake.jpg
 slug: boonah-and-surrounds

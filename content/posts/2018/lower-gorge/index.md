@@ -1,6 +1,7 @@
 ---
 categories:
 - Travel
+type: post
 date: '2018-10-15'
 featured_image: posts/2018/lower-gorge/creek.jpg
 slug: lower-gorge
