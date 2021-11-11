@@ -2,7 +2,7 @@ baseURL = "https://alex.guinman.id.au/"
 languageCode = "en-gb"
 title = "Alex Guinman"
 subtitle = "Personal blog of Alex Guinman"
-theme = "alex"
+theme = "hugo-theme-stack"
 paginate = 9
 
 [outputs]
@@ -18,6 +18,20 @@ paginate = 9
   themeColor = "theme-base-08"
   layoutReverse = true
   relatedPosts = true
+  featuredImageField = "featured_image"
+
+[params.sidebar.avatar]
+  local = false
+  src = 'https://en.gravatar.com/userimage/18263558/00c0940b182d75a62218fe91404f6bc0.jpg?size=400'
+
+[params.widget]
+  enabled = ['search', 'archives', 'tag-cloud']
+
+[params.imageProcessing.cover]
+  enabled = true
+
+[params.imageProcessing.content]
+  enabled = true
 
 [permalinks]
   posts = "posts/:year/:slug/"
