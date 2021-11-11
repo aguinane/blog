@@ -14,11 +14,11 @@ tags:
 
 No wine festival this year, but there were still flowers!
 
-![""](laurelbank1.jpg)
+![](laurelbank1.jpg)
 
-![""](laurelbank2.jpg)
+![](laurelbank2.jpg)
 
-![""](laurelbank3.jpg)
+![](laurelbank3.jpg)
 
 !["City Library"](library.jpg)
 

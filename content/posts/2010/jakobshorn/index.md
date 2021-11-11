@@ -26,4 +26,4 @@ After going down the blue a few times we were ready for something different, and
 
 The lifts closed quite early and so we got the last cable car back at 4:45 and drove home. It was a great day, but I must say I thought the runs in New Zealand and Perisher were more enjoyable. I am going to Les Diablerets for an IAESTE weekend and staying in a Chalet, so the Swiss Alps still have a chance to prove me wrong. It should be great, and now I've had a bit of a warm-up snowboard hopefully there will be less stacks.
 
-![""](Skiing26.jpg)
+![](Skiing26.jpg)

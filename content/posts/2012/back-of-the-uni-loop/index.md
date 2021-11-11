@@ -16,6 +16,6 @@ So a while a go I discovered a really nice route to go for a bike ride, by looki
 
 After riding it, the reason why it was so popular became pretty clear. It has incredible views looking out over a valley and there are various farm animals along the way. I think some of the animals may belong to USQ, ant they might have them for agricultural courses. Rachael has been coming along for rides as well, to get her animal fix by petting the horses through the fence.
 
-![""](2012-11-05-17-46-31.jpg)
+![](2012-11-05-17-46-31.jpg)
 
 The other day there were goats on the road, which were more than willing to approach when Rachael offered grass. Once the grass stopped being offered it didn't like being patted without the food incentive, it decided to ram Rachael. She may disagree, but it was quite hilarious to watch.

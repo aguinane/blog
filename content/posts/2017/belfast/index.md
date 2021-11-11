@@ -17,7 +17,7 @@ We flew into Belfast and got a bus in to the city and then to check into our hos
 
 The hostel was really cool, but hopefully we never have to book a 10 bed dorm again. Luckily we went to bed pretty early before everyone else got back, because apparently one guy was snoring so loud that one of the other girls didn't sleep (and told us at breakfast she wanted to murder him). I woke up in the morning and heard him, and probably wouldn't have been able to sleep hearing it.
 
-![""](hostel.jpg "Hostel breakfast area")
+![](hostel.jpg "Hostel breakfast area")
 
 The living area was really cool, and we spoke to some other people in the hostel about where to visit while we were in Ireland. We didn't think we would have time to get to the Cliffs of Moher but were persuaded it was worth the drive.
 
@@ -29,7 +29,7 @@ Next on the tour, we went to the Europa hotel, which was bombed repeatedly by th
 
 We saw the [leaning clock](https://en.wikipedia.org/wiki/Albert_Memorial_Clock,_Belfast), [wise salmon](https://en.wikipedia.org/wiki/Salmon_of_Knowledge), and I think four 'oldest bar in Belfast'. There was a really cool part of town with lots of pubs and restaurants that was a bit hipster with lots of cool graffiti.
 
-![""](alley.jpg "Alley")
+![](alley.jpg "Alley")
 
 It was a really good tour, and Belfast was a surprisingly cool city and a shame we didn't more time there.
 
@@ -37,10 +37,10 @@ For lunch we had some amazing burgers, they like their make your own takeaway an
 
 There was a free Ulster museum and botanical gardens near(ish) our hostel so we went there in the afternoon. The museum had a display of the period table with all the actual elements (stable ones at least). And we learnt a bit about 'the troubles' and the IRA as this wasn't covered in the tour we did. The gardens were nice too.
 
-![""](greenhouse.jpg "Botanical Gardens Greenhouse")
+![](greenhouse.jpg "Botanical Gardens Greenhouse")
 
 A lot of the pubs in town had cool names, like Filthy McNasty and The Dirty Onion. Our tour guide talked up going to see some Irish Music at Fitzy's, and there was a local duo of girls playing that were really good, but it was more American/Pop/Country then Irish.
 
-![""](fitzys.jpg "Fitzy's")
+![](fitzys.jpg "Fitzy's")
 
 The next morning we picked up a hire car to explore the country side.

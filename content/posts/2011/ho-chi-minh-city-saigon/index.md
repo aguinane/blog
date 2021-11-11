@@ -23,20 +23,20 @@ We dumped our bags and then went out to quickly explore the nearby [Bến Thành
 
 The next day we decided to join a tour of the [Chu Chi Tunnels](http://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels), which was $12USD including the bus out there. On the way we stopped at a handicapped art factory, where disabled people made beautiful paintings and carvings out of duck shells and Halong Bay clams.
 
-![""](P1070501.jpg)
+![](P1070501.jpg)
 
 The actual tunnels probably wouldn't have been that exciting by themselves but when you are told the history it was incredible. The tunnels were tiny and yet the Vietcong lived underground in them for years. It would have been horrible. We saw a crater in the ground were a B52 bomb had hit, and got to crawl through the tunnels and see how small it all was.
 
-![""](P1070592.jpg)
+![](P1070592.jpg)
 
 The next day we went off to see the [American War Remnants Museum](http://en.wikipedia.org/wiki/War_Remnants_Museum_%28Ho_Chi_Minh_City%29). This was pretty horrifying as well. It is full of photos from the war, but worst of all for me was the Agent Orange room, which had mutated foetuses in jars showing how a lot of the babies born in the years after the war were mutated. There was photos and photos of mutated people and it explained why there was so many handicap factories across the country. It had a very anti-American feel to the place, but seemed pretty justified. Below is a tiger cage, which apparently was used to keep up to 7 people in each cage.
 
-![""](P1070680.jpg)
+![](P1070680.jpg)
 
 We then went to the [Reunification Palace](http://en.wikipedia.org/wiki/Reunification_Palace), where the war was ended which was the old presidential palace. It had some pretty cool rooms, the war room in the basement was quite interesting.
 
-![""](P1070691.jpg)
+![](P1070691.jpg)
 
 On our last night, we went to see a [Vietnamese Water Puppet Show](http://en.wikipedia.org/wiki/Water_puppets). It was much cooler than I expected. There was a live band that narrated the show - in Vietnamese, we had no idea what was going on but it was pretty impressive regardless.
 
-![""](P1070725.jpg)
+![](P1070725.jpg)

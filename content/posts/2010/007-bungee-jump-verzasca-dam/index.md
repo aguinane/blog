@@ -40,16 +40,16 @@ Some photos below, but more photos and some videos that other people took on fac
 
 (Everyone in Aus should watch the show Review, it started a new series a few weeks ago but I can't watch it from here due to the ABC blocking out people from Switzerland).
 
-![""](p1030102.jpg)
+![](p1030102.jpg)
 
 Travel show filming and jump
 
-![""](p1030105.jpg)
+![](p1030105.jpg)
 
-![""](p1030111.jpg)
+![](p1030111.jpg)
 
-![""](IMG_4568_corr.jpg)
+![](IMG_4568_corr.jpg)
 
-![""](p1030117.jpg)
+![](p1030117.jpg)
 
-![""](p1030123.jpg)
+![](p1030123.jpg)

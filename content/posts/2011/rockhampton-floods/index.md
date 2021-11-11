@@ -16,10 +16,10 @@ title: Rockhampton Floods
 So the reason why I had so much trouble getting home was because of the floods. So here are some photos and links about it.
 
 This is why my flight was cancelled (it got higher than that):
-![""](r696732_5300334.jpg)
+![](r696732_5300334.jpg)
 
 And NASA had some satellite images that show just how much water there was during and after:
-![""](flooods.jpg)
+![](flooods.jpg)
 
 NASA source link [here](http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=48916) and [here](http://earthobservatory.nasa.gov/IOTD/view.php?id=48456&src=iotdrss).
 

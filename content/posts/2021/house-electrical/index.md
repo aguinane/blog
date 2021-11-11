@@ -16,13 +16,13 @@ One thing I did want to do properly that isn't part of the standard inclusions i
 
 We are running all the cables back to the cupboard next to the downstairs TV. Originally I was going to run it to the cupboard under the stairs but the builders thought they would need to add in a bulkhead across the hallway to do that. 
 
-![""](cat6.jpg)
+![](cat6.jpg)
 
 I also got them to put in a conduit (pipe) so that we can put HDMI /audio cables through to the TV later. 
 
-![""](tv-conduit.jpg)
+![](tv-conduit.jpg)
 
 
 It will basically be impossible to add wiring in the downstairs ceiling after the fact, so the other thing I wanted to add was speaker cable in case we decide to put in surround sound. We got a quote for some good quality ceiling speakers but decided we'd just stick with the cabling for now and add them later if needed. With a baby in the house, we haven't been watching many movies lately anyway.
 
-![""](under-ceiling.jpg)
+![](under-ceiling.jpg)

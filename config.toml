@@ -4,6 +4,7 @@ title = "Alex Guinman"
 subtitle = "Personal blog of Alex Guinman"
 theme = "hugo-theme-stack"
 paginate = 9
+timeout = 60000
 
 [outputs]
   home = ["HTML", "RSS"]

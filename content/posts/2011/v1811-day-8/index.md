@@ -31,10 +31,10 @@ As you can see on the map below, we made good progress at first but had to start
 Towards the end of our watch the wind dropped off completely and was very erratic, making it even more difficult. When we handed over to the next watch, we did a two-watch tack and turned the ship northwards and towards the checkpoint. From there they could continue sailing north to the next two checkpoint before turning back home in the morning to meet our deadline.
 
 We were pretty confident that we would be nearing the finish line when we woke up with a job well done. As you can see on the map though the next two watches didn't go to plan. They just continued sailing south basically due to bad weather and wind.
-![""](MEMO0003.jpg)
+![](MEMO0003.jpg)
 
 Kylie on the bridge for morning watch:
-![""](PA270780.jpg)
+![](PA270780.jpg)
 The red light ensures you don't lose your night vision but can still read the map.
 
 We did made it back to the bay the next morning before the deadline... with only 2/4 checkpoints completed.

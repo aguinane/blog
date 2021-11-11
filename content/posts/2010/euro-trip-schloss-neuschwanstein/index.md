@@ -17,27 +17,27 @@ After a few quick hours of sleep in Munich, we were checking out again. At the t
 
 We went to get our train to Füssen only to find that the train had been cancelled, so instead we had to get a bus. So we got a bus, changed to a train, changed to another train then another train, then another bus until finally we were there only one hour later than planned. The view on the way was great, lots of green countryside and forests with random patches of snow the closer we got.
 
-![""](train.jpg)
+![](train.jpg)
 
 After the woman at the tourist office was nice enough to let us leave our luggage, we journeyed onward to look up at Hohenschwangau Castle, which was the original royal castle / holiday house.
 
-![""](hohenschwangau.jpg)
+![](hohenschwangau.jpg)
 
 After Rachael got to play in the snow a bit, and throw some snowballs (strangely she didn't throw any at me, was totally expecting it and would have been fine with it - you missed your chance!) we got a bus up to Marys Bridge. From here we got to see the waterfall and the castle.
 
-![""](waterfall.jpg)
+![](waterfall.jpg)
 
-![""](castle1.jpg)
+![](castle1.jpg)
 
-![""](castle2.jpg)
+![](castle2.jpg)
 
-![""](castle3.jpg)
+![](castle3.jpg)
 
 The castle was epic in every sense of the word. Ludwig was clearly a crazy maniac, he had a room dedicated to the swan and there was a room that was a man-made cave. It actually felt like you were in a cave and the doors had rocks on the back so you really wouldn't know otherwise. What a nutter. Wikipedia has a good article on the [Neuschwanstein Castle](http://en.wikipedia.org/wiki/Neuschwanstein_Castle).
 
 Because we were an hour late coming in, we didn't get to go down to the lake which was a shame but better than missing our train home. Apparently one of the lakes was the lake that the opera "Swan Lake" is named after.
 
-![""](lake.jpg)
+![](lake.jpg)
 
 On the train back to Buchloe heard the various story's of Ludwig's death, because he died under "[Mysterious Circumstances](http://en.wikipedia.org/wiki/Ludwig_II_of_Bavaria#Mysterious_death)". We asked our guide what they do in Buchloe and he said "make supercars". Apparently he was hitch-hiking from Berlin and the CEO of the company picked him up in one of the cars and offered to take him to Munich. He said it's normally like an 8 hours journey, but they did it in 3. No speed limit on the autobahn means they were travelling 300km/h or so for most of the journey.
 

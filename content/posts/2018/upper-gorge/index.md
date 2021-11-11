@@ -23,46 +23,46 @@ although is still a massive distance and so we were pretty tired by the time we 
 
 The actual walk itself was great, with lots of different creek crossings and scenery.
 
-![""](creek1.jpg "")
+![](creek1.jpg "")
 
-![""](creek2.jpg "")
+![](creek2.jpg "")
 
-![""](creek3.jpg "")
+![](creek3.jpg "")
 
-![""](creek4.jpg "")
+![](creek4.jpg "")
 
-![""](creek5.jpg "")
+![](creek5.jpg "")
 
 Big Bend is the first overnight stop when you are doing the 5 day hike.
 Looking at the map, the creek itself actually keeps going for ages but there is no track past Big Band.
 
-![""](big-bend1.jpg "")
+![](big-bend1.jpg "")
 
-![""](big-bend2.jpg "")
+![](big-bend2.jpg "")
 
 If you are doing the overnight hike, you then go into Boowinda Gorge which takes you all the way up to Battleship Spur.
 We went up the gorge for a few hundred meters (which is apparently the best bit anyway).
 It was much wider then Mitchell Creek gorge and must just have torrents of water during heavy rain to have calved out like it did.
 
-![""](boowinda-gorge1.jpg "")
+![](boowinda-gorge1.jpg "")
 
-![""](boowinda-gorge2.jpg "")
+![](boowinda-gorge2.jpg "")
 
-![""](boowinda-gorge3.jpg "")
-![""](boowinda-gorge4.jpg "")
+![](boowinda-gorge3.jpg "")
+![](boowinda-gorge4.jpg "")
 
 Just off the track towards the end was Cathedral Cave (another aboriginal rock art site).
 
-![""](cathedral-cave1.jpg "")
+![](cathedral-cave1.jpg "")
 
-![""](cathedral-cave2.jpg "")
+![](cathedral-cave2.jpg "")
 
 We then had an 11km walk back the other way!
 It got pretty hot by lunch time so we popped quickly back into Ampitheatre to cool down on the way back also.
 
-![""](purple-rock.jpg "Purple Rock")
+![](purple-rock.jpg "Purple Rock")
 
-![""](creek6.jpg "")
+![](creek6.jpg "")
 
 All and all we had great weather and had an awesome time.
 

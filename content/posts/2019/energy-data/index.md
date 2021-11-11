@@ -23,11 +23,11 @@ When you look at daily consumption it's suprisingly easy to tell when we were aw
 
 It's even more apparent when you zoom in on the energy usage of a day when were away.
 
-![""](energy-not-home.jpg)
+![](energy-not-home.jpg)
 
 It's basically no usage except for the refrigerator compressor kicking in every now and then. Compare this to a cold workday where you can see a big spike when the heater was running before work and then afternoon usage when we got home from work.
 
-![""](energy-cold-day.jpg)
+![](energy-cold-day.jpg)
 
 It wasn't a particularly hot year in Toowoomba, so our average profile had a clear winter morning peak and then generally consistent afternoon peak throughout the year.
 
@@ -39,6 +39,6 @@ Since Rachael was working a rotating roster there wasn't a huge difference betwe
 
 It was also interesting to compare what we would have paid on different tariffs over the year. Since we have gas hot water we don't actually use that much energy and so discounts on the kwh rate didn't make a huge difference. The price was mostly driven by the daily charges that you pay no matter what. I was suprised that Tariff 12 (Time of Use) was slightly cheaper, but saving $13 a year is probably not worth having to worry about what time of day we use energy. 
 
-![""](energy-bills.jpg)
+![](energy-bills.jpg)
 
 The SEQ retailers also seemed to be way more expensive, although that doesn't factor in the discounts and sign-up bonuses they offer.

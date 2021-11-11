@@ -17,13 +17,13 @@ Anna won the honours of operating the clippers. Below is a video timelapse, I th
 
 {{< youtube bjzUEPi9IhU >}}
 
-![""](manbun.jpg)
+![](manbun.jpg)
 
-![""](inverse-mohawk.jpg)
+![](inverse-mohawk.jpg)
 
-![""](vikingbraid2.jpg)
+![](vikingbraid2.jpg)
 
-![""](name-etch.jpg)
+![](name-etch.jpg)
 
 And the final product...
 

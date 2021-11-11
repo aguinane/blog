@@ -24,7 +24,7 @@ Eventually more and more people arrived and then we were allowed on board. We we
 
 It was quite late by the time we actually set sail, or rather left with the ship's engines. We didn't get far though as we were staying in the bay overnight, and so had a magnificent view of the sunset over the Sydney Harbour as we anchored across from Taronga Zoo.
 
-![""](P1080929.jpg)
+![](P1080929.jpg)
 
 For the journey we were split up into 3 watches (Red, White and Blue) and I was in White Watch. We spent the evening getting to know the other members of our watch, and talking to our Watch Leader Paul about our expectations for the journey and what we wanted to get out of it.
 

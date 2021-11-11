@@ -24,7 +24,7 @@ I text Petr, who lives in Luzern and he came down to give us a tour of the city.
 
 My highlight of the trip was the [Lion Monument](http://en.wikipedia.org/wiki/Lion_Monument). This was a statue that was carved into the side of a cliff. Petr said it is the "saddest statue in the world" according to some actor that he had forgotten the name of. I think it was definitely the coolest statue I have seen so far, better by far then the ones in the Louvre.
 
-![""](P1050204.jpg)
+![](P1050204.jpg)
 
 After this we went up to the old city wall, where you can climb the towers. Inside the tower you can see the workings of the clock, which involved a massive rock tied to a pendulum. We just so happened to be in the tower at 2:00 when the bell went off, ensuring that we will now go deaf one year earlier. Even more impressive was that daylight savings had just kicked in, and as there was no electric parts on the clock we couldn't work out how it knew how many times to ring. Somebody must have gone round to all the clocks that morning to put them all forward an hour.
 

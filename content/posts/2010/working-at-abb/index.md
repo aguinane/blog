@@ -22,17 +22,17 @@ As English is the official language, everybody speaks it pretty well, although m
 
 I work in the third floor of this building (although I will be working in the lab later on).
 
-![""](p1020232.jpg)
+![](p1020232.jpg)
 
 The office has *actual* plants in it, not plastic ones like Ergon. And I'm promised that I will get some dual screen monitor action soon for my laptop.
 
 
-![""](p1020227.jpg)
+![](p1020227.jpg)
 
-![""](p1020229.jpg)
+![](p1020229.jpg)
 
 At 12.30 everybody goes to lunch at the ABB restaurant. The menu is in German, but they have the meals on display so you can see what they look like. They have a different menu each day, [and put it on the net](http://aubruecke.sv-group.ch/de.html).
 
 So far the meals have been pretty nice, there was one that was pretty average. At least I get to try a different meal each day, and they are different to what you would probably get in Australia. Meat over here is expensive as, so there isn't much actual meat in the meals :(
 
-![""](p1020230.jpg)
+![](p1020230.jpg)
