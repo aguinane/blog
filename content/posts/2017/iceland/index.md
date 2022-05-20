@@ -25,7 +25,7 @@ The spa is actually next to a geothermal power station, which was cool to see wi
 
 In the afternoon, we just walked around the city. There was some nice parks and a lake.
 
-![](lake_statue.jpg "")
+![](lake_statue.jpg)
 
 We went to a place for dinner that had hot soups in a cob loaf, and it was delicious.
 
@@ -33,4 +33,4 @@ We went to a place for dinner that had hot soups in a cob loaf, and it was delic
 
 And that night, there was a jazz band at the hostel who were pretty good. Although, we didn't stay too long as we had to get up really early for our flight the next morning.
 
-![](kex_jazz.jpg "")
+![](kex_jazz.jpg)
