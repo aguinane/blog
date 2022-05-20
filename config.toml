@@ -2,7 +2,7 @@ baseURL = "https://alex.guinman.id.au/"
 languageCode = "en-gb"
 title = "Alex Guinman"
 subtitle = "Personal blog of Alex Guinman"
-theme = "hugo-theme-stack"
+theme = "alex"
 paginate = 9
 timeout = 60000
 
