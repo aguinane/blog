@@ -26,3 +26,12 @@ I also got them to put in a conduit (pipe) so that we can put HDMI /audio cables
 It will basically be impossible to add wiring in the downstairs ceiling after the fact, so the other thing I wanted to add was speaker cable in case we decide to put in surround sound. We got a quote for some good quality ceiling speakers but decided we'd just stick with the cabling for now and add them later if needed. With a baby in the house, we haven't been watching many movies lately anyway.
 
 ![](under-ceiling.jpg)
+
+
+**Update**:
+
+Getting 2 WiFi APs ended up being overkill, as whilst it does provide stronger reception, running the upstairs one by itself covers the whole house okay. The actual cabinet itself looks pretty good.
+
+!["Cabinet"](cabinet.jpg)
+
+!["Topology"](network-topology.png)
