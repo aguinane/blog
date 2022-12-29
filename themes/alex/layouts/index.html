@@ -12,11 +12,11 @@
 <br><br>
 
 <h2>Recent Posts</h2>
-<div class="card-columns">
+<div class="card-group">
     {{ range (first 6 $section) -}}
     {{ partial "post-list-card.html" . }}
     {{- end }}
-</div>
+</div><!-- /card-group -->
 
 
 {{- end }}
