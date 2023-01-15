@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2020-11-02'
-featured_image = 'posts/2020/auburn-river/riverbed-1.jpg'
+thumbnail = 'posts/2020/auburn-river/riverbed-1.jpg'
 slug = 'auburn-river'
-tags = ['Queensland', 'Hiking']
+tags = ['Queensland']
 title = 'Auburn River'
 type = 'post'
 

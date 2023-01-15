@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2018-10-15'
-featured_image = 'posts/2018/lower-gorge/creek.jpg'
+thumbnail = 'posts/2018/lower-gorge/creek.jpg'
 series = ['Carnarvon']
 slug = 'lower-gorge'
-tags = ['Queensland', 'Carnarvon Gorge', 'Moss Garden', 'Amphitheatre', 'Art Gallery', "Ward's Canyon"]
+tags = ['Queensland']
 title = 'Carnarvon Gorge - Lower Gorge'
 type = 'post'
 

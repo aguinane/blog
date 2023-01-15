@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-03-26'
-featured_image = 'posts/2017/iceland-golden-circle/Pingvellir2.jpg'
+thumbnail = 'posts/2017/iceland-golden-circle/Pingvellir2.jpg'
 slug = 'iceland-golden-circle'
-tags = ['Europe', 'Iceland', 'Golden Circle']
+tags = ['Europe', 'Iceland']
 title = 'Iceland Golden Circle'
 type = 'post'
 

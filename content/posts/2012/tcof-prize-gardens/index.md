@@ -1,10 +1,10 @@
 +++
 categories = ['Misc']
 date = '2012-09-30'
-featured_image = 'posts/2012/tcof-prize-gardens/p1110044.jpg'
+thumbnail = 'posts/2012/tcof-prize-gardens/p1110044.jpg'
 post_format = 'Gallery'
 slug = 'tcof-prize-gardens'
-tags = ['Flowers', 'Gardens', 'TCOF', 'Toowoomba']
+tags = ['TCOF', 'Toowoomba']
 title = 'TCOF Prize Gardens'
 type = 'post'
 

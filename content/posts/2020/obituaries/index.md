@@ -1,8 +1,9 @@
 +++
 categories = ['Misc']
 date = '2020-11-20'
-featured_image = 'posts/2020/obituaries/tennis.jpg'
+thumbnail = 'posts/2020/obituaries/tennis.jpg'
 slug = 'obituaries'
+tags = ['Genealogy']
 title = 'Obituaries'
 type = 'post'
 

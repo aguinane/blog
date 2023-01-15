@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2018-10-14'
-featured_image = 'posts/2018/takarakka/platapus.jpg'
+thumbnail = 'posts/2018/takarakka/platapus.jpg'
 series = ['Carnarvon']
 slug = 'takarakka'
-tags = ['Queensland', 'Carnarvon Gorge', 'Takarakka', 'Baloon Cave', 'Mickey Creek', 'Bullimba Bluff']
+tags = ['Queensland']
 title = 'Carnarvon Gorge - Takarakka'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2018-06-10'
-featured_image = 'posts/2018/rocky-again/mtarcher1.jpg'
+thumbnail = 'posts/2018/rocky-again/mtarcher1.jpg'
 slug = 'rocky-again'
-tags = ['Queensland', 'Rockhampton', 'Mt Archer', 'Emu Park', 'Yeppoon']
+tags = ['Queensland', 'Rockhampton']
 title = 'Rocky (again)'
 type = 'post'
 

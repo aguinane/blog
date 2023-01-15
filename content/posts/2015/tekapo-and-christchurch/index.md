@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2015-09-19'
-featured_image = 'posts/2015/tekapo-and-christchurch/feature.jpg'
+thumbnail = 'posts/2015/tekapo-and-christchurch/feature.jpg'
 slug = 'tekapo-and-christchurch'
-tags = ['Christchurch', 'new zealand', 'Tekapo']
+tags = ['New Zealand']
 title = 'Tekapo and Christchurch'
 type = 'post'
 

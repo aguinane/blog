@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2020-03-05'
-featured_image = 'posts/2020/aphantasia/aphantasia.jpg'
+thumbnail = 'posts/2020/aphantasia/aphantasia.jpg'
 slug = 'aphantasia'
 title = 'Aphantasia'
 type = 'post'

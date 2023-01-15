@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-12-05'
-featured_image = 'posts/2010/neuhausen-am-rheinfall/p1050814.jpg'
+thumbnail = 'posts/2010/neuhausen-am-rheinfall/p1050814.jpg'
 slug = 'neuhausen-am-rheinfall'
-tags = ['Beer Pong', 'Rheinfall', 'Switzerland']
+tags = ['Switzerland']
 title = 'Neuhausen am Rheinfall'
 type = 'post'
 

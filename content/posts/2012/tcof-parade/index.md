@@ -1,10 +1,10 @@
 +++
 categories = ['Misc']
 date = '2012-09-29'
-featured_image = 'posts/2012/tcof-parade/imag0077.jpg'
+thumbnail = 'posts/2012/tcof-parade/imag0077.jpg'
 post_format = 'Gallery'
 slug = 'tcof-parade'
-tags = ['Flowers', 'Parade', 'TCOF', 'Toowoomba']
+tags = ['TCOF', 'Toowoomba']
 title = 'TCOF Floral Parade'
 type = 'post'
 

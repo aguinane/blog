@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-29'
-featured_image = 'posts/2017/edinburgh/cemetery.jpg'
+thumbnail = 'posts/2017/edinburgh/cemetery.jpg'
 slug = 'edinburgh'
-tags = ['Europe', 'UK', 'Scotland', 'Edinburgh']
+tags = ['Europe', 'Scotland']
 title = 'Edinburgh'
 type = 'post'
 

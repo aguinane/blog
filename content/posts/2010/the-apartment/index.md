@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-01'
-featured_image = 'posts/2010/the-apartment/p1010755.jpg'
+thumbnail = 'posts/2010/the-apartment/p1010755.jpg'
 slug = 'the-apartment'
-tags = ['Switzerland', 'Turgi']
+tags = ['Switzerland']
 title = 'The Apartment'
 type = 'post'
 

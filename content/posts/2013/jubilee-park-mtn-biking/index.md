@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2013-07-13'
-featured_image = 'posts/2013/jubilee-park-mtn-biking/jubillepark.jpg'
+thumbnail = 'posts/2013/jubilee-park-mtn-biking/jubillepark.jpg'
 slug = 'jubilee-park-mtn-biking'
 title = 'Jubilee Park Mtn Biking'
 type = 'post'

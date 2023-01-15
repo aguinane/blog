@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-08-04'
-featured_image = 'posts/2010/iaeste-ticino-weekend/monte1.jpg'
+thumbnail = 'posts/2010/iaeste-ticino-weekend/monte1.jpg'
 slug = 'iaeste-ticino-weekend'
-tags = ['IAESTE', 'Switzerland', 'Ticino', 'Verzasca']
+tags = ['IAESTE', 'Switzerland']
 title = 'IAESTE Ticino Weekend'
 type = 'post'
 

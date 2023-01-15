@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2019-03-13'
-featured_image = 'posts/2019/eungella/fh-wheel-of-fire1.jpg'
+thumbnail = 'posts/2019/eungella/fh-wheel-of-fire1.jpg'
 series = ['Cairns Roadtrip']
 slug = 'eungella'
-tags = ['Queensland', 'Mackay']
+tags = ['Queensland']
 title = 'Eungella and Finch Hatton'
 type = 'post'
 

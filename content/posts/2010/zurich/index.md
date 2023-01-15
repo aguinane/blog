@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-24'
-featured_image = 'posts/2010/zurich/p1020663-7232401.jpg'
+thumbnail = 'posts/2010/zurich/p1020663-7232401.jpg'
 slug = 'zurich'
-tags = ['Switzerland', 'Zürich']
+tags = ['Switzerland']
 title = 'Zürich'
 type = 'post'
 

@@ -1,9 +1,8 @@
 +++
 categories = ['Misc']
 date = '2014-10-15'
-featured_image = 'posts/2014/occulus-thrift/img_20141015_185500.jpg'
+thumbnail = 'posts/2014/occulus-thrift/img_20141015_185500.jpg'
 slug = 'occulus-thrift'
-tags = ['Google Cardboard', 'VR']
 title = 'Occulus Thrift'
 type = 'post'
 

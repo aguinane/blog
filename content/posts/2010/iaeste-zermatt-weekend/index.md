@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-08-23'
-featured_image = 'posts/2010/iaeste-zermatt-weekend/glacier.jpg'
+thumbnail = 'posts/2010/iaeste-zermatt-weekend/glacier.jpg'
 slug = 'iaeste-zermatt-weekend'
-tags = ['IAESTE', 'Switzerland', 'Glacier']
+tags = ['IAESTE', 'Switzerland']
 title = 'IAESTE Zermatt Weekend'
 type = 'post'
 

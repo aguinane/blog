@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-14'
-featured_image = 'posts/2017/bled/lakeside1.jpg'
+thumbnail = 'posts/2017/bled/lakeside1.jpg'
 slug = 'bled'
-tags = ['Europe', 'Slovenia', 'Bled']
+tags = ['Europe', 'Slovenia']
 title = 'Bled'
 type = 'post'
 

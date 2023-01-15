@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-03-27'
-featured_image = 'posts/2017/iceland-silfra/drysuit-alex.jpg'
+thumbnail = 'posts/2017/iceland-silfra/drysuit-alex.jpg'
 slug = 'iceland-silfra'
-tags = ['Europe', 'Iceland', 'Silfra', 'Lava', 'Aurora']
+tags = ['Europe', 'Iceland']
 title = 'Iceland Silfra and Northern Lights'
 type = 'post'
 

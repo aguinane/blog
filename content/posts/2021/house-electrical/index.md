@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2021-04-16'
-featured_image = 'posts/2021/house-electrical/cat6.jpg'
+thumbnail = 'posts/2021/house-electrical/cat6.jpg'
 slug = 'house-electrical'
-tags = ['House Build']
+series = ['House Build']
 title = 'House Electrical'
 type = 'post'
 

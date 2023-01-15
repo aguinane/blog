@@ -1,9 +1,8 @@
 +++
 categories = ['Misc']
 date = '2020-05-02'
-featured_image = 'posts/2020/air-con-automation/aircon.jpg'
+thumbnail = 'posts/2020/air-con-automation/aircon.jpg'
 slug = 'air-con-automation'
-tags = ['Home Automation']
 title = 'Air Con Automation'
 type = 'post'
 

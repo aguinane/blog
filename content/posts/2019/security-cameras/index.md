@@ -1,10 +1,9 @@
 +++
 categories = ['Misc']
 date = '2019-07-11'
-featured_image = 'posts/2019/security-cameras/mia-box.jpg'
+thumbnail = 'posts/2019/security-cameras/mia-box.jpg'
 lastmod = '2020-04-14'
 slug = 'security-cameras'
-tags = ['Home Automation']
 title = 'Security Cameras'
 type = 'post'
 

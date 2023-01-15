@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2016-07-11'
-featured_image = 'posts/2016/seminyak/img_20160613_124037.jpg'
+thumbnail = 'posts/2016/seminyak/img_20160613_124037.jpg'
 slug = 'seminyak'
-tags = ['Bali', 'Indonesia', 'Seminyak']
+tags = ['Indonesia']
 title = 'Seminyak'
 type = 'post'
 

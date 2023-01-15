@@ -1,7 +1,7 @@
 +++
 categories = ['Travel']
 date = '2010-07-25'
-featured_image = 'posts/2010/procrastinating-like-a-boss/P1020706.jpg'
+thumbnail = 'posts/2010/procrastinating-like-a-boss/P1020706.jpg'
 slug = 'procrastinating-like-a-boss'
 tags = ['Switzerland']
 title = 'Procrastinating Like A Boss'

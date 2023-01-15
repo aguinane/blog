@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2019-10-26'
-featured_image = 'posts/2019/energy-data/old_meter.jpg'
+thumbnail = 'posts/2019/energy-data/old_meter.jpg'
 images = ['posts/2019/energy-data/old_meter.jpg']
 slug = 'energy-data'
 title = 'Energy Consumption Data'

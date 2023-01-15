@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2013-01-13'
-featured_image = 'posts/2013/sunrise-on-christmas-day/p1110129-resized.jpg'
+thumbnail = 'posts/2013/sunrise-on-christmas-day/p1110129-resized.jpg'
 slug = 'sunrise-on-christmas-day'
-tags = ['Rockhampton', 'Christmas', 'Sunrise', 'Surf']
+tags = ['Rockhampton']
 title = 'Sunrise on Christmas Day'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2016-07-25'
-featured_image = 'posts/2016/ubud/img_20160615_135433.jpg'
+thumbnail = 'posts/2016/ubud/img_20160615_135433.jpg'
 slug = 'ubud'
-tags = ['Bali', 'Indonesia', 'Ubud']
+tags = ['Indonesia']
 title = 'Ubud'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2021-04-14'
-featured_image = 'posts/2021/house-frame/frame05.jpg'
+thumbnail = 'posts/2021/house-frame/frame05.jpg'
 slug = 'house-frame'
-tags = ['House Build']
+series = ['House Build']
 title = 'House Frame'
 type = 'post'
 

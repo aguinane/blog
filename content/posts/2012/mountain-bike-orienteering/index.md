@@ -1,9 +1,8 @@
 +++
 categories = ['Misc']
 date = '2012-06-21'
-featured_image = 'posts/2012/mountain-bike-orienteering/mtbo.jpg'
+thumbnail = 'posts/2012/mountain-bike-orienteering/mtbo.jpg'
 slug = 'mountain-bike-orienteering'
-tags = ['Beerburrum', 'Mountain Bike', 'Orienteering']
 title = 'Mountain Bike Orienteering'
 type = 'post'
 

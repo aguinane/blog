@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2012-06-19'
-featured_image = 'posts/2012/tangalooma-island-resort/feeding.jpg'
+thumbnail = 'posts/2012/tangalooma-island-resort/feeding.jpg'
 slug = 'tangalooma-island-resort'
-tags = ['Queensland', 'Brisbane', 'Dolphin', 'Moreton Island', 'Sandboarding']
+tags = ['Queensland']
 title = 'Tangalooma Island Resort'
 type = 'post'
 

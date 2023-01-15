@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2021-01-10'
-featured_image = 'posts/2021/hot-100-votes-2020/hottest-100-2020.png'
+thumbnail = 'posts/2021/hot-100-votes-2020/hottest-100-2020.png'
 slug = 'hot-100-votes-2020'
-tags = ['Hottest 100', 'Triple J']
+tags = ['Hottest 100']
 title = 'Hottest 100 Votes for 2020'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-30'
-featured_image = 'posts/2010/jakobshorn/skiing-022.jpg'
+thumbnail = 'posts/2010/jakobshorn/skiing-022.jpg'
 slug = 'jakobshorn'
-tags = ['Jakobshorn', 'Snowboarding', 'Switzerland']
+tags = ['Switzerland']
 title = 'Jakobshorn'
 type = 'post'
 

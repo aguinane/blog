@@ -1,9 +1,8 @@
 +++
 categories = ['Misc']
 date = '2015-02-24'
-featured_image = 'posts/2015/tim-leannes-wedding/2015-02-21-16-36-05.jpg'
+thumbnail = 'posts/2015/tim-leannes-wedding/2015-02-21-16-36-05.jpg'
 slug = 'tim-leannes-wedding'
-tags = ['wedding']
 title = "Tim & Leanne's Wedding"
 type = 'post'
 

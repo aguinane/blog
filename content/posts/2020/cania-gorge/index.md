@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2020-11-04'
-featured_image = 'posts/2020/cania-gorge/fern-tree2.jpg'
+thumbnail = 'posts/2020/cania-gorge/fern-tree2.jpg'
 slug = 'cania-gorge'
-tags = ['Queensland', 'Hiking']
+tags = ['Queensland']
 title = 'Cania Gorge'
 type = 'post'
 

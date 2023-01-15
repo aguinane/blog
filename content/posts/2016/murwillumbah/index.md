@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2016-01-30'
-featured_image = 'posts/2016/murwillumbah/tweed-river.jpg'
+thumbnail = 'posts/2016/murwillumbah/tweed-river.jpg'
 slug = 'murwillumbah'
-tags = ['Queensland', 'NSW', 'Cabarita Beach', 'Murwillumbah', 'Natural Bridge']
+tags = ['Queensland', 'NSW']
 title = 'Murwillumbah'
 type = 'post'
 

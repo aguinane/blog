@@ -1,7 +1,7 @@
 +++
 categories = ['Travel']
 date = '2010-12-31'
-featured_image = 'posts/2010/alpamare/alpamare_winter_2012_3_224x180.jpg'
+thumbnail = 'posts/2010/alpamare/alpamare_winter_2012_3_224x180.jpg'
 slug = 'alpamare'
 tags = ['Switzerland']
 title = 'Alpamare'

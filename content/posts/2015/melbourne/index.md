@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2015-03-13'
-featured_image = 'posts/2015/melbourne/pano_20150306_214726.jpg'
+thumbnail = 'posts/2015/melbourne/pano_20150306_214726.jpg'
 slug = 'melbourne'
-tags = ['Melbourne', 'Victoria']
+tags = ['Victoria']
 title = 'Melbourne'
 type = 'post'
 

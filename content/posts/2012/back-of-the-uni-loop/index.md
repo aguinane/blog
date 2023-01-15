@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2012-11-17'
-featured_image = 'posts/2012/back-of-the-uni-loop/p1110101-resized.jpg'
+thumbnail = 'posts/2012/back-of-the-uni-loop/p1110101-resized.jpg'
 slug = 'back-of-the-uni-loop'
 title = 'Back of the Uni Loop'
 type = 'post'

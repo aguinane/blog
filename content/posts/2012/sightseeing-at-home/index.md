@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2012-03-30'
-featured_image = 'posts/2012/sightseeing-at-home/crocfarm2.jpg'
+thumbnail = 'posts/2012/sightseeing-at-home/crocfarm2.jpg'
 slug = 'sightseeing-at-home'
-tags = ['Queensland', 'Byfield', 'Crocodile', 'Koorana', 'Rockhampton']
+tags = ['Queensland', 'Rockhampton']
 title = 'Sightseeing at Home'
 type = 'post'
 

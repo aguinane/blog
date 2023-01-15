@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-26'
-featured_image = 'posts/2017/channel/slane-hill.jpg'
+thumbnail = 'posts/2017/channel/slane-hill.jpg'
 slug = 'channel'
-tags = ['Europe', 'UK', 'Ireland', 'Northern Ireland', 'Slane', 'Belfast']
+tags = ['Europe', 'Northern Ireland']
 title = 'Last Day in Ireland'
 type = 'post'
 

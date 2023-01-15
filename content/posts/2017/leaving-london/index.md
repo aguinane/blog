@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-03-25'
-featured_image = 'posts/2017/leaving-london/lake.jpg'
+thumbnail = 'posts/2017/leaving-london/lake.jpg'
 slug = 'leaving-london'
-tags = ['Europe', 'UK', 'England', 'London', 'Richmond Park', 'Flight']
+tags = ['Europe', 'England']
 title = 'Leaving London'
 type = 'post'
 

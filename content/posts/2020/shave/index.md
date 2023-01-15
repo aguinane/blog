@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2020-03-15'
-featured_image = 'posts/2020/shave/after.jpg'
+thumbnail = 'posts/2020/shave/after.jpg'
 slug = 'shave'
 title = "World's Greatest Shave"
 type = 'post'

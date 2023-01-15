@@ -1,7 +1,6 @@
 +++
 title = 'Eulogy for Isabel Wheatland'
 type = 'page'
-
 +++
 
 *The following is a copy of the eulogy read by Alex Guinman at Isabel's funeral on 10 Nov 2020.*

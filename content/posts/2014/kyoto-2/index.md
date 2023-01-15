@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2014-03-08'
-featured_image = 'posts/2014/kyoto-2/kyoto-gates.jpg'
+thumbnail = 'posts/2014/kyoto-2/kyoto-gates.jpg'
 slug = 'kyoto-2'
-tags = ['Inari', 'Japan', 'Kyoto']
+tags = ['Japan']
 title = 'Kyoto'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2013-03-03'
-featured_image = 'posts/2013/peak2park-fun-run/2013-03-03-08-15-361.jpg'
+thumbnail = 'posts/2013/peak2park-fun-run/2013-03-03-08-15-361.jpg'
 slug = 'peak2park-fun-run'
-tags = ['Fun Run', 'Peak2Park', 'Toowoomba']
+tags = ['Toowoomba']
 title = 'Peak2Park Fun Run'
 type = 'post'
 

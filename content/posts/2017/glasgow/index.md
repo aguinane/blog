@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-05-01'
-featured_image = 'posts/2017/glasgow/binns.jpg'
+thumbnail = 'posts/2017/glasgow/binns.jpg'
 slug = 'glasgow'
-tags = ['Europe', 'UK', 'Scotland', 'Glasgow', 'Falkirk']
+tags = ['Europe', 'Scotland']
 title = 'Glasgow'
 type = 'post'
 

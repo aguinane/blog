@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2020-09-27'
-featured_image = 'posts/2020/tcof-2020/laurelbank1.jpg'
+thumbnail = 'posts/2020/tcof-2020/laurelbank1.jpg'
 slug = 'tcof-2020'
-tags = ['TCOF', 'Flowers', 'Toowoomba']
+tags = ['TCOF', 'Toowoomba']
 title = 'Toowoomba Carnival of Flowers 2020'
 type = 'post'
 

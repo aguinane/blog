@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2019-03-20'
-featured_image = 'posts/2019/port-douglas/snorkel2.jpg'
+thumbnail = 'posts/2019/port-douglas/snorkel2.jpg'
 series = ['Cairns Roadtrip']
 slug = 'port-douglas'
-tags = ['Queensland', 'Port Douglas', 'Snorkel']
+tags = ['Queensland']
 title = 'Port Douglas'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2014-03-02'
-featured_image = 'posts/2014/tokyo/img_20140209_204541.jpg'
+thumbnail = 'posts/2014/tokyo/img_20140209_204541.jpg'
 slug = 'tokyo'
-tags = ['Japan', 'Shinjuku', 'Tokyo']
+tags = ['Japan']
 title = 'Tokyo'
 type = 'post'
 

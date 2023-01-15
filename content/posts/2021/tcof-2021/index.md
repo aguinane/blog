@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2021-09-25'
-featured_image = 'posts/2021/tcof-2021/lb1.jpg'
+thumbnail = 'posts/2021/tcof-2021/lb1.jpg'
 slug = 'tcof-2021'
-tags = ['TCOF', 'Flowers', 'Toowoomba']
+tags = ['TCOF', 'Toowoomba']
 title = 'Toowoomba Carnival of Flowers 2021'
 type = 'post'
 

@@ -1,7 +1,7 @@
 +++
 categories = ['Travel']
 date = '2010-08-04'
-featured_image = 'posts/2010/007-bungee-jump-verzasca-dam/p10301091.jpg'
+thumbnail = 'posts/2010/007-bungee-jump-verzasca-dam/p10301091.jpg'
 slug = '007-bungee-jump-verzasca-dam'
 tags = ['IAESTE', 'Switzerland']
 title = '007 Bungee Jump - Verzasca Dam'

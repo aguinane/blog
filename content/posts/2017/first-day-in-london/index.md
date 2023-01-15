@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-03-21'
-featured_image = 'posts/2017/first-day-in-london/laurens3.jpg'
+thumbnail = 'posts/2017/first-day-in-london/laurens3.jpg'
 slug = 'first-day-in-london'
-tags = ['Europe', 'UK', 'England', 'London', 'Museum']
+tags = ['Europe', 'England']
 title = 'First Day in London'
 type = 'post'
 

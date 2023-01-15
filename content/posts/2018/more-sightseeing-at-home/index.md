@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2018-03-03 10:20:00+10:00'
-featured_image = 'posts/2018/more-sightseeing-at-home/keppel4.jpg'
+thumbnail = 'posts/2018/more-sightseeing-at-home/keppel4.jpg'
 slug = 'more-sightseeing-at-home'
-tags = ['Queensland', 'Rockhampton', 'Great Keppel Island', 'Stony Creek', 'Capricorn Caves', 'Zoo']
+tags = ['Queensland', 'Rockhampton']
 title = 'More Sightseeing at Home'
 type = 'post'
 

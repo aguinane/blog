@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-11'
-featured_image = 'posts/2010/euro-trip-paris/louvre1.jpg'
+thumbnail = 'posts/2010/euro-trip-paris/louvre1.jpg'
 slug = 'euro-trip-paris'
-tags = ['Europe', 'France', 'Louvre', 'Paris']
+tags = ['Europe', 'France']
 title = 'Paris'
 type = 'post'
 

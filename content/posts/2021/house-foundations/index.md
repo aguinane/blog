@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2021-02-03'
-featured_image = 'posts/2021/house-foundations/slab-3.jpg'
+thumbnail = 'posts/2021/house-foundations/slab-3.jpg'
 slug = 'house-foundations'
-tags = ['House Build']
+series = ['House Build']
 title = 'House Foundations'
 type = 'post'
 

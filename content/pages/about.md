@@ -1,7 +1,6 @@
 +++
 title = 'About'
 type = 'page'
-
 +++
 
 I originally started this blog as **Tales From Turgi** when I was living in [Switzerland](/tags/switzerland) in 2010.
@@ -12,6 +11,7 @@ It is mostly a reference for me to document and look back at things.
 
 Other places you can find me on the net:
 <div class="social">
+
 {{< social alt="github" link="https://github.com/aguinane" src="/icons/github.png" >}}
 {{< social alt="linkedin" link="https://www.linkedin.com/in/alexguinane" src="/icons/linkedin.png" >}}
 {{< social alt="strava" link="https://www.strava.com/athletes/681775" src="/icons/strava.png" >}}
@@ -24,7 +24,7 @@ Other places you can find me on the net:
 </div>
 
 
-## The Site
+**The Site**
 
 This site is generated with [Hugo](https://gohugo.io/) and hosted with [Github](https://github.com/aguinane/blog) and [Netfliy](https://www.netlify.com/).
 

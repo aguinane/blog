@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2013-12-16'
-featured_image = 'posts/2013/toowoombas-christmas-wonderland/pano_20131215_203056.jpg'
+thumbnail = 'posts/2013/toowoombas-christmas-wonderland/pano_20131215_203056.jpg'
 slug = 'toowoombas-christmas-wonderland'
-tags = ['Christmas', 'Lights', 'Queens Park', 'Toowoomba']
+tags = ['Toowoomba']
 title = "Toowoomba's Christmas Wonderland"
 type = 'post'
 

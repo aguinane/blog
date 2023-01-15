@@ -1,9 +1,8 @@
 +++
 categories = ['Misc']
 date = '2013-12-08'
-featured_image = 'posts/2013/friday-night-fever/img_20131206_185416.jpg'
+thumbnail = 'posts/2013/friday-night-fever/img_20131206_185416.jpg'
 slug = 'friday-night-fever'
-tags = ['70s', 'Christmas', 'Disco', 'Party']
 title = 'Friday Night Fever'
 type = 'post'
 

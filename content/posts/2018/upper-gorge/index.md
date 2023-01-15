@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2018-10-17'
-featured_image = 'posts/2018/upper-gorge/creek1.jpg'
+thumbnail = 'posts/2018/upper-gorge/creek1.jpg'
 series = ['Carnarvon']
 slug = 'upper-gorge'
-tags = ['Queensland', 'Carnarvon Gorge', 'Boowinda Gorge', 'Big Bend', 'Cathedral Cave']
+tags = ['Queensland']
 title = 'Carnarvon Gorge - Upper Gorge'
 type = 'post'
 

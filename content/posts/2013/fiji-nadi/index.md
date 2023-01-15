@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2013-02-26'
-featured_image = 'posts/2013/fiji-nadi/p1110188.jpg'
+thumbnail = 'posts/2013/fiji-nadi/p1110188.jpg'
 slug = 'fiji-nadi'
-tags = ['Fiji', 'Nandi']
+tags = ['Fiji']
 title = 'Fiji - Nadi'
 type = 'post'
 

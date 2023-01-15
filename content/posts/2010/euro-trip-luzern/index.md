@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-14'
-featured_image = 'posts/2010/euro-trip-luzern/p1050200.jpg'
+thumbnail = 'posts/2010/euro-trip-luzern/p1050200.jpg'
 slug = 'euro-trip-luzern'
-tags = ['Europe', 'Luzern', 'Switzerland']
+tags = ['Europe', 'Switzerland']
 title = 'Luzern'
 type = 'post'
 

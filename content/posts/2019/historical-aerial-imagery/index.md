@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2019-10-27'
-featured_image = 'posts/2019/historical-aerial-imagery/1946.jpg'
+thumbnail = 'posts/2019/historical-aerial-imagery/1946.jpg'
 slug = 'historical-aerial-imagery'
 title = 'Toowoomba Historical Imagery'
 type = 'post'

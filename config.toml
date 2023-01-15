@@ -1,38 +1,38 @@
 baseURL = "https://alex.guinman.id.au/"
-languageCode = "en-gb"
 title = "Alex Guinman"
 subtitle = "Personal blog of Alex Guinman"
-theme = "alex"
-paginate = 9
+languageCode = "en-gb"
+paginate = 10
+theme = "mainroad"
 timeout = 60000
 
-[outputs]
-  home = ["HTML", "RSS"]
-
-[markup.goldmark.renderer]
-  unsafe= true
-
-[params]
-  author = "Alex Guinman"
+[Author] # Used in authorbox
+  name = "Alex Guinman"
+  avatar = "https://en.gravatar.com/userimage/18263558/00c0940b182d75a62218fe91404f6bc0.jpg?size=400"
+  
+[Params]
   description = "Personal blog of Alex Guinman"
-  favicon = ""
-  themeColor = "theme-base-08"
-  layoutReverse = true
-  relatedPosts = true
-  featuredImageField = "featured_image"
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true  
+  toc = true # Enable Table of Contents
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  
 
-[params.sidebar.avatar]
-  local = false
-  src = 'https://en.gravatar.com/userimage/18263558/00c0940b182d75a62218fe91404f6bc0.jpg?size=400'
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
 
-[params.widget]
-  enabled = ['search', 'archives', 'tag-cloud']
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "taglist"]
 
-[params.imageProcessing.cover]
-  enabled = true
-
-[params.imageProcessing.content]
-  enabled = true
+[Params.widgets.social]
+  # Enable parts of social widget
+  github = "aguinane"
 
 [permalinks]
   posts = "posts/:year/:slug/"
@@ -46,6 +46,7 @@ timeout = 60000
   category = "categories"
   series = "series"
   tag = "tags"
+  
 
 [[menu.main]]
     name = "Travel"
@@ -60,4 +61,5 @@ timeout = 60000
 [[menu.main]]
     name = "About"
     identifier = "about"
-    url = "/pages/about/"    
+    url = "/pages/about/"      
+  

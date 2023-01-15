@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-05-05'
-featured_image = 'posts/2017/snowdonia/walk7.jpg'
+thumbnail = 'posts/2017/snowdonia/walk7.jpg'
 slug = 'snowdonia'
-tags = ['Europe', 'UK', 'Wales', 'Snowdonia']
+tags = ['Europe', 'Wales']
 title = 'Snowdonia'
 type = 'post'
 

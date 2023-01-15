@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2019-03-15'
-featured_image = 'posts/2019/paluma/littlecrystalcreek.jpg'
+thumbnail = 'posts/2019/paluma/littlecrystalcreek.jpg'
 series = ['Cairns Roadtrip']
 slug = 'paluma'
-tags = ['Queensland', 'Paluma', 'Wallaman']
+tags = ['Queensland']
 title = 'Paluma and Wallaman Falls'
 type = 'post'
 

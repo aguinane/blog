@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-10'
-featured_image = 'posts/2017/croatia/lake1.jpg'
+thumbnail = 'posts/2017/croatia/lake1.jpg'
 slug = 'croatia'
-tags = ['Europe', 'Croatia', 'Rastoke', 'Plitvička Jezera']
+tags = ['Europe', 'Croatia']
 title = 'Plitvička Jezera'
 type = 'post'
 

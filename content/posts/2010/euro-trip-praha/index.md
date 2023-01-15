@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-12'
-featured_image = 'posts/2010/euro-trip-praha/absintherie.jpg'
+thumbnail = 'posts/2010/euro-trip-praha/absintherie.jpg'
 slug = 'euro-trip-praha'
-tags = ['Europe', 'Czech Republic', 'Praha']
+tags = ['Europe', 'Czech Republic']
 title = 'Praha'
 type = 'post'
 

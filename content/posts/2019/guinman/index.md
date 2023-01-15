@@ -1,8 +1,9 @@
 +++
 categories = ['Misc']
 date = '2019-05-04'
-featured_image = 'posts/2019/guinman/newspaper-guaine.jpg'
+thumbnail = 'posts/2019/guinman/newspaper-guaine.jpg'
 slug = 'guinman'
+tags = ['Genealogy']
 title = "The Guinman's"
 type = 'post'
 

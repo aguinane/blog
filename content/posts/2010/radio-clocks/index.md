@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-11'
-featured_image = 'posts/2010/radio-clocks/swiss_clock.png'
+thumbnail = 'posts/2010/radio-clocks/swiss_clock.png'
 slug = 'radio-clocks'
-tags = ['clock', 'Switzerland']
+tags = ['Switzerland']
 title = 'Radio Clocks'
 type = 'post'
 

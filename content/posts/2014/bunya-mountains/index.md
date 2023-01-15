@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2014-03-24'
-featured_image = 'posts/2014/bunya-mountains/feature.jpg'
+thumbnail = 'posts/2014/bunya-mountains/feature.jpg'
 slug = 'bunya-mountains'
-tags = ['Bunya', 'Camping', 'Queensland']
+tags = ['Queensland']
 title = 'Bunya Mountains'
 type = 'post'
 

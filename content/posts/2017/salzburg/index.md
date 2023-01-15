@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-16'
-featured_image = 'posts/2017/salzburg/river.jpg'
+thumbnail = 'posts/2017/salzburg/river.jpg'
 slug = 'salzburg'
-tags = ['Europe', 'Austria', 'Salzburg']
+tags = ['Europe', 'Austria']
 title = 'Salzburg'
 type = 'post'
 

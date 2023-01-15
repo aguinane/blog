@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-13'
-featured_image = 'posts/2010/euro-trip-schloss-neuschwanstein/castle1.jpg'
+thumbnail = 'posts/2010/euro-trip-schloss-neuschwanstein/castle1.jpg'
 slug = 'euro-trip-schloss-neuschwanstein'
-tags = ['Europe', 'Castle', 'Germany', 'Neuschwanstein']
+tags = ['Europe', 'Germany']
 title = 'Schloss Neuschwanstein'
 type = 'post'
 

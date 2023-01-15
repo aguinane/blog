@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2013-05-31'
-featured_image = 'posts/2013/top-of-tabletop/tabletop.jpg'
+thumbnail = 'posts/2013/top-of-tabletop/tabletop.jpg'
 slug = 'top-of-tabletop'
-tags = ['Photosphere', 'Tabletop', 'Toowoomba']
+tags = ['Toowoomba']
 title = 'Top of Tabletop'
 type = 'post'
 

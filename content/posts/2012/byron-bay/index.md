@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2012-09-13'
-featured_image = 'posts/2012/byron-bay/p1100787.jpg'
+thumbnail = 'posts/2012/byron-bay/p1100787.jpg'
 slug = 'byron-bay'
-tags = ['NSW', 'Byron Bay', 'Lying Down Game', 'Whales']
+tags = ['NSW']
 title = 'Byron Bay'
 type = 'post'
 

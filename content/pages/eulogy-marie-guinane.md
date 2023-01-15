@@ -1,7 +1,6 @@
 +++
 title = 'Eulogy for Marie Guinane'
 type = 'page'
-
 +++
 
 *The following is a copy of the eulogy read by Gary Guinane at Marie's funeral on 19 Oct 2020.* 

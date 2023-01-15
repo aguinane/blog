@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-05-02'
-featured_image = 'posts/2017/alnwick/beach2.jpg'
+thumbnail = 'posts/2017/alnwick/beach2.jpg'
 slug = 'alnwick'
-tags = ['Europe', 'UK', 'England', 'Alnwick']
+tags = ['Europe', 'England']
 title = 'Alnwick and The Wall'
 type = 'post'
 

@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2019-03-21'
-featured_image = 'posts/2019/drive-back/horseshoebay2.jpg'
+thumbnail = 'posts/2019/drive-back/horseshoebay2.jpg'
 series = ['Cairns Roadtrip']
 slug = 'drive-back'
-tags = ['Queensland', 'Airlie', 'Mackay']
+tags = ['Queensland']
 title = 'Drive Back South'
 type = 'post'
 

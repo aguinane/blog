@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2014-03-01'
-featured_image = 'posts/2014/narita-airport/narita-board.jpg'
+thumbnail = 'posts/2014/narita-airport/narita-board.jpg'
 slug = 'narita-airport'
-tags = ['Airport', 'Blizzard', 'Japan', 'Narita', 'Sleeping', 'Snow', 'Tokyo']
+tags = ['Japan']
 title = 'Narita Airport'
 type = 'post'
 

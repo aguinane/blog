@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-03'
-featured_image = 'posts/2017/vargberg/sunset.jpg'
+thumbnail = 'posts/2017/vargberg/sunset.jpg'
 slug = 'vargberg'
-tags = ['Europe', 'Sweden', 'Varberg', 'Guttenberg']
+tags = ['Europe', 'Sweden']
 title = 'Varberg'
 type = 'post'
 

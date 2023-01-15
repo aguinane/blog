@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-02'
-featured_image = 'posts/2010/the-limmat-river/p1010788-754453.jpg'
+thumbnail = 'posts/2010/the-limmat-river/p1010788-754453.jpg'
 slug = 'the-limmat-river'
-tags = ['Switzerland', 'Turgi']
+tags = ['Switzerland']
 title = 'The Limmat River'
 type = 'post'
 

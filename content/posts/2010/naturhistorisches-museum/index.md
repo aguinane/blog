@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-06'
-featured_image = 'posts/2010/naturhistorisches-museum/P1020029.jpg'
+thumbnail = 'posts/2010/naturhistorisches-museum/P1020029.jpg'
 slug = 'naturhistorisches-museum'
-tags = ['Bern', 'Switzerland']
+tags = ['Switzerland']
 title = 'Naturhistorisches Museum der Burgergemeinde Bern'
 type = 'post'
 

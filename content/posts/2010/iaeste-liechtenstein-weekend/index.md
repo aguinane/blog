@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-08-16'
-featured_image = 'posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg'
+thumbnail = 'posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg'
 slug = 'iaeste-liechtenstein-weekend'
-tags = ['IAESTE', 'Liechtenstein', 'Vaduz']
+tags = ['IAESTE', 'Liechtenstein']
 title = 'IAESTE Liechtenstein Weekend'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2012-09-13'
-featured_image = 'posts/2012/coffs-harbour/p1100861.jpg'
+thumbnail = 'posts/2012/coffs-harbour/p1100861.jpg'
 slug = 'coffs-harbour'
-tags = ['NSW', 'Big Banana', 'Coffs Harbour', 'lennox heads', 'mutton bird island']
+tags = ['NSW']
 title = 'Coffs Harbour'
 type = 'post'
 

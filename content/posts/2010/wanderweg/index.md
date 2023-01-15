@@ -1,7 +1,7 @@
 +++
 categories = ['Travel']
 date = '2010-07-11'
-featured_image = 'posts/2010/wanderweg/p1020293-7743501.jpg'
+thumbnail = 'posts/2010/wanderweg/p1020293-7743501.jpg'
 slug = 'wanderweg'
 tags = ['Switzerland']
 title = 'Wanderweg'

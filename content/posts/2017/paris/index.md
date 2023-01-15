@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-20'
-featured_image = 'posts/2017/paris/melting_house.jpg'
+thumbnail = 'posts/2017/paris/melting_house.jpg'
 slug = 'paris'
-tags = ['Europe', 'France', 'Paris']
+tags = ['Europe', 'France']
 title = 'Paris and Versailles'
 type = 'post'
 

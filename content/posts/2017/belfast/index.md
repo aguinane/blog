@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-22'
-featured_image = 'posts/2017/belfast/alley.jpg'
+thumbnail = 'posts/2017/belfast/alley.jpg'
 slug = 'belfast'
-tags = ['Europe', 'UK', 'Northern Ireland', 'Belfast']
+tags = ['Europe', 'Northern Ireland']
 title = 'Belfast'
 type = 'post'
 

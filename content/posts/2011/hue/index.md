@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2011-07-27'
-featured_image = 'posts/2011/hue/p1080207.jpg'
+thumbnail = 'posts/2011/hue/p1080207.jpg'
 slug = 'hue'
-tags = ['Hue', 'Vietnam']
+tags = ['Vietnam']
 title = 'Hue'
 type = 'post'
 

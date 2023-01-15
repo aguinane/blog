@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2013-10-19'
-featured_image = 'posts/2013/townsville/pano_20131009_061310.jpg'
+thumbnail = 'posts/2013/townsville/pano_20131009_061310.jpg'
 slug = 'townsville'
-tags = ['Queensland', 'Townsville']
+tags = ['Queensland']
 title = 'Townsville'
 type = 'post'
 

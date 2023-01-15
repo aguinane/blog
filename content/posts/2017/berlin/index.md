@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-09'
-featured_image = 'posts/2017/berlin/roomview.jpg'
+thumbnail = 'posts/2017/berlin/roomview.jpg'
 slug = 'berlin'
-tags = ['Europe', 'Germany', 'Berlin']
+tags = ['Europe', 'Germany']
 title = 'Berlin'
 type = 'post'
 

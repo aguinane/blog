@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2013-03-03'
-featured_image = 'posts/2013/fiji-suva/bus.jpg'
+thumbnail = 'posts/2013/fiji-suva/bus.jpg'
 slug = 'fiji-suva'
-tags = ['Fiji', 'Market', 'Museum', 'Suva']
+tags = ['Fiji']
 title = 'Fiji - Suva'
 type = 'post'
 

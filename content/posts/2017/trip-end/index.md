@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-05-10'
-featured_image = 'posts/2017/trip-end/newmans.jpg'
+thumbnail = 'posts/2017/trip-end/newmans.jpg'
 slug = 'trip-end'
-tags = ['Europe', 'UK', 'England', 'London']
+tags = ['Europe', 'England']
 title = 'Trip End'
 type = 'post'
 

@@ -2,7 +2,6 @@
 categories = ['Misc']
 date = '2016-01-30'
 slug = '101-thing-in-1001-days'
-tags = ['Day Zero Project']
 title = '101 Things in 1001 Days'
 type = 'post'
 

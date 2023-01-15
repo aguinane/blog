@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-09-16'
-featured_image = 'posts/2010/prost/p1040438.jpg'
+thumbnail = 'posts/2010/prost/p1040438.jpg'
 slug = 'prost'
-tags = ['Germany', 'Switzerland', 'Waldshut']
+tags = ['Germany', 'Switzerland']
 title = 'Prost'
 type = 'post'
 

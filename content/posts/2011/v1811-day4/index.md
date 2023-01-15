@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2011-10-21'
-featured_image = 'posts/2011/v1811-day4/p1080943.jpg'
+thumbnail = 'posts/2011/v1811-day4/p1080943.jpg'
 series = ['Young Endeavour']
 slug = 'v1811-day4'
-tags = ['NSW', 'Jervis Bay', 'Young Endeavour']
+tags = ['NSW', 'Young Endeavour']
 title = 'V18/11 - Day 4'
 type = 'post'
 

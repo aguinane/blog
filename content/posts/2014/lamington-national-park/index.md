@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2014-04-22'
-featured_image = 'posts/2014/lamington-national-park/01-lamington-national-park.jpg'
+thumbnail = 'posts/2014/lamington-national-park/01-lamington-national-park.jpg'
 slug = 'lamington-national-park'
-tags = ['Queensland', 'Bithongabel', 'Camping', 'Glow Worms', 'Hike', 'Lamington', 'National Park', "O'Reilly's"]
+tags = ['Queensland']
 title = 'Lamington National Park'
 type = 'post'
 

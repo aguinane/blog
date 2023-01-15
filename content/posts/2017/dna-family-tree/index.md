@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2017-09-21'
-featured_image = 'posts/2017/dna-family-tree/ancestry.png'
+thumbnail = 'posts/2017/dna-family-tree/ancestry.png'
 slug = 'dna-family-tree'
-tags = ['DNA', 'Genealogy']
+tags = ['Genealogy']
 title = 'DNA Genealogy'
 type = 'post'
 

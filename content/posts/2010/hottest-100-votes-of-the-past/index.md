@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2010-12-19'
-featured_image = 'posts/2010/hottest-100-votes-of-the-past/hottest100-2009.gif'
+thumbnail = 'posts/2010/hottest-100-votes-of-the-past/hottest100-2009.gif'
 slug = 'hottest-100-votes-of-the-past'
-tags = ['Hottest 100', 'Triple J']
+tags = ['Hottest 100']
 title = 'Hottest 100 Votes of the Past'
 type = 'post'
 

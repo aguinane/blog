@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2014-10-15'
-featured_image = 'posts/2014/mrh-simulator/controlscreen.jpg'
+thumbnail = 'posts/2014/mrh-simulator/controlscreen.jpg'
 slug = 'mrh-simulator'
-tags = ['Simulator', 'VR']
+tags = ['Toowoomba']
 title = 'Tour of MRH Simulator'
 type = 'post'
 

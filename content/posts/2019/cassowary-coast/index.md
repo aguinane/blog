@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2019-03-16'
-featured_image = 'posts/2019/cassowary-coast/paronella1.jpg'
+thumbnail = 'posts/2019/cassowary-coast/paronella1.jpg'
 series = ['Cairns Roadtrip']
 slug = 'cassowary-coast'
-tags = ['Queensland', 'Cardwell', 'Paronella Park']
+tags = ['Queensland']
 title = 'Cassowary Coast'
 type = 'post'
 

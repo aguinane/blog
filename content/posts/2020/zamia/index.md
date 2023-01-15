@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2020-07-07'
-featured_image = 'posts/2020/zamia/trailhead.jpg'
+thumbnail = 'posts/2020/zamia/trailhead.jpg'
 slug = 'zamia'
-tags = ['Queensland', 'Hiking']
+tags = ['Queensland', 'Rockhampton']
 title = 'Zamia Walk'
 type = 'post'
 

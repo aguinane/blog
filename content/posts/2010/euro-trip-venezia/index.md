@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-08'
-featured_image = 'posts/2010/euro-trip-venezia/p1040894.jpg'
+thumbnail = 'posts/2010/euro-trip-venezia/p1040894.jpg'
 slug = 'euro-trip-venezia'
-tags = ['Europe', 'Italy', 'Venezia']
+tags = ['Europe', 'Italy']
 title = 'Venezia'
 type = 'post'
 

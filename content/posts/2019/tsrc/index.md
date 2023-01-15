@@ -1,7 +1,7 @@
 +++
 categories = ['Misc']
 date = '2019-09-08'
-featured_image = 'posts/2019/tsrc/before.jpg'
+thumbnail = 'posts/2019/tsrc/before.jpg'
 slug = 'tsrc'
 tags = ['Toowoomba']
 title = 'Toowoomba Second Range Crossing Marathon'

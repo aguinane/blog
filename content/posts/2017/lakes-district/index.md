@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-05-03'
-featured_image = 'posts/2017/lakes-district/lake.jpg'
+thumbnail = 'posts/2017/lakes-district/lake.jpg'
 slug = 'lakes-district'
-tags = ['Europe', 'UK', 'England', 'Lakes District']
+tags = ['Europe', 'England']
 title = 'Lakes District'
 type = 'post'
 

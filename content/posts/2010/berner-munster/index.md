@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-06'
-featured_image = 'posts/2010/berner-munster/p1020108-7504553.jpg'
+thumbnail = 'posts/2010/berner-munster/p1020108-7504553.jpg'
 slug = 'berner-munster'
-tags = ['Bern', 'Switzerland']
+tags = ['Switzerland']
 title = 'Berner Münster'
 type = 'post'
 

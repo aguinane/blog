@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-07-01'
-featured_image = 'posts/2010/buildings-and-stuff/P1010761.jpg'
+thumbnail = 'posts/2010/buildings-and-stuff/P1010761.jpg'
 slug = 'buildings-and-stuff'
-tags = ['Switzerland', 'Turgi']
+tags = ['Switzerland']
 title = 'Flower Obsessed'
 type = 'post'
 

@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-23'
-featured_image = 'posts/2017/northern-ireland/bridge1.jpg'
+thumbnail = 'posts/2017/northern-ireland/bridge1.jpg'
 slug = 'northern-ireland'
-tags = ['Europe', 'UK', 'Ireland', 'Northern Ireland']
+tags = ['Europe', 'Northern Ireland']
 title = 'Irish Coast'
 type = 'post'
 

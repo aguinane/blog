@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2016-02-21'
-featured_image = 'posts/2016/oreillys-rainforest/picnic_rock.jpg'
+thumbnail = 'posts/2016/oreillys-rainforest/picnic_rock.jpg'
 slug = 'oreillys-rainforest'
-tags = ['Queensland', 'Lamington', 'National Park']
+tags = ['Queensland']
 title = "O'Reilly's Rainforest"
 type = 'post'
 

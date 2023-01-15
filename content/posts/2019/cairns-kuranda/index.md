@@ -1,10 +1,10 @@
 +++
 categories = ['Travel']
 date = '2019-03-17'
-featured_image = 'posts/2019/cairns-kuranda/train2.jpg'
+thumbnail = 'posts/2019/cairns-kuranda/train2.jpg'
 series = ['Cairns Roadtrip']
 slug = 'cairns-kuranda'
-tags = ['Queensland', 'Cairns', 'Kuranda']
+tags = ['Queensland']
 title = 'Cairns and Kuranda'
 type = 'post'
 

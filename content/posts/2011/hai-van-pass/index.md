@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2011-07-27'
-featured_image = 'posts/2011/hai-van-pass/img_1921.jpg'
+thumbnail = 'posts/2011/hai-van-pass/img_1921.jpg'
 slug = 'hai-van-pass'
-tags = ['Hai Van Pass', 'Vietnam']
+tags = ['Vietnam']
 title = 'Hai Van Pass'
 type = 'post'
 

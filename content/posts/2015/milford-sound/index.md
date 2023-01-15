@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2015-09-06'
-featured_image = 'posts/2015/milford-sound/cover.jpg'
+thumbnail = 'posts/2015/milford-sound/cover.jpg'
 slug = 'milford-sound'
-tags = ['milford sound', 'new zealand']
+tags = ['New Zealand']
 title = 'Milford Sound'
 type = 'post'
 

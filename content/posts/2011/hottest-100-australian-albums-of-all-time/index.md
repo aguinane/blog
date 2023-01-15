@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2011-06-25'
-featured_image = 'posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg'
+thumbnail = 'posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg'
 slug = 'hottest-100-australian-albums-of-all-time'
-tags = ['Hottest 100', 'Triple J']
+tags = ['Hottest 100']
 title = 'Hottest 100 Australian Albums Of All Time'
 type = 'post'
 

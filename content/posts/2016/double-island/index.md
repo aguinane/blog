@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2016-05-29'
-featured_image = 'posts/2016/double-island/featurerainbowbeach.jpg'
+thumbnail = 'posts/2016/double-island/featurerainbowbeach.jpg'
 slug = 'double-island'
-tags = ['Queensland', 'Beach', 'Camping', 'Cooloola', 'Sunshine Coast']
+tags = ['Queensland']
 title = 'Double Island'
 type = 'post'
 

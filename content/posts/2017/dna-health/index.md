@@ -1,9 +1,8 @@
 +++
 categories = ['Misc']
 date = '2017-09-20'
-featured_image = 'posts/2017/dna-health/drugs.png'
+thumbnail = 'posts/2017/dna-health/drugs.png'
 slug = 'dna-health'
-tags = ['DNA']
 title = 'DNA Health Care'
 type = 'post'
 

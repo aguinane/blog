@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-05-07'
-featured_image = 'posts/2017/oxford/museum.jpg'
+thumbnail = 'posts/2017/oxford/museum.jpg'
 slug = 'oxford'
-tags = ['Europe', 'UK', 'England', 'Oxford']
+tags = ['Europe', 'England']
 title = 'Oxford'
 type = 'post'
 

@@ -3,7 +3,7 @@ categories = ['Travel']
 date = '2011-10-22'
 series = ['Young Endeavour']
 slug = 'v1811-day-5'
-tags = ['NSW', 'Jervis Bay', 'Young Endeavour']
+tags = ['NSW', 'Young Endeavour']
 title = 'V18/11 - Day 5'
 type = 'post'
 

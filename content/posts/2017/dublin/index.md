@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-25'
-featured_image = 'posts/2017/dublin/castle1.jpg'
+thumbnail = 'posts/2017/dublin/castle1.jpg'
 slug = 'dublin'
-tags = ['Europe', 'Ireland', 'Dublin']
+tags = ['Europe', 'Ireland']
 title = 'Dublin'
 type = 'post'
 

@@ -1,16 +1,12 @@
 +++
 categories = ['Travel']
 date = '2016-01-31'
-featured_image = 'posts/2016/countries-visited/countries_visited.png'
+thumbnail = 'posts/2016/countries-visited/countries_visited.png'
 lastmod = '2017-03-03'
 slug = 'countries-visited'
-tags = ['Day Zero Project']
 title = 'Countries Visited'
 type = 'post'
-
 +++
-
-
 
 ![countries](countries_visited.png)
 

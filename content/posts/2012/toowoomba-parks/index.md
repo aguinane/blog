@@ -1,10 +1,10 @@
 +++
 categories = ['Misc']
 date = '2012-09-30'
-featured_image = 'posts/2012/toowoomba-parks/p1100940.jpg'
+thumbnail = 'posts/2012/toowoomba-parks/p1100940.jpg'
 post_format = 'Gallery'
 slug = 'toowoomba-parks'
-tags = ['Toowoomba', 'Flowers', 'Parks', 'TCOF']
+tags = ['Toowoomba', 'TCOF']
 title = 'Toowoomba Parks'
 type = 'post'
 

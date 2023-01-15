@@ -1,9 +1,9 @@
 +++
 categories = ['Misc']
 date = '2013-11-01'
-featured_image = 'posts/2013/toowoomba-sunset/img_20131024_181256.jpg'
+thumbnail = 'posts/2013/toowoomba-sunset/img_20131024_181256.jpg'
 slug = 'toowoomba-sunset'
-tags = ['Sunset', 'Toowoomba']
+tags = ['Toowoomba']
 title = 'Toowoomba Sunset'
 type = 'post'
 

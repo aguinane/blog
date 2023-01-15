@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-04'
-featured_image = 'posts/2017/copenhagen/boat1.jpg'
+thumbnail = 'posts/2017/copenhagen/boat1.jpg'
 slug = 'copenhagen'
-tags = ['Europe', 'Denmark', 'Copenhagen', 'København']
+tags = ['Europe', 'Denmark']
 title = 'København'
 type = 'post'
 

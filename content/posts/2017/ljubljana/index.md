@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2017-04-11'
-featured_image = 'posts/2017/ljubljana/castle_night.jpg'
+thumbnail = 'posts/2017/ljubljana/castle_night.jpg'
 slug = 'ljubljana'
-tags = ['Europe', 'Slovenia', 'Ljubljana']
+tags = ['Europe', 'Slovenia']
 title = 'Ljubljana'
 type = 'post'
 

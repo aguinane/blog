@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2010-11-06'
-featured_image = 'posts/2010/euro-trip-roma/p1040803.jpg'
+thumbnail = 'posts/2010/euro-trip-roma/p1040803.jpg'
 slug = 'euro-trip-roma'
-tags = ['Europe', 'Italy', 'Roma', 'Vatican City']
+tags = ['Europe', 'Italy']
 title = 'Roma'
 type = 'post'
 

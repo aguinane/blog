@@ -1,7 +1,7 @@
 +++
 categories = ['Travel']
 date = '2010-11-30'
-featured_image = 'posts/2010/technorama/technorama.jpg'
+thumbnail = 'posts/2010/technorama/technorama.jpg'
 slug = 'technorama'
 tags = ['IAESTE', 'Switzerland']
 title = 'Technorama'

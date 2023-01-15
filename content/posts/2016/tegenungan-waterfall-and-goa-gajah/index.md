@@ -1,9 +1,9 @@
 +++
 categories = ['Travel']
 date = '2016-08-13'
-featured_image = 'posts/2016/tegenungan-waterfall-and-goa-gajah/img_20160617_100924.jpg'
+thumbnail = 'posts/2016/tegenungan-waterfall-and-goa-gajah/img_20160617_100924.jpg'
 slug = 'tegenungan-waterfall-and-goa-gajah'
-tags = ['Bali', 'Indonesia', 'Goa Gajah', 'Tengenungan', 'Waterfall']
+tags = ['Indonesia']
 title = 'Tegenungan Waterfall and Goa Gajah'
 type = 'post'
 
