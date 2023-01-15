@@ -1,18 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-05-01'
-featured_image: posts/2017/glasgow/binns.jpg
-slug: glasgow
-tags:
-- Europe
-- UK
-- Scotland
-- Glasgow
-- Falkirk
-title: Glasgow
----
++++
+categories = ['Travel']
+date = '2017-05-01'
+featured_image = 'posts/2017/glasgow/binns.jpg'
+slug = 'glasgow'
+tags = ['Europe', 'UK', 'Scotland', 'Glasgow', 'Falkirk']
+title = 'Glasgow'
+type = 'post'
+
++++
 
 We picked up a hire car in Edinburgh, then headed to Glasgow to meet Katherine.
 

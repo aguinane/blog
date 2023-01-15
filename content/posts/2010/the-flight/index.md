@@ -1,14 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-01'
-featured_image: posts/2010/the-flight/airport-resized.jpg
-slug: the-flight
-tags:
-- Airport
-title: The Flight
----
++++
+categories = ['Travel']
+date = '2010-07-01'
+featured_image = 'posts/2010/the-flight/airport-resized.jpg'
+slug = 'the-flight'
+tags = ['Airport']
+title = 'The Flight'
+type = 'post'
+
++++
 
 ![Bangkok airport](airport-resized.jpg)
 

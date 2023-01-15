@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2016-08-14'
-featured_image: posts/2016/keramas/img_20160618_092004857_hdr.jpg
-slug: keramas
-tags:
-- Bali
-- Indonesia
-- Keramas
-- wedding
-title: Keramas
----
++++
+categories = ['Travel']
+date = '2016-08-14'
+featured_image = 'posts/2016/keramas/img_20160618_092004857_hdr.jpg'
+slug = 'keramas'
+tags = ['Bali', 'Indonesia', 'Keramas', 'wedding']
+title = 'Keramas'
+type = 'post'
+
++++
 
 ![IMG_20160618_092004857_HDR](img_20160618_092004857_hdr.jpg)
 

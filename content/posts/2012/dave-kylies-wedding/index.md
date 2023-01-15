@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2012-08-11'
-featured_image: posts/2012/dave-kylies-wedding/wedding1.jpg
-slug: dave-kylies-wedding
-tags:
-- photo booth
-- wedding
-title: Dave & Kylie's Wedding
----
++++
+categories = ['Misc']
+date = '2012-08-11'
+featured_image = 'posts/2012/dave-kylies-wedding/wedding1.jpg'
+slug = 'dave-kylies-wedding'
+tags = ['photo booth', 'wedding']
+title = "Dave & Kylie's Wedding"
+type = 'post'
+
++++
 
 ![Dave and Kylie's Wedding](wedding1.jpg)
 

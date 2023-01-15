@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-11'
-featured_image: posts/2017/ljubljana/castle_night.jpg
-slug: ljubljana
-tags:
-- Europe
-- Slovenia
-- Ljubljana
-title: Ljubljana
----
++++
+categories = ['Travel']
+date = '2017-04-11'
+featured_image = 'posts/2017/ljubljana/castle_night.jpg'
+slug = 'ljubljana'
+tags = ['Europe', 'Slovenia', 'Ljubljana']
+title = 'Ljubljana'
+type = 'post'
+
++++
 
 ![](castle_night.jpg "")
 

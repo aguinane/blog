@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-14'
-featured_image: posts/2017/bled/lakeside1.jpg
-slug: bled
-tags:
-- Europe
-- Slovenia
-- Bled
-title: Bled
----
++++
+categories = ['Travel']
+date = '2017-04-14'
+featured_image = 'posts/2017/bled/lakeside1.jpg'
+slug = 'bled'
+tags = ['Europe', 'Slovenia', 'Bled']
+title = 'Bled'
+type = 'post'
+
++++
 
 We got a train from Ljubljana to Lesce-Bled to a cool hostel that used to be a monastery.
 

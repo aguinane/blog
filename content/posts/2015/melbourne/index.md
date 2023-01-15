@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2015-03-13'
-featured_image: posts/2015/melbourne/pano_20150306_214726.jpg
-slug: melbourne
-tags:
-- Melbourne
-- Victoria
-title: Melbourne
----
++++
+categories = ['Travel']
+date = '2015-03-13'
+featured_image = 'posts/2015/melbourne/pano_20150306_214726.jpg'
+slug = 'melbourne'
+tags = ['Melbourne', 'Victoria']
+title = 'Melbourne'
+type = 'post'
+
++++
 
 ![PANO_20150306_214726](pano_20150306_214726.jpg)
 

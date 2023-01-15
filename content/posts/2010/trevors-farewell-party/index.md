@@ -1,13 +1,12 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-11'
-slug: trevors-farewell-party
-tags:
-- Switzerland
-title: Trevor's Farewell Party
----
++++
+categories = ['Travel']
+date = '2010-07-11'
+slug = 'trevors-farewell-party'
+tags = ['Switzerland']
+title = "Trevor's Farewell Party"
+type = 'post'
+
++++
 
 When I was introduced to everyone around the office and told them I was from Australia, they all wanted to know if I knew Trevor, because he was from Australia too. He was the very first co-op from CQU to work at ABB in Turgi, and came back after graduating, having been here for the last 9 years. But he moves back to Australia next week to work for QR, so he had farewell drinks on Thursday night. I'd never met him but thought I would drop by quickly to say hello.
 

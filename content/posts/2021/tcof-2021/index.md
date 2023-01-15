@@ -1,16 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2021-09-25'
-featured_image: posts/2021/tcof-2021/lb1.jpg
-slug: tcof-2021
-title: Toowoomba Carnival of Flowers 2021
-tags:
-- TCOF
-- Flowers
-- Toowoomba
----
++++
+categories = ['Misc']
+date = '2021-09-25'
+featured_image = 'posts/2021/tcof-2021/lb1.jpg'
+slug = 'tcof-2021'
+tags = ['TCOF', 'Flowers', 'Toowoomba']
+title = 'Toowoomba Carnival of Flowers 2021'
+type = 'post'
+
++++
 
 It was great to go to be able to go to the food and wine festival again this year, after last year was cancelled and we had a newborn the year before that. Unfortunately they had to change the lineup last minute due to border closures, so it was mostly bands I'd already seen several times.
 

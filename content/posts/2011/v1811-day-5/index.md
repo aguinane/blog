@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2011-10-22'
-series:
-- Young Endeavour
-slug: v1811-day-5
-tags:
-- NSW
-- Jervis Bay
-- Young Endeavour
-title: V18/11 - Day 5
----
++++
+categories = ['Travel']
+date = '2011-10-22'
+series = ['Young Endeavour']
+slug = 'v1811-day-5'
+tags = ['NSW', 'Jervis Bay', 'Young Endeavour']
+title = 'V18/11 - Day 5'
+type = 'post'
+
++++
 
 The previous night we had an anchor watch instead of our normal 4-hour shift in which only 3 people were on watch, and only for an hour so as to keep an eye on the boat and perform rounds.
 

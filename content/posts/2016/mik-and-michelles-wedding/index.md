@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2016-12-26'
-featured_image: posts/2016/mik-and-michelles-wedding/img_20160618_170423.jpg
-slug: mik-and-michelles-wedding
-tags:
-- Bali
-- Indonesia
-- Keramas
-- wedding
-title: Mik and Michelle's Wedding
----
++++
+categories = ['Travel']
+date = '2016-12-26'
+featured_image = 'posts/2016/mik-and-michelles-wedding/img_20160618_170423.jpg'
+slug = 'mik-and-michelles-wedding'
+tags = ['Bali', 'Indonesia', 'Keramas', 'wedding']
+title = "Mik and Michelle's Wedding"
+type = 'post'
+
++++
 
 ![IMG_20160618_170423](img_20160618_170423.jpg)
 

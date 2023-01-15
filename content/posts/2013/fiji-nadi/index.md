@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2013-02-26'
-featured_image: posts/2013/fiji-nadi/p1110188.jpg
-slug: fiji-nadi
-tags:
-- Fiji
-- Nandi
-title: Fiji - Nadi
----
++++
+categories = ['Travel']
+date = '2013-02-26'
+featured_image = 'posts/2013/fiji-nadi/p1110188.jpg'
+slug = 'fiji-nadi'
+tags = ['Fiji', 'Nandi']
+title = 'Fiji - Nadi'
+type = 'post'
+
++++
 
 ![Nadi Rainbow](p1110188.jpg)
 

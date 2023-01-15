@@ -1,19 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2018-03-03 10:20:00+10:00'
-featured_image: posts/2018/more-sightseeing-at-home/keppel4.jpg
-slug: more-sightseeing-at-home
-tags:
-- Queensland
-- Rockhampton
-- Great Keppel Island
-- Stony Creek
-- Capricorn Caves
-- Zoo
-title: More Sightseeing at Home
----
++++
+categories = ['Travel']
+date = '2018-03-03 10:20:00+10:00'
+featured_image = 'posts/2018/more-sightseeing-at-home/keppel4.jpg'
+slug = 'more-sightseeing-at-home'
+tags = ['Queensland', 'Rockhampton', 'Great Keppel Island', 'Stony Creek', 'Capricorn Caves', 'Zoo']
+title = 'More Sightseeing at Home'
+type = 'post'
+
++++
 
 In 2012 my friend Jan visited from Switzerland and I did a post
 [Sightseeing at Home](/posts/2012/sightseeing-at-home/) and I showed him some of the tourist places around town. Rachael's sister Lauren was visiting after living in the UK for over 2 years, and so I thought I'd do another post on more Rockhampton tourist things we did this year.

@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-30'
-featured_image: posts/2010/jakobshorn/skiing-022.jpg
-slug: jakobshorn
-tags:
-- Jakobshorn
-- Snowboarding
-- Switzerland
-title: Jakobshorn
----
++++
+categories = ['Travel']
+date = '2010-11-30'
+featured_image = 'posts/2010/jakobshorn/skiing-022.jpg'
+slug = 'jakobshorn'
+tags = ['Jakobshorn', 'Snowboarding', 'Switzerland']
+title = 'Jakobshorn'
+type = 'post'
+
++++
 
 ![Skiing 022](skiing-022.jpg)
 

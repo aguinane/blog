@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-13'
-featured_image: posts/2010/euro-trip-schloss-neuschwanstein/castle1.jpg
-slug: euro-trip-schloss-neuschwanstein
-tags:
-- Europe
-- Castle
-- Germany
-- Neuschwanstein
-title: Schloss Neuschwanstein
----
++++
+categories = ['Travel']
+date = '2010-11-13'
+featured_image = 'posts/2010/euro-trip-schloss-neuschwanstein/castle1.jpg'
+slug = 'euro-trip-schloss-neuschwanstein'
+tags = ['Europe', 'Castle', 'Germany', 'Neuschwanstein']
+title = 'Schloss Neuschwanstein'
+type = 'post'
+
++++
 
 After a few quick hours of sleep in Munich, we were checking out again. At the train station we waited for the tour to start, and then after seeing a sign for the Neuschwanstein Tour, signed up. Turns out it was the wrong one, and not the Sandeman's one that we had to planned to go on. Our guide was perfectly good though, and in fact probably needed the money more as the other group was much bigger and there was only 2 other people with us.
 

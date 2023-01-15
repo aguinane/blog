@@ -1,18 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2016-07-16'
-featured_image: posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg
-slug: uluwatu-and-tanah-lot
-tags:
-- Bali
-- Indonesia
-- Panang Panang Beach
-- Tanah Lot
-- Uluwatu
-title: Uluwatu and Tanah Lot
----
++++
+categories = ['Travel']
+date = '2016-07-16'
+featured_image = 'posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg'
+slug = 'uluwatu-and-tanah-lot'
+tags = ['Bali', 'Indonesia', 'Panang Panang Beach', 'Tanah Lot', 'Uluwatu']
+title = 'Uluwatu and Tanah Lot'
+type = 'post'
+
++++
 
 ![IMG_20160614_101356](img_20160614_101356.jpg "Uluwatu Temple")
 

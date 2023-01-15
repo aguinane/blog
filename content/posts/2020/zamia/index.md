@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2020-07-07'
-slug: zamia
-title: Zamia Walk
-featured_image: posts/2020/zamia/trailhead.jpg
-tags:
-- Queensland
-- Hiking
----
++++
+categories = ['Travel']
+date = '2020-07-07'
+featured_image = 'posts/2020/zamia/trailhead.jpg'
+slug = 'zamia'
+tags = ['Queensland', 'Hiking']
+title = 'Zamia Walk'
+type = 'post'
+
++++
 
 !["Trailhead"](trailhead.jpg)
 

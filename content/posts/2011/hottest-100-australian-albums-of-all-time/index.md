@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2011-06-25'
-featured_image: posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg
-slug: hottest-100-australian-albums-of-all-time
-tags:
-- Hottest 100
-- Triple J
-title: Hottest 100 Australian Albums Of All Time
----
++++
+categories = ['Misc']
+date = '2011-06-25'
+featured_image = 'posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg'
+slug = 'hottest-100-australian-albums-of-all-time'
+tags = ['Hottest 100', 'Triple J']
+title = 'Hottest 100 Australian Albums Of All Time'
+type = 'post'
+
++++
 
 ![Hot100Albums](hot100albums.jpg)
 

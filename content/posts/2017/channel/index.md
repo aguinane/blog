@@ -1,19 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-26'
-featured_image: posts/2017/channel/slane-hill.jpg
-slug: channel
-tags:
-- Europe
-- UK
-- Ireland
-- Northern Ireland
-- Slane
-- Belfast
-title: Last Day in Ireland
----
++++
+categories = ['Travel']
+date = '2017-04-26'
+featured_image = 'posts/2017/channel/slane-hill.jpg'
+slug = 'channel'
+tags = ['Europe', 'UK', 'Ireland', 'Northern Ireland', 'Slane', 'Belfast']
+title = 'Last Day in Ireland'
+type = 'post'
+
++++
 
 So we left Dublin early in the morning to avoid the traffic and made our way up north again to visit Slane.
 

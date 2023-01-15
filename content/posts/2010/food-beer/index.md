@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-08-29'
-featured_image: posts/2010/food-beer/P1030803.jpg
-slug: food-beer
-tags:
-- Basel
-- Switzerland
-title: Shopping in Germany for Food & Beer
----
++++
+categories = ['Travel']
+date = '2010-08-29'
+featured_image = 'posts/2010/food-beer/P1030803.jpg'
+slug = 'food-beer'
+tags = ['Basel', 'Switzerland']
+title = 'Shopping in Germany for Food & Beer'
+type = 'post'
+
++++
 
 Was kind of like a custard slice, but cheese. Quarkkuchen I think it was called
 

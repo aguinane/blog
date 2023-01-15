@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-01'
-featured_image: posts/2010/the-apartment/p1010755.jpg
-slug: the-apartment
-tags:
-- Switzerland
-- Turgi
-title: The Apartment
----
++++
+categories = ['Travel']
+date = '2010-07-01'
+featured_image = 'posts/2010/the-apartment/p1010755.jpg'
+slug = 'the-apartment'
+tags = ['Switzerland', 'Turgi']
+title = 'The Apartment'
+type = 'post'
+
++++
 
 I'm staying at a 4 bedroom apartment at: [Spinnereistrasse 4, CH-5300 Turgi](https://goo.gl/maps/dyhCfB9MG2F2)
 

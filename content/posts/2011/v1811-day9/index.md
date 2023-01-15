@@ -1,18 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2011-10-26'
-featured_image: posts/2011/v1811-day9/pa270812.jpg
-series:
-- Young Endeavour
-slug: v1811-day9
-tags:
-- NSW
-- Eden
-- Young Endeavour
-title: V18/11 - Day 9
----
++++
+categories = ['Travel']
+date = '2011-10-26'
+featured_image = 'posts/2011/v1811-day9/pa270812.jpg'
+series = ['Young Endeavour']
+slug = 'v1811-day9'
+tags = ['NSW', 'Eden', 'Young Endeavour']
+title = 'V18/11 - Day 9'
+type = 'post'
+
++++
 
 ![Young Endeavour](pa270812.jpg)
 

@@ -1,12 +1,12 @@
----
-categories:
-- Misc
-type: post
-date: '2020-03-15'
-slug: shave
-title: World's Greatest Shave
-featured_image: posts/2020/shave/after.jpg
----
++++
+categories = ['Misc']
+date = '2020-03-15'
+featured_image = 'posts/2020/shave/after.jpg'
+slug = 'shave'
+title = "World's Greatest Shave"
+type = 'post'
+
++++
 
 On the weekend I took part in the World's Greatest Shave.
 Thanks to everyone that donated, we were able to raise $1,847 for the Leukaemia Foundation.

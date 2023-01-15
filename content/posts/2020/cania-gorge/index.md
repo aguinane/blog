@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2020-11-04'
-slug: cania-gorge
-title: Cania Gorge
-featured_image: posts/2020/cania-gorge/fern-tree2.jpg
-tags:
-- Queensland
-- Hiking
----
++++
+categories = ['Travel']
+date = '2020-11-04'
+featured_image = 'posts/2020/cania-gorge/fern-tree2.jpg'
+slug = 'cania-gorge'
+tags = ['Queensland', 'Hiking']
+title = 'Cania Gorge'
+type = 'post'
+
++++
 
 After checking in at the caravan park, we decided to do the short Shamrock mine walk first. There were a bunch of holes in the ground including an open pit that you could look down which was pretty cool.
 

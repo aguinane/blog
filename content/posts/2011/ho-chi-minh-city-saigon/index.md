@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2011-07-23'
-featured_image: posts/2011/ho-chi-minh-city-saigon/p1070481.jpg
-slug: ho-chi-minh-city-saigon
-tags:
-- Saigon
-- Vietnam
-title: Ho Chi Minh City (Saigon)
----
++++
+categories = ['Travel']
+date = '2011-07-23'
+featured_image = 'posts/2011/ho-chi-minh-city-saigon/p1070481.jpg'
+slug = 'ho-chi-minh-city-saigon'
+tags = ['Saigon', 'Vietnam']
+title = 'Ho Chi Minh City (Saigon)'
+type = 'post'
+
++++
 
 ![Saigon](p1070481.jpg)
 

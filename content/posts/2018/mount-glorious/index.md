@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2018-04-22 00:00:00+10:00'
-featured_image: posts/2018/mount-glorious/walk1.jpg
-slug: mount-glorious
-tags:
-- Queensland
-- Mt Glorious
-- Wivenhoe
-- Dam
-title: Mt Glorious
----
++++
+categories = ['Travel']
+date = '2018-04-22 00:00:00+10:00'
+featured_image = 'posts/2018/mount-glorious/walk1.jpg'
+slug = 'mount-glorious'
+tags = ['Queensland', 'Mt Glorious', 'Wivenhoe', 'Dam']
+title = 'Mt Glorious'
+type = 'post'
+
++++
 
 We decided to drive home a different way from Brisbane and come back through Mt Glorious (D'Aguilar National Park).
 It was a much more scenic drive then going through the city and not much longer from Joyner.

@@ -1,13 +1,12 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-13'
-slug: euro-trip-summary-and-tips
-tags:
-- Europe
-title: Europe - Summary and Tips
----
++++
+categories = ['Travel']
+date = '2010-11-13'
+slug = 'euro-trip-summary-and-tips'
+tags = ['Europe']
+title = 'Europe - Summary and Tips'
+type = 'post'
+
++++
 
 This final Euro Trip post (before we get back to Switzerland) is to sum up my impressions of each city. In particular it is dedicated to Tim and Kate who might be coming over next year, or anyone else that plans on travelling to Europe in the future. Hopefully these tips/comments will be able to make your trip even more enjoyable than ours.
 

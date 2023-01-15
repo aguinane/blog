@@ -1,18 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2016-01-30'
-featured_image: posts/2016/murwillumbah/tweed-river.jpg
-slug: murwillumbah
-tags:
-- Queensland
-- NSW
-- Cabarita Beach
-- Murwillumbah
-- Natural Bridge
-title: Murwillumbah
----
++++
+categories = ['Travel']
+date = '2016-01-30'
+featured_image = 'posts/2016/murwillumbah/tweed-river.jpg'
+slug = 'murwillumbah'
+tags = ['Queensland', 'NSW', 'Cabarita Beach', 'Murwillumbah', 'Natural Bridge']
+title = 'Murwillumbah'
+type = 'post'
+
++++
 
 ![tweed river](tweed-river.jpg)
 

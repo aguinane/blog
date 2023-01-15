@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-09'
-featured_image: posts/2017/berlin/roomview.jpg
-slug: berlin
-tags:
-- Europe
-- Germany
-- Berlin
-title: Berlin
----
++++
+categories = ['Travel']
+date = '2017-04-09'
+featured_image = 'posts/2017/berlin/roomview.jpg'
+slug = 'berlin'
+tags = ['Europe', 'Germany', 'Berlin']
+title = 'Berlin'
+type = 'post'
+
++++
 
 ![](roomview.jpg "View from our AirBnB")
 

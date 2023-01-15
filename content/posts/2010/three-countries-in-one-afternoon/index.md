@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-08-29'
-featured_image: posts/2010/three-countries-in-one-afternoon/flower.jpg
-slug: three-countries-in-one-afternoon
-tags:
-- Basel
-- Switzerland
-title: Three Countries Corner
----
++++
+categories = ['Travel']
+date = '2010-08-29'
+featured_image = 'posts/2010/three-countries-in-one-afternoon/flower.jpg'
+slug = 'three-countries-in-one-afternoon'
+tags = ['Basel', 'Switzerland']
+title = 'Three Countries Corner'
+type = 'post'
+
++++
 
 Yesterday (Saturday) I went to Basel for the day and met up with some IAESTE buddies, and we explored the city.
 

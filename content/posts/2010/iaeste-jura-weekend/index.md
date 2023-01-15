@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-09-14'
-featured_image: posts/2010/iaeste-jura-weekend/P1040064.jpg
-slug: iaeste-jura-weekend
-tags:
-- IAESTE
-- Switzerland
-title: IAESTE Jura Weekend
----
++++
+categories = ['Travel']
+date = '2010-09-14'
+featured_image = 'posts/2010/iaeste-jura-weekend/P1040064.jpg'
+slug = 'iaeste-jura-weekend'
+tags = ['IAESTE', 'Switzerland']
+title = 'IAESTE Jura Weekend'
+type = 'post'
+
++++
 
 ![Jura](P1040064.jpg)
 

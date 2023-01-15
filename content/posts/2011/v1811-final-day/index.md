@@ -1,18 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2011-10-29'
-featured_image: posts/2011/v1811-final-day/ye_groupshot.jpg
-series:
-- Young Endeavour
-slug: v1811-final-day
-tags:
-- NSW
-- Eden
-- Young Endeavour
-title: V18/11 - Final Day
----
++++
+categories = ['Travel']
+date = '2011-10-29'
+featured_image = 'posts/2011/v1811-final-day/ye_groupshot.jpg'
+series = ['Young Endeavour']
+slug = 'v1811-final-day'
+tags = ['NSW', 'Eden', 'Young Endeavour']
+title = 'V18/11 - Final Day'
+type = 'post'
+
++++
 
 ![YE_Groupshot](ye_groupshot.jpg)
 

@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-22'
-featured_image: posts/2017/belfast/alley.jpg
-slug: belfast
-tags:
-- Europe
-- UK
-- Northern Ireland
-- Belfast
-title: Belfast
----
++++
+categories = ['Travel']
+date = '2017-04-22'
+featured_image = 'posts/2017/belfast/alley.jpg'
+slug = 'belfast'
+tags = ['Europe', 'UK', 'Northern Ireland', 'Belfast']
+title = 'Belfast'
+type = 'post'
+
++++
 
 We flew into Belfast and got a bus in to the city and then to check into our hostel. Everywhere was really booked out in Belfast, and we were only able to book a 10 person dorm at [Vagabonds](http://www.vagabondsbelfast.com/). We found an awesome burrito place for lunch that was a cross between subway and GyG. It was good being back in an English speaking country again, although Rachael still really struggled to understand what we were ordering with the accent which was pretty funny.
 

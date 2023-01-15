@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2013-01-16'
-featured_image: posts/2013/hottest-100-votes-2012/340.jpg
-slug: hottest-100-votes-2012
-tags:
-- Hottest 100
-- Triple J
-title: Hottest 100 Votes 2012
----
++++
+categories = ['Misc']
+date = '2013-01-16'
+featured_image = 'posts/2013/hottest-100-votes-2012/340.jpg'
+slug = 'hottest-100-votes-2012'
+tags = ['Hottest 100', 'Triple J']
+title = 'Hottest 100 Votes 2012'
+type = 'post'
+
++++
 
 ![340](340.jpg)
 

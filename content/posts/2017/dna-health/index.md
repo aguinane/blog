@@ -1,14 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2017-09-20'
-featured_image: posts/2017/dna-health/drugs.png
-slug: dna-health
-tags:
-- DNA
-title: DNA Health Care
----
++++
+categories = ['Misc']
+date = '2017-09-20'
+featured_image = 'posts/2017/dna-health/drugs.png'
+slug = 'dna-health'
+tags = ['DNA']
+title = 'DNA Health Care'
+type = 'post'
+
++++
 
 Last year I was listening to a [Podcast on 23andMe](https://www.recode.net/2016/4/4/11585828/) where they talked up what the benefits to health care would be if everyone did DNA testing. Different drugs affect people differently, and apparently DNA is a good way of isolating how they will impact different groups. Also if you know you are more suspeptible to certain diseases you can potentially make lifestyle changes to reduce them, and it can also tell you what you are a carrier of if you are planning to have children.
 

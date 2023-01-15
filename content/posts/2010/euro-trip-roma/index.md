@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-06'
-featured_image: posts/2010/euro-trip-roma/p1040803.jpg
-slug: euro-trip-roma
-tags:
-- Europe
-- Italy
-- Roma
-- Vatican City
-title: Roma
----
++++
+categories = ['Travel']
+date = '2010-11-06'
+featured_image = 'posts/2010/euro-trip-roma/p1040803.jpg'
+slug = 'euro-trip-roma'
+tags = ['Europe', 'Italy', 'Roma', 'Vatican City']
+title = 'Roma'
+type = 'post'
+
++++
 
 ![Rome](p1040803.jpg)
 

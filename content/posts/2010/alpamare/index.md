@@ -1,14 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-12-31'
-featured_image: posts/2010/alpamare/alpamare_winter_2012_3_224x180.jpg
-slug: alpamare
-tags:
-- Switzerland
-title: Alpamare
----
++++
+categories = ['Travel']
+date = '2010-12-31'
+featured_image = 'posts/2010/alpamare/alpamare_winter_2012_3_224x180.jpg'
+slug = 'alpamare'
+tags = ['Switzerland']
+title = 'Alpamare'
+type = 'post'
+
++++
 
 ![Alpamare_Winter_2012_3_224x180](alpamare_winter_2012_3_224x180.jpg)
 

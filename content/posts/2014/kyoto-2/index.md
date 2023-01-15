@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-03-08'
-featured_image: posts/2014/kyoto-2/kyoto-gates.jpg
-slug: kyoto-2
-tags:
-- Inari
-- Japan
-- Kyoto
-title: Kyoto
----
++++
+categories = ['Travel']
+date = '2014-03-08'
+featured_image = 'posts/2014/kyoto-2/kyoto-gates.jpg'
+slug = 'kyoto-2'
+tags = ['Inari', 'Japan', 'Kyoto']
+title = 'Kyoto'
+type = 'post'
+
++++
 
 ![kyoto gates](kyoto-gates.jpg)
 

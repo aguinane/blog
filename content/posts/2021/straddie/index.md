@@ -1,14 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2021-10-27'
-featured_image: posts/2021/straddie/nthgorge1.jpg
-slug: straddie
-title: North Stradbroke Island
-tags:
-- Queensland
----
++++
+categories = ['Travel']
+date = '2021-10-27'
+featured_image = 'posts/2021/straddie/nthgorge1.jpg'
+slug = 'straddie'
+tags = ['Queensland']
+title = 'North Stradbroke Island'
+type = 'post'
+
++++
 
 ![](ferry-there.jpg)
 

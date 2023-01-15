@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-03-08'
-featured_image: posts/2014/japanese-serow/serow.jpg
-slug: japanese-serow
-tags:
-- Bear
-- Japan
-- Serow
-title: Japanese Serow
----
++++
+categories = ['Travel']
+date = '2014-03-08'
+featured_image = 'posts/2014/japanese-serow/serow.jpg'
+slug = 'japanese-serow'
+tags = ['Bear', 'Japan', 'Serow']
+title = 'Japanese Serow'
+type = 'post'
+
++++
 
 ![serow](serow.jpg)
 

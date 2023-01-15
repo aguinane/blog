@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-10-07'
-featured_image: posts/2014/goomburra-state-forest/feature3.jpg
-slug: goomburra-state-forest
-tags:
-- Queensland
-- Goomburra
-- Main Range
-- Hiking
-title: Goomburra State Forest
----
++++
+categories = ['Travel']
+date = '2014-10-07'
+featured_image = 'posts/2014/goomburra-state-forest/feature3.jpg'
+slug = 'goomburra-state-forest'
+tags = ['Queensland', 'Goomburra', 'Main Range', 'Hiking']
+title = 'Goomburra State Forest'
+type = 'post'
+
++++
 
 ![feature](feature3.jpg)
 

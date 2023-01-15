@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2012-01-08'
-featured_image: posts/2012/hottest-100-votes-2011/mobile_header.jpg
-slug: hottest-100-votes-2011
-tags:
-- Hottest 100
-- Triple J
-title: Hottest 100 Votes - 2011
----
++++
+categories = ['Misc']
+date = '2012-01-08'
+featured_image = 'posts/2012/hottest-100-votes-2011/mobile_header.jpg'
+slug = 'hottest-100-votes-2011'
+tags = ['Hottest 100', 'Triple J']
+title = 'Hottest 100 Votes - 2011'
+type = 'post'
+
++++
 
 ![mobile_header](mobile_header.jpg)
 

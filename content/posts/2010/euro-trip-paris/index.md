@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-11'
-featured_image: posts/2010/euro-trip-paris/louvre1.jpg
-slug: euro-trip-paris
-tags:
-- Europe
-- France
-- Louvre
-- Paris
-title: Paris
----
++++
+categories = ['Travel']
+date = '2010-11-11'
+featured_image = 'posts/2010/euro-trip-paris/louvre1.jpg'
+slug = 'euro-trip-paris'
+tags = ['Europe', 'France', 'Louvre', 'Paris']
+title = 'Paris'
+type = 'post'
+
++++
 
 Coming in on the train in the morning we got to see some epic countryside. France was a lovely country and I want to go back again and see more of it one day.
 

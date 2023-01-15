@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2013-03-03'
-featured_image: posts/2013/fiji-pacific-harbour/p1110509.jpg
-slug: fiji-pacific-harbour
-tags:
-- Arts Village
-- Fiji
-- Pacific Harbour
-- Uprising
-title: Fiji - Pacific Harbour
----
++++
+categories = ['Travel']
+date = '2013-03-03'
+featured_image = 'posts/2013/fiji-pacific-harbour/p1110509.jpg'
+slug = 'fiji-pacific-harbour'
+tags = ['Arts Village', 'Fiji', 'Pacific Harbour', 'Uprising']
+title = 'Fiji - Pacific Harbour'
+type = 'post'
+
++++
 
 ![Uprising Beach View](p1110509.jpg)
 

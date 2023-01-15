@@ -1,12 +1,12 @@
----
-categories:
-- Misc
-type: post
-date: '2019-10-27'
-featured_image: posts/2019/historical-aerial-imagery/1946.jpg
-slug: historical-aerial-imagery
-title: Toowoomba Historical Imagery
----
++++
+categories = ['Misc']
+date = '2019-10-27'
+featured_image = 'posts/2019/historical-aerial-imagery/1946.jpg'
+slug = 'historical-aerial-imagery'
+title = 'Toowoomba Historical Imagery'
+type = 'post'
+
++++
 
 When we bought our house the real-estate agent said it was "Post WWII" (after 1945) but didn't really know exactly when it was built. The survey plan we got for the block said it was updated in 1952, so it's a safe bet it was about then.
 

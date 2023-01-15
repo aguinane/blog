@@ -1,7 +1,8 @@
----
-title: About
-type: page
----
++++
+title = 'About'
+type = 'page'
+
++++
 
 I originally started this blog as **Tales From Turgi** when I was living in [Switzerland](/tags/switzerland) in 2010.
 

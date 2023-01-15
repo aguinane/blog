@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2011-08-02'
-featured_image: posts/2011/halong-bay/P1080367.jpg
-slug: halong-bay
-tags:
-- Halong Bay
-- Vietnam
-title: Halong Bay
----
++++
+categories = ['Travel']
+date = '2011-08-02'
+featured_image = 'posts/2011/halong-bay/P1080367.jpg'
+slug = 'halong-bay'
+tags = ['Halong Bay', 'Vietnam']
+title = 'Halong Bay'
+type = 'post'
+
++++
 
 images: 2011-08-02-halong-bay/P1080464.jpg
 

@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-03'
-featured_image: posts/2017/vargberg/sunset.jpg
-slug: vargberg
-tags:
-- Europe
-- Sweden
-- Varberg
-- Guttenberg
-title: Varberg
----
++++
+categories = ['Travel']
+date = '2017-04-03'
+featured_image = 'posts/2017/vargberg/sunset.jpg'
+slug = 'vargberg'
+tags = ['Europe', 'Sweden', 'Varberg', 'Guttenberg']
+title = 'Varberg'
+type = 'post'
+
++++
 
 Next up we got a train to Guttenberg to meet my friend Johan. I was surprised by the amount of forest on the train ride, unfortunately our train seat didn't have a window but from what we could see there wasn't many towns on the way. We met Johan at Guttenberg then went to meatball house, and got some Swedish meatballs which were delicious.
 

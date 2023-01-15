@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-08-23'
-featured_image: posts/2010/iaeste-zermatt-weekend/glacier.jpg
-slug: iaeste-zermatt-weekend
-tags:
-- IAESTE
-- Switzerland
-- Glacier
-title: IAESTE Zermatt Weekend
----
++++
+categories = ['Travel']
+date = '2010-08-23'
+featured_image = 'posts/2010/iaeste-zermatt-weekend/glacier.jpg'
+slug = 'iaeste-zermatt-weekend'
+tags = ['IAESTE', 'Switzerland', 'Glacier']
+title = 'IAESTE Zermatt Weekend'
+type = 'post'
+
++++
 
 Saturday I got the train to Visp to begin the IAESTE Zermatt Weekend, which very unusally for a swiss train arrived about 5 mins late. From Visp we went on a cog train up to Zermatt, which was a lovely town at the foot of the Matterhorn.
 

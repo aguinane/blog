@@ -1,14 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2020-05-02'
-slug: air-con-automation
-title: Air Con Automation
-featured_image: posts/2020/air-con-automation/aircon.jpg
-tags:
-- Home Automation
----
++++
+categories = ['Misc']
+date = '2020-05-02'
+featured_image = 'posts/2020/air-con-automation/aircon.jpg'
+slug = 'air-con-automation'
+tags = ['Home Automation']
+title = 'Air Con Automation'
+type = 'post'
+
++++
 
 When I first started playing with [Home Assistant](https://www.home-assistant.io) the first thing I thought to automate was our air-conditioner. When we bought the air con for our living room it cost way more for the "smart" ones that you could control with your phone and we didn't think we would use it anyway, so we just got a [dumb one](https://www.kelvinator.com.au/air-conditioning/split-system/ksv70hrd). But since it can take up to five minutes or so before the heater works, it's definitely good to have it automatically turn on on cold mornings, or turn it on from your phone in bed.
 

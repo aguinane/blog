@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2011-02-21'
-featured_image: posts/2011/returning-to-the-island/curtisferry.jpg
-slug: returning-to-the-island
-tags:
-- Brisbane
-- Gladstone
-title: Returning to the Island
----
++++
+categories = ['Travel']
+date = '2011-02-21'
+featured_image = 'posts/2011/returning-to-the-island/curtisferry.jpg'
+slug = 'returning-to-the-island'
+tags = ['Brisbane', 'Gladstone']
+title = 'Returning to the Island'
+type = 'post'
+
++++
 
 ![curtisferry](curtisferry.jpg)
 

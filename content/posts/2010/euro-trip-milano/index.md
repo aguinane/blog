@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-06'
-featured_image: posts/2010/euro-trip-milano/p1040765.jpg
-slug: euro-trip-milano
-tags:
-- Europe
-- Italy
-- Milano
-title: Milano
----
++++
+categories = ['Travel']
+date = '2010-11-06'
+featured_image = 'posts/2010/euro-trip-milano/p1040765.jpg'
+slug = 'euro-trip-milano'
+tags = ['Europe', 'Italy', 'Milano']
+title = 'Milano'
+type = 'post'
+
++++
 
 ![Milan](p1040765.jpg)
 

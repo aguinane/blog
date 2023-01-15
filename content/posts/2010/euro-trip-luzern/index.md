@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-14'
-featured_image: posts/2010/euro-trip-luzern/p1050200.jpg
-slug: euro-trip-luzern
-tags:
-- Europe
-- Luzern
-- Switzerland
-title: Luzern
----
++++
+categories = ['Travel']
+date = '2010-11-14'
+featured_image = 'posts/2010/euro-trip-luzern/p1050200.jpg'
+slug = 'euro-trip-luzern'
+tags = ['Europe', 'Luzern', 'Switzerland']
+title = 'Luzern'
+type = 'post'
+
++++
 
 ![Luzern](p1050200.jpg)
 

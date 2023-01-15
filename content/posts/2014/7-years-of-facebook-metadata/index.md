@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2014-08-30'
-featured_image: posts/2014/7-years-of-facebook-metadata/friends.png
-slug: 7-years-of-facebook-metadata
-tags:
-- facebook
-- friends
-title: 7 Years Of Facebook Metadata
----
++++
+categories = ['Misc']
+date = '2014-08-30'
+featured_image = 'posts/2014/7-years-of-facebook-metadata/friends.png'
+slug = '7-years-of-facebook-metadata'
+tags = ['facebook', 'friends']
+title = '7 Years Of Facebook Metadata'
+type = 'post'
+
++++
 
 So amid yet more news about metadata collection by government, I decided that Facebook probably doesn't need all my old data either and it might be a good time to try and clean it up. Looking at the activity log for my account, the first bit of data is from Sep 4th 2007, which is just shy of 7 years ago.
 

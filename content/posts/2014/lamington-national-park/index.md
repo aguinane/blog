@@ -1,21 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-04-22'
-featured_image: posts/2014/lamington-national-park/01-lamington-national-park.jpg
-slug: lamington-national-park
-tags:
-- Queensland
-- Bithongabel
-- Camping
-- Glow Worms
-- Hike
-- Lamington
-- National Park
-- O'Reilly's
-title: Lamington National Park
----
++++
+categories = ['Travel']
+date = '2014-04-22'
+featured_image = 'posts/2014/lamington-national-park/01-lamington-national-park.jpg'
+slug = 'lamington-national-park'
+tags = ['Queensland', 'Bithongabel', 'Camping', 'Glow Worms', 'Hike', 'Lamington', 'National Park', "O'Reilly's"]
+title = 'Lamington National Park'
+type = 'post'
+
++++
 
 ![Lamington National Park](01-lamington-national-park.jpg)
 

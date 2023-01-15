@@ -1,14 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-12-01'
-featured_image: posts/2010/more-snow/p1050734.jpg
-slug: more-snow
-tags:
-- Switzerland
-title: More Snow!
----
++++
+categories = ['Travel']
+date = '2010-12-01'
+featured_image = 'posts/2010/more-snow/p1050734.jpg'
+slug = 'more-snow'
+tags = ['Switzerland']
+title = 'More Snow!'
+type = 'post'
+
++++
 
 ![More Snow](p1050734.jpg)
 

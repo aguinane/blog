@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-12-14'
-featured_image: posts/2010/iaeste-ski-weekend/p1050930.jpg
-slug: iaeste-ski-weekend
-tags:
-- IAESTE
-- Switzerland
-title: IAESTE Ski Weekend
----
++++
+categories = ['Travel']
+date = '2010-12-14'
+featured_image = 'posts/2010/iaeste-ski-weekend/p1050930.jpg'
+slug = 'iaeste-ski-weekend'
+tags = ['IAESTE', 'Switzerland']
+title = 'IAESTE Ski Weekend'
+type = 'post'
+
++++
 
 ![Ski Weekend](p1050930.jpg)
 

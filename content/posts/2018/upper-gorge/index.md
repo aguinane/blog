@@ -1,20 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2018-10-17'
-featured_image: posts/2018/upper-gorge/creek1.jpg
-slug: upper-gorge
-tags:
-- Queensland
-- Carnarvon Gorge
-- Boowinda Gorge
-- Big Bend
-- Cathedral Cave
-title: Carnarvon Gorge - Upper Gorge
-series:
-- Carnarvon
----
++++
+categories = ['Travel']
+date = '2018-10-17'
+featured_image = 'posts/2018/upper-gorge/creek1.jpg'
+series = ['Carnarvon']
+slug = 'upper-gorge'
+tags = ['Queensland', 'Carnarvon Gorge', 'Boowinda Gorge', 'Big Bend', 'Cathedral Cave']
+title = 'Carnarvon Gorge - Upper Gorge'
+type = 'post'
+
++++
 
 On our last day we set straight out to the end of the walking track to Big Bend.
 When you are not doing the side tracks it doesn't actually take that long

@@ -1,13 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2019-10-26'
-featured_image: posts/2019/energy-data/old_meter.jpg
-images: [posts/2019/energy-data/old_meter.jpg]
-slug: energy-data
-title: Energy Consumption Data
----
++++
+categories = ['Misc']
+date = '2019-10-26'
+featured_image = 'posts/2019/energy-data/old_meter.jpg'
+images = ['posts/2019/energy-data/old_meter.jpg']
+slug = 'energy-data'
+title = 'Energy Consumption Data'
+type = 'post'
+
++++
 
 When we moved into our house it had an old accumulation meter (read every 3 months) that was probably put in when the house was built (as it was apparently installed by the *Toowoomba Electric Light & Power Company*).
 

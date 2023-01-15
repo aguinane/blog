@@ -1,21 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2018-10-15'
-featured_image: posts/2018/lower-gorge/creek.jpg
-slug: lower-gorge
-tags:
-- Queensland
-- Carnarvon Gorge
-- Moss Garden
-- Amphitheatre
-- Art Gallery
-- Ward's Canyon
-title: Carnarvon Gorge - Lower Gorge
-series:
-- Carnarvon
----
++++
+categories = ['Travel']
+date = '2018-10-15'
+featured_image = 'posts/2018/lower-gorge/creek.jpg'
+series = ['Carnarvon']
+slug = 'lower-gorge'
+tags = ['Queensland', 'Carnarvon Gorge', 'Moss Garden', 'Amphitheatre', 'Art Gallery', "Ward's Canyon"]
+title = 'Carnarvon Gorge - Lower Gorge'
+type = 'post'
+
++++
 
 The actual hikes are all a single path that follows the creek, with a bunch of side paths.
 It's recommend to go to the end first but as we were going with Rachael's dad Mark,

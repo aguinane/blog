@@ -1,17 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2019-03-13'
-featured_image: posts/2019/eungella/fh-wheel-of-fire1.jpg
-series:
-- Cairns Roadtrip
-slug: eungella
-tags:
-- Queensland
-- Mackay
-title: Eungella and Finch Hatton
----
++++
+categories = ['Travel']
+date = '2019-03-13'
+featured_image = 'posts/2019/eungella/fh-wheel-of-fire1.jpg'
+series = ['Cairns Roadtrip']
+slug = 'eungella'
+tags = ['Queensland', 'Mackay']
+title = 'Eungella and Finch Hatton'
+type = 'post'
+
++++
 
 We wanted to go snorkelling at Port Douglas, so decided to make a road trip of it so
 we could visit family in Rockhampton on the way up. Our first stop was to visit

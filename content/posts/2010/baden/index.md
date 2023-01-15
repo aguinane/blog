@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-03'
-featured_image: posts/2010/baden/clocktower.jpg
-slug: baden
-tags:
-- Baden
-- Switzerland
-title: Baden
----
++++
+categories = ['Travel']
+date = '2010-07-03'
+featured_image = 'posts/2010/baden/clocktower.jpg'
+slug = 'baden'
+tags = ['Baden', 'Switzerland']
+title = 'Baden'
+type = 'post'
+
++++
 
 So after work on Friday I thought I would see what the closest town (Baden) is like.
 It is much bigger than Turgi, with a lot of shops and stuff, it even had a McDonalds and Burger King. The buildings there are all look amazing though, and all the streets are cobblestone.

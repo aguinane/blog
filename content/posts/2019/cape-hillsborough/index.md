@@ -1,19 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2019-03-14'
-featured_image: posts/2019/cape-hillsborough/sunrise0.jpg
-series:
-- Cairns Roadtrip
-slug: cape-hillsborough
-tags:
-- Queensland
-- Seaforth
-- Cape Hillborough
-- Bowen
-title: Cape Hillborough
----
++++
+categories = ['Travel']
+date = '2019-03-14'
+featured_image = 'posts/2019/cape-hillsborough/sunrise0.jpg'
+series = ['Cairns Roadtrip']
+slug = 'cape-hillsborough'
+tags = ['Queensland', 'Seaforth', 'Cape Hillborough', 'Bowen']
+title = 'Cape Hillborough'
+type = 'post'
+
++++
 
 After Eungella, we stayed the night at Seaforth. There wasn't a whole lot there.
 We got fish & chips for dinner, and instead of seagulls they had curlews that bug you for some instead!

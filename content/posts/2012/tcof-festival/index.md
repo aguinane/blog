@@ -1,18 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2012-09-29'
-featured_image: posts/2012/tcof-festival/grounds.jpg
-slug: tcof-festival
-tags:
-- Flowers
-- Food
-- TCOF
-- Toowoomba
-- Wine
-title: TCOF Flower Food and Wine Festival
----
++++
+categories = ['Misc']
+date = '2012-09-29'
+featured_image = 'posts/2012/tcof-festival/grounds.jpg'
+slug = 'tcof-festival'
+tags = ['Flowers', 'Food', 'TCOF', 'Toowoomba', 'Wine']
+title = 'TCOF Flower Food and Wine Festival'
+type = 'post'
+
++++
 
 ![TCOF grounds](grounds.jpg)
 

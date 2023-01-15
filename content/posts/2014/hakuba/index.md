@@ -1,19 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-03-08'
-featured_image: posts/2014/hakuba/hakuba.jpg
-slug: hakuba
-tags:
-- Hakuba
-- Happo-One
-- Iwatake
-- Japan
-- Ski
-- Snowboard
-title: Hakuba
----
++++
+categories = ['Travel']
+date = '2014-03-08'
+featured_image = 'posts/2014/hakuba/hakuba.jpg'
+slug = 'hakuba'
+tags = ['Hakuba', 'Happo-One', 'Iwatake', 'Japan', 'Ski', 'Snowboard']
+title = 'Hakuba'
+type = 'post'
+
++++
 
 ![hakuba](hakuba.jpg)
 

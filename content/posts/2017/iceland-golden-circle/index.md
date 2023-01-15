@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-03-26'
-featured_image: posts/2017/iceland-golden-circle/Pingvellir2.jpg
-slug: iceland-golden-circle
-tags:
-- Europe
-- Iceland
-- Golden Circle
-title: Iceland Golden Circle
----
++++
+categories = ['Travel']
+date = '2017-03-26'
+featured_image = 'posts/2017/iceland-golden-circle/Pingvellir2.jpg'
+slug = 'iceland-golden-circle'
+tags = ['Europe', 'Iceland', 'Golden Circle']
+title = 'Iceland Golden Circle'
+type = 'post'
+
++++
 
 We flew in to Iceland in the afternoon and the area just looked bleak, with no trees in sight.
 When we originally booked, we thought the airport was in Reykjavík itself (there is a domestic one), but Keflavik International Airport is actually about an hour bus trip from the city. The bus trip was pretty unreal, it was just a dead straight well-maintained highway with no trees and barely any other cars. Once you get closer to Reykjavík there starts to be buildings and trees, but the first part is just the middle of nowhere.

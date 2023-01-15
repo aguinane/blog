@@ -1,18 +1,14 @@
----
-categories:
-- Misc
-type: post
-date: '2012-09-30'
-featured_image: posts/2012/toowoomba-parks/p1100940.jpg
-post_format: Gallery
-slug: toowoomba-parks
-tags:
-- Toowoomba
-- Flowers
-- Parks
-- TCOF
-title: Toowoomba Parks
----
++++
+categories = ['Misc']
+date = '2012-09-30'
+featured_image = 'posts/2012/toowoomba-parks/p1100940.jpg'
+post_format = 'Gallery'
+slug = 'toowoomba-parks'
+tags = ['Toowoomba', 'Flowers', 'Parks', 'TCOF']
+title = 'Toowoomba Parks'
+type = 'post'
+
++++
 
 In addition to the prize gardens, the council does up all the parks around town as well.
 

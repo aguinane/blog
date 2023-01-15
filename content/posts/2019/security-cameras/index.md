@@ -1,16 +1,14 @@
----
-categories:
-- Misc
-type: post
-date: '2019-07-11'
-lastmod: '2020-04-14'
-featured_image: posts/2019/security-cameras/mia-box.jpg
-slug: security-cameras
-title: Security Cameras
-type: post
-tags:
-- Home Automation
----
++++
+categories = ['Misc']
+date = '2019-07-11'
+featured_image = 'posts/2019/security-cameras/mia-box.jpg'
+lastmod = '2020-04-14'
+slug = 'security-cameras'
+tags = ['Home Automation']
+title = 'Security Cameras'
+type = 'post'
+
++++
 
 **Uptype: post
 date:**  Ubiquiti have discontinued UniFi Video. The cameras [from reolink](https://store.reolink.com/au/poe-ip-cameras/) seem to be basically the same, but cheaper. I'd probably get them instead. Very annoyed that they made it end-of-life just after I bought the NVR.

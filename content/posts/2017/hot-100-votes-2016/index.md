@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2017-01-08 15:49:00+10:00'
-featured_image: posts/2017/hot-100-votes-2016/hot100-2016.png
-slug: hot-100-votes-2016
-tags:
-- Hottest 100
-- Triple J
-title: Hottest 100 Votes for 2016
----
++++
+categories = ['Misc']
+date = '2017-01-08 15:49:00+10:00'
+featured_image = 'posts/2017/hot-100-votes-2016/hot100-2016.png'
+slug = 'hot-100-votes-2016'
+tags = ['Hottest 100', 'Triple J']
+title = 'Hottest 100 Votes for 2016'
+type = 'post'
+
++++
 
 ![hot100](hot100-2016.png)
 

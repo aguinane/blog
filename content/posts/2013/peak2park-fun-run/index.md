@@ -1,16 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2013-03-03'
-featured_image: posts/2013/peak2park-fun-run/2013-03-03-08-15-361.jpg
-slug: peak2park-fun-run
-tags:
-- Fun Run
-- Peak2Park
-- Toowoomba
-title: Peak2Park Fun Run
----
++++
+categories = ['Misc']
+date = '2013-03-03'
+featured_image = 'posts/2013/peak2park-fun-run/2013-03-03-08-15-361.jpg'
+slug = 'peak2park-fun-run'
+tags = ['Fun Run', 'Peak2Park', 'Toowoomba']
+title = 'Peak2Park Fun Run'
+type = 'post'
+
++++
 
 ![Peak2Park](2013-03-03-08-15-361.jpg)
 

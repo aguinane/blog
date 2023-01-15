@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-06'
-featured_image: posts/2010/bern/P1020011.jpg
-slug: bern
-tags:
-- Bern
-- Switzerland
-title: Bern
----
++++
+categories = ['Travel']
+date = '2010-07-06'
+featured_image = 'posts/2010/bern/P1020011.jpg'
+slug = 'bern'
+tags = ['Bern', 'Switzerland']
+title = 'Bern'
+type = 'post'
+
++++
 
 On Sunday, I got a train to Bern, which is the capital city of Switzerland.
 

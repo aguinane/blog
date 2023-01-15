@@ -1,14 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-07'
-featured_image: posts/2010/working-at-abb/p1020234.jpg
-slug: working-at-abb
-tags:
-- Switzerland
-title: Working at ABB
----
++++
+categories = ['Travel']
+date = '2010-07-07'
+featured_image = 'posts/2010/working-at-abb/p1020234.jpg'
+slug = 'working-at-abb'
+tags = ['Switzerland']
+title = 'Working at ABB'
+type = 'post'
+
++++
 
 ![ABB](p1020234.jpg)
 

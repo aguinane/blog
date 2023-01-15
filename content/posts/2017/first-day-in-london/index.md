@@ -1,18 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-03-21'
-featured_image: posts/2017/first-day-in-london/laurens3.jpg
-slug: first-day-in-london
-tags:
-- Europe
-- UK
-- England
-- London
-- Museum
-title: First Day in London
----
++++
+categories = ['Travel']
+date = '2017-03-21'
+featured_image = 'posts/2017/first-day-in-london/laurens3.jpg'
+slug = 'first-day-in-london'
+tags = ['Europe', 'UK', 'England', 'London', 'Museum']
+title = 'First Day in London'
+type = 'post'
+
++++
 
 ![street](laurens3.jpg "View of the street")
 

@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2017-09-21'
-featured_image: posts/2017/dna-family-tree/ancestry.png
-slug: dna-family-tree
-tags:
-- DNA
-- Genealogy
-title: DNA Genealogy
----
++++
+categories = ['Misc']
+date = '2017-09-21'
+featured_image = 'posts/2017/dna-family-tree/ancestry.png'
+slug = 'dna-family-tree'
+tags = ['DNA', 'Genealogy']
+title = 'DNA Genealogy'
+type = 'post'
+
++++
 
 While we were mostly interested in the health aspect, the main selling point on ads for DNA tests is seeing your ancestry.
 I was expecting the results for that part to be pretty underwhelming, and they were - confirming I am indeed descended from European immigrants.

@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2014-10-15'
-featured_image: posts/2014/mrh-simulator/controlscreen.jpg
-slug: mrh-simulator
-tags:
-- Simulator
-- VR
-title: Tour of MRH Simulator
----
++++
+categories = ['Misc']
+date = '2014-10-15'
+featured_image = 'posts/2014/mrh-simulator/controlscreen.jpg'
+slug = 'mrh-simulator'
+tags = ['Simulator', 'VR']
+title = 'Tour of MRH Simulator'
+type = 'post'
+
++++
 
 ![controlscreen](controlscreen.jpg)
 

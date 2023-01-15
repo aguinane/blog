@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2013-10-19'
-featured_image: posts/2013/townsville/pano_20131009_061310.jpg
-slug: townsville
-tags:
-- Queensland
-- Townsville
-title: Townsville
----
++++
+categories = ['Travel']
+date = '2013-10-19'
+featured_image = 'posts/2013/townsville/pano_20131009_061310.jpg'
+slug = 'townsville'
+tags = ['Queensland', 'Townsville']
+title = 'Townsville'
+type = 'post'
+
++++
 
 ![Townsville](pano_20131009_061310.jpg)
 

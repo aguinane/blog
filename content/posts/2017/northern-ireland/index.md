@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-23'
-featured_image: posts/2017/northern-ireland/bridge1.jpg
-slug: northern-ireland
-tags:
-- Europe
-- UK
-- Ireland
-- Northern Ireland
-title: Irish Coast
----
++++
+categories = ['Travel']
+date = '2017-04-23'
+featured_image = 'posts/2017/northern-ireland/bridge1.jpg'
+slug = 'northern-ireland'
+tags = ['Europe', 'UK', 'Ireland', 'Northern Ireland']
+title = 'Irish Coast'
+type = 'post'
+
++++
 
 So we picked up a car and headed north to drive along the coast, which was great.
 There wasn't many cars and heaps of awesome scenery. We didn't go to the [The Dark Hedges](https://www.discovernorthernireland.com/The-Dark-Hedges-Armoy-Ballymoney-P27502) but saw some cool roads like it in the area.

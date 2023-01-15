@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-08-04'
-featured_image: posts/2010/iaeste-ticino-weekend/monte1.jpg
-slug: iaeste-ticino-weekend
-tags:
-- IAESTE
-- Switzerland
-- Ticino
-- Verzasca
-title: IAESTE Ticino Weekend
----
++++
+categories = ['Travel']
+date = '2010-08-04'
+featured_image = 'posts/2010/iaeste-ticino-weekend/monte1.jpg'
+slug = 'iaeste-ticino-weekend'
+tags = ['IAESTE', 'Switzerland', 'Ticino', 'Verzasca']
+title = 'IAESTE Ticino Weekend'
+type = 'post'
+
++++
 
 We caught a train from Zurich to Airolo, which took a few hours. Along the way we played Chinese Whist (what we just called hearts at Ergon) whilst going though the Swiss Alps. Some of the views were pretty cool, but there was lots of tunnels, and tunnels are boring.
 

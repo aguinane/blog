@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2016-07-28'
-featured_image: posts/2016/mt-batur/img_20160616_092340.jpg
-slug: mt-batur
-tags:
-- Bali
-- Indonesia
-- Hiking
-- Mt Batur
-title: Mt Batur
----
++++
+categories = ['Travel']
+date = '2016-07-28'
+featured_image = 'posts/2016/mt-batur/img_20160616_092340.jpg'
+slug = 'mt-batur'
+tags = ['Bali', 'Indonesia', 'Hiking', 'Mt Batur']
+title = 'Mt Batur'
+type = 'post'
+
++++
 
 ![IMG_20160616_092340](img_20160616_092340.jpg)
 

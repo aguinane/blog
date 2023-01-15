@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2011-10-20'
-series:
-- Young Endeavour
-slug: v1811-day-3
-tags:
-- Young Endeavour
-title: V18/11 - Day 3
----
++++
+categories = ['Travel']
+date = '2011-10-20'
+series = ['Young Endeavour']
+slug = 'v1811-day-3'
+tags = ['Young Endeavour']
+title = 'V18/11 - Day 3'
+type = 'post'
+
++++
 
 We were on morning watch and everyone was still pretty depressed and sick. I had another go on the helm and found it much easier second time round. Those of us that felt up to it (Elke, Rob and I - Scott despite being fine the night before was probably the sickest in the morning) climbed up with Paul to watch the sunrise.
 

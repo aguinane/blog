@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2020-11-02'
-slug: auburn-river
-title: Auburn River
-featured_image: posts/2020/auburn-river/riverbed-1.jpg
-tags:
-- Queensland
-- Hiking
----
++++
+categories = ['Travel']
+date = '2020-11-02'
+featured_image = 'posts/2020/auburn-river/riverbed-1.jpg'
+slug = 'auburn-river'
+tags = ['Queensland', 'Hiking']
+title = 'Auburn River'
+type = 'post'
+
++++
 
 ![](pano.jpg)
 

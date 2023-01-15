@@ -1,14 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2021-04-14'
-slug: house-frame
-title: House Frame
-featured_image: posts/2021/house-frame/frame05.jpg
-tags:
-- House Build
----
++++
+categories = ['Misc']
+date = '2021-04-14'
+featured_image = 'posts/2021/house-frame/frame05.jpg'
+slug = 'house-frame'
+tags = ['House Build']
+title = 'House Frame'
+type = 'post'
+
++++
 
 After putting the slab down, getting the frame up all happened pretty quickly. There was a few delays from rain but the roof and windows and everything were on by the end of March.
 

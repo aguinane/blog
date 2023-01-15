@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2011-07-25'
-featured_image: posts/2011/hoi-an/p1070814.jpg
-slug: hoi-an
-tags:
-- Hoi An
-- Vietnam
-title: Hoi An
----
++++
+categories = ['Travel']
+date = '2011-07-25'
+featured_image = 'posts/2011/hoi-an/p1070814.jpg'
+slug = 'hoi-an'
+tags = ['Hoi An', 'Vietnam']
+title = 'Hoi An'
+type = 'post'
+
++++
 
 ![Hoi An](p1070814.jpg)
 

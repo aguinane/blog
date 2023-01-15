@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-29'
-featured_image: posts/2017/edinburgh/cemetery.jpg
-slug: edinburgh
-tags:
-- Europe
-- UK
-- Scotland
-- Edinburgh
-title: Edinburgh
----
++++
+categories = ['Travel']
+date = '2017-04-29'
+featured_image = 'posts/2017/edinburgh/cemetery.jpg'
+slug = 'edinburgh'
+tags = ['Europe', 'UK', 'Scotland', 'Edinburgh']
+title = 'Edinburgh'
+type = 'post'
+
++++
 
 After getting off the ferry we had a nice coastal drive on the bus to Edinburgh, briefly stopping at Glasgow on the way.
 Edinburgh is a really cool looking city, with lots of nice buildings.

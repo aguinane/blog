@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-12-27'
-featured_image: posts/2010/weihnachten-in-der-schweiz/p1060216.jpg
-slug: weihnachten-in-der-schweiz
-tags:
-- Christmas
-- Sledding
-- Switzerland
-title: Weihnachten in der Schweiz
----
++++
+categories = ['Travel']
+date = '2010-12-27'
+featured_image = 'posts/2010/weihnachten-in-der-schweiz/p1060216.jpg'
+slug = 'weihnachten-in-der-schweiz'
+tags = ['Christmas', 'Sledding', 'Switzerland']
+title = 'Weihnachten in der Schweiz'
+type = 'post'
+
++++
 
 ![Christmas Sled](p1060216.jpg)
 

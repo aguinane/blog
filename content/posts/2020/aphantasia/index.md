@@ -1,12 +1,12 @@
----
-categories:
-- Misc
-type: post
-date: '2020-03-05'
-slug: aphantasia
-title: Aphantasia
-featured_image: posts/2020/aphantasia/aphantasia.jpg
----
++++
+categories = ['Misc']
+date = '2020-03-05'
+featured_image = 'posts/2020/aphantasia/aphantasia.jpg'
+slug = 'aphantasia'
+title = 'Aphantasia'
+type = 'post'
+
++++
 
 
 [!["apples"](apples.jpg)](https://twitter.com/premium__heart/status/1225610677177520130)

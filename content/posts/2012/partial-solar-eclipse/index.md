@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2012-11-17'
-featured_image: posts/2012/partial-solar-eclipse/p1110096-resized.jpg
-slug: partial-solar-eclipse
-tags:
-- Eclipse
-- Solar
-title: (Partial) Solar Eclipse
----
++++
+categories = ['Misc']
+date = '2012-11-17'
+featured_image = 'posts/2012/partial-solar-eclipse/p1110096-resized.jpg'
+slug = 'partial-solar-eclipse'
+tags = ['Eclipse', 'Solar']
+title = '(Partial) Solar Eclipse'
+type = 'post'
+
++++
 
 ![P1110096.resized](p1110096-resized.jpg)
 

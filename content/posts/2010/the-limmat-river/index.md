@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-02'
-featured_image: posts/2010/the-limmat-river/p1010788-754453.jpg
-slug: the-limmat-river
-tags:
-- Switzerland
-- Turgi
-title: The Limmat River
----
++++
+categories = ['Travel']
+date = '2010-07-02'
+featured_image = 'posts/2010/the-limmat-river/p1010788-754453.jpg'
+slug = 'the-limmat-river'
+tags = ['Switzerland', 'Turgi']
+title = 'The Limmat River'
+type = 'post'
+
++++
 
 [The Limmat](http://en.wikipedia.org/wiki/Limmat) is the river between my apartment and work.
 

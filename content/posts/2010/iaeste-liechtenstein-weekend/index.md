@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-08-16'
-featured_image: posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg
-slug: iaeste-liechtenstein-weekend
-tags:
-- IAESTE
-- Liechtenstein
-- Vaduz
-title: IAESTE Liechtenstein Weekend
----
++++
+categories = ['Travel']
+date = '2010-08-16'
+featured_image = 'posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg'
+slug = 'iaeste-liechtenstein-weekend'
+tags = ['IAESTE', 'Liechtenstein', 'Vaduz']
+title = 'IAESTE Liechtenstein Weekend'
+type = 'post'
+
++++
 
 This weekend I went on an IAESTE trip to Lichtenstein. It was a hard decision this weekend whether or not to go to Lichtenstein or stay and go the the street parade in Zurich on Saturday night. In the end I'm glad I went away for the weekend, although the street parade would still have been a sight to see, but I had a great time in Lichtenstein. As we waited for the train to Sargans on Saturday morning, we even saw a few people that were in dressed in costumes for that night.
 

@@ -1,6 +1,7 @@
----
-title: "Archives"
-layout: "archives"
-slug: "archives"
-type: page
----
++++
+layout = 'archives'
+slug = 'archives'
+title = 'Archives'
+type = 'page'
+
++++

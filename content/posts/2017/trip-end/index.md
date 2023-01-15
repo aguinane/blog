@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-05-10'
-featured_image: posts/2017/trip-end/newmans.jpg
-slug: trip-end
-tags:
-- Europe
-- UK
-- England
-- London
-title: Trip End
----
++++
+categories = ['Travel']
+date = '2017-05-10'
+featured_image = 'posts/2017/trip-end/newmans.jpg'
+slug = 'trip-end'
+tags = ['Europe', 'UK', 'England', 'London']
+title = 'Trip End'
+type = 'post'
+
++++
 
 We dropped the rental car of at Heathrow then got the train back into the city to Lauren's.
 After 2 months of travel it was good to just chill and watch TV at Lauren's.

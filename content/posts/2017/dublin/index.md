@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-25'
-featured_image: posts/2017/dublin/castle1.jpg
-slug: dublin
-tags:
-- Europe
-- Ireland
-- Dublin
-title: Dublin
----
++++
+categories = ['Travel']
+date = '2017-04-25'
+featured_image = 'posts/2017/dublin/castle1.jpg'
+slug = 'dublin'
+tags = ['Europe', 'Ireland', 'Dublin']
+title = 'Dublin'
+type = 'post'
+
++++
 
 We got in from our drive in the afternoon, and parked at our airBnB which was hosted by a really lovely guy that made us a cuppa, gave us a map and helped us plan out what we wanted to see the next day. It was a bit of a dodgy suburb but lots of good student food places nearby, and we had some amazing Moroccan wraps.
 

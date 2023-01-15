@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-11'
-featured_image: posts/2010/radio-clocks/swiss_clock.png
-slug: radio-clocks
-tags:
-- clock
-- Switzerland
-title: Radio Clocks
----
++++
+categories = ['Travel']
+date = '2010-07-11'
+featured_image = 'posts/2010/radio-clocks/swiss_clock.png'
+slug = 'radio-clocks'
+tags = ['clock', 'Switzerland']
+title = 'Radio Clocks'
+type = 'post'
+
++++
 
 ![swiss_clock](swiss_clock.png)
 

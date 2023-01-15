@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-07-03'
-featured_image: posts/2010/zurifascht-2010/p1010928.jpg
-slug: zurifascht-2010
-tags:
-- Switzerland
-- Zürich
-title: Zürifäscht 2010
----
++++
+categories = ['Travel']
+date = '2010-07-03'
+featured_image = 'posts/2010/zurifascht-2010/p1010928.jpg'
+slug = 'zurifascht-2010'
+tags = ['Switzerland', 'Zürich']
+title = 'Zürifäscht 2010'
+type = 'post'
+
++++
 
 After Baden, I headed into Zürich for Zürifäscht, which I had no idea what it was but was something to do. Basically it was like Fire in the Sky in Rockhampton, but much, much better.
 

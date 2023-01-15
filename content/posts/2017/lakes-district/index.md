@@ -1,17 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-05-03'
-featured_image: posts/2017/lakes-district/lake.jpg
-slug: lakes-district
-tags:
-- Europe
-- UK
-- England
-- Lakes District
-title: Lakes District
----
++++
+categories = ['Travel']
+date = '2017-05-03'
+featured_image = 'posts/2017/lakes-district/lake.jpg'
+slug = 'lakes-district'
+tags = ['Europe', 'UK', 'England', 'Lakes District']
+title = 'Lakes District'
+type = 'post'
+
++++
 
 After driving along the wall, we stopped at our next accommodation which was in Penrith.
 We went to the lake in afternoon for dinner. The pubs would be nice in summer, with lots of outdoor beer gardens along the lake.

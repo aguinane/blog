@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2021-01-10'
-featured_image: posts/2021/hot-100-votes-2020/hottest-100-2020.png
-slug: hot-100-votes-2020
-tags:
-- Hottest 100
-- Triple J
-title: Hottest 100 Votes for 2020
----
++++
+categories = ['Misc']
+date = '2021-01-10'
+featured_image = 'posts/2021/hot-100-votes-2020/hottest-100-2020.png'
+slug = 'hot-100-votes-2020'
+tags = ['Hottest 100', 'Triple J']
+title = 'Hottest 100 Votes for 2020'
+type = 'post'
+
++++
 
 ![hot100](hottest-100-2020.png)
 

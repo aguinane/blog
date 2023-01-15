@@ -1,21 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2018-10-14'
-featured_image: posts/2018/takarakka/platapus.jpg
-slug: takarakka
-tags:
-- Queensland
-- Carnarvon Gorge
-- Takarakka
-- Baloon Cave
-- Mickey Creek
-- Bullimba Bluff
-title: Carnarvon Gorge - Takarakka
-series:
-- Carnarvon
----
++++
+categories = ['Travel']
+date = '2018-10-14'
+featured_image = 'posts/2018/takarakka/platapus.jpg'
+series = ['Carnarvon']
+slug = 'takarakka'
+tags = ['Queensland', 'Carnarvon Gorge', 'Takarakka', 'Baloon Cave', 'Mickey Creek', 'Bullimba Bluff']
+title = 'Carnarvon Gorge - Takarakka'
+type = 'post'
+
++++
 
 I'd always wanted to go to Carnarvon Gorge when I lived in Rocky, but never quite got there because it's a fair way inland.
 We worked out though that it's actually not that much further (2.5hrs or so) from Toowoomba.

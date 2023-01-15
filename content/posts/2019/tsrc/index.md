@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2019-09-08'
-featured_image: posts/2019/tsrc/before.jpg
-slug: tsrc
-title: Toowoomba Second Range Crossing Marathon
-tags:
-- Toowoomba
-type: post
----
++++
+categories = ['Misc']
+date = '2019-09-08'
+featured_image = 'posts/2019/tsrc/before.jpg'
+slug = 'tsrc'
+tags = ['Toowoomba']
+title = 'Toowoomba Second Range Crossing Marathon'
+type = 'post'
+
++++
 
 The TSRC opened on the Sunday with a marathon (there was a also a bike race and open day on the Saturday that Mark and Julie went to). I only signed up for the 10km as I (correctly) assumed I would still be sleep deprived on the day.
 

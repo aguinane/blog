@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-09-16'
-featured_image: posts/2010/prost/p1040438.jpg
-slug: prost
-tags:
-- Germany
-- Switzerland
-- Waldshut
-title: Prost
----
++++
+categories = ['Travel']
+date = '2010-09-16'
+featured_image = 'posts/2010/prost/p1040438.jpg'
+slug = 'prost'
+tags = ['Germany', 'Switzerland', 'Waldshut']
+title = 'Prost'
+type = 'post'
+
++++
 
 ![P1040438](p1040438.jpg)
 

@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-30'
-featured_image: posts/2010/technorama/technorama.jpg
-slug: technorama
-tags:
-- IAESTE
-- Switzerland
-title: Technorama
----
++++
+categories = ['Travel']
+date = '2010-11-30'
+featured_image = 'posts/2010/technorama/technorama.jpg'
+slug = 'technorama'
+tags = ['IAESTE', 'Switzerland']
+title = 'Technorama'
+type = 'post'
+
++++
 
 ![technorama](technorama.jpg)
 

@@ -1,14 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2021-04-16'
-slug: house-electrical
-title: House Electrical
-featured_image: posts/2021/house-electrical/cat6.jpg
-tags:
-- House Build
----
++++
+categories = ['Misc']
+date = '2021-04-16'
+featured_image = 'posts/2021/house-electrical/cat6.jpg'
+slug = 'house-electrical'
+tags = ['House Build']
+title = 'House Electrical'
+type = 'post'
+
++++
 
 One thing I did want to do properly that isn't part of the standard inclusions is running Ethernet cable to most of the rooms. Since it's two storey I also wanted to run proper WiFi access points and put in cables for [our PoE cameras](/posts/2019/security-cameras/) that we'll bring from the old house. I used [this guide](https://www.troyhunt.com/wiring-a-home-network-from-the-ground-up-with-ubiquiti/) as a starting point to get an idea of how best to do it. I used the [Ubiquity Design Center](https://design.ui.com/) to work out Wifi AP placement. 
 

@@ -1,15 +1,13 @@
----
-type: post
-categories:
-- Misc
-type: post
-date: '2021-02-03'
-slug: house-foundations
-title: House Foundations
-featured_image: posts/2021/house-foundations/slab-3.jpg
-tags:
-- House Build
----
++++
+categories = ['Misc']
+date = '2021-02-03'
+featured_image = 'posts/2021/house-foundations/slab-3.jpg'
+slug = 'house-foundations'
+tags = ['House Build']
+title = 'House Foundations'
+type = 'post'
+
++++
 
 Before Christmas they started doing the earthworks and retaining wall at the back of the block.
 

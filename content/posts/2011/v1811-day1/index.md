@@ -1,18 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2011-10-18'
-featured_image: posts/2011/v1811-day1/2011-10-19-13-07-14.jpg
-series:
-- Young Endeavour
-slug: v1811-day1
-tags:
-- NSW
-- Sydney
-- Young Endeavour
-title: V18/11 - Day 1
----
++++
+categories = ['Travel']
+date = '2011-10-18'
+featured_image = 'posts/2011/v1811-day1/2011-10-19-13-07-14.jpg'
+series = ['Young Endeavour']
+slug = 'v1811-day1'
+tags = ['NSW', 'Sydney', 'Young Endeavour']
+title = 'V18/11 - Day 1'
+type = 'post'
+
++++
 
 ![First look at the Young Endeavour](2011-10-19-13-07-14.jpg)
 

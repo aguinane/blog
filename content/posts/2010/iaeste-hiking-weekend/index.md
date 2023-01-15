@@ -1,15 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-09-14'
-featured_image: posts/2010/iaeste-hiking-weekend/P1040232.jpg
-slug: iaeste-hiking-weekend
-tags:
-- IAESTE
-- Switzerland
-title: IAESTE Hiking Weekend
----
++++
+categories = ['Travel']
+date = '2010-09-14'
+featured_image = 'posts/2010/iaeste-hiking-weekend/P1040232.jpg'
+slug = 'iaeste-hiking-weekend'
+tags = ['IAESTE', 'Switzerland']
+title = 'IAESTE Hiking Weekend'
+type = 'post'
+
++++
 
 ![Hiking](P1040232.jpg)
 

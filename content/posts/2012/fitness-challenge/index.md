@@ -1,15 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2012-09-21'
-featured_image: posts/2012/fitness-challenge/strava.png
-slug: fitness-challenge
-tags:
-- Fitness
-- Running
-title: Fitness Challenge
----
++++
+categories = ['Misc']
+date = '2012-09-21'
+featured_image = 'posts/2012/fitness-challenge/strava.png'
+slug = 'fitness-challenge'
+tags = ['Fitness', 'Running']
+title = 'Fitness Challenge'
+type = 'post'
+
++++
 
 ![Strava Screengrab](strava.png)
 

@@ -1,20 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-05-17'
-featured_image: posts/2014/granite-belt/stanthorpe.jpg
-slug: granite-belt
-tags:
-- Queensland
-- Girraween
-- Granite Belt
-- Killarney
-- Pyramids
-- Stanthorpe
-- Storm King Dam
-title: Granite Belt
----
++++
+categories = ['Travel']
+date = '2014-05-17'
+featured_image = 'posts/2014/granite-belt/stanthorpe.jpg'
+slug = 'granite-belt'
+tags = ['Queensland', 'Girraween', 'Granite Belt', 'Killarney', 'Pyramids', 'Stanthorpe', 'Storm King Dam']
+title = 'Granite Belt'
+type = 'post'
+
++++
 
 ![Stanthorpe](stanthorpe.jpg)
 

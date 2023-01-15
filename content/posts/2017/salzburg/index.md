@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2017-04-16'
-featured_image: posts/2017/salzburg/river.jpg
-slug: salzburg
-tags:
-- Europe
-- Austria
-- Salzburg
-title: Salzburg
----
++++
+categories = ['Travel']
+date = '2017-04-16'
+featured_image = 'posts/2017/salzburg/river.jpg'
+slug = 'salzburg'
+tags = ['Europe', 'Austria', 'Salzburg']
+title = 'Salzburg'
+type = 'post'
+
++++
 
 ![](river.jpg "River")
 

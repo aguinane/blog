@@ -1,18 +1,14 @@
----
-categories:
-- Travel
-type: post
-date: '2019-03-16'
-featured_image: posts/2019/cassowary-coast/paronella1.jpg
-series:
-- Cairns Roadtrip
-slug: cassowary-coast
-tags:
-- Queensland
-- Cardwell
-- Paronella Park
-title: Cassowary Coast
----
++++
+categories = ['Travel']
+date = '2019-03-16'
+featured_image = 'posts/2019/cassowary-coast/paronella1.jpg'
+series = ['Cairns Roadtrip']
+slug = 'cassowary-coast'
+tags = ['Queensland', 'Cardwell', 'Paronella Park']
+title = 'Cassowary Coast'
+type = 'post'
+
++++
 
 We stayed the night at Cardwell, was a nice little beach town with views of Hinchinbrook Island.
 Pretty much everywhere was closed for dinner as apparently it was the "off season" so only had the pub or fish and chip shop to choose from.

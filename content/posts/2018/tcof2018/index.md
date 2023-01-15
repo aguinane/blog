@@ -1,16 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2018-09-29'
-featured_image: posts/2018/tcof2018/tcof1.jpg
-slug: tcof2018
-tags:
-- TCOF
-- Flowers
-- Toowoomba
-title: TCOF 2018
----
++++
+categories = ['Misc']
+date = '2018-09-29'
+featured_image = 'posts/2018/tcof2018/tcof1.jpg'
+slug = 'tcof2018'
+tags = ['TCOF', 'Flowers', 'Toowoomba']
+title = 'TCOF 2018'
+type = 'post'
+
++++
 
 The Food and Wine Festival was great as always. Katherine was visiting from London, and Geoff & Carla also came up.
 

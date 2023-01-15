@@ -1,14 +1,13 @@
----
-categories:
-- Misc
-type: post
-date: '2020-12-09'
-slug: house-design
-title: House Design
-featured_image: posts/2020/house-design/Design3-3D.png
-tags:
-- House Build
----
++++
+categories = ['Misc']
+date = '2020-12-09'
+featured_image = 'posts/2020/house-design/Design3-3D.png'
+slug = 'house-design'
+tags = ['House Build']
+title = 'House Design'
+type = 'post'
+
++++
 
 Rachael had found an open house to inspect when Lyra was only 12 days old, after deciding our current house was too small now we had a baby. We couldn't find any existing houses on the market that were what we wanted, so we bought a block of land that came up at the end of last year, and we've spent most of this year finalising a design.
 

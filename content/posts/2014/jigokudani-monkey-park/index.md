@@ -1,19 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2014-03-08'
-featured_image: posts/2014/jigokudani-monkey-park/snow-monkey-sign.jpg
-slug: jigokudani-monkey-park
-tags:
-- Japan
-- Monkey
-- Nagano
-- Snow
-- Temple
-- Zenkoji
-title: Jigokudani Monkey Park
----
++++
+categories = ['Travel']
+date = '2014-03-08'
+featured_image = 'posts/2014/jigokudani-monkey-park/snow-monkey-sign.jpg'
+slug = 'jigokudani-monkey-park'
+tags = ['Japan', 'Monkey', 'Nagano', 'Snow', 'Temple', 'Zenkoji']
+title = 'Jigokudani Monkey Park'
+type = 'post'
+
++++
 
 ![snow monkey sign](snow-monkey-sign.jpg)
 

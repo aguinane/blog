@@ -1,16 +1,13 @@
----
-categories:
-- Travel
-type: post
-date: '2010-11-12'
-featured_image: posts/2010/euro-trip-praha/absintherie.jpg
-slug: euro-trip-praha
-tags:
-- Europe
-- Czech Republic
-- Praha
-title: Praha
----
++++
+categories = ['Travel']
+date = '2010-11-12'
+featured_image = 'posts/2010/euro-trip-praha/absintherie.jpg'
+slug = 'euro-trip-praha'
+tags = ['Europe', 'Czech Republic', 'Praha']
+title = 'Praha'
+type = 'post'
+
++++
 
 Due to our delayed flight from France, we got into Prague later than we were supposed to. By the time we found our Hostel we had 30 mins to get to the walking tour we had booked. We asked at reception how long it would take to get there and got told about 30 mins. So we made a mad rush, but got the tram in the wrong direction, got a bit lost and went to a Mexican restaurant instead.
 
