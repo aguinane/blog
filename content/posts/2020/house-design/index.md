@@ -3,6 +3,7 @@ categories = ['Misc']
 date = '2020-12-09'
 thumbnail = 'posts/2020/house-design/Design3-3D.png'
 slug = 'house-design'
+tags = ['House Build']
 series = ['House Build']
 title = 'House Design'
 type = 'post'
