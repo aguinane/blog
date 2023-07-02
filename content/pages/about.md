@@ -19,7 +19,7 @@ Other places you can find me on the net:
 {{< social alt="parkrun" link="https://www.parkrun.com.au/results/athleteresultshistory/?athleteNumber=1694205" src="/icons/parkrun.png" >}}
 {{< social alt="goodreads" link="https://www.goodreads.com/aguin" src="/icons/goodreads.png" >}}
 {{< social alt="wikitree" link="https://www.wikitree.com/treewidget/Guinane-16/5" src="/icons/wikitree.png" >}}
-{{< social alt="recipes" link="https://nyum.guinman.id.au" src="/icons/chowdown.png" >}}
+{{< social alt="recipes" link="https://chowdown.guinman.id.au" src="/icons/chowdown.png" >}}
 <br><br>
 </div>
 
