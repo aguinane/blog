@@ -2,4 +2,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: 'posts'
+    format: toml-frontmatter
+    path: content/posts
+    view:
+      fields: [title, date]
