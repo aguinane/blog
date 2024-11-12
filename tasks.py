@@ -14,35 +14,45 @@ CONFIG = {
 
 @task
 def lowercase_jpg(c):
-    files = list(Path("content").rglob("*.JPG"))
-    for f in files:
-        old_path = str(f)
-        new_path = str(f).replace(".JPG", ".jpg")
-        os.rename(old_path, new_path)
-    files = list(Path("content").rglob("*.PNG"))
-    for f in files:
-        old_path = str(f)
-        new_path = str(f).replace(".PNG", ".png")
-        os.rename(old_path, new_path)
-        
+    """Rename file extensions for consistency"""
+    print("Lowercasing image extensions...")
+    image_types = (
+        ("JPG", "jpg"),
+        ("JPEG", "jpg"),
+        ("jpeg", "jpg"),
+        ("PNG", "png"),
+    )
+    for ext_from, ext_to in image_types:
+        files = list(Path("content").rglob(f"*.{ext_from}"))
+        for f in files:
+            old_path = str(f)
+            new_path = str(f).replace(ext_from, ext_to)
+            os.rename(old_path, new_path)
 
 
 @task
 def remove_metadata(c):
-    c.run("exiftool -r -overwrite_original -P -all= content -ext jpg -ext jpeg")
+    print("Removing metadata ...")
+    image_types = ["jpg", "png"]
+    for image_ext in image_types:
+        cmd = f"exiftool -r -overwrite_original -P -all= content -ext {image_ext}"
+        c.run(cmd)
 
 
 @task
 def resize_images(c, pre=[lowercase_jpg, remove_metadata]):
-    files = list(Path("content").rglob("*.jpg"))
-    for f in files:
-        filesize = f.stat().st_size
-        if filesize > 300000:
-            im = Image.open(f)
-            width, height = im.size
-            if width > 1200 or height > 1200:
-                cmd = f"mogrify -verbose -resize 1200\>x1200\> {str(f)}"
-                c.run(cmd)
+    print("Resizing images ...")
+    image_types = ["jpg", "png"]
+    for image_ext in image_types:
+        files = list(Path("content").rglob(f"*.{image_ext}"))
+        for f in files:
+            filesize = f.stat().st_size
+            if filesize > 300000:
+                im = Image.open(f)
+                width, height = im.size
+                if width > 1200 or height > 1200:
+                    cmd = f"mogrify -verbose -resize 1200\>x1200\> {str(f)}"
+                    c.run(cmd)
 
 
 @task
@@ -58,7 +68,7 @@ def gh_pages(c):
 
 @task
 def populate_feature_image(c):
-    """ Populate feature image with first image found """
+    """Populate feature image with first image found"""
 
     def get_first_image(text):
         pattern = r"([\(]).*([.jpg])"
@@ -73,7 +83,7 @@ def populate_feature_image(c):
     for f in files:
         post = frontmatter.load(f)
         try:
-            feature = post["featured_image"]
+            _feature = post["featured_image"]
             print(f, "already has a featured image")
             continue
         except KeyError:
@@ -81,7 +91,7 @@ def populate_feature_image(c):
                 year = post["date"][0:4]
                 slug = post["slug"]
                 image = get_first_image(post.content)
-            except:
+            except Exception:
                 print("Could not process ", f)
                 continue
             if image:
