@@ -1,7 +1,7 @@
 +++
 categories = ['Travel']
 date = '2024-11-12'
-thumbnail = 'posts/2024/newcastle/20231124_170438.jpg'
+thumbnail = 'posts/2024/newcastle/20241027_121249.jpg'
 slug = 'newcastle'
 tags = ['NSW']
 title = 'Newcastle'
