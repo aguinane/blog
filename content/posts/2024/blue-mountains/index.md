@@ -99,4 +99,4 @@ And then quickly did the Lyrebird Dell with the kids as it was quite short (and 
 
 ![](20241024_154326.jpg)
 
-Overall the Blue Mountains was excellent, and there was so much we didn't have time to do so I'd definitelly be keen to come back when the kids are older and more willing to do hikes. 
+Overall the Blue Mountains was excellent, and there was so much we didn't have time to do so I'd definitely be keen to come back when the kids are older and more willing to do hikes. 
