@@ -28,7 +28,7 @@ I don't think I could ride the Load4 without assist, but the Lundi is actually n
 [rm]: https://electricbikesbrisbane.com.au/products/riese-muller-load4-60-vario
 [ml]: https://electricbikesbrisbane.com.au/products/moustache-lundi-20-5-e-cargo-bike
 
-![alt text](withkids.jpg)
+![](withkids.jpg)
 
 
 We managed 1,147 km over the first year, which is not a huge amount but still impressive. 
@@ -40,6 +40,6 @@ The bike is also a lot more conventient and fun then driving for short trips (un
 
 Another unexpected delight was looking at Christmas lights. In December we rode around looking at the houses with lights and it was much more enjoyable then doing it in a car where the kids can't really see out the window really well anyway. 
 
-![alt text](sloth.jpg)
+![](sloth.jpg)
 
 You can also ride with an adult (up to 70kg) on the back by re-arranging the seats, and I doubled Rachael a few times to events where parking would be an issue like the Peak2Park fun run.
