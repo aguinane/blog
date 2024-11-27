@@ -1,0 +1,22 @@
+{% extends "index.html" %}
+
+{% block content %}
+<ul>
+    {%- for page in term.pages -%}
+    <li>
+        <span>
+            <i>
+                <time datetime="{{ page.date | date(format='%+') }}" pubdate>
+                    {{ page.date | date(format=config.extra.date_format) }}
+                </time>
+
+            </i>
+        </span>
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+        {% if page.extra.image is defined %}
+        <img src="/{{ page.extra.image }}">
+        {% endif %}
+    </li>
+    {%- endfor -%}
+</ul>
+{% endblock content %}
