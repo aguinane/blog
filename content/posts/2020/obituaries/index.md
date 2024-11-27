@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2020-11-20'
-thumbnail = 'posts/2020/obituaries/tennis.jpg'
-slug = 'obituaries'
-tags = ['Genealogy']
-title = 'Obituaries'
-type = 'post'
+title = "Obituaries"
+date = "2020-11-20"
+slug = "obituaries"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Genealogy",]
+
+[extra]
+image = "posts/2020/obituaries/tennis.jpg"
 
 +++
 
@@ -19,4 +23,3 @@ I've also saved a copy of the Eulogy for both [Marie](/pages/eulogy-marie-guinan
 This photo of them both at tennis club was a nice suprise to come across.
 
 ![](tennis.jpg)
-

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-12'
-thumbnail = 'posts/2010/euro-trip-praha/absintherie.jpg'
-slug = 'euro-trip-praha'
-tags = ['Europe', 'Czech Republic']
-title = 'Praha'
-type = 'post'
+title = "Praha"
+date = "2010-11-12"
+slug = "euro-trip-praha"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Czech Republic",]
+
+[extra]
+image = "posts/2010/euro-trip-praha/absintherie.jpg"
 
 +++
 

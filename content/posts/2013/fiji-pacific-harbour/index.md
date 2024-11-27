@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2013-03-03'
-thumbnail = 'posts/2013/fiji-pacific-harbour/p1110509.jpg'
-slug = 'fiji-pacific-harbour'
-tags = ['Fiji']
-title = 'Fiji - Pacific Harbour'
-type = 'post'
+title = "Fiji - Pacific Harbour"
+date = "2013-03-03"
+slug = "fiji-pacific-harbour"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Fiji",]
+
+[extra]
+image = "posts/2013/fiji-pacific-harbour/p1110509.jpg"
 
 +++
 

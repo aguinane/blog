@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-08-14'
-thumbnail = 'posts/2016/keramas/img_20160618_092004857_hdr.jpg'
-slug = 'keramas'
-tags = ['Indonesia']
-title = 'Keramas'
-type = 'post'
+title = "Keramas"
+date = "2016-08-14"
+slug = "keramas"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/keramas/img_20160618_092004857_hdr.jpg"
 
 +++
 

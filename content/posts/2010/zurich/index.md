@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-24'
-thumbnail = 'posts/2010/zurich/p1020663-7232401.jpg'
-slug = 'zurich'
-tags = ['Switzerland']
-title = 'Zürich'
-type = 'post'
+title = "Zürich"
+date = "2010-07-24"
+slug = "zurich"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/zurich/p1020663-7232401.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-12-16'
-thumbnail = 'posts/2013/toowoombas-christmas-wonderland/pano_20131215_203056.jpg'
-slug = 'toowoombas-christmas-wonderland'
-tags = ['Toowoomba']
 title = "Toowoomba's Christmas Wonderland"
-type = 'post'
+date = "2013-12-16"
+slug = "toowoombas-christmas-wonderland"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2013/toowoombas-christmas-wonderland/pano_20131215_203056.jpg"
 
 +++
 

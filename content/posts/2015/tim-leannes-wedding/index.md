@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2015-02-24'
-thumbnail = 'posts/2015/tim-leannes-wedding/2015-02-21-16-36-05.jpg'
-slug = 'tim-leannes-wedding'
 title = "Tim & Leanne's Wedding"
-type = 'post'
+date = "2015-02-24"
+slug = "tim-leannes-wedding"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2015/tim-leannes-wedding/2015-02-21-16-36-05.jpg"
 
 +++
 

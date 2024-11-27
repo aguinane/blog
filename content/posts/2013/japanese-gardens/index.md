@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-05-24'
-thumbnail = 'posts/2013/japanese-gardens/japanese-gardens.jpg'
-slug = 'japanese-gardens'
-tags = ['Toowoomba']
-title = 'Japanese Gardens'
-type = 'post'
+title = "Japanese Gardens"
+date = "2013-05-24"
+slug = "japanese-gardens"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2013/japanese-gardens/japanese-gardens.jpg"
 
 +++
 

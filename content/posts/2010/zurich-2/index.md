@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2010-11-26'
-thumbnail = 'posts/2010/zurich-2/p1050509.jpg'
-slug = 'zurich-2'
-tags = ['Switzerland']
-title = 'Zürich Christmas Markets'
-type = 'post'
+title = "Zürich Christmas Markets"
+date = "2010-11-26"
+slug = "zurich-2"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/zurich-2/p1050509.jpg"
+
 +++
 
 ![Zurich Christmas Tree](p1050509.jpg)

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-21'
-thumbnail = 'posts/2017/first-day-in-london/laurens3.jpg'
-slug = 'first-day-in-london'
-tags = ['Europe', 'England']
-title = 'First Day in London'
-type = 'post'
+title = "First Day in London"
+date = "2017-03-21"
+slug = "first-day-in-london"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "England",]
+
+[extra]
+image = "posts/2017/first-day-in-london/laurens3.jpg"
 
 +++
 

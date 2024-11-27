@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2012-03-30'
-thumbnail = 'posts/2012/sightseeing-at-home/crocfarm2.jpg'
-slug = 'sightseeing-at-home'
-tags = ['Queensland', 'Rockhampton']
-title = 'Sightseeing at Home'
-type = 'post'
+title = "Sightseeing at Home"
+date = "2012-03-30"
+slug = "sightseeing-at-home"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland", "Rockhampton",]
+
+[extra]
+image = "posts/2012/sightseeing-at-home/crocfarm2.jpg"
 
 +++
 

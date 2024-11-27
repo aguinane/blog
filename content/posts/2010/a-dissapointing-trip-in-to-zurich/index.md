@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-09-25'
-thumbnail = 'posts/2010/a-dissapointing-trip-in-to-zurich/church-gems.jpg'
-slug = 'a-dissapointing-trip-in-to-zurich'
-tags = ['Switzerland']
-title = 'A dissapointing trip in to Zürich'
-type = 'post'
+title = "A dissapointing trip in to Zürich"
+date = "2010-09-25"
+slug = "a-dissapointing-trip-in-to-zurich"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/a-dissapointing-trip-in-to-zurich/church-gems.jpg"
 
 +++
 

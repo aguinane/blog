@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-09-06'
-thumbnail = 'posts/2015/milford-sound/cover.jpg'
-slug = 'milford-sound'
-tags = ['New Zealand']
-title = 'Milford Sound'
-type = 'post'
+title = "Milford Sound"
+date = "2015-09-06"
+slug = "milford-sound"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "New Zealand",]
+
+[extra]
+image = "posts/2015/milford-sound/cover.jpg"
 
 +++
 

@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2019-03-16'
-thumbnail = 'posts/2019/cassowary-coast/paronella1.jpg'
-series = ['Cairns Roadtrip']
-slug = 'cassowary-coast'
-tags = ['Queensland']
-title = 'Cassowary Coast'
-type = 'post'
+title = "Cassowary Coast"
+date = "2019-03-16"
+slug = "cassowary-coast"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Cairns Roadtrip",]
+
+[extra]
+image = "posts/2019/cassowary-coast/paronella1.jpg"
 
 +++
 

@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2023-11-28'
-thumbnail = 'posts/2023/toogoom/20231124_170438.jpg'
-slug = 'toogoom'
-tags = ['Queensland']
-title = 'Toogoom'
-type = 'post'
+title = "Toogoom"
+date = "2023-11-28"
+slug = "toogoom"
+type = "post"
+
+[taxonomies]
+tags = [ "Queensland",]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2023/toogoom/20231124_170438.jpg"
+
 +++
 
 We had a family holiday to Hervey Bay, with a house booked at Toogoom and took the oppurtunity on the shorter drive up to visit some of the places on the drive north we hadn't got to yet.

@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-03-03'
-thumbnail = 'posts/2013/peak2park-fun-run/2013-03-03-08-15-361.jpg'
-slug = 'peak2park-fun-run'
-tags = ['Toowoomba']
-title = 'Peak2Park Fun Run'
-type = 'post'
+title = "Peak2Park Fun Run"
+date = "2013-03-03"
+slug = "peak2park-fun-run"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2013/peak2park-fun-run/2013-03-03-08-15-361.jpg"
 
 +++
 

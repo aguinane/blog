@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2019-10-26'
-thumbnail = 'posts/2019/energy-data/old_meter.jpg'
-images = ['posts/2019/energy-data/old_meter.jpg']
-slug = 'energy-data'
-title = 'Energy Consumption Data'
-type = 'post'
+title = "Energy Consumption Data"
+date = "2019-10-26"
+slug = "energy-data"
+images = [ "posts/2019/energy-data/old_meter.jpg",]
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2019/energy-data/old_meter.jpg"
 
 +++
 

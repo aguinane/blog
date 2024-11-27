@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-24'
-thumbnail = 'posts/2017/dover/IMG_0852.jpg'
-slug = 'dover'
-tags = ['Europe', 'England']
-title = 'Dover'
-type = 'post'
+title = "Dover"
+date = "2017-03-24"
+slug = "dover"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "England",]
+
+[extra]
+image = "posts/2017/dover/IMG_0852.jpg"
 
 +++
 

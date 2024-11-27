@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-06-21'
-thumbnail = 'posts/2012/mountain-bike-orienteering/mtbo.jpg'
-slug = 'mountain-bike-orienteering'
-title = 'Mountain Bike Orienteering'
-type = 'post'
+title = "Mountain Bike Orienteering"
+date = "2012-06-21"
+slug = "mountain-bike-orienteering"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/mountain-bike-orienteering/mtbo.jpg"
 
 +++
 

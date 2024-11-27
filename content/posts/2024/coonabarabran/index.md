@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2024-11-09'
-thumbnail = 'posts/2024/coonabarabran/20241020_122834.jpg'
-slug = 'coonabarabran'
-tags = ['NSW']
-title = 'Coonabarabran & Warrumbungles'
-type = 'post'
+title = "Coonabarabran & Warrumbungles"
+date = "2024-11-09"
+slug = "coonabarabran"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+
+[extra]
+image = "posts/2024/coonabarabran/20241020_122834.jpg"
+
 +++
 
 For our first day of our NSW road trip we wanted to get to Coonabarabran, which is a bit over 6 hours drive from Toowoomba. So we left early (we saw heaps of animals on the road  - kangaroos, wild pigs, even a fox) and timed it so we'd get there a bit before 7:00 for the [Goondiwindi ParkRun](https://www.parkrun.com.au/goondiwindi/results/396/).

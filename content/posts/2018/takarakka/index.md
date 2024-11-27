@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2018-10-14'
-thumbnail = 'posts/2018/takarakka/platapus.jpg'
-series = ['Carnarvon']
-slug = 'takarakka'
-tags = ['Queensland']
-title = 'Carnarvon Gorge - Takarakka'
-type = 'post'
+title = "Carnarvon Gorge - Takarakka"
+date = "2018-10-14"
+slug = "takarakka"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Carnarvon",]
+
+[extra]
+image = "posts/2018/takarakka/platapus.jpg"
 
 +++
 

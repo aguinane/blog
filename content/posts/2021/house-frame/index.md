@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2021-04-14'
-thumbnail = 'posts/2021/house-frame/frame05.jpg'
-slug = 'house-frame'
-tags = ['House Build']
-series = ['House Build']
-title = 'House Frame'
-type = 'post'
+title = "House Frame"
+date = "2021-04-14"
+slug = "house-frame"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "House Build",]
+series = [ "House Build",]
+
+[extra]
+image = "posts/2021/house-frame/frame05.jpg"
 
 +++
 

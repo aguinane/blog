@@ -1,11 +1,16 @@
 +++
-categories = ['Misc']
-date = '2023-01-19T04:00:00+10:00'
-thumbnail = 'posts/2023/hot-100-votes-2022/hottest-100-2022.png'
-slug = 'hot-100-votes-2022'
-tags = ['Hottest 100']
-title = 'Hottest 100 Votes for 2022'
-type = 'post'
+title = "Hottest 100 Votes for 2022"
+date = "2023-01-19T04:00:00+10:00"
+slug = "hot-100-votes-2022"
+type = "post"
+
+[taxonomies]
+tags = [ "Hottest 100",]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2023/hot-100-votes-2022/hottest-100-2022.png"
+
 +++
 
 ![hot100](hottest-100-2022.png)

@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-11-01'
-thumbnail = 'posts/2013/toowoomba-sunset/img_20131024_181256.jpg'
-slug = 'toowoomba-sunset'
-tags = ['Toowoomba']
-title = 'Toowoomba Sunset'
-type = 'post'
+title = "Toowoomba Sunset"
+date = "2013-11-01"
+slug = "toowoomba-sunset"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2013/toowoomba-sunset/img_20131024_181256.jpg"
 
 +++
 

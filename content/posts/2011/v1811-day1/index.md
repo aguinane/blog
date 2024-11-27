@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2011-10-18'
-thumbnail = 'posts/2011/v1811-day1/2011-10-19-13-07-14.jpg'
-series = ['Young Endeavour']
-slug = 'v1811-day1'
-tags = ['NSW', 'Young Endeavour']
-title = 'V18/11 - Day 1'
-type = 'post'
+title = "V18/11 - Day 1"
+date = "2011-10-18"
+slug = "v1811-day1"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW", "Young Endeavour",]
+series = [ "Young Endeavour",]
+
+[extra]
+image = "posts/2011/v1811-day1/2011-10-19-13-07-14.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-04-22'
-thumbnail = 'posts/2014/lamington-national-park/01-lamington-national-park.jpg'
-slug = 'lamington-national-park'
-tags = ['Queensland']
-title = 'Lamington National Park'
-type = 'post'
+title = "Lamington National Park"
+date = "2014-04-22"
+slug = "lamington-national-park"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2014/lamington-national-park/01-lamington-national-park.jpg"
 
 +++
 

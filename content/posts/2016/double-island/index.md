@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-05-29'
-thumbnail = 'posts/2016/double-island/featurerainbowbeach.jpg'
-slug = 'double-island'
-tags = ['Queensland']
-title = 'Double Island'
-type = 'post'
+title = "Double Island"
+date = "2016-05-29"
+slug = "double-island"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2016/double-island/featurerainbowbeach.jpg"
 
 +++
 

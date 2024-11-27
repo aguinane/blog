@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-14'
-thumbnail = 'posts/2010/iaeste-ski-weekend/p1050930.jpg'
-slug = 'iaeste-ski-weekend'
-tags = ['IAESTE', 'Switzerland']
-title = 'IAESTE Ski Weekend'
-type = 'post'
+title = "IAESTE Ski Weekend"
+date = "2010-12-14"
+slug = "iaeste-ski-weekend"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "IAESTE", "Switzerland",]
+
+[extra]
+image = "posts/2010/iaeste-ski-weekend/p1050930.jpg"
 
 +++
 

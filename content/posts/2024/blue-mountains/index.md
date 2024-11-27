@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2024-11-10'
-thumbnail = 'posts/2024/blue-mountains/20241022_084342-1.jpg'
-slug = 'blue-mountains'
-tags = ['NSW']
-title = 'Blue Mountains'
-type = 'post'
+title = "Blue Mountains"
+date = "2024-11-10"
+slug = "blue-mountains"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+
+[extra]
+image = "posts/2024/blue-mountains/20241022_084342-1.jpg"
+
 +++
 
 The drive into Blue Mountains was interesting. We drove through Lithgow as the kids were asleep but it had a strange mix of nice old buildings and cottages juxtaposed with a big coal power station and coal terminal. Rachael was driving and freaked out a little when suddenly we went from a not so busy highway onto the 
@@ -99,4 +104,4 @@ And then quickly did the Lyrebird Dell with the kids as it was quite short (and 
 
 ![](20241024_154326.jpg)
 
-Overall the Blue Mountains was excellent, and there was so much we didn't have time to do so I'd definitely be keen to come back when the kids are older and more willing to do hikes. 
+Overall the Blue Mountains was excellent, and there was so much we didn't have time to do so I'd definitely be keen to come back when the kids are older and more willing to do hikes.

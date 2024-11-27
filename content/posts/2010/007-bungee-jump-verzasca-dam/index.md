@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-08-04'
-thumbnail = 'posts/2010/007-bungee-jump-verzasca-dam/p10301091.jpg'
-slug = '007-bungee-jump-verzasca-dam'
-tags = ['IAESTE', 'Switzerland']
-title = '007 Bungee Jump - Verzasca Dam'
-type = 'post'
+title = "007 Bungee Jump - Verzasca Dam"
+date = "2010-08-04"
+slug = "007-bungee-jump-verzasca-dam"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "IAESTE", "Switzerland",]
+
+[extra]
+image = "posts/2010/007-bungee-jump-verzasca-dam/p10301091.jpg"
 
 +++
 

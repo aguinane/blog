@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-03-16'
-thumbnail = 'posts/2015/great-ocean-road/bellsbeach-resized.jpg'
-slug = 'great-ocean-road'
-tags = ['Victoria']
-title = 'Great Ocean Road'
-type = 'post'
+title = "Great Ocean Road"
+date = "2015-03-16"
+slug = "great-ocean-road"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Victoria",]
+
+[extra]
+image = "posts/2015/great-ocean-road/bellsbeach-resized.jpg"
 
 +++
 

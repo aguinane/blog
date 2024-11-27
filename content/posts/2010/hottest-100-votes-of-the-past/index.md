@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2010-12-19'
-thumbnail = 'posts/2010/hottest-100-votes-of-the-past/hottest100-2009.gif'
-slug = 'hottest-100-votes-of-the-past'
-tags = ['Hottest 100']
-title = 'Hottest 100 Votes of the Past'
-type = 'post'
+title = "Hottest 100 Votes of the Past"
+date = "2010-12-19"
+slug = "hottest-100-votes-of-the-past"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Hottest 100",]
+
+[extra]
+image = "posts/2010/hottest-100-votes-of-the-past/hottest100-2009.gif"
 
 +++
 

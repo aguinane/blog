@@ -1,11 +1,16 @@
 +++
-categories = ['Misc']
-date = '2022-10-09'
-thumbnail = 'posts/2022/tcof-2022/20220922_091033.jpg'
-slug = 'tcof-2022'
-tags = ['TCOF', 'Toowoomba']
-title = 'Toowoomba Carnival of Flowers 2022'
-type = 'post'
+title = "Toowoomba Carnival of Flowers 2022"
+date = "2022-10-09"
+slug = "tcof-2022"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2022/tcof-2022/20220922_091033.jpg"
+
 +++
 
 We didn't go the food and wine festival this year, and I had a sprained ankle so we didn't go to any prize gardens either. We did get to Laurel Bank and Queen's Parks though. 
@@ -29,4 +34,3 @@ We didn't go the food and wine festival this year, and I had a sprained ankle so
 ![](20221008_153156.jpg)
 
 ![](20221008_162927.jpg)
-

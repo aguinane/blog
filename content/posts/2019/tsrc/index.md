@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2019-09-08'
-thumbnail = 'posts/2019/tsrc/before.jpg'
-slug = 'tsrc'
-tags = ['Toowoomba']
-title = 'Toowoomba Second Range Crossing Marathon'
-type = 'post'
+title = "Toowoomba Second Range Crossing Marathon"
+date = "2019-09-08"
+slug = "tsrc"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2019/tsrc/before.jpg"
 
 +++
 

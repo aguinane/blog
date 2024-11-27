@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-03-16'
-thumbnail = 'posts/2015/warrnambool-and-ballarat/cover.jpg'
-slug = 'warrnambool-and-ballarat'
-tags = ['Victoria']
-title = 'Warrnambool and Ballarat'
-type = 'post'
+title = "Warrnambool and Ballarat"
+date = "2015-03-16"
+slug = "warrnambool-and-ballarat"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Victoria",]
+
+[extra]
+image = "posts/2015/warrnambool-and-ballarat/cover.jpg"
 
 +++
 

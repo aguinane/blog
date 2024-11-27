@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-07-27'
-thumbnail = 'posts/2011/hai-van-pass/img_1921.jpg'
-slug = 'hai-van-pass'
-tags = ['Vietnam']
-title = 'Hai Van Pass'
-type = 'post'
+title = "Hai Van Pass"
+date = "2011-07-27"
+slug = "hai-van-pass"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Vietnam",]
+
+[extra]
+image = "posts/2011/hai-van-pass/img_1921.jpg"
 
 +++
 

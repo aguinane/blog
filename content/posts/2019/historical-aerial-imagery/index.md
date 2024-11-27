@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2019-10-27'
-thumbnail = 'posts/2019/historical-aerial-imagery/1946.jpg'
-slug = 'historical-aerial-imagery'
-title = 'Toowoomba Historical Imagery'
-type = 'post'
+title = "Toowoomba Historical Imagery"
+date = "2019-10-27"
+slug = "historical-aerial-imagery"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2019/historical-aerial-imagery/1946.jpg"
 
 +++
 

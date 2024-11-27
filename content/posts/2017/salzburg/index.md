@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-16'
-thumbnail = 'posts/2017/salzburg/river.jpg'
-slug = 'salzburg'
-tags = ['Europe', 'Austria']
-title = 'Salzburg'
-type = 'post'
+title = "Salzburg"
+date = "2017-04-16"
+slug = "salzburg"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Austria",]
+
+[extra]
+image = "posts/2017/salzburg/river.jpg"
 
 +++
 

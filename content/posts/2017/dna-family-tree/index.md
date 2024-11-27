@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2017-09-21'
-thumbnail = 'posts/2017/dna-family-tree/ancestry.png'
-slug = 'dna-family-tree'
-tags = ['Genealogy']
-title = 'DNA Genealogy'
-type = 'post'
+title = "DNA Genealogy"
+date = "2017-09-21"
+slug = "dna-family-tree"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Genealogy",]
+
+[extra]
+image = "posts/2017/dna-family-tree/ancestry.png"
 
 +++
 

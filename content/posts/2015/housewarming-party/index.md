@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2015-02-23'
-thumbnail = 'posts/2015/housewarming-party/pano_20150124_111727.jpg'
-slug = 'housewarming-party'
-title = 'Housewarming Party'
-type = 'post'
+title = "Housewarming Party"
+date = "2015-02-23"
+slug = "housewarming-party"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2015/housewarming-party/pano_20150124_111727.jpg"
 
 +++
 

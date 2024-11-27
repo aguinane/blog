@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2020-07-07'
-thumbnail = 'posts/2020/zamia/trailhead.jpg'
-slug = 'zamia'
-tags = ['Queensland', 'Rockhampton']
-title = 'Zamia Walk'
-type = 'post'
+title = "Zamia Walk"
+date = "2020-07-07"
+slug = "zamia"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland", "Rockhampton",]
+
+[extra]
+image = "posts/2020/zamia/trailhead.jpg"
 
 +++
 

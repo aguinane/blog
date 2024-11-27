@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-20'
-thumbnail = 'posts/2017/paris/melting_house.jpg'
-slug = 'paris'
-tags = ['Europe', 'France']
-title = 'Paris and Versailles'
-type = 'post'
+title = "Paris and Versailles"
+date = "2017-04-20"
+slug = "paris"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "France",]
+
+[extra]
+image = "posts/2017/paris/melting_house.jpg"
 
 +++
 

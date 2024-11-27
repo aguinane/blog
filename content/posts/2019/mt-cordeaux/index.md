@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2019-04-13'
-thumbnail = 'posts/2019/mt-cordeaux/bare-rock.jpg'
-slug = 'mt-cordeaux'
-tags = ['Queensland']
-title = 'Mt Cordeaux and Bare Rock Hike'
-type = 'post'
+title = "Mt Cordeaux and Bare Rock Hike"
+date = "2019-04-13"
+slug = "mt-cordeaux"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2019/mt-cordeaux/bare-rock.jpg"
 
 +++
 

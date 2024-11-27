@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2014-10-15'
-thumbnail = 'posts/2014/mrh-simulator/controlscreen.jpg'
-slug = 'mrh-simulator'
-tags = ['Toowoomba']
-title = 'Tour of MRH Simulator'
-type = 'post'
+title = "Tour of MRH Simulator"
+date = "2014-10-15"
+slug = "mrh-simulator"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2014/mrh-simulator/controlscreen.jpg"
 
 +++
 

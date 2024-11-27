@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-07-27'
-thumbnail = 'posts/2011/hue/p1080207.jpg'
-slug = 'hue'
-tags = ['Vietnam']
-title = 'Hue'
-type = 'post'
+title = "Hue"
+date = "2011-07-27"
+slug = "hue"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Vietnam",]
+
+[extra]
+image = "posts/2011/hue/p1080207.jpg"
 
 +++
 

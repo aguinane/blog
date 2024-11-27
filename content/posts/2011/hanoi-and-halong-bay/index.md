@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-07-31'
-thumbnail = 'posts/2011/hanoi-and-halong-bay/p1080297.jpg'
-slug = 'hanoi-and-halong-bay'
-tags = ['Vietnam']
-title = 'Hanoi'
-type = 'post'
+title = "Hanoi"
+date = "2011-07-31"
+slug = "hanoi-and-halong-bay"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Vietnam",]
+
+[extra]
+image = "posts/2011/hanoi-and-halong-bay/p1080297.jpg"
 
 +++
 

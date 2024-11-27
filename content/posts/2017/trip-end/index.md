@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-05-10'
-thumbnail = 'posts/2017/trip-end/newmans.jpg'
-slug = 'trip-end'
-tags = ['Europe', 'England']
-title = 'Trip End'
-type = 'post'
+title = "Trip End"
+date = "2017-05-10"
+slug = "trip-end"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "England",]
+
+[extra]
+image = "posts/2017/trip-end/newmans.jpg"
 
 +++
 

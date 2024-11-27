@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-30'
-thumbnail = 'posts/2010/technorama/technorama.jpg'
-slug = 'technorama'
-tags = ['IAESTE', 'Switzerland']
-title = 'Technorama'
-type = 'post'
+title = "Technorama"
+date = "2010-11-30"
+slug = "technorama"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "IAESTE", "Switzerland",]
+
+[extra]
+image = "posts/2010/technorama/technorama.jpg"
 
 +++
 

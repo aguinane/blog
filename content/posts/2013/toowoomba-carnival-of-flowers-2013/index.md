@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-09-23'
-thumbnail = 'posts/2013/toowoomba-carnival-of-flowers-2013/pano_20130920_192034.jpg'
-slug = 'toowoomba-carnival-of-flowers-2013'
-tags = ['TCOF', 'Toowoomba']
-title = 'Toowoomba Carnival of Flowers 2013'
-type = 'post'
+title = "Toowoomba Carnival of Flowers 2013"
+date = "2013-09-23"
+slug = "toowoomba-carnival-of-flowers-2013"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2013/toowoomba-carnival-of-flowers-2013/pano_20130920_192034.jpg"
 
 +++
 

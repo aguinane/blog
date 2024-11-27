@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2020-12-09'
-thumbnail = 'posts/2020/house-design/Design3-3D.png'
-slug = 'house-design'
-tags = ['House Build']
-series = ['House Build']
-title = 'House Design'
-type = 'post'
+title = "House Design"
+date = "2020-12-09"
+slug = "house-design"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "House Build",]
+series = [ "House Build",]
+
+[extra]
+image = "posts/2020/house-design/Design3-3D.png"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2020-01-16'
-thumbnail = 'posts/2020/hot-100-votes-2019/hot-100-2019.jpg'
-slug = 'hot-100-votes-2019'
-tags = ['Hottest 100']
-title = 'Hottest 100 Votes for 2019'
-type = 'post'
+title = "Hottest 100 Votes for 2019"
+date = "2020-01-16"
+slug = "hot-100-votes-2019"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Hottest 100",]
+
+[extra]
+image = "posts/2020/hot-100-votes-2019/hot-100-2019.jpg"
 
 +++
 

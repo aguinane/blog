@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-20'
-thumbnail = 'posts/2010/iaeste-rafting-weekend/dsc_1714.jpg'
-slug = 'iaeste-rafting-weekend'
-tags = ['IAESTE', 'Switzerland']
-title = 'IAESTE Rafting Weekend'
-type = 'post'
+title = "IAESTE Rafting Weekend"
+date = "2010-07-20"
+slug = "iaeste-rafting-weekend"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "IAESTE", "Switzerland",]
+
+[extra]
+image = "posts/2010/iaeste-rafting-weekend/dsc_1714.jpg"
 
 +++
 

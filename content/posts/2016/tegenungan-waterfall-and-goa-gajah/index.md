@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-08-13'
-thumbnail = 'posts/2016/tegenungan-waterfall-and-goa-gajah/img_20160617_100924.jpg'
-slug = 'tegenungan-waterfall-and-goa-gajah'
-tags = ['Indonesia']
-title = 'Tegenungan Waterfall and Goa Gajah'
-type = 'post'
+title = "Tegenungan Waterfall and Goa Gajah"
+date = "2016-08-13"
+slug = "tegenungan-waterfall-and-goa-gajah"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/tegenungan-waterfall-and-goa-gajah/img_20160617_100924.jpg"
 
 +++
 

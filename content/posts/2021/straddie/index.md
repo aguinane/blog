@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2021-10-27'
-thumbnail = 'posts/2021/straddie/nthgorge1.jpg'
-slug = 'straddie'
-tags = ['Queensland']
-title = 'North Stradbroke Island'
-type = 'post'
+title = "North Stradbroke Island"
+date = "2021-10-27"
+slug = "straddie"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2021/straddie/nthgorge1.jpg"
 
 +++
 

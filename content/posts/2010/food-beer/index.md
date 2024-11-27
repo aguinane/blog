@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-08-29'
-thumbnail = 'posts/2010/food-beer/P1030803.jpg'
-slug = 'food-beer'
-tags = ['Switzerland']
-title = 'Shopping in Germany for Food & Beer'
-type = 'post'
+title = "Shopping in Germany for Food & Beer"
+date = "2010-08-29"
+slug = "food-beer"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/food-beer/P1030803.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-10-07'
-thumbnail = 'posts/2014/goomburra-state-forest/feature3.jpg'
-slug = 'goomburra-state-forest'
-tags = ['Queensland']
-title = 'Goomburra State Forest'
-type = 'post'
+title = "Goomburra State Forest"
+date = "2014-10-07"
+slug = "goomburra-state-forest"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2014/goomburra-state-forest/feature3.jpg"
 
 +++
 

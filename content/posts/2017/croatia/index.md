@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-10'
-thumbnail = 'posts/2017/croatia/lake1.jpg'
-slug = 'croatia'
-tags = ['Europe', 'Croatia']
-title = 'Plitvička Jezera'
-type = 'post'
+title = "Plitvička Jezera"
+date = "2017-04-10"
+slug = "croatia"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Croatia",]
+
+[extra]
+image = "posts/2017/croatia/lake1.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2011-06-25'
-thumbnail = 'posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg'
-slug = 'hottest-100-australian-albums-of-all-time'
-tags = ['Hottest 100']
-title = 'Hottest 100 Australian Albums Of All Time'
-type = 'post'
+title = "Hottest 100 Australian Albums Of All Time"
+date = "2011-06-25"
+slug = "hottest-100-australian-albums-of-all-time"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Hottest 100",]
+
+[extra]
+image = "posts/2011/hottest-100-australian-albums-of-all-time/hot100albums.jpg"
 
 +++
 

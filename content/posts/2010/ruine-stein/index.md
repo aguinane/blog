@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-14'
-thumbnail = 'posts/2010/ruine-stein/p1020439-7646211.jpg'
-slug = 'ruine-stein'
-tags = ['Switzerland']
-title = 'Ruine Stein'
-type = 'post'
+title = "Ruine Stein"
+date = "2010-07-14"
+slug = "ruine-stein"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/ruine-stein/p1020439-7646211.jpg"
 
 +++
 

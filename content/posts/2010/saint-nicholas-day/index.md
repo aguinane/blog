@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-06'
-thumbnail = 'posts/2010/saint-nicholas-day/p1050907.jpg'
-slug = 'saint-nicholas-day'
-tags = ['Switzerland']
-title = 'Saint Nicholas Day'
-type = 'post'
+title = "Saint Nicholas Day"
+date = "2010-12-06"
+slug = "saint-nicholas-day"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/saint-nicholas-day/p1050907.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-05-02'
-thumbnail = 'posts/2017/alnwick/beach2.jpg'
-slug = 'alnwick'
-tags = ['Europe', 'England']
-title = 'Alnwick and The Wall'
-type = 'post'
+title = "Alnwick and The Wall"
+date = "2017-05-02"
+slug = "alnwick"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "England",]
+
+[extra]
+image = "posts/2017/alnwick/beach2.jpg"
 
 +++
 

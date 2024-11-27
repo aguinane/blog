@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-01-16'
-thumbnail = 'posts/2013/hottest-100-votes-2012/340.jpg'
-slug = 'hottest-100-votes-2012'
-tags = ['Hottest 100']
-title = 'Hottest 100 Votes 2012'
-type = 'post'
+title = "Hottest 100 Votes 2012"
+date = "2013-01-16"
+slug = "hottest-100-votes-2012"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Hottest 100",]
+
+[extra]
+image = "posts/2013/hottest-100-votes-2012/340.jpg"
 
 +++
 

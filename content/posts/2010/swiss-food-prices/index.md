@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-19'
-thumbnail = 'posts/2010/swiss-food-prices/p1030269.jpg'
-slug = 'swiss-food-prices'
-tags = ['Switzerland']
-title = 'Swiss Food Prices'
-type = 'post'
+title = "Swiss Food Prices"
+date = "2010-12-19"
+slug = "swiss-food-prices"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/swiss-food-prices/p1030269.jpg"
 
 +++
 

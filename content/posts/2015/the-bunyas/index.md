@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-06-01'
-thumbnail = 'posts/2015/the-bunyas/feature.jpg'
-slug = 'the-bunyas'
-tags = ['Queensland']
-title = 'The Bunyas'
-type = 'post'
+title = "The Bunyas"
+date = "2015-06-01"
+slug = "the-bunyas"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2015/the-bunyas/feature.jpg"
 
 +++
 

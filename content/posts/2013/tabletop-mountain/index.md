@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-03-24'
-thumbnail = 'posts/2013/tabletop-mountain/2013-03-24-07-22-33.jpg'
-slug = 'tabletop-mountain'
-tags = ['Toowoomba']
-title = 'Tabletop Mountain'
-type = 'post'
+title = "Tabletop Mountain"
+date = "2013-03-24"
+slug = "tabletop-mountain"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2013/tabletop-mountain/2013-03-24-07-22-33.jpg"
 
 +++
 

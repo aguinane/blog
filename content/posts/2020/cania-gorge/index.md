@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2020-11-04'
-thumbnail = 'posts/2020/cania-gorge/fern-tree2.jpg'
-slug = 'cania-gorge'
-tags = ['Queensland']
-title = 'Cania Gorge'
-type = 'post'
+title = "Cania Gorge"
+date = "2020-11-04"
+slug = "cania-gorge"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2020/cania-gorge/fern-tree2.jpg"
 
 +++
 

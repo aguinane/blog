@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2019-03-17'
-thumbnail = 'posts/2019/cairns-kuranda/train2.jpg'
-series = ['Cairns Roadtrip']
-slug = 'cairns-kuranda'
-tags = ['Queensland']
-title = 'Cairns and Kuranda'
-type = 'post'
+title = "Cairns and Kuranda"
+date = "2019-03-17"
+slug = "cairns-kuranda"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Cairns Roadtrip",]
+
+[extra]
+image = "posts/2019/cairns-kuranda/train2.jpg"
 
 +++
 

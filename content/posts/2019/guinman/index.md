@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2019-05-04'
-thumbnail = 'posts/2019/guinman/newspaper-guaine.jpg'
-slug = 'guinman'
-tags = ['Genealogy']
 title = "The Guinman's"
-type = 'post'
+date = "2019-05-04"
+slug = "guinman"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Genealogy",]
+
+[extra]
+image = "posts/2019/guinman/newspaper-guaine.jpg"
 
 +++
 

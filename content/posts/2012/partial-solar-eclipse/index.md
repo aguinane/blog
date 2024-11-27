@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-11-17'
-thumbnail = 'posts/2012/partial-solar-eclipse/p1110096-resized.jpg'
-slug = 'partial-solar-eclipse'
-title = '(Partial) Solar Eclipse'
-type = 'post'
+title = "(Partial) Solar Eclipse"
+date = "2012-11-17"
+slug = "partial-solar-eclipse"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/partial-solar-eclipse/p1110096-resized.jpg"
 
 +++
 

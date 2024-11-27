@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2014-10-07'
-thumbnail = 'posts/2014/tcof-laurel-bank-and-queens-park/queens-park.jpg'
-slug = 'tcof-laurel-bank-and-queens-park'
-tags = ['TCOF', 'Toowoomba']
-title = 'TCOF Laurel Bank And Queens Park'
-type = 'post'
+title = "TCOF Laurel Bank And Queens Park"
+date = "2014-10-07"
+slug = "tcof-laurel-bank-and-queens-park"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2014/tcof-laurel-bank-and-queens-park/queens-park.jpg"
 
 +++
 

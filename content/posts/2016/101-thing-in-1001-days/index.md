@@ -1,9 +1,13 @@
 +++
-categories = ['Misc']
-date = '2016-01-30'
-slug = '101-thing-in-1001-days'
-title = '101 Things in 1001 Days'
-type = 'post'
+title = "101 Things in 1001 Days"
+date = "2016-01-30"
+slug = "101-thing-in-1001-days"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
 
 +++
 

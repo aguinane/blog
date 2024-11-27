@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-12-26'
-thumbnail = 'posts/2016/mik-and-michelles-wedding/img_20160618_170423.jpg'
-slug = 'mik-and-michelles-wedding'
-tags = ['Indonesia']
 title = "Mik and Michelle's Wedding"
-type = 'post'
+date = "2016-12-26"
+slug = "mik-and-michelles-wedding"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/mik-and-michelles-wedding/img_20160618_170423.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-09-14'
-thumbnail = 'posts/2010/iaeste-jura-weekend/P1040064.jpg'
-slug = 'iaeste-jura-weekend'
-tags = ['IAESTE', 'Switzerland']
-title = 'IAESTE Jura Weekend'
-type = 'post'
+title = "IAESTE Jura Weekend"
+date = "2010-09-14"
+slug = "iaeste-jura-weekend"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "IAESTE", "Switzerland",]
+
+[extra]
+image = "posts/2010/iaeste-jura-weekend/P1040064.jpg"
 
 +++
 

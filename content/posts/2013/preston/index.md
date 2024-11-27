@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-12-08'
-thumbnail = 'posts/2013/preston/img_20131130_170939.jpg'
-slug = 'preston'
-tags = ['Toowoomba']
-title = 'Preston'
-type = 'post'
+title = "Preston"
+date = "2013-12-08"
+slug = "preston"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba",]
+
+[extra]
+image = "posts/2013/preston/img_20131130_170939.jpg"
 
 +++
 

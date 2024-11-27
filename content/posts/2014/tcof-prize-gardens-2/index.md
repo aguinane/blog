@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2014-10-07'
-thumbnail = 'posts/2014/tcof-prize-gardens-2/feature1.jpg'
-slug = 'tcof-prize-gardens-2'
-tags = ['Toowoomba', 'TCOF']
-title = 'TCOF Prize Gardens'
-type = 'post'
+title = "TCOF Prize Gardens"
+date = "2014-10-07"
+slug = "tcof-prize-gardens-2"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba", "TCOF",]
+
+[extra]
+image = "posts/2014/tcof-prize-gardens-2/feature1.jpg"
 
 +++
 

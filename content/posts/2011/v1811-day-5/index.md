@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-10-22'
-series = ['Young Endeavour']
-slug = 'v1811-day-5'
-tags = ['NSW', 'Young Endeavour']
-title = 'V18/11 - Day 5'
-type = 'post'
+title = "V18/11 - Day 5"
+date = "2011-10-22"
+slug = "v1811-day-5"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW", "Young Endeavour",]
+series = [ "Young Endeavour",]
+
+[extra]
 
 +++
 

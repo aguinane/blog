@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2024-11-12'
-thumbnail = 'posts/2024/newcastle/20241027_121249.jpg'
-slug = 'newcastle'
-tags = ['NSW']
-title = 'Newcastle'
-type = 'post'
+title = "Newcastle"
+date = "2024-11-12"
+slug = "newcastle"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+
+[extra]
+image = "posts/2024/newcastle/20241027_121249.jpg"
+
 +++
 
 We had a bit of a drive around Newcastle while the kids were asleep but spent most of the afternoon at the hotel as it had a pool. 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-26'
-thumbnail = 'posts/2017/channel/slane-hill.jpg'
-slug = 'channel'
-tags = ['Europe', 'Northern Ireland']
-title = 'Last Day in Ireland'
-type = 'post'
+title = "Last Day in Ireland"
+date = "2017-04-26"
+slug = "channel"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Northern Ireland",]
+
+[extra]
+image = "posts/2017/channel/slane-hill.jpg"
 
 +++
 

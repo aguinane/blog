@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-10-05'
-thumbnail = 'posts/2010/oktoberfest/p1040660.jpg'
-slug = 'oktoberfest'
-tags = ['Germany']
-title = 'Oktoberfest'
-type = 'post'
+title = "Oktoberfest"
+date = "2010-10-05"
+slug = "oktoberfest"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Germany",]
+
+[extra]
+image = "posts/2010/oktoberfest/p1040660.jpg"
 
 +++
 

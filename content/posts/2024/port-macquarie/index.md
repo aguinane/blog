@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2024-11-13'
-thumbnail = 'posts/2024/port-macquarie/20241029_070615-1.jpg'
-slug = 'port-macquarie'
-tags = ['NSW']
-title = 'Port Macquarie'
-type = 'post'
+title = "Port Macquarie"
+date = "2024-11-13"
+slug = "port-macquarie"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+
+[extra]
+image = "posts/2024/port-macquarie/20241029_070615-1.jpg"
+
 +++
 
 From Newcastle we drove through to Boomerang Beach and Booti Booti, which we briefly stopped at and looked amazing but the kids weren't interested in getting out of the car so we kept driving. 

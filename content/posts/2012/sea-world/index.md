@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-07-08'
-thumbnail = 'posts/2012/sea-world/penguins.jpg'
-slug = 'sea-world'
-title = 'Sea World'
-type = 'post'
+title = "Sea World"
+date = "2012-07-08"
+slug = "sea-world"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/sea-world/penguins.jpg"
 
 +++
 

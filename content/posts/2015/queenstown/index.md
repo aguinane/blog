@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-09-06'
-thumbnail = 'posts/2015/queenstown/pano_20150825_160743.jpg'
-slug = 'queenstown'
-tags = ['New Zealand']
-title = 'Queenstown'
-type = 'post'
+title = "Queenstown"
+date = "2015-09-06"
+slug = "queenstown"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "New Zealand",]
+
+[extra]
+image = "posts/2015/queenstown/pano_20150825_160743.jpg"
 
 +++
 

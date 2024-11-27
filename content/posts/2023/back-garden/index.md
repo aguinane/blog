@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2023-03-28'
-thumbnail = 'posts/2023/back-garden/20221124_181551.jpg'
-slug = 'back-garden'
-tags = ['House Build']
-series = ['House Build']
-title = 'Back Garden'
-type = 'post'
+title = "Back Garden"
+date = "2023-03-28"
+slug = "back-garden"
+type = "post"
+
+[taxonomies]
+tags = [ "House Build",]
+categories = [ "Misc",]
+series = [ "House Build",]
+
+[extra]
+image = "posts/2023/back-garden/20221124_181551.jpg"
 
 +++
 
@@ -66,4 +70,3 @@ And finally getting some plants to establish.
 ![](20221124_181551.jpg)
 
 ![](20230330_161756.jpg)
-

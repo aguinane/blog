@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-08-11'
-thumbnail = 'posts/2012/dave-kylies-wedding/wedding1.jpg'
-slug = 'dave-kylies-wedding'
 title = "Dave & Kylie's Wedding"
-type = 'post'
+date = "2012-08-11"
+slug = "dave-kylies-wedding"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/dave-kylies-wedding/wedding1.jpg"
 
 +++
 

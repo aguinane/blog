@@ -1,10 +1,14 @@
 +++
-categories = ['Travel']
-date = '2010-07-11'
-slug = 'trevors-farewell-party'
-tags = ['Switzerland']
 title = "Trevor's Farewell Party"
-type = 'post'
+date = "2010-07-11"
+slug = "trevors-farewell-party"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
 
 +++
 

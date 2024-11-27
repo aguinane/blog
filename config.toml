@@ -12,6 +12,7 @@ build_search_index = true
 taxonomies = [
     { name = "categories", feed = true },
     { name = "tags", feed = true },
+    { name = "series", feed = true },
 ]
 
 [markdown]
@@ -23,7 +24,7 @@ highlight_code = true
 # Put all your custom variables here
 date_format = "%Y-%m-%d"
 email = "jane@doe.com"
-name = "Jane Doe"
+name = "Alex Guinman"
 images_default_size = 1200
 images_sizes = [100, 200, 400, 800, 1200, 1600, 2400, 3200]
 images_sizes_attr = "auto, (min-width: 800px) 800px, 100vw"

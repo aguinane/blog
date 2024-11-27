@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2020-11-02'
-thumbnail = 'posts/2020/auburn-river/riverbed-1.jpg'
-slug = 'auburn-river'
-tags = ['Queensland']
-title = 'Auburn River'
-type = 'post'
+title = "Auburn River"
+date = "2020-11-02"
+slug = "auburn-river"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2020/auburn-river/riverbed-1.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-05-17'
-thumbnail = 'posts/2014/granite-belt/stanthorpe.jpg'
-slug = 'granite-belt'
-tags = ['Queensland']
-title = 'Granite Belt'
-type = 'post'
+title = "Granite Belt"
+date = "2014-05-17"
+slug = "granite-belt"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2014/granite-belt/stanthorpe.jpg"
 
 +++
 

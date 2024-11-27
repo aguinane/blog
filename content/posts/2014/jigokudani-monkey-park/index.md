@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-03-08'
-thumbnail = 'posts/2014/jigokudani-monkey-park/snow-monkey-sign.jpg'
-slug = 'jigokudani-monkey-park'
-tags = ['Japan']
-title = 'Jigokudani Monkey Park'
-type = 'post'
+title = "Jigokudani Monkey Park"
+date = "2014-03-08"
+slug = "jigokudani-monkey-park"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Japan",]
+
+[extra]
+image = "posts/2014/jigokudani-monkey-park/snow-monkey-sign.jpg"
 
 +++
 

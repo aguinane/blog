@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-10-06'
-thumbnail = 'posts/2012/the-beards/2012-10-04-23-39-34-resized.jpg'
-slug = 'the-beards'
-title = 'The Beards'
-type = 'post'
+title = "The Beards"
+date = "2012-10-06"
+slug = "the-beards"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/the-beards/2012-10-04-23-39-34-resized.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-03'
-thumbnail = 'posts/2017/vargberg/sunset.jpg'
-slug = 'vargberg'
-tags = ['Europe', 'Sweden']
-title = 'Varberg'
-type = 'post'
+title = "Varberg"
+date = "2017-04-03"
+slug = "vargberg"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Sweden",]
+
+[extra]
+image = "posts/2017/vargberg/sunset.jpg"
 
 +++
 

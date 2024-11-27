@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-01'
-thumbnail = 'posts/2010/more-snow/p1050734.jpg'
-slug = 'more-snow'
-tags = ['Switzerland']
-title = 'More Snow!'
-type = 'post'
+title = "More Snow!"
+date = "2010-12-01"
+slug = "more-snow"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/more-snow/p1050734.jpg"
 
 +++
 
