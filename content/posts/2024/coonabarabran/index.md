@@ -7,6 +7,7 @@ type = "post"
 [taxonomies]
 categories = [ "Travel",]
 tags = [ "NSW",]
+series = [ "Blue Mountains Roadtrip",]
 
 [extra]
 image = "posts/2024/coonabarabran/20241020_122834.jpg"

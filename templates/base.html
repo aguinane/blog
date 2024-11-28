@@ -1,3 +1,5 @@
+{% import 'macros.html' as macros %}
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,39 +9,21 @@
   <title>MyBlog</title>
   <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 
+  {% block head %} {% endblock %}
 </head>
 
 <body>
 
-  <header>
-    <h1>Alex Guinman</h1>
-    <nav>
-      <ul>
-        <li><a aria-current="page" href="/pages/about">Home</a></li>
-        <li><a aria-current="page" href="/posts/">Posts</a></li>
-        <li><a aria-current="page" href="/categories/travel/">Travel</a></li>
-        <li><a aria-current="page" href="/categories/misc/">Misc</a></li>
-      </ul>
-    </nav>
 
-  </header>
 
+  {% include 'header.html' %}
 
   <main class="container">
     {% block content %} {% endblock %}
   </main>
 
+  {% include 'footer.html' %}
 
-  </footer>
-  <p><small>
-      &copy; {{ config.extra.name }}
-      <br>
-      Any views or opinions on this blog are my own and do not express the views of anyone
-      else who is not me (or my employer).
-      And maybe not even me, depending on how old the post is.
-    </small></p>
-
-  </footer>
 </body>
 
 </html>

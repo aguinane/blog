@@ -39,6 +39,9 @@ def reorder_frontmatter(file_path, desired_order):
         del reordered_data["categories"]
         reordered_data["taxonomies"]["categories"] = categories
 
+    if not "categories" in reordered_data["taxonomies"]:
+        reordered_data["taxonomies"]["categories"] = ["Misc"]
+
     if "tags" in reordered_data:
         tags = reordered_data["tags"]
         del reordered_data["tags"]

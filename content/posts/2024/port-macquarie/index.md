@@ -7,6 +7,7 @@ type = "post"
 [taxonomies]
 categories = [ "Travel",]
 tags = [ "NSW",]
+series = [ "Blue Mountains Roadtrip",]
 
 [extra]
 image = "posts/2024/port-macquarie/20241029_070615-1.jpg"

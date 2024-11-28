@@ -7,6 +7,7 @@ type = "post"
 [taxonomies]
 categories = [ "Travel",]
 tags = [ "NSW",]
+series = [ "Blue Mountains Roadtrip",]
 
 [extra]
 image = "posts/2024/waterfall-way/20241031_090616-1.jpg"

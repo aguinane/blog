@@ -6,15 +6,7 @@
 <ul class="blog-posts">
   {%- for page in section.pages %}
   <li>
-    <span>
-      <i>
-        <time datetime="{{ page.date | date(format='%+') }}" pubdate>
-          {{ page.date | date(format=config.extra.date_format) }}
-        </time>
-
-      </i>
-    </span>
-    <a href="{{ page.permalink }}">{{ page.title }}</a>
+    {{ macros::post_summary(page=page) }}
   </li>
   {%- endfor -%}
 </ul>
