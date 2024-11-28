@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-05'
-thumbnail = 'posts/2010/neuhausen-am-rheinfall/p1050814.jpg'
-slug = 'neuhausen-am-rheinfall'
-tags = ['Switzerland']
-title = 'Neuhausen am Rheinfall'
-type = 'post'
+title = "Neuhausen am Rheinfall"
+date = "2010-12-05"
+slug = "neuhausen-am-rheinfall"
+type = "post"
+
+[taxonomies]
+tags = [ "Switzerland",]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2010/neuhausen-am-rheinfall/p1050814.jpg"
 
 +++
 

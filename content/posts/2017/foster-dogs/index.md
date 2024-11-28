@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2017-01-24 19:05:00+10:00'
-thumbnail = 'posts/2017/foster-dogs/kel2.jpg'
-slug = 'foster-dogs'
-title = 'Foster Dogs'
-type = 'post'
+title = "Foster Dogs"
+date = "2017-01-24 19:05:00+10:00"
+slug = "foster-dogs"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2017/foster-dogs/kel2.jpg"
 
 +++
 

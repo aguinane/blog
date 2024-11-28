@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2014-10-07'
-thumbnail = 'posts/2014/toowoomba-food-flower-wine-festival-2014/feature.jpg'
-slug = 'toowoomba-food-flower-wine-festival-2014'
-tags = ['TCOF', 'Toowoomba']
-title = 'Toowoomba Food, Flower & Wine Festival 2014'
-type = 'post'
+title = "Toowoomba Food, Flower & Wine Festival 2014"
+date = "2014-10-07"
+slug = "toowoomba-food-flower-wine-festival-2014"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2014/toowoomba-food-flower-wine-festival-2014/feature.jpg"
 
 +++
 

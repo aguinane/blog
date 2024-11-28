@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2019-03-20'
-thumbnail = 'posts/2019/port-douglas/snorkel2.jpg'
-series = ['Cairns Roadtrip']
-slug = 'port-douglas'
-tags = ['Queensland']
-title = 'Port Douglas'
-type = 'post'
+title = "Port Douglas"
+date = "2019-03-20"
+slug = "port-douglas"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Cairns Roadtrip",]
+
+[extra]
+image = "posts/2019/port-douglas/snorkel2.jpg"
 
 +++
 

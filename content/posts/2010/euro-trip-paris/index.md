@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-11'
-thumbnail = 'posts/2010/euro-trip-paris/louvre1.jpg'
-slug = 'euro-trip-paris'
-tags = ['Europe', 'France']
-title = 'Paris'
-type = 'post'
+title = "Paris"
+date = "2010-11-11"
+slug = "euro-trip-paris"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "France",]
+
+[extra]
+image = "posts/2010/euro-trip-paris/louvre1.jpg"
 
 +++
 

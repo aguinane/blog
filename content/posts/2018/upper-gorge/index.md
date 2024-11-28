@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2018-10-17'
-thumbnail = 'posts/2018/upper-gorge/creek1.jpg'
-series = ['Carnarvon']
-slug = 'upper-gorge'
-tags = ['Queensland']
-title = 'Carnarvon Gorge - Upper Gorge'
-type = 'post'
+title = "Carnarvon Gorge - Upper Gorge"
+date = "2018-10-17"
+slug = "upper-gorge"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Carnarvon",]
+
+[extra]
+image = "posts/2018/upper-gorge/creek1.jpg"
 
 +++
 

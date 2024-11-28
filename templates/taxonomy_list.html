@@ -1,0 +1,11 @@
+{% extends "index.html" %}
+
+{% block content %}
+<ul>
+    {%- for term in terms -%}
+    <li>
+        <a href="{{term.permalink}}"> {{term.name}} </a><br>
+    </li>
+    {%- endfor -%}
+</ul>
+{% endblock content %}

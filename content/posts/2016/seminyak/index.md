@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-07-11'
-thumbnail = 'posts/2016/seminyak/img_20160613_124037.jpg'
-slug = 'seminyak'
-tags = ['Indonesia']
-title = 'Seminyak'
-type = 'post'
+title = "Seminyak"
+date = "2016-07-11"
+slug = "seminyak"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/seminyak/img_20160613_124037.jpg"
 
 +++
 

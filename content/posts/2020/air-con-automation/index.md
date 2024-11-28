@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2020-05-02'
-thumbnail = 'posts/2020/air-con-automation/aircon.jpg'
-slug = 'air-con-automation'
-title = 'Air Con Automation'
-type = 'post'
+title = "Air Con Automation"
+date = "2020-05-02"
+slug = "air-con-automation"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2020/air-con-automation/aircon.jpg"
 
 +++
 

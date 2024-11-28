@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2019-03-15'
-thumbnail = 'posts/2019/paluma/littlecrystalcreek.jpg'
-series = ['Cairns Roadtrip']
-slug = 'paluma'
-tags = ['Queensland']
-title = 'Paluma and Wallaman Falls'
-type = 'post'
+title = "Paluma and Wallaman Falls"
+date = "2019-03-15"
+slug = "paluma"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Cairns Roadtrip",]
+
+[extra]
+image = "posts/2019/paluma/littlecrystalcreek.jpg"
 
 +++
 

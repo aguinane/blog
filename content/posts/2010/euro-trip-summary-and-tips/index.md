@@ -1,10 +1,14 @@
 +++
-categories = ['Travel']
-date = '2010-11-13'
-slug = 'euro-trip-summary-and-tips'
-tags = ['Europe']
-title = 'Europe - Summary and Tips'
-type = 'post'
+title = "Europe - Summary and Tips"
+date = "2010-11-13"
+slug = "euro-trip-summary-and-tips"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe",]
+
+[extra]
 
 +++
 

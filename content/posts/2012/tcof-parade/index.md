@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2012-09-29'
-thumbnail = 'posts/2012/tcof-parade/imag0077.jpg'
-post_format = 'Gallery'
-slug = 'tcof-parade'
-tags = ['TCOF', 'Toowoomba']
-title = 'TCOF Floral Parade'
-type = 'post'
+title = "TCOF Floral Parade"
+date = "2012-09-29"
+slug = "tcof-parade"
+post_format = "Gallery"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2012/tcof-parade/imag0077.jpg"
 
 +++
 

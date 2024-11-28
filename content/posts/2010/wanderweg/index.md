@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-11'
-thumbnail = 'posts/2010/wanderweg/p1020293-7743501.jpg'
-slug = 'wanderweg'
-tags = ['Switzerland']
-title = 'Wanderweg'
-type = 'post'
+title = "Wanderweg"
+date = "2010-07-11"
+slug = "wanderweg"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/wanderweg/p1020293-7743501.jpg"
 
 +++
 

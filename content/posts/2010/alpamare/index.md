@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-31'
-thumbnail = 'posts/2010/alpamare/alpamare_winter_2012_3_224x180.jpg'
-slug = 'alpamare'
-tags = ['Switzerland']
-title = 'Alpamare'
-type = 'post'
+title = "Alpamare"
+date = "2010-12-31"
+slug = "alpamare"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/alpamare/alpamare_winter_2012_3_224x180.jpg"
 
 +++
 

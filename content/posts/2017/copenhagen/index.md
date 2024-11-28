@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-04'
-thumbnail = 'posts/2017/copenhagen/boat1.jpg'
-slug = 'copenhagen'
-tags = ['Europe', 'Denmark']
-title = 'København'
-type = 'post'
+title = "København"
+date = "2017-04-04"
+slug = "copenhagen"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Denmark",]
+
+[extra]
+image = "posts/2017/copenhagen/boat1.jpg"
 
 +++
 

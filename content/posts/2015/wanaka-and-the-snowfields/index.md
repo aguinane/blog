@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-09-06'
-thumbnail = 'posts/2015/wanaka-and-the-snowfields/pano_20150822_122003.jpg'
-slug = 'wanaka-and-the-snowfields'
-tags = ['New Zealand']
-title = 'Wanaka and the Snowfields'
-type = 'post'
+title = "Wanaka and the Snowfields"
+date = "2015-09-06"
+slug = "wanaka-and-the-snowfields"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "New Zealand",]
+
+[extra]
+image = "posts/2015/wanaka-and-the-snowfields/pano_20150822_122003.jpg"
 
 +++
 

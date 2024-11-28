@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-09-21'
-thumbnail = 'posts/2012/fitness-challenge/strava.png'
-slug = 'fitness-challenge'
-title = 'Fitness Challenge'
-type = 'post'
+title = "Fitness Challenge"
+date = "2012-09-21"
+slug = "fitness-challenge"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/fitness-challenge/strava.png"
 
 +++
 

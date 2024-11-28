@@ -1,10 +1,14 @@
 +++
-categories = ['Travel']
-date = '2010-11-24'
-slug = 'snow'
-tags = ['Switzerland']
-title = 'Snow!'
-type = 'post'
+title = "Snow!"
+date = "2010-11-24"
+slug = "snow"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
 
 +++
 

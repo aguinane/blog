@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-14'
-thumbnail = 'posts/2017/bled/lakeside1.jpg'
-slug = 'bled'
-tags = ['Europe', 'Slovenia']
-title = 'Bled'
-type = 'post'
+title = "Bled"
+date = "2017-04-14"
+slug = "bled"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Slovenia",]
+
+[extra]
+image = "posts/2017/bled/lakeside1.jpg"
 
 +++
 

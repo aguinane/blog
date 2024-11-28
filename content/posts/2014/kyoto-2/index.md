@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-03-08'
-thumbnail = 'posts/2014/kyoto-2/kyoto-gates.jpg'
-slug = 'kyoto-2'
-tags = ['Japan']
-title = 'Kyoto'
-type = 'post'
+title = "Kyoto"
+date = "2014-03-08"
+slug = "kyoto-2"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Japan",]
+
+[extra]
+image = "posts/2014/kyoto-2/kyoto-gates.jpg"
 
 +++
 

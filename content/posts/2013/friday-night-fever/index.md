@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2013-12-08'
-thumbnail = 'posts/2013/friday-night-fever/img_20131206_185416.jpg'
-slug = 'friday-night-fever'
-title = 'Friday Night Fever'
-type = 'post'
+title = "Friday Night Fever"
+date = "2013-12-08"
+slug = "friday-night-fever"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2013/friday-night-fever/img_20131206_185416.jpg"
 
 +++
 

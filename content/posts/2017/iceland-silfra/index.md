@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-27'
-thumbnail = 'posts/2017/iceland-silfra/drysuit-alex.jpg'
-slug = 'iceland-silfra'
-tags = ['Europe', 'Iceland']
-title = 'Iceland Silfra and Northern Lights'
-type = 'post'
+title = "Iceland Silfra and Northern Lights"
+date = "2017-03-27"
+slug = "iceland-silfra"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Iceland",]
+
+[extra]
+image = "posts/2017/iceland-silfra/drysuit-alex.jpg"
 
 +++
 

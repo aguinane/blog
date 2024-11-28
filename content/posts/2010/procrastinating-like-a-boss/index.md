@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-25'
-thumbnail = 'posts/2010/procrastinating-like-a-boss/P1020706.jpg'
-slug = 'procrastinating-like-a-boss'
-tags = ['Switzerland']
-title = 'Procrastinating Like A Boss'
-type = 'post'
+title = "Procrastinating Like A Boss"
+date = "2010-07-25"
+slug = "procrastinating-like-a-boss"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/procrastinating-like-a-boss/P1020706.jpg"
 
 +++
 

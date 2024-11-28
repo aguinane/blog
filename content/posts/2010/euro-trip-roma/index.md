@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-06'
-thumbnail = 'posts/2010/euro-trip-roma/p1040803.jpg'
-slug = 'euro-trip-roma'
-tags = ['Europe', 'Italy']
-title = 'Roma'
-type = 'post'
+title = "Roma"
+date = "2010-11-06"
+slug = "euro-trip-roma"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Italy",]
+
+[extra]
+image = "posts/2010/euro-trip-roma/p1040803.jpg"
 
 +++
 

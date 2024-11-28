@@ -1,11 +1,16 @@
 +++
-categories = ['Travel']
-date = '2016-01-31'
-thumbnail = 'posts/2016/countries-visited/countries_visited.png'
-lastmod = '2017-03-03'
-slug = 'countries-visited'
-title = 'Countries Visited'
-type = 'post'
+title = "Countries Visited"
+date = "2016-01-31"
+slug = "countries-visited"
+lastmod = "2017-03-03"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2016/countries-visited/countries_visited.png"
+
 +++
 
 ![countries](countries_visited.png)
@@ -47,5 +52,3 @@ date:** New countries added (now more than 15).
 18. [Slovenia](/tag/slovenia.html)
 19. [Austria](/tag/austria.html)
 20. [Republic of Ireland](/tag/ireland.html)
-
-

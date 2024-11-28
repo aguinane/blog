@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-10'
-thumbnail = 'posts/2010/ice-skating-in-zurich/p1050253.jpg'
-slug = 'ice-skating-in-zurich'
-tags = ['Switzerland']
-title = 'Ice Skating in Zürich'
-type = 'post'
+title = "Ice Skating in Zürich"
+date = "2010-11-10"
+slug = "ice-skating-in-zurich"
+type = "post"
+
+[taxonomies]
+tags = [ "Switzerland",]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2010/ice-skating-in-zurich/p1050253.jpg"
 
 +++
 

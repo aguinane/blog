@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2018-03-03 10:20:00+10:00'
-thumbnail = 'posts/2018/more-sightseeing-at-home/keppel4.jpg'
-slug = 'more-sightseeing-at-home'
-tags = ['Queensland', 'Rockhampton']
-title = 'More Sightseeing at Home'
-type = 'post'
+title = "More Sightseeing at Home"
+date = "2018-03-03 10:20:00+10:00"
+slug = "more-sightseeing-at-home"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland", "Rockhampton",]
+
+[extra]
+image = "posts/2018/more-sightseeing-at-home/keppel4.jpg"
 
 +++
 

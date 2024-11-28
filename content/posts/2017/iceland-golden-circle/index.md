@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-26'
-thumbnail = 'posts/2017/iceland-golden-circle/Pingvellir2.jpg'
-slug = 'iceland-golden-circle'
-tags = ['Europe', 'Iceland']
-title = 'Iceland Golden Circle'
-type = 'post'
+title = "Iceland Golden Circle"
+date = "2017-03-26"
+slug = "iceland-golden-circle"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Iceland",]
+
+[extra]
+image = "posts/2017/iceland-golden-circle/Pingvellir2.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2013-03-03'
-thumbnail = 'posts/2013/fiji-rafting-upper-navua-river/imgp8896.jpg'
-slug = 'fiji-rafting-upper-navua-river'
-tags = ['Fiji']
-title = 'Fiji - Rafting Upper Navua River'
-type = 'post'
+title = "Fiji - Rafting Upper Navua River"
+date = "2013-03-03"
+slug = "fiji-rafting-upper-navua-river"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Fiji",]
+
+[extra]
+image = "posts/2013/fiji-rafting-upper-navua-river/imgp8896.jpg"
 
 +++
 

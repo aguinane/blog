@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-06'
-thumbnail = 'posts/2010/berner-munster/p1020108-7504553.jpg'
-slug = 'berner-munster'
-tags = ['Switzerland']
-title = 'Berner Münster'
-type = 'post'
+title = "Berner Münster"
+date = "2010-07-06"
+slug = "berner-munster"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/berner-munster/p1020108-7504553.jpg"
 
 +++
 

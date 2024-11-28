@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2019-03-14'
-thumbnail = 'posts/2019/cape-hillsborough/sunrise0.jpg'
-series = ['Cairns Roadtrip']
-slug = 'cape-hillsborough'
-tags = ['Queensland']
-title = 'Cape Hillborough'
-type = 'post'
+title = "Cape Hillborough"
+date = "2019-03-14"
+slug = "cape-hillsborough"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Cairns Roadtrip",]
+
+[extra]
+image = "posts/2019/cape-hillsborough/sunrise0.jpg"
 
 +++
 

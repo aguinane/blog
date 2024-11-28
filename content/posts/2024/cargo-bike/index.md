@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2024-07-20T14:00:00+10:00'
-thumbnail = 'posts/2024/cargo-bike/bike.jpg'
-slug = 'cargo-bike'
-title = 'Cargo Bike'
-type = 'post'
-+++
+title = "Cargo Bike"
+date = "2024-07-20T14:00:00+10:00"
+slug = "cargo-bike"
+type = "post"
 
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2024/cargo-bike/bike.jpg"
+
++++
 
 We have now had our Cargo Ebike for a year, and so thought I'd write a review in the vein of the posts a colleageue Simon did [[1]][se1] [[2]][se2] [[3]][se3].
 

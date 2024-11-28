@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-11'
-thumbnail = 'posts/2010/radio-clocks/swiss_clock.png'
-slug = 'radio-clocks'
-tags = ['Switzerland']
-title = 'Radio Clocks'
-type = 'post'
+title = "Radio Clocks"
+date = "2010-07-11"
+slug = "radio-clocks"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/radio-clocks/swiss_clock.png"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-08-29'
-thumbnail = 'posts/2010/three-countries-in-one-afternoon/flower.jpg'
-slug = 'three-countries-in-one-afternoon'
-tags = ['Switzerland']
-title = 'Three Countries Corner'
-type = 'post'
+title = "Three Countries Corner"
+date = "2010-08-29"
+slug = "three-countries-in-one-afternoon"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/three-countries-in-one-afternoon/flower.jpg"
 
 +++
 

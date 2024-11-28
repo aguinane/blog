@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-07-16'
-thumbnail = 'posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg'
-slug = 'uluwatu-and-tanah-lot'
-tags = ['Indonesia']
-title = 'Uluwatu and Tanah Lot'
-type = 'post'
+title = "Uluwatu and Tanah Lot"
+date = "2016-07-16"
+slug = "uluwatu-and-tanah-lot"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/uluwatu-and-tanah-lot/img_20160614_101356.jpg"
 
 +++
 

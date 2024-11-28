@@ -1,13 +1,16 @@
 +++
-categories = ['Misc']
-date = '2020-03-05'
-thumbnail = 'posts/2020/aphantasia/aphantasia.jpg'
-slug = 'aphantasia'
-title = 'Aphantasia'
-type = 'post'
+title = "Aphantasia"
+date = "2020-03-05"
+slug = "aphantasia"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2020/aphantasia/aphantasia.jpg"
 
 +++
-
 
 [!["apples"](apples.jpg)](https://twitter.com/premium__heart/status/1225610677177520130)
 

@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2021-02-03'
-thumbnail = 'posts/2021/house-foundations/slab-3.jpg'
-slug = 'house-foundations'
-tags = ['House Build']
-series = ['House Build']
-title = 'House Foundations'
-type = 'post'
+title = "House Foundations"
+date = "2021-02-03"
+slug = "house-foundations"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "House Build",]
+series = [ "House Build",]
+
+[extra]
+image = "posts/2021/house-foundations/slab-3.jpg"
 
 +++
 
@@ -30,4 +34,3 @@ So should be much easier to start planning our landscaping and stuff now that we
 ![](slab-2.jpg)
 ![](slab-3.jpg)
 ![](slab-4.jpg)
-

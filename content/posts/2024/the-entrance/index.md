@@ -1,11 +1,17 @@
 +++
-categories = ['Travel']
-date = '2024-11-11'
-thumbnail = 'posts/2024/the-entrance/20241026_080441.jpg'
-slug = 'the-entrance'
-tags = ['NSW']
-title = 'The Entrance'
-type = 'post'
+title = "The Entrance"
+date = "2024-11-11"
+slug = "the-entrance"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+series = [ "Blue Mountains Roadtrip",]
+
+[extra]
+image = "posts/2024/the-entrance/20241026_080441.jpg"
+
 +++
 
 From Katoomba we headed off to the Central Coast. To split up the drive a bit our first stop was Hornsby, where we went to the [Lisgar Gardens](https://maps.app.goo.gl/NnhNZ5VvSzCEk5a59) and a [Playground](https://maps.app.goo.gl/Gngjgv8ACfK8kYkWA).

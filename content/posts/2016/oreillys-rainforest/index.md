@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-02-21'
-thumbnail = 'posts/2016/oreillys-rainforest/picnic_rock.jpg'
-slug = 'oreillys-rainforest'
-tags = ['Queensland']
 title = "O'Reilly's Rainforest"
-type = 'post'
+date = "2016-02-21"
+slug = "oreillys-rainforest"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2016/oreillys-rainforest/picnic_rock.jpg"
 
 +++
 

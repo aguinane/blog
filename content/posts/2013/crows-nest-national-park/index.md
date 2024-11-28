@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2013-06-10'
-thumbnail = 'posts/2013/crows-nest-national-park/pano_20130609_152124.jpg'
-slug = 'crows-nest-national-park'
-tags = ['Queensland']
-title = 'Crows Nest National Park'
-type = 'post'
+title = "Crows Nest National Park"
+date = "2013-06-10"
+slug = "crows-nest-national-park"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2013/crows-nest-national-park/pano_20130609_152124.jpg"
 
 +++
 

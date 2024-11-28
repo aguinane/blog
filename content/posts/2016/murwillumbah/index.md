@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-01-30'
-thumbnail = 'posts/2016/murwillumbah/tweed-river.jpg'
-slug = 'murwillumbah'
-tags = ['Queensland', 'NSW']
-title = 'Murwillumbah'
-type = 'post'
+title = "Murwillumbah"
+date = "2016-01-30"
+slug = "murwillumbah"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland", "NSW",]
+
+[extra]
+image = "posts/2016/murwillumbah/tweed-river.jpg"
 
 +++
 

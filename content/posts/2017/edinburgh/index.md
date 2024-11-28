@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-29'
-thumbnail = 'posts/2017/edinburgh/cemetery.jpg'
-slug = 'edinburgh'
-tags = ['Europe', 'Scotland']
-title = 'Edinburgh'
-type = 'post'
+title = "Edinburgh"
+date = "2017-04-29"
+slug = "edinburgh"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Scotland",]
+
+[extra]
+image = "posts/2017/edinburgh/cemetery.jpg"
 
 +++
 

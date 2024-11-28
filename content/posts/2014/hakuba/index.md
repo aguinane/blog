@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-03-08'
-thumbnail = 'posts/2014/hakuba/hakuba.jpg'
-slug = 'hakuba'
-tags = ['Japan']
-title = 'Hakuba'
-type = 'post'
+title = "Hakuba"
+date = "2014-03-08"
+slug = "hakuba"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Japan",]
+
+[extra]
+image = "posts/2014/hakuba/hakuba.jpg"
 
 +++
 

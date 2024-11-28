@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-02-23'
-thumbnail = 'posts/2015/boonah-and-surrounds/2015-02-01-16-07-05-lake.jpg'
-slug = 'boonah-and-surrounds'
-tags = ['Queensland']
-title = 'Boonah and Surrounds'
-type = 'post'
+title = "Boonah and Surrounds"
+date = "2015-02-23"
+slug = "boonah-and-surrounds"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2015/boonah-and-surrounds/2015-02-01-16-07-05-lake.jpg"
 
 +++
 

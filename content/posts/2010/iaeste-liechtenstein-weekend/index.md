@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-08-16'
-thumbnail = 'posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg'
-slug = 'iaeste-liechtenstein-weekend'
-tags = ['IAESTE', 'Liechtenstein']
-title = 'IAESTE Liechtenstein Weekend'
-type = 'post'
+title = "IAESTE Liechtenstein Weekend"
+date = "2010-08-16"
+slug = "iaeste-liechtenstein-weekend"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "IAESTE", "Liechtenstein",]
+
+[extra]
+image = "posts/2010/iaeste-liechtenstein-weekend/royal_band.jpg"
 
 +++
 

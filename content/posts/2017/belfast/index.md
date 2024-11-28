@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-22'
-thumbnail = 'posts/2017/belfast/alley.jpg'
-slug = 'belfast'
-tags = ['Europe', 'Northern Ireland']
-title = 'Belfast'
-type = 'post'
+title = "Belfast"
+date = "2017-04-22"
+slug = "belfast"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Northern Ireland",]
+
+[extra]
+image = "posts/2017/belfast/alley.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-31'
-thumbnail = 'posts/2017/stockholm/stockholm.jpg'
-slug = 'stockholm'
-tags = ['Europe', 'Sweden']
-title = 'Stockholm'
-type = 'post'
+title = "Stockholm"
+date = "2017-03-31"
+slug = "stockholm"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Sweden",]
+
+[extra]
+image = "posts/2017/stockholm/stockholm.jpg"
 
 +++
 

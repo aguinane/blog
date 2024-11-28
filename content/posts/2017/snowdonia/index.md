@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-05-05'
-thumbnail = 'posts/2017/snowdonia/walk7.jpg'
-slug = 'snowdonia'
-tags = ['Europe', 'Wales']
-title = 'Snowdonia'
-type = 'post'
+title = "Snowdonia"
+date = "2017-05-05"
+slug = "snowdonia"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Wales",]
+
+[extra]
+image = "posts/2017/snowdonia/walk7.jpg"
 
 +++
 

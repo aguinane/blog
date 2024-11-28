@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2019-07-11'
-thumbnail = 'posts/2019/security-cameras/mia-box.jpg'
-lastmod = '2020-04-14'
-slug = 'security-cameras'
-title = 'Security Cameras'
-type = 'post'
+title = "Security Cameras"
+date = "2019-07-11"
+slug = "security-cameras"
+lastmod = "2020-04-14"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2019/security-cameras/mia-box.jpg"
 
 +++
 

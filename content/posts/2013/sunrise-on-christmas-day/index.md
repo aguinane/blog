@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2013-01-13'
-thumbnail = 'posts/2013/sunrise-on-christmas-day/p1110129-resized.jpg'
-slug = 'sunrise-on-christmas-day'
-tags = ['Rockhampton']
-title = 'Sunrise on Christmas Day'
-type = 'post'
+title = "Sunrise on Christmas Day"
+date = "2013-01-13"
+slug = "sunrise-on-christmas-day"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Rockhampton",]
+
+[extra]
+image = "posts/2013/sunrise-on-christmas-day/p1110129-resized.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2012-09-13'
-thumbnail = 'posts/2012/byron-bay/p1100787.jpg'
-slug = 'byron-bay'
-tags = ['NSW']
-title = 'Byron Bay'
-type = 'post'
+title = "Byron Bay"
+date = "2012-09-13"
+slug = "byron-bay"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+
+[extra]
+image = "posts/2012/byron-bay/p1100787.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-03'
-thumbnail = 'posts/2010/baden/clocktower.jpg'
-slug = 'baden'
-tags = ['Switzerland']
-title = 'Baden'
-type = 'post'
+title = "Baden"
+date = "2010-07-03"
+slug = "baden"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/baden/clocktower.jpg"
 
 +++
 

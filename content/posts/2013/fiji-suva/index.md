@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2013-03-03'
-thumbnail = 'posts/2013/fiji-suva/bus.jpg'
-slug = 'fiji-suva'
-tags = ['Fiji']
-title = 'Fiji - Suva'
-type = 'post'
+title = "Fiji - Suva"
+date = "2013-03-03"
+slug = "fiji-suva"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Fiji",]
+
+[extra]
+image = "posts/2013/fiji-suva/bus.jpg"
 
 +++
 

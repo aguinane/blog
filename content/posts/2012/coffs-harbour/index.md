@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2012-09-13'
-thumbnail = 'posts/2012/coffs-harbour/p1100861.jpg'
-slug = 'coffs-harbour'
-tags = ['NSW']
-title = 'Coffs Harbour'
-type = 'post'
+title = "Coffs Harbour"
+date = "2012-09-13"
+slug = "coffs-harbour"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+
+[extra]
+image = "posts/2012/coffs-harbour/p1100861.jpg"
 
 +++
 

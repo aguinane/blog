@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-13'
-thumbnail = 'posts/2010/euro-trip-schloss-neuschwanstein/castle1.jpg'
-slug = 'euro-trip-schloss-neuschwanstein'
-tags = ['Europe', 'Germany']
-title = 'Schloss Neuschwanstein'
-type = 'post'
+title = "Schloss Neuschwanstein"
+date = "2010-11-13"
+slug = "euro-trip-schloss-neuschwanstein"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Germany",]
+
+[extra]
+image = "posts/2010/euro-trip-schloss-neuschwanstein/castle1.jpg"
 
 +++
 

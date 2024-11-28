@@ -1,12 +1,16 @@
 +++
-categories = ['Travel']
-date = '2019-03-13'
-thumbnail = 'posts/2019/eungella/fh-wheel-of-fire1.jpg'
-series = ['Cairns Roadtrip']
-slug = 'eungella'
-tags = ['Queensland']
-title = 'Eungella and Finch Hatton'
-type = 'post'
+title = "Eungella and Finch Hatton"
+date = "2019-03-13"
+slug = "eungella"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+series = [ "Cairns Roadtrip",]
+
+[extra]
+image = "posts/2019/eungella/fh-wheel-of-fire1.jpg"
 
 +++
 

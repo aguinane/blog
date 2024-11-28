@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-27'
-thumbnail = 'posts/2010/weihnachten-in-der-schweiz/p1060216.jpg'
-slug = 'weihnachten-in-der-schweiz'
-tags = ['Switzerland']
-title = 'Weihnachten in der Schweiz'
-type = 'post'
+title = "Weihnachten in der Schweiz"
+date = "2010-12-27"
+slug = "weihnachten-in-der-schweiz"
+type = "post"
+
+[taxonomies]
+tags = [ "Switzerland",]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2010/weihnachten-in-der-schweiz/p1060216.jpg"
 
 +++
 

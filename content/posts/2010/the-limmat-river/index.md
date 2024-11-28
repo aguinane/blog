@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-02'
-thumbnail = 'posts/2010/the-limmat-river/p1010788-754453.jpg'
-slug = 'the-limmat-river'
-tags = ['Switzerland']
-title = 'The Limmat River'
-type = 'post'
+title = "The Limmat River"
+date = "2010-07-02"
+slug = "the-limmat-river"
+type = "post"
+
+[taxonomies]
+tags = [ "Switzerland",]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2010/the-limmat-river/p1010788-754453.jpg"
 
 +++
 

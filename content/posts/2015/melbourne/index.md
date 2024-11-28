@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-03-13'
-thumbnail = 'posts/2015/melbourne/pano_20150306_214726.jpg'
-slug = 'melbourne'
-tags = ['Victoria']
-title = 'Melbourne'
-type = 'post'
+title = "Melbourne"
+date = "2015-03-13"
+slug = "melbourne"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Victoria",]
+
+[extra]
+image = "posts/2015/melbourne/pano_20150306_214726.jpg"
 
 +++
 

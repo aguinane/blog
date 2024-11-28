@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2018-09-29'
-thumbnail = 'posts/2018/tcof2018/tcof1.jpg'
-slug = 'tcof2018'
-tags = ['TCOF', 'Toowoomba']
-title = 'TCOF 2018'
-type = 'post'
+title = "TCOF 2018"
+date = "2018-09-29"
+slug = "tcof2018"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2018/tcof2018/tcof1.jpg"
 
 +++
 

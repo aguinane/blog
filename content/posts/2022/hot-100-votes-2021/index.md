@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2022-01-15'
-thumbnail = 'posts/2022/hot-100-votes-2021/hottest-100-2021.png'
-slug = 'hot-100-votes-2021'
-tags = ['Hottest 100']
-title = 'Hottest 100 Votes for 2021'
-type = 'post'
+title = "Hottest 100 Votes for 2021"
+date = "2022-01-15"
+slug = "hot-100-votes-2021"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Hottest 100",]
+
+[extra]
+image = "posts/2022/hot-100-votes-2021/hottest-100-2021.png"
 
 +++
 
@@ -21,4 +25,3 @@ type = 'post'
 * Middle Kids - Stacking Chairs 
 * The Rubens - Masterpiece 
 * Methyl Ethel - Neon Cheap
-

@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2014-10-15'
-thumbnail = 'posts/2014/occulus-thrift/img_20141015_185500.jpg'
-slug = 'occulus-thrift'
-title = 'Occulus Thrift'
-type = 'post'
+title = "Occulus Thrift"
+date = "2014-10-15"
+slug = "occulus-thrift"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2014/occulus-thrift/img_20141015_185500.jpg"
 
 +++
 

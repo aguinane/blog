@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-01'
-thumbnail = 'posts/2010/buildings-and-stuff/P1010761.jpg'
-slug = 'buildings-and-stuff'
-tags = ['Switzerland']
-title = 'Flower Obsessed'
-type = 'post'
+title = "Flower Obsessed"
+date = "2010-07-01"
+slug = "buildings-and-stuff"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/buildings-and-stuff/P1010761.jpg"
 
 +++
 

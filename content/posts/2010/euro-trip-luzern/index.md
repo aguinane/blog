@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-11-14'
-thumbnail = 'posts/2010/euro-trip-luzern/p1050200.jpg'
-slug = 'euro-trip-luzern'
-tags = ['Europe', 'Switzerland']
-title = 'Luzern'
-type = 'post'
+title = "Luzern"
+date = "2010-11-14"
+slug = "euro-trip-luzern"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Switzerland",]
+
+[extra]
+image = "posts/2010/euro-trip-luzern/p1050200.jpg"
 
 +++
 

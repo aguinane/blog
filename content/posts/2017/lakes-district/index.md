@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-05-03'
-thumbnail = 'posts/2017/lakes-district/lake.jpg'
-slug = 'lakes-district'
-tags = ['Europe', 'England']
-title = 'Lakes District'
-type = 'post'
+title = "Lakes District"
+date = "2017-05-03"
+slug = "lakes-district"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "England",]
+
+[extra]
+image = "posts/2017/lakes-district/lake.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2014-03-14'
-thumbnail = 'posts/2014/osaka/osake-castle-moat.jpg'
-slug = 'osaka'
-tags = ['Japan']
-title = 'Osaka'
-type = 'post'
+title = "Osaka"
+date = "2014-03-14"
+slug = "osaka"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Japan",]
+
+[extra]
+image = "posts/2014/osaka/osake-castle-moat.jpg"
 
 +++
 

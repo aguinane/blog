@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-07-28'
-thumbnail = 'posts/2016/mt-batur/img_20160616_092340.jpg'
-slug = 'mt-batur'
-tags = ['Indonesia']
-title = 'Mt Batur'
-type = 'post'
+title = "Mt Batur"
+date = "2016-07-28"
+slug = "mt-batur"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/mt-batur/img_20160616_092340.jpg"
 
 +++
 

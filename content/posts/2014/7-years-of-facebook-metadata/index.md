@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2014-08-30'
-thumbnail = 'posts/2014/7-years-of-facebook-metadata/friends.png'
-slug = '7-years-of-facebook-metadata'
-title = '7 Years Of Facebook Metadata'
-type = 'post'
+title = "7 Years Of Facebook Metadata"
+date = "2014-08-30"
+slug = "7-years-of-facebook-metadata"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2014/7-years-of-facebook-metadata/friends.png"
 
 +++
 

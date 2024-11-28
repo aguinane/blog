@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-25'
-thumbnail = 'posts/2017/leaving-london/lake.jpg'
-slug = 'leaving-london'
-tags = ['Europe', 'England']
-title = 'Leaving London'
-type = 'post'
+title = "Leaving London"
+date = "2017-03-25"
+slug = "leaving-london"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "England",]
+
+[extra]
+image = "posts/2017/leaving-london/lake.jpg"
 
 +++
 

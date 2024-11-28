@@ -1,68 +1,40 @@
-baseURL = "https://alex.guinman.id.au/"
+# The URL the site will be built for
+base_url = "https://alex.guinman.id.au"
 title = "Alex Guinman"
-subtitle = "Personal blog of Alex Guinman"
-languageCode = "en-gb"
-theme = "mainroad"
-timeout = 60000
-ignoreLogs = ['warning-goldmark-raw-html']
+description = "Personal blog"
 
-[pagination]
-  pagerSize = 10
+# The default author for pages
+author = "Alex Guinman"
 
-[Author] # Used in authorbox
-  name = "Alex Guinman"
-  avatar = "https://en.gravatar.com/userimage/18263558/00c0940b182d75a62218fe91404f6bc0.jpg?size=400"
-  
-[Params]
-  description = "Personal blog of Alex Guinman"
-  opengraph = true # Enable OpenGraph if true
-  schema = true # Enable Schema
-  twitter_cards = true # Enable Twitter Cards if true  
-  toc = true # Enable Table of Contents
-  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
-  
+# The default language; used in feeds.
+default_language = "en"
 
-[Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-  categories_counter = false # Enable counter for each category in "Categories" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
 
-[Params.sidebar]
-  home = "right"
-  list = "right"
-  single = "right"
-  widgets = ["search", "recent", "taglist"]
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
 
-[Params.widgets.social]
-  # Enable parts of social widget
-  github = "aguinane"
+# RSS Feed
+generate_feeds = true
+feed_filenames = ["atom.xml", 'rss.xml']
+feed_limit = 40
 
-[permalinks]
-  posts = "posts/:year/:slug/"
+taxonomies = [
+    { name = "categories", feed = true },
+    { name = "tags", feed = true },
+    { name = "series", feed = true },
+]
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[markdown]
+highlight_code = true
+lazy_async_image = true
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  
-
-[[menu.main]]
-    name = "Travel"
-    identifier = "travel"
-    url = "/categories/travel/"
-
-[[menu.main]]
-    name = "Misc"
-    identifier = "misc"
-    url = "/categories/misc/"
-    
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/pages/about/"      
-  
+[extra]
+# Put all your custom variables here
+date_format = "%Y-%m-%d"
+email = "jane@doe.com"
+name = "Alex Guinman"
+images_default_size = 1200
+images_sizes = [100, 200, 400, 800, 1200, 1600, 2400, 3200]
+images_sizes_attr = "auto, (min-width: 800px) 800px, 100vw"

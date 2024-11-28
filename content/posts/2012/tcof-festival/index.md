@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2012-09-29'
-thumbnail = 'posts/2012/tcof-festival/grounds.jpg'
-slug = 'tcof-festival'
-tags = ['TCOF', 'Toowoomba']
-title = 'TCOF Flower Food and Wine Festival'
-type = 'post'
+title = "TCOF Flower Food and Wine Festival"
+date = "2012-09-29"
+slug = "tcof-festival"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "TCOF", "Toowoomba",]
+
+[extra]
+image = "posts/2012/tcof-festival/grounds.jpg"
 
 +++
 

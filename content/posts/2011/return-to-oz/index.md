@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-02-20'
-thumbnail = 'posts/2011/return-to-oz/p1060411.jpg'
-slug = 'return-to-oz'
-tags = ['Switzerland']
-title = 'Return to Oz'
-type = 'post'
+title = "Return to Oz"
+date = "2011-02-20"
+slug = "return-to-oz"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2011/return-to-oz/p1060411.jpg"
 
 +++
 

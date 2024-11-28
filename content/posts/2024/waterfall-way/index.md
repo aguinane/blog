@@ -1,13 +1,18 @@
 +++
-categories = ['Travel']
-date = '2024-11-14'
-thumbnail = 'posts/2024/waterfall-way/20241031_090616-1.jpg'
-slug = 'waterfall-way'
-tags = ['NSW']
-title = 'Waterfall Way'
-type = 'post'
-+++
+title = "Waterfall Way"
+date = "2024-11-14"
+slug = "waterfall-way"
+type = "post"
 
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "NSW",]
+series = [ "Blue Mountains Roadtrip",]
+
+[extra]
+image = "posts/2024/waterfall-way/20241031_090616-1.jpg"
+
++++
 
 From South West Rocks we started heading inland, to Bellingen and the Waterfall Way Drive on the way to Armidale. In Bellingen we stopped at the Old Butter Factory Cafe which was good for the kids, and the drive itself was nice with everything being super green. 
 

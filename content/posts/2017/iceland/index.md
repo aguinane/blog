@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-03-29'
-thumbnail = 'posts/2017/iceland/bluelagoon1.jpg'
-slug = 'iceland'
-tags = ['Europe', 'Iceland']
-title = 'Final day in Iceland'
-type = 'post'
+title = "Final day in Iceland"
+date = "2017-03-29"
+slug = "iceland"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Iceland",]
+
+[extra]
+image = "posts/2017/iceland/bluelagoon1.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2018-04-22 00:00:00+10:00'
-thumbnail = 'posts/2018/mount-glorious/walk1.jpg'
-slug = 'mount-glorious'
-tags = ['Queensland']
-title = 'Mt Glorious'
-type = 'post'
+title = "Mt Glorious"
+date = "2018-04-22 00:00:00+10:00"
+slug = "mount-glorious"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2018/mount-glorious/walk1.jpg"
 
 +++
 

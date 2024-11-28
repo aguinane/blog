@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-06'
-thumbnail = 'posts/2010/naturhistorisches-museum/P1020029.jpg'
-slug = 'naturhistorisches-museum'
-tags = ['Switzerland']
-title = 'Naturhistorisches Museum der Burgergemeinde Bern'
-type = 'post'
+title = "Naturhistorisches Museum der Burgergemeinde Bern"
+date = "2010-07-06"
+slug = "naturhistorisches-museum"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/naturhistorisches-museum/P1020029.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-09-16'
-thumbnail = 'posts/2010/australian-outback-bar/p1040450.jpg'
-slug = 'australian-outback-bar'
-tags = ['Switzerland']
-title = 'Australian Outback Bar'
-type = 'post'
+title = "Australian Outback Bar"
+date = "2010-09-16"
+slug = "australian-outback-bar"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/australian-outback-bar/p1040450.jpg"
 
 +++
 

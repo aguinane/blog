@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-07-23'
-thumbnail = 'posts/2011/ho-chi-minh-city-saigon/p1070481.jpg'
-slug = 'ho-chi-minh-city-saigon'
-tags = ['Vietnam']
-title = 'Ho Chi Minh City (Saigon)'
-type = 'post'
+title = "Ho Chi Minh City (Saigon)"
+date = "2011-07-23"
+slug = "ho-chi-minh-city-saigon"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Vietnam",]
+
+[extra]
+image = "posts/2011/ho-chi-minh-city-saigon/p1070481.jpg"
 
 +++
 

@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2021-01-10'
-thumbnail = 'posts/2021/hot-100-votes-2020/hottest-100-2020.png'
-slug = 'hot-100-votes-2020'
-tags = ['Hottest 100']
-title = 'Hottest 100 Votes for 2020'
-type = 'post'
+title = "Hottest 100 Votes for 2020"
+date = "2021-01-10"
+slug = "hot-100-votes-2020"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Hottest 100",]
+
+[extra]
+image = "posts/2021/hot-100-votes-2020/hottest-100-2020.png"
 
 +++
 
@@ -21,4 +25,3 @@ type = 'post'
 * The Jungle Giants — Sending Me Ur Loving
 * Julia Jacklin — to Perth, before the border closes
 * San Cisco — Reasons
-

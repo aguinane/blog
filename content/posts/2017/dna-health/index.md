@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2017-09-20'
-thumbnail = 'posts/2017/dna-health/drugs.png'
-slug = 'dna-health'
-title = 'DNA Health Care'
-type = 'post'
+title = "DNA Health Care"
+date = "2017-09-20"
+slug = "dna-health"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2017/dna-health/drugs.png"
 
 +++
 

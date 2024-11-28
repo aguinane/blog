@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2016-07-25'
-thumbnail = 'posts/2016/ubud/img_20160615_135433.jpg'
-slug = 'ubud'
-tags = ['Indonesia']
-title = 'Ubud'
-type = 'post'
+title = "Ubud"
+date = "2016-07-25"
+slug = "ubud"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Indonesia",]
+
+[extra]
+image = "posts/2016/ubud/img_20160615_135433.jpg"
 
 +++
 

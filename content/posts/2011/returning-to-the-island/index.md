@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2011-02-21'
-thumbnail = 'posts/2011/returning-to-the-island/curtisferry.jpg'
-slug = 'returning-to-the-island'
-tags = ['Queensland']
-title = 'Returning to the Island'
-type = 'post'
+title = "Returning to the Island"
+date = "2011-02-21"
+slug = "returning-to-the-island"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2011/returning-to-the-island/curtisferry.jpg"
 
 +++
 

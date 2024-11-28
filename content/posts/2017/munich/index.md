@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-17'
-thumbnail = 'posts/2017/munich/Schweinshaxe.jpg'
-slug = 'munich'
-tags = ['Europe', 'Germany']
-title = 'München'
-type = 'post'
+title = "München"
+date = "2017-04-17"
+slug = "munich"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Germany",]
+
+[extra]
+image = "posts/2017/munich/Schweinshaxe.jpg"
 
 +++
 

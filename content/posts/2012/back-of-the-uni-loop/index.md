@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2012-11-17'
-thumbnail = 'posts/2012/back-of-the-uni-loop/p1110101-resized.jpg'
-slug = 'back-of-the-uni-loop'
-title = 'Back of the Uni Loop'
-type = 'post'
+title = "Back of the Uni Loop"
+date = "2012-11-17"
+slug = "back-of-the-uni-loop"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2012/back-of-the-uni-loop/p1110101-resized.jpg"
 
 +++
 

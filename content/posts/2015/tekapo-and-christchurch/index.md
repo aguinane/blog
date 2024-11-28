@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2015-09-19'
-thumbnail = 'posts/2015/tekapo-and-christchurch/feature.jpg'
-slug = 'tekapo-and-christchurch'
-tags = ['New Zealand']
-title = 'Tekapo and Christchurch'
-type = 'post'
+title = "Tekapo and Christchurch"
+date = "2015-09-19"
+slug = "tekapo-and-christchurch"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "New Zealand",]
+
+[extra]
+image = "posts/2015/tekapo-and-christchurch/feature.jpg"
 
 +++
 

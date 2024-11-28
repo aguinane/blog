@@ -1,10 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-07-01'
-thumbnail = 'posts/2010/the-flight/airport-resized.jpg'
-slug = 'the-flight'
-title = 'The Flight'
-type = 'post'
+title = "The Flight"
+date = "2010-07-01"
+slug = "the-flight"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+
+[extra]
+image = "posts/2010/the-flight/airport-resized.jpg"
+
 +++
 
 ![Bangkok airport](airport-resized.jpg)

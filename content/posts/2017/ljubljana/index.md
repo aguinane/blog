@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2017-04-11'
-thumbnail = 'posts/2017/ljubljana/castle_night.jpg'
-slug = 'ljubljana'
-tags = ['Europe', 'Slovenia']
-title = 'Ljubljana'
-type = 'post'
+title = "Ljubljana"
+date = "2017-04-11"
+slug = "ljubljana"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Europe", "Slovenia",]
+
+[extra]
+image = "posts/2017/ljubljana/castle_night.jpg"
 
 +++
 

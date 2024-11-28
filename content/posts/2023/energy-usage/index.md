@@ -1,10 +1,15 @@
 +++
-categories = ['Misc']
-date = '2023-07-01'
-thumbnail = 'posts/2023/energy-usage/heatmap.png'
-slug = 'energy-usage'
-title = 'Energy Usage'
-type = 'post'
+title = "Energy Usage"
+date = "2023-07-01"
+slug = "energy-usage"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2023/energy-usage/heatmap.png"
+
 +++
 
 I did [a post a few years back](/posts/2019/energy-data/) looking at our energy usage at our old house. We've been in the new place for 2 years now and with solar and electric hot water and cooking the charts are more interesting now.

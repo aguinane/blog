@@ -1,11 +1,15 @@
 +++
-categories = ['Misc']
-date = '2011-02-21'
-thumbnail = 'posts/2011/rockhampton-floods/p1060534.jpg'
-slug = 'rockhampton-floods'
-tags = ['Rockhampton']
-title = 'Rockhampton Floods'
-type = 'post'
+title = "Rockhampton Floods"
+date = "2011-02-21"
+slug = "rockhampton-floods"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Rockhampton",]
+
+[extra]
+image = "posts/2011/rockhampton-floods/p1060534.jpg"
 
 +++
 

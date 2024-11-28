@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2018-06-10'
-thumbnail = 'posts/2018/rocky-again/mtarcher1.jpg'
-slug = 'rocky-again'
-tags = ['Queensland', 'Rockhampton']
-title = 'Rocky (again)'
-type = 'post'
+title = "Rocky (again)"
+date = "2018-06-10"
+slug = "rocky-again"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland", "Rockhampton",]
+
+[extra]
+image = "posts/2018/rocky-again/mtarcher1.jpg"
 
 +++
 

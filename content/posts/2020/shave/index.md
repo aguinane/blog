@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2020-03-15'
-thumbnail = 'posts/2020/shave/after.jpg'
-slug = 'shave'
 title = "World's Greatest Shave"
-type = 'post'
+date = "2020-03-15"
+slug = "shave"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
+image = "posts/2020/shave/after.jpg"
 
 +++
 

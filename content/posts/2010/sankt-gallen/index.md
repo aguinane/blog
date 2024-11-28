@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2010-12-28'
-thumbnail = 'posts/2010/sankt-gallen/p1060279.jpg'
-slug = 'sankt-gallen'
-tags = ['Switzerland']
-title = 'Sankt Gallen'
-type = 'post'
+title = "Sankt Gallen"
+date = "2010-12-28"
+slug = "sankt-gallen"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Switzerland",]
+
+[extra]
+image = "posts/2010/sankt-gallen/p1060279.jpg"
 
 +++
 

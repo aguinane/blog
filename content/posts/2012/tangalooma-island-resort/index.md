@@ -1,11 +1,15 @@
 +++
-categories = ['Travel']
-date = '2012-06-19'
-thumbnail = 'posts/2012/tangalooma-island-resort/feeding.jpg'
-slug = 'tangalooma-island-resort'
-tags = ['Queensland']
-title = 'Tangalooma Island Resort'
-type = 'post'
+title = "Tangalooma Island Resort"
+date = "2012-06-19"
+slug = "tangalooma-island-resort"
+type = "post"
+
+[taxonomies]
+categories = [ "Travel",]
+tags = [ "Queensland",]
+
+[extra]
+image = "posts/2012/tangalooma-island-resort/feeding.jpg"
 
 +++
 

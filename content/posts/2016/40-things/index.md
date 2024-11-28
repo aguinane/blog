@@ -1,10 +1,14 @@
 +++
-categories = ['Misc']
-date = '2016-01-31'
-lastmod = '2019-02-23'
-slug = '40-things'
-title = '40 Things'
-type = 'post'
+title = "40 Things"
+date = "2016-01-31"
+slug = "40-things"
+lastmod = "2019-02-23"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+
+[extra]
 
 +++
 

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<ul class="blog-pages">
+  {%- for page in section.pages %}
+  <li>
+    {{ macros::page_summary(page=page) }}
+  </li>
+  {%- endfor -%}
+</ul>
+
+
+{% endblock content %}

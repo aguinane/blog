@@ -1,12 +1,16 @@
 +++
-categories = ['Misc']
-date = '2012-09-30'
-thumbnail = 'posts/2012/toowoomba-parks/p1100940.jpg'
-post_format = 'Gallery'
-slug = 'toowoomba-parks'
-tags = ['Toowoomba', 'TCOF']
-title = 'Toowoomba Parks'
-type = 'post'
+title = "Toowoomba Parks"
+date = "2012-09-30"
+slug = "toowoomba-parks"
+post_format = "Gallery"
+type = "post"
+
+[taxonomies]
+categories = [ "Misc",]
+tags = [ "Toowoomba", "TCOF",]
+
+[extra]
+image = "posts/2012/toowoomba-parks/p1100940.jpg"
 
 +++
 
