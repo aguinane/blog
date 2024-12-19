@@ -1,7 +1,6 @@
 +++
 title = 'Power Engineering'
 type = 'page'
-draft = true
 +++
 
 It can be hard to explain what I do for work without having a basic understanding of a bunch of power engineering concepts. 
@@ -130,53 +129,73 @@ The minimum demand occurs much more often then maximum demand, since solar is le
 
 [tapr]: https://www.powerlink.com.au/sites/default/files/2023-10/TAPR%202023%20Chapter%203.pdf
 
-## A changing grid
+## Energy Transition
 
-[AEMO is forecasting][aemoisp] a large increase in rooftop solar, batteries and EV charging in the next few decades. 
-An electric car charger basically doubles the capacity a normal house uses, so is pretty significant.
+The Australian Energy Market Operator (AEMO) forecasts in their [Integrated System Plan][aemoisp] a large increase in rooftop solar, batteries and EV charging in the next few decades. The amount of solar has been [doubling every 3 years][solarboom]. 
+[Electic Vechile (EV) sales][evsales] are increasing at a similar rate, and an EV fast charger basically doubles the capacity a normal house uses (32 A or 7.3 kW), so is pretty significant.
 
+[evsales]: https://electricvehiclecouncil.com.au/wp-content/uploads/2024/03/EVC-Australian-EV-Industry-Recap-2023.pdf
 [aemoisp]: https://aemo.com.au/-/media/files/major-publications/isp/2024/2024-integrated-system-plan-isp.pdf?la=en
+[solarboom]: https://www.abc.net.au/news/2024-12-18/survey-of-the-worlds-solar-shows-global-boom/104006096
 
-One solution to support this would be to upgrade the ratings by doubling the amount of transformers and substations (which would cost billions of dollars). 
-A significantly cheaper option is to instead just make sure that car charging soaks up all the solar power, and does not happen at the same time as air conditioning. Like with Covid, we want to 'flatten the curve'. Car charging does not turn on and off like air cons and fridges, but luckily we can choose what time we charge as we only care that the battery is full the next day not when it runs (like we do for air con). So ideally, not everyone needs to charge at the same time. 
+One solution to support this would be to upgrade the ratings of the grid to support this by doubling the amount of transformers and substations - but this would cost billions of dollars. A significantly cheaper option is to instead just make sure that car charging soaks up all the solar power, and does not happen at the same time as air conditioning. Like with the pandemic, we want to 'flatten the curve'. 
 
-Occasionally, power need to be switched off because there is not enough generation, like when [a power station suddenly goes offline](https://www.abc.net.au/news/2021-06-02/qld-cs-energy-releases-photo-of-damaged-callide-power-station/100186330). On the flip side, generation might need to be turned off if nobody is using any load to make use of it - [this video gives a good example](https://www.youtube.com/watch?v=8UmsfXWzvEA). In Australia, this is done by AEMO issuing something called a [Lack of Reserve Notice (LOR)][LOR] or Minimum System Load (MSL) Notice.
+## Device Control
+
+Occasionally, power need to be switched off because there is not enough generation, like when [a power station suddenly goes offline](https://www.abc.net.au/news/2021-06-02/qld-cs-energy-releases-photo-of-damaged-callide-power-station/100186330). On the flip side, generation might need to be turned off if nobody is using any load to make use of it - [this video gives a good example](https://www.youtube.com/watch?v=8UmsfXWzvEA). In Australia, this is done by AEMO issuing something called a [Lack of Reserve Notice (LOR)][LOR] or [Minimum System Load (MSL)][MSL] Notice.
 
 [LOR]: https://aemo.com.au/-/media/files/learn/fact-sheets/lor-fact-sheet.pdf?la=en
+[MSL]: https://aemo.com.au/-/media/files/learn/fact-sheets/2024/fact-sheetminimum-system-load.pdf?la=en
+
+The ability to switch circuits on and off on a schedule has been a think since the 50s using something called ripple control.
+If you put certain devices (like hot water or pool pumps) on an economy tariff, you get cheaper electricity rates in return for the network operator being able to turn them off for a few hours on days of peak usage.
+
+For hot water systems, nobody really notices if they are turned off for short periods as they are essentially a thermal battery and can store heat. 
+In fact, they can be used like a normal battery to soak up solar in the day and then you can use the hot water for showers at night.
+All you really care about is that the water is hot when you want to use it.
+
+For most other appliances you do care that you can use it when you want to as they don't act like a battery.
+It doesn't make sense to put air conditioning on an economy tariff as hot days is exactly when you want to use it.
+There was an improvement to ripple control in 2007 in the form of the AS4755 Demand Response standard. 
+It allowed other options other then just turning things off completely. 
+
+- DRM0: disconnect
+- DRM1: compressor off
+- DRM2: capped to operate at 50%
+- DRM3: capped to operate at 75%
+
+But most people [don't really like someone having control][peaksmart] even though it's better for everyone's air con to go to 50% then the power to the street to trip off completely at times of maximum demand. 
+A similar problem with solar occurs at times of minimum demand, which is referred to as [emergency backstop][backstop] and also not a very popular idea desite being needed to as an emergency mechanism to a system blackout.
+
+[peaksmart]: https://www.abc.net.au/news/2024-01-31/energex-ergon-peaksmart-air-con-cuts-during-hot-weather/103385474
+[backstop]: https://www.abc.net.au/news/2024-12-02/aemo-demands-emergency-backstop-to-switch-off-solar/104670332
+
+## Dynamic Pricing
+
+Why can't this all be solved by or time-of-use tariffs or dynamic prices instead? These definitely can help with the problem but fall short of solving it completely for a couple of reasons.
+
+We are on a time-of-use tariff, and try to do things like pre-cooling the house to avoid needing to run the air-con during the peak period. But if the temperature gets hot enough - we will run the air-con no matter what the price is.
+Another way that pricing falls short is that it's generally set a statewide level. There may be little pockets around the state that have a constraint and have an opposing requirement to the statewide one. An example might be that some sort of event is happening that results in a large amount of people visiting a small town (like Roma or Birdsville Races) and despite being a nice sunny day with cheap prices due to lots of solar, the local part of the grid does not have a capacity for everyone to fast charge their EVs simultaneously. 
 
 ## Hosting Capacity
 
-The distribution grid hosting capacity is defined as the amount of new generation or consumption that can be accommodated by the grid without adversely impacting the reliability or power quality for other customers or requiring grid upgrades or modifications. Most of those words might not make sense yet, but hopefully by the end of this post, they will. 
+The distribution grid hosting capacity is defined as the amount of new generation or consumption that can be accommodated by the grid without adversely impacting the reliability or power quality for other customers or requiring grid upgrades or modifications. 
 
 Anyone who connects to the electricity grid and receives a fixed connection is guaranteed their part of this available capacity forever in a first come, first served (whoever first calls dibs) system. Generally there is a basic connection offer that anyone can apply for that is free upfront (money comes out of power bills later) even if the network requires upgrades to support it. There is also a negotiated process for larger customers who want more then the basic offering where they might need to pay some of the upgrade cost upfront if upgrades are required to unlock more capacity. 
 
-The basic fixed offering in urban Queensland is currently 100 A (23 kVA) per phase for loads, and 22 A (5 kVA) per phase for generation (solar)[^ecp]. So if you want more power then this and there is no capacity available, you are required to pay for it (and the upgrades will usually be very expensive). The reason why the value for loads is higher then generation is due to "diversity" and will be covered in the next section.
+According to the [Ergon Connection Policy][ergoncp] the basic fixed offering in urban Queensland is currently 100 A (23 kVA) per phase for loads, and 22 A (5 kVA) per phase for generation (solar).
+So if you want more power then this and there is no capacity available, you are required to pay for some of the upgrade costs (which could be very expensive). The reason why the value for loads is higher then generation is due to loads being more diverse then solar as discussed earlier. There is an assumption that not everyone will use all their appliances at the same time, but they will all generate solar at the same time.
 
-[^ecp]: As per the [Ergon Connection Policy][ergoncp]
 [ergoncp]: https://www.ergon.com.au/__data/assets/pdf_file/0018/1009053/Connection-Policy-2020-2025.pdf
 
 In the case of solar, when there is no capacity left there might be an option to connect for free but not be allowed to export to the grid. This is so that people without solar aren't forced to pay for the upgrade costs in their bills for those that do, but does still mean they might miss out if they want to add solar later. If for example, there was a 100 kW transformer on a street, and everyone can automatically apply for a 5 kW solar system, the first 20 people on the street to install solar are allowed to export indefinitely, but everyone after that is not allowed to export as there is no spare capacity left without installing a new transformer (which is expensive). 
 
-The problem with a fixed hosting capacity number, is that is needs to be conservative and assume the worst-case conditions into the future. Whilst it might be the limit to what the grid can handle for a small number of hours each year (called minimum and maximum demand periods - covered in the next section) the rest of the year it may be possible for the grid to handle way more then that. 
-
-## Dynamic Pricing
-
-Another quick aside - why can't this all be solved by or time-of-use tariffs or dynamic prices? These definitely can help with the problem but fall short of solving it completely for a couple of reasons.
-
-We are on a time-of-use tariff, and try to do things like pre-cooling the house to avoid needing to run the air-con during the peak period. But if the temperature gets hot enough - we will run the air-con no matter what the price is.  However, at some point the ratings will be exceeded which would result in a total loss of power for everyone. It's much better if flexible loads are scaled back before this happens (like slow charging a EV, or air con still running but at reduced capacity) instead of a total blackout as at least you can still run the fans and lights. 
-
-Another way that pricing falls short is that it's generally set a statewide level. There may be little pockets around the state that have a constraint and have an opposing requirement to the statewide one. An example might be that some sort of event is happening (like Roma Races) and despite being a nice sunny day with cheap prices due to lots of solar, the grid does not have a capacity for everyone to fast charge their EVs simultaneously. 
-
+The problem with a fixed hosting capacity number, is that is needs to be conservative and assume the worst-case conditions into the future. It only really applies on minimum demand days, but the rest of the year it may be possible for the grid to handle way more then that. 
 
 ## Dynamic Operating Envelopes
 
-So finally, we are back to hosting capacities. We want to connect a lot more solar and electric vehicles over the next few decades so we need much more hosting capacity. But we want to do this cheaply and quickly, so rather then spend lots of money to increase the capacity of the grid we want to be smarter and use things at the right times. If we dynamically calculate the hosting capacity every 5 minutes instead of using a single worst-case figure for the entire year, we unlock heaps of extra capacity for free for ~95% of the time. 
+If we dynamically calculate the hosting capacity every 5 minutes instead of using a single worst-case figure for the entire year, we unlock heaps of extra capacity for free for ~95% of the time. In theory, calculating this dynamic hosting capacity is relatively easy, it's the real-time rating (factoring in weather conditions) minus the real-time power usage (what power are people using right now). In practice, it's usually not that easy - there isn't real time data for weather and power usage at every point in the network so a bunch of complex calculations and assumptions need to be made to try and work it out. 
 
-In theory, calculating this dynamic hosting capacity is relatively easy, it's the real-time rating (factoring in weather conditions) minus the real-time power usage (what power are people using right now). In practice, it's usually not that easy - there isn't real time data for weather and power usage at every point in the network so a bunch of complex calculations and assumptions need to be made to try and work it out. 
+Sending the grid limits is a big improvement over direct control over appliances as a customer. Instead of turning of having the network turn off a specific device - a Home Energy Management System (or HEMS) can make these decisions for you. On min demand days, if the grid wants you to stop exporting solar instead of it turning off and wasting generation, you could instead charge your EV or run the air con to pre-cool your house. On max demand days, if the grid wants you to stop importing energy you could power your air con from your battery instead. Or if you do need to turn something off you can make the choice about whether your air con or EV charging is more important at that moment. 
 
-But the major issue is how to get devices to obey this number. Having a number that changes every 5 mins is much more complicated then saying - hey, you're allowed to install 5 kW of solar. One simple way to do this is have an operator turn things on and off as needed, but generally people don't like giving away control to someone else to do this. Controlled load tariffs do exist for things like hot water, or rebates for things like [air-con][peaksmart], but are becoming less and less popular. It also doesn't really work for things like EVs, as maybe I want a cheap rate most of the year but just before a road trip I really want to charge the night before no matter how much it costs. 
-
-[peaksmart]:https://www.abc.net.au/news/2024-01-31/energex-ergon-peaksmart-air-con-cuts-during-hot-weather/103385474
-
-Dynamic Operating Envelopes (DOE) over the internet is one simple solution to this. Basically a Home Energy Management System (or HEMS) receives an Import and Export Limit (in kW) every 5 minutes for that site. Unlike device controls it's not telling specific devices what to do, just what the hosting capacity is at any point in time. Probably you will be allowed to export as much power you like at night time, but that does not mean that a solar system will (or even could) do this. Likewise, it might say there is heaps of capacity in the middle of the day but that does not mean you have to charge your car then (you might not be home), just that you can. It does mean that you might not be able to fast charge your car on a really hot day when everyone is blasting the air con, but hopefully the HEMS can usually move these flexible loads around such that most people don't even notice. And as a user you can make a choice as to whether it's more important to charge the car or run the air con, instead of having someone else make the decision for you. 
-
+Dynamic Operating Envelopes (DOE) over the internet is one solution to this. Basically the HEMS receives an Import and Export Limit (in kW) every 5 minutes for that site. It works a little bit like a variable speed limit sign on the motorway that might say it's 100 km/h normally but will drop down to 60 km/h if there has been an accident or congestion. 
